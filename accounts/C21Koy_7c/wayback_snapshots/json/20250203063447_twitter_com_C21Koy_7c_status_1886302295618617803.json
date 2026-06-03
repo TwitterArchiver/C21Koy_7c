@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1886274618916478976"
+      ],
+      "media_source_tweet_id": [
+        "1886274692857938147"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1886302295618617803",
+    "created_at": "2025-02-03T06:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T07:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886302295618617803"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 60,
+          "normalized_text": "thangyu",
+          "probability": 0.4553,
+          "start": 54,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 61,
+          "start": 53,
+          "tag": "thangyu"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1411487234298040320",
+          "start": 3,
+          "username": "PUBLlCTARGET"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YzvNSHMlId",
+          "end": 85,
+          "expanded_url": "https://x.com/PUBLlCTARGET/status/1886274692857938147/photo/1",
+          "media_key": "16_1886274618916478976",
+          "start": 62,
+          "url": "https://t.co/YzvNSHMlId"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886302295618617803",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 226
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886274692857938147",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PUBLlCTARGET: image that will kill you instantly #thangyu https://t.co/YzvNSHMlId"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "16_1886274618916478976",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gi1kxaFaIAAcfHx.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gi1kxaFaIAAcfHx.mp4"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1886274618916478976"
+          ],
+          "media_source_tweet_id": [
+            "1886274692857938147"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1886302295618617803",
+        "created_at": "2025-02-03T06:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T07:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886302295618617803"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 60,
+              "normalized_text": "thangyu",
+              "probability": 0.4553,
+              "start": 54,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 53,
+              "tag": "thangyu"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1411487234298040320",
+              "start": 3,
+              "username": "PUBLlCTARGET"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YzvNSHMlId",
+              "end": 85,
+              "expanded_url": "https://x.com/PUBLlCTARGET/status/1886274692857938147/photo/1",
+              "media_key": "16_1886274618916478976",
+              "start": 62,
+              "url": "https://t.co/YzvNSHMlId"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886302295618617803",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 226
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886274692857938147",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PUBLlCTARGET: image that will kill you instantly #thangyu https://t.co/YzvNSHMlId"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1886274618916478976"
+          ]
+        },
+        "author_id": "1411487234298040320",
+        "conversation_id": "1886274692857938147",
+        "created_at": "2025-02-03T04:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T05:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886274692857938147"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "thangyu",
+              "probability": 0.6722,
+              "start": 36,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 35,
+              "tag": "thangyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YzvNSHMlId",
+              "end": 67,
+              "expanded_url": "https://x.com/PUBLlCTARGET/status/1886274692857938147/photo/1",
+              "media_key": "16_1886274618916478976",
+              "start": 44,
+              "url": "https://t.co/YzvNSHMlId"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886274692857938147",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 4465,
+          "like_count": 802,
+          "quote_count": 9,
+          "reply_count": 8,
+          "retweet_count": 226
+        },
+        "reply_settings": "everyone",
+        "text": "image that will kill you instantly #thangyu https://t.co/YzvNSHMlId"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH! 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影/三国 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人爱好者 会突然产出想法 BL吃的比其他少 但是会吃 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦肉臀臀",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885384535879409667/UEQG5lqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 2964,
+          "like_count": 21211,
+          "listed_count": 2,
+          "media_count": 1180,
+          "tweet_count": 19642
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-04T00:49:25.000Z",
+        "description": "it goes with double L",
+        "id": "1411487234298040320",
+        "location": "m . +16, SFW",
+        "name": "dave",
+        "pinned_tweet_id": "1829181290542927912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830122128362127364/nscFZTwh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2177,
+          "following_count": 216,
+          "like_count": 10417,
+          "listed_count": 1,
+          "media_count": 258,
+          "tweet_count": 4451
+        },
+        "username": "PUBLlCTARGET",
+        "verified": false
+      }
+    ]
+  }
+}

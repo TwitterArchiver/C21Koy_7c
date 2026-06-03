@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940763366659653632"
+      ],
+      "media_source_tweet_id": [
+        "1940763375614701844"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1940944822376059105",
+    "created_at": "2025-07-04T01:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T02:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940944822376059105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "992551168944439296",
+          "start": 3,
+          "username": "pale_machine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qiSzbYFcex",
+          "end": 41,
+          "expanded_url": "https://x.com/pale_machine/status/1940763375614701844/photo/1",
+          "media_key": "3_1940763366659653632",
+          "start": 18,
+          "url": "https://t.co/qiSzbYFcex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940944822376059105",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940763375614701844",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pale_machine: https://t.co/qiSzbYFcex"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1940763366659653632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu75_9bXAAA1jHh.jpg",
+        "width": 912
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940763366659653632"
+          ],
+          "media_source_tweet_id": [
+            "1940763375614701844"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1940944822376059105",
+        "created_at": "2025-07-04T01:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T02:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940944822376059105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "992551168944439296",
+              "start": 3,
+              "username": "pale_machine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qiSzbYFcex",
+              "end": 41,
+              "expanded_url": "https://x.com/pale_machine/status/1940763375614701844/photo/1",
+              "media_key": "3_1940763366659653632",
+              "start": 18,
+              "url": "https://t.co/qiSzbYFcex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940944822376059105",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940763375614701844",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pale_machine: https://t.co/qiSzbYFcex"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940763366659653632"
+          ]
+        },
+        "author_id": "992551168944439296",
+        "conversation_id": "1940763375614701844",
+        "created_at": "2025-07-03T13:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T14:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940763375614701844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qiSzbYFcex",
+              "end": 23,
+              "expanded_url": "https://x.com/pale_machine/status/1940763375614701844/photo/1",
+              "media_key": "3_1940763366659653632",
+              "start": 0,
+              "url": "https://t.co/qiSzbYFcex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940763375614701844",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qiSzbYFcex"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 3025,
+          "like_count": 23564,
+          "listed_count": 3,
+          "media_count": 1466,
+          "tweet_count": 22605
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-04T23:46:54.000Z",
+        "description": "",
+        "id": "992551168944439296",
+        "location": "⏻",
+        "name": "23FsVcFR4sZsZsZsZQsC6Qc0sFQT",
+        "pinned_tweet_id": "1899460463819121003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939098379822493696/LcxCUPMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1760,
+          "following_count": 833,
+          "like_count": 11232,
+          "listed_count": 4,
+          "media_count": 54,
+          "tweet_count": 314
+        },
+        "username": "pale_machine",
+        "verified": false
+      }
+    ]
+  }
+}

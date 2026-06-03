@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "conversation_id": "1915723430890267068",
+    "created_at": "2025-04-25T11:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T12:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915723430890267068"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "Dante",
+          "probability": 0.7847,
+          "start": 19,
+          "type": "Person"
+        },
+        {
+          "end": 34,
+          "normalized_text": "Vergil",
+          "probability": 0.6243,
+          "start": 29,
+          "type": "Person"
+        },
+        {
+          "end": 66,
+          "normalized_text": "Kurogames HQ",
+          "probability": 0.601,
+          "start": 55,
+          "type": "Other"
+        },
+        {
+          "end": 138,
+          "normalized_text": "punishin",
+          "probability": 0.4406,
+          "start": 131,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1695849439636709376",
+          "start": 3,
+          "username": "Narushio_wuwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915723430890267068",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 747
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915654431846129865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Narushio_wuwa: Dante and Vergil are already in the Kurogames HQ (These images were found in the comment section of bilibili.)\n#punishin…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1915654009244745728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpXFK_2WAAADXs2.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1915654048704794624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpXFNS2WkAA_eJS.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "conversation_id": "1915723430890267068",
+        "created_at": "2025-04-25T11:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T12:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915723430890267068"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Dante",
+              "probability": 0.7847,
+              "start": 19,
+              "type": "Person"
+            },
+            {
+              "end": 34,
+              "normalized_text": "Vergil",
+              "probability": 0.6243,
+              "start": 29,
+              "type": "Person"
+            },
+            {
+              "end": 66,
+              "normalized_text": "Kurogames HQ",
+              "probability": 0.601,
+              "start": 55,
+              "type": "Other"
+            },
+            {
+              "end": 138,
+              "normalized_text": "punishin",
+              "probability": 0.4406,
+              "start": 131,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1695849439636709376",
+              "start": 3,
+              "username": "Narushio_wuwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915723430890267068",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 747
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915654431846129865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Narushio_wuwa: Dante and Vergil are already in the Kurogames HQ (These images were found in the comment section of bilibili.)\n#punishin…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915654009244745728",
+            "3_1915654048704794624"
+          ]
+        },
+        "author_id": "1695849439636709376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1493638388729081857",
+              "name": "Punishing: Gray Raven"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898787358408746",
+              "name": "Sci-fi games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1493638388729081857",
+              "name": "Punishing: Gray Raven"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1915654431846129865",
+        "created_at": "2025-04-25T06:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T07:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915654431846129865"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "Dante",
+              "probability": 0.8514,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 15,
+              "normalized_text": "Vergil",
+              "probability": 0.7347,
+              "start": 10,
+              "type": "Person"
+            },
+            {
+              "end": 44,
+              "normalized_text": "Kurogames",
+              "probability": 0.6859,
+              "start": 36,
+              "type": "Other"
+            },
+            {
+              "end": 129,
+              "normalized_text": "punishinggrayraven",
+              "probability": 0.3587,
+              "start": 112,
+              "type": "Person"
+            },
+            {
+              "end": 134,
+              "normalized_text": "PGR",
+              "probability": 0.3708,
+              "start": 132,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 111,
+              "tag": "punishinggrayraven"
+            },
+            {
+              "end": 135,
+              "start": 131,
+              "tag": "PGR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ho9QPDpfKf",
+              "end": 159,
+              "expanded_url": "https://x.com/Narushio_wuwa/status/1915654431846129865/photo/1",
+              "media_key": "3_1915654009244745728",
+              "start": 136,
+              "url": "https://t.co/ho9QPDpfKf"
+            },
+            {
+              "display_url": "pic.x.com/ho9QPDpfKf",
+              "end": 159,
+              "expanded_url": "https://x.com/Narushio_wuwa/status/1915654431846129865/photo/1",
+              "media_key": "3_1915654048704794624",
+              "start": 136,
+              "url": "https://t.co/ho9QPDpfKf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915654431846129865",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 581,
+          "impression_count": 78531,
+          "like_count": 5192,
+          "quote_count": 33,
+          "reply_count": 19,
+          "retweet_count": 747
+        },
+        "reply_settings": "everyone",
+        "text": "Dante and Vergil are already in the Kurogames HQ (These images were found in the comment section of bilibili.)\n#punishinggrayraven #PGR https://t.co/ho9QPDpfKf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我yan｜肉鸦都可以",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912422021767524352/6G_fWcrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 3011,
+          "like_count": 22700,
+          "listed_count": 3,
+          "media_count": 1361,
+          "tweet_count": 21771
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-27T17:23:22.000Z",
+        "description": "News | Archive | Re-Posting Official Information | WuWa and PGR\n\nBusiness: narushio.ww@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@narushio",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@narushio",
+                "start": 0,
+                "url": "https://t.co/QVhQu4OjbB"
+              }
+            ]
+          }
+        },
+        "id": "1695849439636709376",
+        "name": "Narushio",
+        "pinned_tweet_id": "1915299614682382725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907126390727589888/uOyjOU-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61930,
+          "following_count": 284,
+          "like_count": 50584,
+          "listed_count": 90,
+          "media_count": 7794,
+          "tweet_count": 32223
+        },
+        "url": "https://t.co/QVhQu4OjbB",
+        "username": "Narushio_wuwa",
+        "verified": false
+      }
+    ]
+  }
+}

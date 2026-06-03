@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1495394121967489029",
+        "3_1495394169770037253",
+        "3_1495394209716596739"
+      ],
+      "media_source_tweet_id": [
+        "1495394644514906113",
+        "1495394644514906113",
+        "1495394644514906113"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1870050159985602700",
+    "created_at": "2024-12-20T10:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-20T11:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870050159985602700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4449472573",
+          "start": 3,
+          "username": "Koumi_OvO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jCA7pEqtn7",
+          "end": 49,
+          "expanded_url": "https://x.com/Koumi_OvO/status/1495394644514906113/photo/1",
+          "media_key": "3_1495394121967489029",
+          "start": 26,
+          "url": "https://t.co/jCA7pEqtn7"
+        },
+        {
+          "display_url": "pic.x.com/jCA7pEqtn7",
+          "end": 49,
+          "expanded_url": "https://x.com/Koumi_OvO/status/1495394644514906113/photo/1",
+          "media_key": "3_1495394169770037253",
+          "start": 26,
+          "url": "https://t.co/jCA7pEqtn7"
+        },
+        {
+          "display_url": "pic.x.com/jCA7pEqtn7",
+          "end": 49,
+          "expanded_url": "https://x.com/Koumi_OvO/status/1495394644514906113/photo/1",
+          "media_key": "3_1495394209716596739",
+          "start": 26,
+          "url": "https://t.co/jCA7pEqtn7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870050159985602700",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "1495394644514906113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Koumi_OvO: VALE-留守番⌛️ https://t.co/jCA7pEqtn7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1870050159985602700].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1870050159985602700",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1870050159985602700"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1850,
+        "media_key": "3_1495394121967489029",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FMC1B-8UUAU0RAD.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1850,
+        "media_key": "3_1495394169770037253",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FMC1ExBVUAUFiz7.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1850,
+        "media_key": "3_1495394209716596739",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FMC1HF1VcAMoqLb.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1495394121967489029",
+            "3_1495394169770037253",
+            "3_1495394209716596739"
+          ]
+        },
+        "author_id": "4449472573",
+        "conversation_id": "1495394644514906113",
+        "created_at": "2022-02-20T13:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2022-02-20T14:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1495394644514906113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jCA7pEqtn7",
+              "end": 34,
+              "expanded_url": "https://x.com/Koumi_OvO/status/1495394644514906113/photo/1",
+              "media_key": "3_1495394121967489029",
+              "start": 11,
+              "url": "https://t.co/jCA7pEqtn7"
+            },
+            {
+              "display_url": "pic.x.com/jCA7pEqtn7",
+              "end": 34,
+              "expanded_url": "https://x.com/Koumi_OvO/status/1495394644514906113/photo/1",
+              "media_key": "3_1495394169770037253",
+              "start": 11,
+              "url": "https://t.co/jCA7pEqtn7"
+            },
+            {
+              "display_url": "pic.x.com/jCA7pEqtn7",
+              "end": 34,
+              "expanded_url": "https://x.com/Koumi_OvO/status/1495394644514906113/photo/1",
+              "media_key": "3_1495394209716596739",
+              "start": 11,
+              "url": "https://t.co/jCA7pEqtn7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1495394644514906113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 0,
+          "like_count": 475,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "VALE-留守番⌛️ https://t.co/jCA7pEqtn7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人女 会突然产出想法 GB GL大于BL BG 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 2941,
+          "like_count": 20837,
+          "listed_count": 2,
+          "media_count": 1121,
+          "tweet_count": 18627
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-04T05:03:43.000Z",
+        "description": "mobile🔞中文OK日本語OK.墓守中心♥\nDON'T REPOST MY ART WITHOUT MY PERMISSION.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/koumi-…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/koumi-ovo.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VDLkOMvA2N"
+              }
+            ]
+          }
+        },
+        "id": "4449472573",
+        "name": "Koumi_神海⭕️",
+        "pinned_tweet_id": "1302551508366417920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851685149127421952/QXZ1tbud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21110,
+          "following_count": 226,
+          "like_count": 11385,
+          "listed_count": 38,
+          "media_count": 1707,
+          "tweet_count": 5561
+        },
+        "url": "https://t.co/VDLkOMvA2N",
+        "username": "Koumi_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

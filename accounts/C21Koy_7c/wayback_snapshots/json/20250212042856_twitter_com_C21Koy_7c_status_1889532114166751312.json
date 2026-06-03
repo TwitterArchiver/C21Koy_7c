@@ -1,0 +1,595 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1138829560047259648",
+          "name": "Baldur's Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1138829560047259648",
+          "name": "Baldur's Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      }
+    ],
+    "conversation_id": "1889532114166751312",
+    "created_at": "2025-02-12T04:28:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T05:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889532114166751312"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": "RPG",
+          "probability": 0.5197,
+          "start": 39,
+          "type": "Other"
+        },
+        {
+          "end": 93,
+          "normalized_text": "Baldur's Gate 3",
+          "probability": 0.9134,
+          "start": 79,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1128416222763155456",
+          "start": 3,
+          "username": "baldursgate3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889532114166751312",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 245
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889344477027828043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baldursgate3: Looking for a cutesy RPG to play with your beloved?\n\nPick up Baldur's Gate 3 and explore a world full of cuddly bears and…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "1889532114166751312",
+        "created_at": "2025-02-12T04:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T05:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889532114166751312"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "RPG",
+              "probability": 0.5197,
+              "start": 39,
+              "type": "Other"
+            },
+            {
+              "end": 93,
+              "normalized_text": "Baldur's Gate 3",
+              "probability": 0.9134,
+              "start": 79,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1128416222763155456",
+              "start": 3,
+              "username": "baldursgate3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889532114166751312",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 245
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889344477027828043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baldursgate3: Looking for a cutesy RPG to play with your beloved?\n\nPick up Baldur's Gate 3 and explore a world full of cuddly bears and…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889344474666385408"
+          ]
+        },
+        "author_id": "1128416222763155456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392975566253424640",
+              "name": "Gaming retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899856931094543",
+              "name": "Cooperative games"
+            }
+          }
+        ],
+        "conversation_id": "1889344477027828043",
+        "created_at": "2025-02-11T16:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T17:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889344477027828043"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "RPG",
+              "probability": 0.4938,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 75,
+              "normalized_text": "Baldur's Gate 3",
+              "probability": 0.9211,
+              "start": 61,
+              "type": "Other"
+            },
+            {
+              "end": 257,
+              "normalized_text": "Steam Couch Co-Op",
+              "probability": 0.7103,
+              "start": 241,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nfQpVPosht",
+              "end": 303,
+              "expanded_url": "https://x.com/baldursgate3/status/1889344477027828043/photo/1",
+              "media_key": "3_1889344474666385408",
+              "start": 280,
+              "url": "https://t.co/nfQpVPosht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889344477027828043",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 162628,
+          "like_count": 1727,
+          "quote_count": 77,
+          "reply_count": 34,
+          "retweet_count": 245
+        },
+        "reply_settings": "everyone",
+        "text": "Looking for a cutesy RPG to play with your beloved?\n\nPick up Baldur's Gate 3 and explore a world full of cuddly bears and little creatures while searching for a cure to stop you from sprouting tentacles.\n\nSupporting split-screen, now in the Steam Couch Co-Op sale until Feb 17th! https://t.co/nfQpVPosht"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH! 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影/三国 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人爱好者 会突然产出想法 BL吃的比其他少 但是会吃 是成年账户 全是翻译器",
+        "id": "1452123941686976519",
+        "name": "鸦肉臀臀",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885384535879409667/UEQG5lqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 2968,
+          "like_count": 21470,
+          "listed_count": 2,
+          "media_count": 1202,
+          "tweet_count": 19891
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-14T21:46:07.000Z",
+        "description": "Developed by @larianstudios. Gather your party, let's play some Dungeons & Dragons. Baldur's Gate 3 is out now on PC, PS5 and Xbox Series X|S!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "larianstudios"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "larian.club/x_BG3_PartyTime",
+                "end": 23,
+                "expanded_url": "https://larian.club/x_BG3_PartyTime",
+                "start": 0,
+                "url": "https://t.co/OsqvdITpFs"
+              }
+            ]
+          }
+        },
+        "id": "1128416222763155456",
+        "location": "Faerûn",
+        "name": "Baldur's Gate 3",
+        "pinned_tweet_id": "1732974863655063715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1222914397900886020/vi60lxc6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334697,
+          "following_count": 20,
+          "like_count": 1119,
+          "listed_count": 552,
+          "media_count": 377,
+          "tweet_count": 1211
+        },
+        "url": "https://t.co/OsqvdITpFs",
+        "username": "baldursgate3",
+        "verified": true
+      }
+    ]
+  }
+}

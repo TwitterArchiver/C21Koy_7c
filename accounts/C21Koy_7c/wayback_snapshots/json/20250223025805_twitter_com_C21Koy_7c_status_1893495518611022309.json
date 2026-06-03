@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1893378599949852672"
+      ],
+      "media_source_tweet_id": [
+        "1893378657889947735"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1893495518611022309",
+    "created_at": "2025-02-23T02:58:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T03:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893495518611022309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1554818451952336896",
+          "start": 3,
+          "username": "vikreality"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8b5kOEPGwh",
+          "end": 65,
+          "expanded_url": "https://x.com/vikreality/status/1893378657889947735/video/1",
+          "media_key": "13_1893378599949852672",
+          "start": 42,
+          "url": "https://t.co/8b5kOEPGwh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893495518611022309",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893378657889947735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vikreality: this diva gone too soon 💔 https://t.co/8b5kOEPGwh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21422,
+        "height": 1024,
+        "media_key": "13_1893378599949852672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1893378599949852672/img/GUXtbSmxbFrGHp1C.jpg",
+        "public_metrics": {
+          "view_count": 267
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1893378599949852672/vid/avc1/320x568/L_b23uQMgM4Iaqhl.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1893378599949852672/vid/avc1/480x852/iikwzaWhnu_xFd0M.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1893378599949852672/vid/avc1/576x1024/opoxhJOvp7GwbiIq.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1893378599949852672/pl/2HtN7gaIe-k4tlvW.m3u8?tag=14"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1893378599949852672"
+          ],
+          "media_source_tweet_id": [
+            "1893378657889947735"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1893495518611022309",
+        "created_at": "2025-02-23T02:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T03:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893495518611022309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1554818451952336896",
+              "start": 3,
+              "username": "vikreality"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8b5kOEPGwh",
+              "end": 65,
+              "expanded_url": "https://x.com/vikreality/status/1893378657889947735/video/1",
+              "media_key": "13_1893378599949852672",
+              "start": 42,
+              "url": "https://t.co/8b5kOEPGwh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893495518611022309",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893378657889947735",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vikreality: this diva gone too soon 💔 https://t.co/8b5kOEPGwh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1893378599949852672"
+          ]
+        },
+        "author_id": "1554818451952336896",
+        "conversation_id": "1893378657889947735",
+        "created_at": "2025-02-22T19:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T20:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893378657889947735"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "diva",
+              "probability": 0.4748,
+              "start": 5,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8b5kOEPGwh",
+              "end": 49,
+              "expanded_url": "https://x.com/vikreality/status/1893378657889947735/video/1",
+              "media_key": "13_1893378599949852672",
+              "start": 26,
+              "url": "https://t.co/8b5kOEPGwh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893378657889947735",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 608,
+          "like_count": 73,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "this diva gone too soon 💔 https://t.co/8b5kOEPGwh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 但是还算可以 懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890691451258126336/lPqKitsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 2974,
+          "like_count": 21812,
+          "listed_count": 2,
+          "media_count": 1263,
+          "tweet_count": 20500
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T13:16:38.000Z",
+        "description": "most sane T.O.P stan",
+        "id": "1554818451952336896",
+        "location": "23 • she/her • bi",
+        "name": "viki",
+        "pinned_tweet_id": "1888254734470885641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886881495119175680/iRbJ_0Kh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 519,
+          "like_count": 70359,
+          "listed_count": 9,
+          "media_count": 6612,
+          "tweet_count": 14652
+        },
+        "username": "vikreality",
+        "verified": false
+      }
+    ]
+  }
+}

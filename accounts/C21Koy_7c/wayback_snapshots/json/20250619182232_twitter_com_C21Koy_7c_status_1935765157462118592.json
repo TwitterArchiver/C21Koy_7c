@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "conversation_id": "1935765157462118592",
+    "created_at": "2025-06-19T18:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T19:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935765157462118592"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "shadowheart",
+          "probability": 0.4497,
+          "start": 18,
+          "type": "Other"
+        },
+        {
+          "end": 138,
+          "normalized_text": "baldu",
+          "probability": 0.4663,
+          "start": 134,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1544448712214298626",
+          "start": 3,
+          "username": "ishadowheart"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935765157462118592",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 241
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935696028411556310",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ishadowheart: shadowheart’s gaze softening as the story progresses and her character develops is one of my favourite things about baldu…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2042,
+        "media_key": "3_1935696022040150016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtz5RrrXAAAUiUZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "conversation_id": "1935765157462118592",
+        "created_at": "2025-06-19T18:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T19:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935765157462118592"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "shadowheart",
+              "probability": 0.4497,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 138,
+              "normalized_text": "baldu",
+              "probability": 0.4663,
+              "start": 134,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1544448712214298626",
+              "start": 3,
+              "username": "ishadowheart"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935765157462118592",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 241
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935696028411556310",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ishadowheart: shadowheart’s gaze softening as the story progresses and her character develops is one of my favourite things about baldu…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935696022040150016"
+          ]
+        },
+        "author_id": "1544448712214298626",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "1935696028411556310",
+        "created_at": "2025-06-19T13:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T14:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935696028411556310"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "shadowheart",
+              "probability": 0.5825,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 121,
+              "normalized_text": "baldur",
+              "probability": 0.5317,
+              "start": 116,
+              "type": "Other"
+            },
+            {
+              "end": 123,
+              "normalized_text": "s",
+              "probability": 0.5116,
+              "start": 123,
+              "type": "Other"
+            },
+            {
+              "end": 130,
+              "normalized_text": "3",
+              "probability": 0.75,
+              "start": 130,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SWfDyIp4fQ",
+              "end": 155,
+              "expanded_url": "https://x.com/ishadowheart/status/1935696028411556310/photo/1",
+              "media_key": "3_1935696022040150016",
+              "start": 132,
+              "url": "https://t.co/SWfDyIp4fQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935696028411556310",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 16283,
+          "like_count": 2095,
+          "quote_count": 14,
+          "reply_count": 0,
+          "retweet_count": 241
+        },
+        "reply_settings": "everyone",
+        "text": "shadowheart’s gaze softening as the story progresses and her character develops is one of my favourite things about baldur’s gate 3 https://t.co/SWfDyIp4fQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 3023,
+          "like_count": 23514,
+          "listed_count": 3,
+          "media_count": 1449,
+          "tweet_count": 22469
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-05T22:30:55.000Z",
+        "description": "20’s | bg3 | videogames, tattoos & morally grey women | animal since keshasuxx ‘10 🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ishadowheart.carrd.co",
+                "end": 23,
+                "expanded_url": "https://ishadowheart.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/0Wspw3GZXk"
+              }
+            ]
+          }
+        },
+        "id": "1544448712214298626",
+        "location": "she/her 🇦🇷🇮🇪",
+        "name": "mica(ela)",
+        "pinned_tweet_id": "1903538450109772093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932325545296928768/tHB0gUeJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4104,
+          "following_count": 981,
+          "like_count": 10961,
+          "listed_count": 4,
+          "media_count": 353,
+          "tweet_count": 2226
+        },
+        "url": "https://t.co/0Wspw3GZXk",
+        "username": "ishadowheart",
+        "verified": false
+      }
+    ]
+  }
+}

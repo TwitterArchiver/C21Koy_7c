@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1918735054164926464"
+      ],
+      "media_source_tweet_id": [
+        "1918735379806441852"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "1918968653145678179",
+    "created_at": "2025-05-04T09:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T10:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918968653145678179"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 16,
+          "start": 12,
+          "tag": "dmc"
+        },
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "dmc5"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "750348196229021696",
+          "start": 3,
+          "username": "s4nf4r"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8gj0c950vx",
+          "end": 90,
+          "expanded_url": "https://x.com/s4nf4r/status/1918735379806441852/photo/1",
+          "media_key": "3_1918735054164926464",
+          "start": 67,
+          "url": "https://t.co/8gj0c950vx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918968653145678179",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 290
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918735379806441852",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @s4nf4r: #dmc #dmc5 \n\nback to work starting with lil nero guy 👍 https://t.co/8gj0c950vx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1898,
+        "media_key": "3_1918735054164926464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqC3XamXIAA9FBJ.png",
+        "width": 1595
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918735054164926464"
+          ],
+          "media_source_tweet_id": [
+            "1918735379806441852"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1918968653145678179",
+        "created_at": "2025-05-04T09:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T10:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918968653145678179"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "dmc"
+            },
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "dmc5"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "750348196229021696",
+              "start": 3,
+              "username": "s4nf4r"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8gj0c950vx",
+              "end": 90,
+              "expanded_url": "https://x.com/s4nf4r/status/1918735379806441852/photo/1",
+              "media_key": "3_1918735054164926464",
+              "start": 67,
+              "url": "https://t.co/8gj0c950vx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918968653145678179",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 290
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918735379806441852",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @s4nf4r: #dmc #dmc5 \n\nback to work starting with lil nero guy 👍 https://t.co/8gj0c950vx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918735054164926464"
+          ]
+        },
+        "author_id": "750348196229021696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1918735379806441852",
+        "created_at": "2025-05-03T18:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T19:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918735379806441852"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "nero",
+              "probability": 0.3391,
+              "start": 44,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "dmc"
+            },
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "dmc5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8gj0c950vx",
+              "end": 78,
+              "expanded_url": "https://x.com/s4nf4r/status/1918735379806441852/photo/1",
+              "media_key": "3_1918735054164926464",
+              "start": 55,
+              "url": "https://t.co/8gj0c950vx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918735379806441852",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 13615,
+          "like_count": 1630,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 290
+        },
+        "reply_settings": "everyone",
+        "text": "#dmc #dmc5 \n\nback to work starting with lil nero guy 👍 https://t.co/8gj0c950vx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我yan｜肉鸦都可以",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 3006,
+          "like_count": 22811,
+          "listed_count": 3,
+          "media_count": 1371,
+          "tweet_count": 21861
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-05T15:18:45.000Z",
+        "description": "💧 freelance artist ✧ 22 ✧ she/her\n 📧  daisanfar@gmail.com\n☘️ commissions: OPEN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/daisan…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/daisanfar.bsky.social",
+                "start": 0,
+                "url": "https://t.co/rT7Twivia0"
+              }
+            ]
+          }
+        },
+        "id": "750348196229021696",
+        "name": "dsnfr 🌊 COMMS OPEN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899561360909795329/b9xqOZqv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17325,
+          "following_count": 303,
+          "like_count": 128856,
+          "listed_count": 82,
+          "media_count": 4503,
+          "tweet_count": 13415
+        },
+        "url": "https://t.co/rT7Twivia0",
+        "username": "s4nf4r",
+        "verified": false
+      }
+    ]
+  }
+}

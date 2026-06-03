@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1881333899210448896"
+      ],
+      "media_source_tweet_id": [
+        "1881333910661190143"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1881838880883875948",
+    "created_at": "2025-01-21T22:58:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T23:58:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881838880883875948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1828881444959145985",
+          "start": 3,
+          "username": "willgraham09636"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MVu58h5bf7",
+          "end": 54,
+          "expanded_url": "https://x.com/willgraham09636/status/1881333910661190143/photo/1",
+          "media_key": "3_1881333899210448896",
+          "start": 31,
+          "url": "https://t.co/MVu58h5bf7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881838880883875948",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2604
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881333910661190143",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @willgraham09636: Bad. News https://t.co/MVu58h5bf7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1881838880883875948].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1881838880883875948",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1881838880883875948"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 799,
+        "media_key": "3_1881333899210448896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhvXNq5W4AAYETh.jpg",
+        "width": 1071
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881333899210448896"
+          ]
+        },
+        "author_id": "1828881444959145985",
+        "conversation_id": "1881333910661190143",
+        "created_at": "2025-01-20T13:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T14:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881333910661190143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MVu58h5bf7",
+              "end": 33,
+              "expanded_url": "https://x.com/willgraham09636/status/1881333910661190143/photo/1",
+              "media_key": "3_1881333899210448896",
+              "start": 10,
+              "url": "https://t.co/MVu58h5bf7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881333910661190143",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2600,
+          "impression_count": 782360,
+          "like_count": 41746,
+          "quote_count": 690,
+          "reply_count": 379,
+          "retweet_count": 2604
+        },
+        "reply_settings": "everyone",
+        "text": "Bad. News https://t.co/MVu58h5bf7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH言论 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影/三国 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人爱好者 会突然产出想法 BL吃的比其他少 但是会吃 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦肉臀臀",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 2963,
+          "like_count": 20909,
+          "listed_count": 2,
+          "media_count": 1152,
+          "tweet_count": 19210
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T19:45:00.000Z",
+        "description": "ㅤpersonal account. email me at willgraham09636@gmail.com.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "willgraham09636.straw.page",
+                "end": 23,
+                "expanded_url": "https://willgraham09636.straw.page",
+                "start": 0,
+                "url": "https://t.co/wUqZjWDx4T"
+              }
+            ]
+          }
+        },
+        "id": "1828881444959145985",
+        "location": "Wolf Trap, VA",
+        "name": "Will Graham",
+        "pinned_tweet_id": "1881333910661190143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855616907535343617/UGXB_Zm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9220,
+          "following_count": 499,
+          "like_count": 4601,
+          "listed_count": 10,
+          "media_count": 131,
+          "tweet_count": 5956
+        },
+        "url": "https://t.co/wUqZjWDx4T",
+        "username": "willgraham09636",
+        "verified": false
+      }
+    ]
+  }
+}

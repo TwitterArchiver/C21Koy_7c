@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1897625752352571392"
+      ],
+      "media_source_tweet_id": [
+        "1897625762125275435"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+          "id": "854954654546907136",
+          "name": "Persona"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+          "id": "854954654546907136",
+          "name": "Persona"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898900390707204",
+          "name": "JRPGs"
+        }
+      }
+    ],
+    "conversation_id": "1897827430540423456",
+    "created_at": "2025-03-07T01:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T02:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897827430540423456"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 14,
+          "tag": "ペルソナ4"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1069473519652634624",
+          "start": 3,
+          "username": "Aran_328"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u9kZMCAi2m",
+          "end": 48,
+          "expanded_url": "https://x.com/Aran_328/status/1897625762125275435/photo/1",
+          "media_key": "3_1897625752352571392",
+          "start": 25,
+          "url": "https://t.co/u9kZMCAi2m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897827430540423456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897625762125275435",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aran_328: #ペルソナ4 熱異常 https://t.co/u9kZMCAi2m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 941,
+        "media_key": "3_1897625752352571392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlW4kVWbwAAO1Lh.jpg",
+        "width": 1604
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897625752352571392"
+          ],
+          "media_source_tweet_id": [
+            "1897625762125275435"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898900390707204",
+              "name": "JRPGs"
+            }
+          }
+        ],
+        "conversation_id": "1897827430540423456",
+        "created_at": "2025-03-07T01:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T02:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897827430540423456"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "ペルソナ4"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1069473519652634624",
+              "start": 3,
+              "username": "Aran_328"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u9kZMCAi2m",
+              "end": 48,
+              "expanded_url": "https://x.com/Aran_328/status/1897625762125275435/photo/1",
+              "media_key": "3_1897625752352571392",
+              "start": 25,
+              "url": "https://t.co/u9kZMCAi2m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897827430540423456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897625762125275435",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aran_328: #ペルソナ4 熱異常 https://t.co/u9kZMCAi2m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897625752352571392"
+          ]
+        },
+        "author_id": "1069473519652634624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898900390707204",
+              "name": "JRPGs"
+            }
+          }
+        ],
+        "conversation_id": "1897625762125275435",
+        "created_at": "2025-03-06T12:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T13:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897625762125275435"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "ペルソナ4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u9kZMCAi2m",
+              "end": 34,
+              "expanded_url": "https://x.com/Aran_328/status/1897625762125275435/photo/1",
+              "media_key": "3_1897625752352571392",
+              "start": 11,
+              "url": "https://t.co/u9kZMCAi2m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897625762125275435",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 3710,
+          "like_count": 345,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "#ペルソナ4 熱異常 https://t.co/u9kZMCAi2m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 但是还算可以 懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890691451258126336/lPqKitsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 2985,
+          "like_count": 22017,
+          "listed_count": 2,
+          "media_count": 1276,
+          "tweet_count": 20770
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-03T06:08:51.000Z",
+        "description": "🍩🐕20⬆️🎨中國語ok、日本語下手。 產出雜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/15423336",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/15423336",
+                "start": 0,
+                "url": "https://t.co/3qYsUMwm3V"
+              }
+            ]
+          }
+        },
+        "id": "1069473519652634624",
+        "name": "Doonatsu_1nu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875495661862625280/q_y6VRh0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 670,
+          "like_count": 1921,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 256
+        },
+        "url": "https://t.co/3qYsUMwm3V",
+        "username": "Aran_328",
+        "verified": false
+      }
+    ]
+  }
+}

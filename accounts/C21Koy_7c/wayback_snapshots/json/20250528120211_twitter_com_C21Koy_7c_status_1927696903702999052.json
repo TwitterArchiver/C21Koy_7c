@@ -1,0 +1,485 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927475345650864130"
+      ],
+      "media_source_tweet_id": [
+        "1927475350239653907"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t\n\nNOTE: Stopped annotating in the Video Game domain (71) on 11/15/19. Moving forward, this entity will annotate to Multimedia Franchise domain (130) only.",
+          "id": "993952643209773057",
+          "name": "Sonic the Hedgehog"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t\n\nNOTE: Stopped annotating in the Video Game domain (71) on 11/15/19. Moving forward, this entity will annotate to Multimedia Franchise domain (130) only.",
+          "id": "993952643209773057",
+          "name": "Sonic the Hedgehog"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1927696903702999052",
+    "created_at": "2025-05-28T12:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T13:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927696903702999052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1842211162374672384",
+          "start": 3,
+          "username": "gaiuki3276"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IpybdRIpvj",
+          "end": 67,
+          "expanded_url": "https://x.com/gaiuki3276/status/1927475350239653907/photo/1",
+          "media_key": "3_1927475345650864130",
+          "start": 44,
+          "url": "https://t.co/IpybdRIpvj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927696903702999052",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4929
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927475350239653907",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gaiuki3276: He works smarter not harder https://t.co/IpybdRIpvj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2220,
+        "media_key": "3_1927475345650864130",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr_EnVrX0AIiNQ8.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927475345650864130"
+          ],
+          "media_source_tweet_id": [
+            "1927475350239653907"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t\n\nNOTE: Stopped annotating in the Video Game domain (71) on 11/15/19. Moving forward, this entity will annotate to Multimedia Franchise domain (130) only.",
+              "id": "993952643209773057",
+              "name": "Sonic the Hedgehog"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t\n\nNOTE: Stopped annotating in the Video Game domain (71) on 11/15/19. Moving forward, this entity will annotate to Multimedia Franchise domain (130) only.",
+              "id": "993952643209773057",
+              "name": "Sonic the Hedgehog"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1927696903702999052",
+        "created_at": "2025-05-28T12:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T13:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927696903702999052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1842211162374672384",
+              "start": 3,
+              "username": "gaiuki3276"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IpybdRIpvj",
+              "end": 67,
+              "expanded_url": "https://x.com/gaiuki3276/status/1927475350239653907/photo/1",
+              "media_key": "3_1927475345650864130",
+              "start": 44,
+              "url": "https://t.co/IpybdRIpvj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927696903702999052",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4929
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927475350239653907",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gaiuki3276: He works smarter not harder https://t.co/IpybdRIpvj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927475345650864130"
+          ]
+        },
+        "author_id": "1842211162374672384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t\n\nNOTE: Stopped annotating in the Video Game domain (71) on 11/15/19. Moving forward, this entity will annotate to Multimedia Franchise domain (130) only.",
+              "id": "993952643209773057",
+              "name": "Sonic the Hedgehog"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t\n\nNOTE: Stopped annotating in the Video Game domain (71) on 11/15/19. Moving forward, this entity will annotate to Multimedia Franchise domain (130) only.",
+              "id": "993952643209773057",
+              "name": "Sonic the Hedgehog"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1927475350239653907",
+        "created_at": "2025-05-27T21:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T22:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927475350239653907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IpybdRIpvj",
+              "end": 51,
+              "expanded_url": "https://x.com/gaiuki3276/status/1927475350239653907/photo/1",
+              "media_key": "3_1927475345650864130",
+              "start": 28,
+              "url": "https://t.co/IpybdRIpvj"
+            },
+            {
+              "display_url": "x.com/TweetyGAL15/st…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/TweetyGAL15/status/1926841590376481207",
+              "start": 52,
+              "url": "https://t.co/0HrvjLzx5Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927475350239653907",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2886,
+          "impression_count": 317947,
+          "like_count": 26479,
+          "quote_count": 29,
+          "reply_count": 43,
+          "retweet_count": 4929
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926841590376481207",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "He works smarter not harder https://t.co/IpybdRIpvj https://t.co/0HrvjLzx5Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我yan｜肉鸦都可以 不会外语翻译器OK",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 3017,
+          "like_count": 23191,
+          "listed_count": 3,
+          "media_count": 1414,
+          "tweet_count": 22220
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T14:32:35.000Z",
+        "description": "open commission again on: 12 of July | commissions: https://t.co/cTNBakuXSX | second profile @2_gaiuki | Birthday: 21/12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 93,
+                "username": "2_gaiuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "gaiuki.carrd.co",
+                "end": 75,
+                "expanded_url": "https://gaiuki.carrd.co/",
+                "start": 52,
+                "url": "https://t.co/cTNBakuXSX"
+              }
+            ]
+          }
+        },
+        "id": "1842211162374672384",
+        "name": "Gaiuki- (commission closed)",
+        "pinned_tweet_id": "1870135948928815299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904703149199233024/8SOjismE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6177,
+          "following_count": 196,
+          "like_count": 9889,
+          "listed_count": 15,
+          "media_count": 233,
+          "tweet_count": 1723
+        },
+        "username": "gaiuki3276",
+        "verified": false
+      }
+    ]
+  }
+}

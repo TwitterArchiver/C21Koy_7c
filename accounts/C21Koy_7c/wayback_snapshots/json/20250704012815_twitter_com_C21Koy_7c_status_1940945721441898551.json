@@ -1,0 +1,489 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940521126980947968"
+      ],
+      "media_source_tweet_id": [
+        "1940521231536828632"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1493177750324056064",
+          "name": "Babies"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Babies and toddlers",
+          "id": "864925760624091136",
+          "name": "Babies and toddlers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Family and parenting",
+          "id": "847547282010497024",
+          "name": "Parenting"
+        }
+      }
+    ],
+    "conversation_id": "1940945721441898551",
+    "created_at": "2025-07-04T01:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T02:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940945721441898551"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "SquidGameS3",
+          "probability": 0.9448,
+          "start": 37,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 36,
+          "tag": "SquidGameS3"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1452561693179990018",
+          "start": 3,
+          "username": "d4nwru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JZgaDQNa3O",
+          "end": 72,
+          "expanded_url": "https://x.com/d4nwru/status/1940521231536828632/photo/1",
+          "media_key": "3_1940521126980947968",
+          "start": 49,
+          "url": "https://t.co/JZgaDQNa3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940945721441898551",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1319
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940521231536828632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @d4nwru: mother and her cgi baby #SquidGameS3 https://t.co/JZgaDQNa3O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1295,
+        "media_key": "3_1940521126980947968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu4drwTXEAA9uOW.jpg",
+        "width": 1081
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940521126980947968"
+          ],
+          "media_source_tweet_id": [
+            "1940521231536828632"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1493177750324056064",
+              "name": "Babies"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Babies and toddlers",
+              "id": "864925760624091136",
+              "name": "Babies and toddlers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Family and parenting",
+              "id": "847547282010497024",
+              "name": "Parenting"
+            }
+          }
+        ],
+        "conversation_id": "1940945721441898551",
+        "created_at": "2025-07-04T01:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T02:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940945721441898551"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "SquidGameS3",
+              "probability": 0.9448,
+              "start": 37,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 36,
+              "tag": "SquidGameS3"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1452561693179990018",
+              "start": 3,
+              "username": "d4nwru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JZgaDQNa3O",
+              "end": 72,
+              "expanded_url": "https://x.com/d4nwru/status/1940521231536828632/photo/1",
+              "media_key": "3_1940521126980947968",
+              "start": 49,
+              "url": "https://t.co/JZgaDQNa3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940945721441898551",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1319
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940521231536828632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @d4nwru: mother and her cgi baby #SquidGameS3 https://t.co/JZgaDQNa3O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940521126980947968"
+          ]
+        },
+        "author_id": "1452561693179990018",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1493177750324056064",
+              "name": "Babies"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Babies and toddlers",
+              "id": "864925760624091136",
+              "name": "Babies and toddlers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Family and parenting",
+              "id": "847547282010497024",
+              "name": "Parenting"
+            }
+          }
+        ],
+        "conversation_id": "1940521231536828632",
+        "created_at": "2025-07-02T21:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T22:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940521231536828632"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "SquidGameS3",
+              "probability": 0.9518,
+              "start": 25,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 24,
+              "tag": "SquidGameS3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JZgaDQNa3O",
+              "end": 60,
+              "expanded_url": "https://x.com/d4nwru/status/1940521231536828632/photo/1",
+              "media_key": "3_1940521126980947968",
+              "start": 37,
+              "url": "https://t.co/JZgaDQNa3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940521231536828632",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 886,
+          "impression_count": 72090,
+          "like_count": 11869,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 1319
+        },
+        "reply_settings": "everyone",
+        "text": "mother and her cgi baby #SquidGameS3 https://t.co/JZgaDQNa3O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 3025,
+          "like_count": 23564,
+          "listed_count": 3,
+          "media_count": 1466,
+          "tweet_count": 22606
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-25T09:04:43.000Z",
+        "description": "oc x canon #danleon 🍏🫐 - suggestive | VN/EN | no repost, edits w/o permission pls 🍉 pfp: @ pej8177 l dm 2 comm",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 11,
+                "tag": "danleon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "danleon.straw.page",
+                "end": 23,
+                "expanded_url": "https://danleon.straw.page/",
+                "start": 0,
+                "url": "https://t.co/Qg9nAfh3VO"
+              }
+            ]
+          }
+        },
+        "id": "1452561693179990018",
+        "location": "dnf 16- | he/him ",
+        "name": "🍊",
+        "pinned_tweet_id": "1927312950555037849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906246951265579008/-AdlYCEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17685,
+          "following_count": 922,
+          "like_count": 11504,
+          "listed_count": 28,
+          "media_count": 1145,
+          "tweet_count": 7426
+        },
+        "url": "https://t.co/Qg9nAfh3VO",
+        "username": "d4nwru",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000608182092390400"
+      ],
+      "media_source_tweet_id": [
+        "2000608193488241091"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "2000851120412090616",
+    "created_at": "2025-12-16T08:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T09:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000851120412090616"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "Alice",
+          "probability": 0.6446,
+          "start": 20,
+          "type": "Other"
+        },
+        {
+          "end": 34,
+          "normalized_text": "Alice",
+          "probability": 0.6245,
+          "start": 30,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1113851218181251072",
+          "start": 3,
+          "username": "goodcherrydude"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Syhx1NrX2q",
+          "end": 59,
+          "expanded_url": "https://x.com/goodcherrydude/status/2000608193488241091/photo/1",
+          "media_key": "3_2000608182092390400",
+          "start": 36,
+          "url": "https://t.co/Syhx1NrX2q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000851120412090616",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5098
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000608193488241091",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @goodcherrydude: Alice and Alice https://t.co/Syhx1NrX2q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1917,
+        "media_key": "3_2000608182092390400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8OWirxbYAAT-aO.jpg",
+        "width": 1497
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000608182092390400"
+          ],
+          "media_source_tweet_id": [
+            "2000608193488241091"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "2000851120412090616",
+        "created_at": "2025-12-16T08:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T09:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000851120412090616"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Alice",
+              "probability": 0.6446,
+              "start": 20,
+              "type": "Other"
+            },
+            {
+              "end": 34,
+              "normalized_text": "Alice",
+              "probability": 0.6245,
+              "start": 30,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1113851218181251072",
+              "start": 3,
+              "username": "goodcherrydude"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Syhx1NrX2q",
+              "end": 59,
+              "expanded_url": "https://x.com/goodcherrydude/status/2000608193488241091/photo/1",
+              "media_key": "3_2000608182092390400",
+              "start": 36,
+              "url": "https://t.co/Syhx1NrX2q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000851120412090616",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5098
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000608193488241091",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @goodcherrydude: Alice and Alice https://t.co/Syhx1NrX2q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000608182092390400"
+          ]
+        },
+        "author_id": "1113851218181251072",
+        "conversation_id": "2000608193488241091",
+        "created_at": "2025-12-15T16:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T17:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000608193488241091"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "Alice",
+              "probability": 0.5774,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 14,
+              "normalized_text": "Alice",
+              "probability": 0.5067,
+              "start": 10,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Syhx1NrX2q",
+              "end": 39,
+              "expanded_url": "https://x.com/goodcherrydude/status/2000608193488241091/photo/1",
+              "media_key": "3_2000608182092390400",
+              "start": 16,
+              "url": "https://t.co/Syhx1NrX2q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000608193488241091",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2758,
+          "impression_count": 276828,
+          "like_count": 29184,
+          "quote_count": 56,
+          "reply_count": 67,
+          "retweet_count": 5098
+        },
+        "reply_settings": "everyone",
+        "text": "Alice and Alice https://t.co/Syhx1NrX2q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987482127756410880/kunx4knz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 3186,
+          "like_count": 26924,
+          "listed_count": 5,
+          "media_count": 1815,
+          "tweet_count": 25483
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-04T17:09:59.000Z",
+        "description": "🤡 art | goodcherrydude@gmail.com",
+        "id": "1113851218181251072",
+        "location": "🇰🇷 ",
+        "name": "ElliSON🪅",
+        "pinned_tweet_id": "1974509128723935691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000609622466695168/9TUIjQst_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12794,
+          "following_count": 244,
+          "like_count": 12664,
+          "listed_count": 67,
+          "media_count": 433,
+          "tweet_count": 2969
+        },
+        "username": "goodcherrydude",
+        "verified": false
+      }
+    ]
+  }
+}

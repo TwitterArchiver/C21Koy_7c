@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1957457786142683136"
+      ],
+      "media_source_tweet_id": [
+        "1957759452515328330"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1958021730708131904",
+    "created_at": "2025-08-20T04:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T05:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958021730708131904"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "undertaleAU",
+          "probability": 0.7221,
+          "start": 20,
+          "type": "Other"
+        },
+        {
+          "end": 73,
+          "normalized_text": "undertaleAU",
+          "probability": 0.766,
+          "start": 63,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 74,
+          "start": 62,
+          "tag": "undertaleAU"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "842029121429422081",
+          "start": 3,
+          "username": "nocochip_main"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OcVMGKF4cg",
+          "end": 98,
+          "expanded_url": "https://x.com/nocochip_main/status/1957759452515328330/video/1",
+          "media_key": "13_1957457786142683136",
+          "start": 75,
+          "url": "https://t.co/OcVMGKF4cg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958021730708131904",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2110
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957759452515328330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nocochip_main: 【undertaleAU】Bad time trio animation part2\n#undertaleAU https://t.co/OcVMGKF4cg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 110835,
+        "height": 1080,
+        "media_key": "13_1957457786142683136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1957457786142683136/img/WcwZ7Wqu66JUGXWi.jpg",
+        "public_metrics": {
+          "view_count": 142611
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957457786142683136/vid/avc1/480x270/Lz5KIiK5X6Dudrwl.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957457786142683136/vid/avc1/640x360/vsHNvt9DZRWW3EEk.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957457786142683136/vid/avc1/1280x720/HjpvQFXfJVjJpSTR.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1957457786142683136/pl/7VlmDrF9AEV9_8vs.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1957457786142683136"
+          ],
+          "media_source_tweet_id": [
+            "1957759452515328330"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1958021730708131904",
+        "created_at": "2025-08-20T04:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T05:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958021730708131904"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "undertaleAU",
+              "probability": 0.7221,
+              "start": 20,
+              "type": "Other"
+            },
+            {
+              "end": 73,
+              "normalized_text": "undertaleAU",
+              "probability": 0.766,
+              "start": 63,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 62,
+              "tag": "undertaleAU"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "842029121429422081",
+              "start": 3,
+              "username": "nocochip_main"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OcVMGKF4cg",
+              "end": 98,
+              "expanded_url": "https://x.com/nocochip_main/status/1957759452515328330/video/1",
+              "media_key": "13_1957457786142683136",
+              "start": 75,
+              "url": "https://t.co/OcVMGKF4cg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958021730708131904",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2110
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957759452515328330",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nocochip_main: 【undertaleAU】Bad time trio animation part2\n#undertaleAU https://t.co/OcVMGKF4cg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1957457786142683136"
+          ]
+        },
+        "author_id": "842029121429422081",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1957759452515328330",
+        "created_at": "2025-08-19T11:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957759452515328330"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "undertaleAU",
+              "probability": 0.6863,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 54,
+              "normalized_text": "undertaleAU",
+              "probability": 0.7819,
+              "start": 44,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 43,
+              "tag": "undertaleAU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OcVMGKF4cg",
+              "end": 79,
+              "expanded_url": "https://x.com/nocochip_main/status/1957759452515328330/video/1",
+              "media_key": "13_1957457786142683136",
+              "start": 56,
+              "url": "https://t.co/OcVMGKF4cg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957759452515328330",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4435,
+          "impression_count": 215879,
+          "like_count": 15620,
+          "quote_count": 78,
+          "reply_count": 36,
+          "retweet_count": 2110
+        },
+        "reply_settings": "everyone",
+        "text": "【undertaleAU】Bad time trio animation part2\n#undertaleAU https://t.co/OcVMGKF4cg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953486936422912000/qZREob8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 3056,
+          "like_count": 24053,
+          "listed_count": 5,
+          "media_count": 1510,
+          "tweet_count": 23132
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-15T15:06:01.000Z",
+        "description": "趣味絵描き。詳しくはURL先のLitlinkにて。 サブ→@nocochip_sub 創作→@nocochip_subsub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "nocochip_sub"
+              },
+              {
+                "end": 62,
+                "start": 46,
+                "username": "nocochip_subsub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nocochip",
+                "end": 23,
+                "expanded_url": "https://lit.link/nocochip",
+                "start": 0,
+                "url": "https://t.co/xdcIA71vWb"
+              }
+            ]
+          }
+        },
+        "id": "842029121429422081",
+        "location": "他サイトには\"ノコチップ\"と調べれば出ます",
+        "name": "ノコチップ",
+        "pinned_tweet_id": "1953641993458131443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919520539171028993/Dgq6GZo7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23270,
+          "following_count": 99,
+          "like_count": 7718,
+          "listed_count": 51,
+          "media_count": 1965,
+          "tweet_count": 5687
+        },
+        "url": "https://t.co/xdcIA71vWb",
+        "username": "nocochip_main",
+        "verified": false
+      }
+    ]
+  }
+}

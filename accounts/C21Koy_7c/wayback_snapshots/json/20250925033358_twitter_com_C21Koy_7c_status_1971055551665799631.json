@@ -1,0 +1,773 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044801920",
+          "name": "Overwatch"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044801920",
+          "name": "Overwatch"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1971055551665799631",
+    "created_at": "2025-09-25T03:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T04:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971055551665799631"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 112,
+          "normalized_text": "overwatch2",
+          "probability": 0.7143,
+          "start": 103,
+          "type": "Other"
+        },
+        {
+          "end": 120,
+          "normalized_text": "wuyang",
+          "probability": 0.737,
+          "start": 115,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 113,
+          "start": 102,
+          "tag": "overwatch2"
+        },
+        {
+          "end": 121,
+          "start": 114,
+          "tag": "wuyang"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1421148721325035520",
+          "start": 3,
+          "username": "emmmmabab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/y249",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/y249"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971055551665799631",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 702
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970756494363877637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @emmmmabab: I participated in this competition! If you like it, please support me and vote for me🥺\n#overwatch2 #wuyang https://t.co/y249…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1970756361702240256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1mIeC4acAAiSaQ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1970756363958792192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1mIeLSasAA-tk6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1970756363946172416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1mIeLPaIAAXs_u.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1970756361689718784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1mIeC1bYAAscHQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1971055551665799631",
+        "created_at": "2025-09-25T03:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T04:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971055551665799631"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 112,
+              "normalized_text": "overwatch2",
+              "probability": 0.7143,
+              "start": 103,
+              "type": "Other"
+            },
+            {
+              "end": 120,
+              "normalized_text": "wuyang",
+              "probability": 0.737,
+              "start": 115,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 113,
+              "start": 102,
+              "tag": "overwatch2"
+            },
+            {
+              "end": 121,
+              "start": 114,
+              "tag": "wuyang"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1421148721325035520",
+              "start": 3,
+              "username": "emmmmabab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/y249",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/y249"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971055551665799631",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 702
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970756494363877637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @emmmmabab: I participated in this competition! If you like it, please support me and vote for me🥺\n#overwatch2 #wuyang https://t.co/y249…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970756361702240256",
+            "3_1970756363958792192",
+            "3_1970756363946172416",
+            "3_1970756361689718784"
+          ]
+        },
+        "author_id": "1421148721325035520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1970756494363877637",
+        "created_at": "2025-09-24T07:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T08:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970756494363877637"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 97,
+              "normalized_text": "overwatch2",
+              "probability": 0.8128,
+              "start": 88,
+              "type": "Other"
+            },
+            {
+              "end": 105,
+              "normalized_text": "wuyang",
+              "probability": 0.7842,
+              "start": 100,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 87,
+              "tag": "overwatch2"
+            },
+            {
+              "end": 106,
+              "start": 99,
+              "tag": "wuyang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y249fQkpEY",
+              "end": 130,
+              "expanded_url": "https://x.com/emmmmabab/status/1970756494363877637/photo/1",
+              "media_key": "3_1970756361702240256",
+              "start": 107,
+              "url": "https://t.co/y249fQkpEY"
+            },
+            {
+              "display_url": "pic.x.com/y249fQkpEY",
+              "end": 130,
+              "expanded_url": "https://x.com/emmmmabab/status/1970756494363877637/photo/1",
+              "media_key": "3_1970756363958792192",
+              "start": 107,
+              "url": "https://t.co/y249fQkpEY"
+            },
+            {
+              "display_url": "pic.x.com/y249fQkpEY",
+              "end": 130,
+              "expanded_url": "https://x.com/emmmmabab/status/1970756494363877637/photo/1",
+              "media_key": "3_1970756363946172416",
+              "start": 107,
+              "url": "https://t.co/y249fQkpEY"
+            },
+            {
+              "display_url": "pic.x.com/y249fQkpEY",
+              "end": 130,
+              "expanded_url": "https://x.com/emmmmabab/status/1970756494363877637/photo/1",
+              "media_key": "3_1970756361689718784",
+              "start": 107,
+              "url": "https://t.co/y249fQkpEY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970756494363877637",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 591,
+          "impression_count": 75800,
+          "like_count": 4857,
+          "quote_count": 110,
+          "reply_count": 22,
+          "retweet_count": 702
+        },
+        "reply_settings": "everyone",
+        "text": "I participated in this competition! If you like it, please support me and vote for me🥺\n#overwatch2 #wuyang https://t.co/y249fQkpEY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964100290095042560/8WRhPH87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 3072,
+          "like_count": 24385,
+          "listed_count": 6,
+          "media_count": 1563,
+          "tweet_count": 23424
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-30T16:40:42.000Z",
+        "description": "learning 🌟画画✍️中文👌age:18⬆️ 🧐 🇩🇪：Siebzehn Weiß",
+        "id": "1421148721325035520",
+        "name": "一七白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775888252689596416/JfH5OhXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 147,
+          "like_count": 222,
+          "listed_count": 5,
+          "media_count": 71,
+          "tweet_count": 181
+        },
+        "username": "emmmmabab",
+        "verified": false
+      }
+    ]
+  }
+}

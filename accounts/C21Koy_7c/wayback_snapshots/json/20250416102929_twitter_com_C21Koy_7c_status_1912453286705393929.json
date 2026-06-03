@@ -1,0 +1,675 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1813963559308496896"
+      ],
+      "media_source_tweet_id": [
+        "1813963563695804643"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10027933222",
+          "name": "Call of Duty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1828473756735414272",
+          "name": "Call of Duty: Black Ops 6"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10027933222",
+          "name": "Call of Duty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197906382529294337",
+          "name": "Competitive games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1219785936931672064",
+          "name": "Call of Duty League"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1912453286705393929",
+    "created_at": "2025-04-16T10:29:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T11:29:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912453286705393929"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "Valeria Garza",
+          "probability": 0.9247,
+          "start": 13,
+          "type": "Person"
+        },
+        {
+          "end": 54,
+          "normalized_text": "CallofDuty",
+          "probability": 0.7628,
+          "start": 45,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 44,
+          "tag": "CallofDuty"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "708396810772090880",
+          "start": 3,
+          "username": "felrija"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J5GLQJtDEi",
+          "end": 79,
+          "expanded_url": "https://x.com/felrija/status/1813963563695804643/photo/1",
+          "media_key": "3_1813963559308496896",
+          "start": 56,
+          "url": "https://t.co/J5GLQJtDEi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912453286705393929",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 857
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813963563695804643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @felrija: Valeria Garza give me a chance #CallofDuty https://t.co/J5GLQJtDEi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2104,
+        "media_key": "3_1813963559308496896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSx-PxQWEAAmqGv.jpg",
+        "width": 1489
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1813963559308496896"
+          ],
+          "media_source_tweet_id": [
+            "1813963563695804643"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027933222",
+              "name": "Call of Duty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1828473756735414272",
+              "name": "Call of Duty: Black Ops 6"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027933222",
+              "name": "Call of Duty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1219785936931672064",
+              "name": "Call of Duty League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1912453286705393929",
+        "created_at": "2025-04-16T10:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T11:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912453286705393929"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "Valeria Garza",
+              "probability": 0.9247,
+              "start": 13,
+              "type": "Person"
+            },
+            {
+              "end": 54,
+              "normalized_text": "CallofDuty",
+              "probability": 0.7628,
+              "start": 45,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 44,
+              "tag": "CallofDuty"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "708396810772090880",
+              "start": 3,
+              "username": "felrija"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J5GLQJtDEi",
+              "end": 79,
+              "expanded_url": "https://x.com/felrija/status/1813963563695804643/photo/1",
+              "media_key": "3_1813963559308496896",
+              "start": 56,
+              "url": "https://t.co/J5GLQJtDEi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912453286705393929",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 857
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813963563695804643",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @felrija: Valeria Garza give me a chance #CallofDuty https://t.co/J5GLQJtDEi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1813963559308496896"
+          ]
+        },
+        "author_id": "708396810772090880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027933222",
+              "name": "Call of Duty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027933222",
+              "name": "Call of Duty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1813963563695804643",
+        "created_at": "2024-07-18T15:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T16:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813963563695804643"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "Valeria Garza",
+              "probability": 0.9495,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 41,
+              "normalized_text": "CallofDuty",
+              "probability": 0.766,
+              "start": 32,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 31,
+              "tag": "CallofDuty"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J5GLQJtDEi",
+              "end": 66,
+              "expanded_url": "https://x.com/felrija/status/1813963563695804643/photo/1",
+              "media_key": "3_1813963559308496896",
+              "start": 43,
+              "url": "https://t.co/J5GLQJtDEi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813963563695804643",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 776,
+          "impression_count": 101952,
+          "like_count": 6877,
+          "quote_count": 64,
+          "reply_count": 39,
+          "retweet_count": 857
+        },
+        "reply_settings": "everyone",
+        "text": "Valeria Garza give me a chance #CallofDuty https://t.co/J5GLQJtDEi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我yan｜肉鸦都可以",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912422021767524352/6G_fWcrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 2998,
+          "like_count": 22711,
+          "listed_count": 3,
+          "media_count": 1344,
+          "tweet_count": 21618
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-11T20:58:55.000Z",
+        "description": "23. Serbian 🇷🇸/🇧🇦 . she/она. I draw things I like. Message for commission work (OPEN). срб/eng.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/felrija",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/felrija",
+                "start": 0,
+                "url": "https://t.co/zxUNqLNqhV"
+              }
+            ]
+          }
+        },
+        "id": "708396810772090880",
+        "name": "Aleksandra",
+        "pinned_tweet_id": "1827081667296571426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788180098564104193/jtJ6DFdH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30332,
+          "following_count": 214,
+          "like_count": 91590,
+          "listed_count": 114,
+          "media_count": 2579,
+          "tweet_count": 56767
+        },
+        "url": "https://t.co/zxUNqLNqhV",
+        "username": "felrija",
+        "verified": false
+      }
+    ]
+  }
+}

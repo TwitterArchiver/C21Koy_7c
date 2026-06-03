@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1846966572331470848"
+      ],
+      "media_source_tweet_id": [
+        "1846966586403422507"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. ",
+          "id": "10041743512",
+          "name": "Tomb Raider"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. ",
+          "id": "10041743512",
+          "name": "Tomb Raider"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      }
+    ],
+    "conversation_id": "1847311737567203743",
+    "created_at": "2024-10-18T16:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-18T17:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847311737567203743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "872236468621758465",
+          "start": 3,
+          "username": "Alesz01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/41HK5yEXV5",
+          "end": 54,
+          "expanded_url": "https://x.com/Alesz01/status/1846966586403422507/photo/1",
+          "media_key": "3_1846966572331470848",
+          "start": 31,
+          "url": "https://t.co/41HK5yEXV5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847311737567203743",
+    "lang": "sv",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3801
+    },
+    "referenced_tweets": [
+      {
+        "id": "1846966586403422507",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alesz01: Lara Croft sketch https://t.co/41HK5yEXV5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3700,
+        "media_key": "3_1846966572331470848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaG-T9fWkAA4wNd.jpg",
+        "width": 3200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1846966572331470848"
+          ],
+          "media_source_tweet_id": [
+            "1846966586403422507"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. ",
+              "id": "10041743512",
+              "name": "Tomb Raider"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. ",
+              "id": "10041743512",
+              "name": "Tomb Raider"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          }
+        ],
+        "conversation_id": "1847311737567203743",
+        "created_at": "2024-10-18T16:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-18T17:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847311737567203743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "872236468621758465",
+              "start": 3,
+              "username": "Alesz01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/41HK5yEXV5",
+              "end": 54,
+              "expanded_url": "https://x.com/Alesz01/status/1846966586403422507/photo/1",
+              "media_key": "3_1846966572331470848",
+              "start": 31,
+              "url": "https://t.co/41HK5yEXV5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847311737567203743",
+        "lang": "sv",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3801
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846966586403422507",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alesz01: Lara Croft sketch https://t.co/41HK5yEXV5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1846966572331470848"
+          ]
+        },
+        "author_id": "872236468621758465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. ",
+              "id": "10041743512",
+              "name": "Tomb Raider"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. ",
+              "id": "10041743512",
+              "name": "Tomb Raider"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          }
+        ],
+        "conversation_id": "1846966586403422507",
+        "created_at": "2024-10-17T17:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-17T18:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1846966586403422507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/41HK5yEXV5",
+              "end": 41,
+              "expanded_url": "https://x.com/Alesz01/status/1846966586403422507/photo/1",
+              "media_key": "3_1846966572331470848",
+              "start": 18,
+              "url": "https://t.co/41HK5yEXV5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1846966586403422507",
+        "lang": "sv",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6835,
+          "impression_count": 378484,
+          "like_count": 40936,
+          "quote_count": 85,
+          "reply_count": 181,
+          "retweet_count": 3801
+        },
+        "reply_settings": "everyone",
+        "text": "Lara Croft sketch https://t.co/41HK5yEXV5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫 Bipolar patient/ they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT大概淡坑：COD/MK/恐影 不善表达 但是还算可以 请和我保持联络谢谢 尽力活着 我没恶意 我鼓起很大勇气才会评论你 lgbt+ GB GL大于BL BG",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1787381657340883290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842795137925255168/Z-0bJ2Zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 2832,
+          "like_count": 20022,
+          "listed_count": 3,
+          "tweet_count": 16567
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-06T23:39:14.000Z",
+        "description": "Commissions Closed!\nFreelance Illustrator | (22)\nother social medias: https://t.co/kYRYfdfvL1\n★★★\nPatreon https://t.co/XXdZ75ksku",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/alesz01",
+                "end": 93,
+                "expanded_url": "https://linktr.ee/alesz01",
+                "start": 70,
+                "url": "https://t.co/kYRYfdfvL1"
+              },
+              {
+                "display_url": "patreon.com/alesz01",
+                "end": 129,
+                "expanded_url": "http://patreon.com/alesz01",
+                "start": 106,
+                "url": "https://t.co/XXdZ75ksku"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/alesz0…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/alesz01.bsky.social",
+                "start": 0,
+                "url": "https://t.co/kFhxruA6fL"
+              }
+            ]
+          }
+        },
+        "id": "872236468621758465",
+        "name": "AL3S",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788252209106341888/-w0uwgeX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132179,
+          "following_count": 1455,
+          "like_count": 22904,
+          "listed_count": 524,
+          "tweet_count": 3219
+        },
+        "url": "https://t.co/kFhxruA6fL",
+        "username": "Alesz01",
+        "verified": false
+      }
+    ]
+  }
+}

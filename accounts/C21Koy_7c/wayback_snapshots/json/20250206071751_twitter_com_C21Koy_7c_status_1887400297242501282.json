@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887400287700459521"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1887400297242501282",
+    "created_at": "2025-02-06T07:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T08:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887400297242501282"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0JJwgl5lKj",
+          "end": 27,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1887400297242501282/photo/1",
+          "media_key": "3_1887400287700459521",
+          "start": 4,
+          "url": "https://t.co/0JJwgl5lKj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887400297242501282",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "痒痒的 https://t.co/0JJwgl5lKj"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1887400297242501282].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1887400297242501282",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1887400297242501282"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1887400287700459521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjFkj9FbIAEc68_.jpg",
+        "width": 1152
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH! 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影/三国 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人爱好者 会突然产出想法 BL吃的比其他少 但是会吃 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦肉臀臀",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885384535879409667/UEQG5lqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 2966,
+          "like_count": 21305,
+          "listed_count": 2,
+          "media_count": 1189,
+          "tweet_count": 19734
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,651 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1905250146448982016",
+        "3_1905250146461548544"
+      ],
+      "media_source_tweet_id": [
+        "1905250155512893852",
+        "1905250155512893852"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10027933222",
+          "name": "Call of Duty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10027933222",
+          "name": "Call of Duty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197906382529294337",
+          "name": "Competitive games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1905575936617316780",
+    "created_at": "2025-03-28T11:01:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T12:01:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905575936617316780"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "cod"
+        },
+        {
+          "end": 28,
+          "start": 23,
+          "tag": "zimo"
+        },
+        {
+          "end": 33,
+          "start": 29,
+          "tag": "oni"
+        },
+        {
+          "end": 42,
+          "start": 34,
+          "tag": "horangi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1862682915924320256",
+          "start": 3,
+          "username": "dawazi0201"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YnijKSCMA6",
+          "end": 66,
+          "expanded_url": "https://x.com/dawazi0201/status/1905250155512893852/photo/1",
+          "media_key": "3_1905250146448982016",
+          "start": 43,
+          "url": "https://t.co/YnijKSCMA6"
+        },
+        {
+          "display_url": "pic.x.com/YnijKSCMA6",
+          "end": 66,
+          "expanded_url": "https://x.com/dawazi0201/status/1905250155512893852/photo/1",
+          "media_key": "3_1905250146461548544",
+          "start": 43,
+          "url": "https://t.co/YnijKSCMA6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905575936617316780",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 257
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905250155512893852",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dawazi0201: 👊🏻#cod #zimo #oni #horangi https://t.co/YnijKSCMA6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1905250146448982016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnDO6etaQAAhuBZ.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1905250146461548544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnDO6ewaAAAOCjr.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905250146448982016",
+            "3_1905250146461548544"
+          ],
+          "media_source_tweet_id": [
+            "1905250155512893852",
+            "1905250155512893852"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027933222",
+              "name": "Call of Duty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027933222",
+              "name": "Call of Duty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1905575936617316780",
+        "created_at": "2025-03-28T11:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T12:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905575936617316780"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "cod"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "zimo"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "oni"
+            },
+            {
+              "end": 42,
+              "start": 34,
+              "tag": "horangi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1862682915924320256",
+              "start": 3,
+              "username": "dawazi0201"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YnijKSCMA6",
+              "end": 66,
+              "expanded_url": "https://x.com/dawazi0201/status/1905250155512893852/photo/1",
+              "media_key": "3_1905250146448982016",
+              "start": 43,
+              "url": "https://t.co/YnijKSCMA6"
+            },
+            {
+              "display_url": "pic.x.com/YnijKSCMA6",
+              "end": 66,
+              "expanded_url": "https://x.com/dawazi0201/status/1905250155512893852/photo/1",
+              "media_key": "3_1905250146461548544",
+              "start": 43,
+              "url": "https://t.co/YnijKSCMA6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905575936617316780",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 257
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905250155512893852",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dawazi0201: 👊🏻#cod #zimo #oni #horangi https://t.co/YnijKSCMA6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905250146448982016",
+            "3_1905250146461548544"
+          ]
+        },
+        "author_id": "1862682915924320256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027933222",
+              "name": "Call of Duty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027933222",
+              "name": "Call of Duty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1905250155512893852",
+        "created_at": "2025-03-27T13:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T14:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905250155512893852"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 2,
+              "tag": "cod"
+            },
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "zimo"
+            },
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "oni"
+            },
+            {
+              "end": 26,
+              "start": 18,
+              "tag": "horangi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YnijKSCMA6",
+              "end": 50,
+              "expanded_url": "https://x.com/dawazi0201/status/1905250155512893852/photo/1",
+              "media_key": "3_1905250146448982016",
+              "start": 27,
+              "url": "https://t.co/YnijKSCMA6"
+            },
+            {
+              "display_url": "pic.x.com/YnijKSCMA6",
+              "end": 50,
+              "expanded_url": "https://x.com/dawazi0201/status/1905250155512893852/photo/1",
+              "media_key": "3_1905250146461548544",
+              "start": 27,
+              "url": "https://t.co/YnijKSCMA6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905250155512893852",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 458,
+          "impression_count": 27474,
+          "like_count": 3429,
+          "quote_count": 8,
+          "reply_count": 3,
+          "retweet_count": 257
+        },
+        "reply_settings": "everyone",
+        "text": "👊🏻#cod #zimo #oni #horangi https://t.co/YnijKSCMA6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 但是还算可以 懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890691451258126336/lPqKitsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 2994,
+          "like_count": 22367,
+          "listed_count": 3,
+          "media_count": 1312,
+          "tweet_count": 21265
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T02:20:02.000Z",
+        "description": "🇨🇳 /只产出bg/cod/主oni、zimo乙向/🚫bl🚫",
+        "id": "1862682915924320256",
+        "location": "China",
+        "name": "大袜子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862683053942018048/RN_tsLnl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2291,
+          "following_count": 17,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 31
+        },
+        "username": "dawazi0201",
+        "verified": false
+      }
+    ]
+  }
+}

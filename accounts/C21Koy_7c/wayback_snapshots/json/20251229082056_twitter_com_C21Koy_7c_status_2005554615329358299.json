@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1610262265550503939"
+      ],
+      "media_source_tweet_id": [
+        "1610262551375548416"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "2005554615329358299",
+    "created_at": "2025-12-29T08:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T09:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005554615329358299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1515007449886965766",
+          "start": 3,
+          "username": "Baeqqqqqq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EC4zc5IswL",
+          "end": 42,
+          "expanded_url": "https://x.com/Baeqqqqqq/status/1610262551375548416/photo/1",
+          "media_key": "3_1610262265550503939",
+          "start": 19,
+          "url": "https://t.co/EC4zc5IswL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005554615329358299",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 467
+    },
+    "referenced_tweets": [
+      {
+        "id": "1610262551375548416",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Baeqqqqqq: 🐯🐯🐯 https://t.co/EC4zc5IswL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2005554615329358299].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2005554615329358299",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2005554615329358299"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1087,
+        "media_key": "3_1610262265550503939",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FljM_71agAMYYK9.jpg",
+        "width": 760
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1610262265550503939"
+          ]
+        },
+        "author_id": "1515007449886965766",
+        "conversation_id": "1610262551375548416",
+        "created_at": "2023-01-03T13:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-03T13:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1610262551375548416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EC4zc5IswL",
+              "end": 27,
+              "expanded_url": "https://x.com/Baeqqqqqq/status/1610262551375548416/photo/1",
+              "media_key": "3_1610262265550503939",
+              "start": 4,
+              "url": "https://t.co/EC4zc5IswL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1610262551375548416",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 218,
+          "impression_count": 49538,
+          "like_count": 3057,
+          "quote_count": 10,
+          "reply_count": 5,
+          "retweet_count": 467
+        },
+        "reply_settings": "everyone",
+        "text": "🐯🐯🐯 https://t.co/EC4zc5IswL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nay2841",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nay2841",
+                "start": 0,
+                "url": "https://t.co/p7oRHhHxDn"
+              }
+            ]
+          }
+        },
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987482127756410880/kunx4knz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 3221,
+          "like_count": 27398,
+          "listed_count": 5,
+          "media_count": 1863,
+          "tweet_count": 25913
+        },
+        "url": "https://t.co/p7oRHhHxDn",
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-15T16:41:44.000Z",
+        "description": "잡덕게임계 요즘은 Cyberpunk 2077...",
+        "id": "1515007449886965766",
+        "location": "헤더 돌려줘님",
+        "name": "아름다운분",
+        "pinned_tweet_id": "1607786431950516224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997940479112232960/uWUOyghE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 20,
+          "like_count": 2671,
+          "listed_count": 10,
+          "media_count": 199,
+          "tweet_count": 2085
+        },
+        "username": "Baeqqqqqq",
+        "verified": false
+      }
+    ]
+  }
+}

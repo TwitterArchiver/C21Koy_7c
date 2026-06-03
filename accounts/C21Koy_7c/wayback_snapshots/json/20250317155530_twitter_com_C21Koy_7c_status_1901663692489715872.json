@@ -1,0 +1,626 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1901365423976669184",
+        "3_1901365424001871872"
+      ],
+      "media_source_tweet_id": [
+        "1901365433682497926",
+        "1901365433682497926"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1138829560047259648",
+          "name": "Baldur's Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1138829560047259648",
+          "name": "Baldur's Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      }
+    ],
+    "conversation_id": "1901663692489715872",
+    "created_at": "2025-03-17T15:55:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T16:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901663692489715872"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 48,
+          "normalized_text": "BaldursGate3",
+          "probability": 0.6468,
+          "start": 37,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 36,
+          "tag": "BaldursGate3"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2752664207",
+          "start": 3,
+          "username": "MissAmethysa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PK3CBFVBPU",
+          "end": 73,
+          "expanded_url": "https://x.com/MissAmethysa/status/1901365433682497926/photo/1",
+          "media_key": "3_1901365423976669184",
+          "start": 50,
+          "url": "https://t.co/PK3CBFVBPU"
+        },
+        {
+          "display_url": "pic.x.com/PK3CBFVBPU",
+          "end": 73,
+          "expanded_url": "https://x.com/MissAmethysa/status/1901365433682497926/photo/1",
+          "media_key": "3_1901365424001871872",
+          "start": 50,
+          "url": "https://t.co/PK3CBFVBPU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901663692489715872",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 217
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901365433682497926",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MissAmethysa: Moon lesbians 🩵✨🌙\n#BaldursGate3 https://t.co/PK3CBFVBPU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1901365423976669184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmMBx3xW4AA1HMr.jpg",
+        "width": 1617
+      },
+      {
+        "height": 1023,
+        "media_key": "3_1901365424001871872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmMBx33XcAAnXTk.jpg",
+        "width": 821
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901365423976669184",
+            "3_1901365424001871872"
+          ],
+          "media_source_tweet_id": [
+            "1901365433682497926",
+            "1901365433682497926"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "1901663692489715872",
+        "created_at": "2025-03-17T15:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T16:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901663692489715872"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "BaldursGate3",
+              "probability": 0.6468,
+              "start": 37,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 36,
+              "tag": "BaldursGate3"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2752664207",
+              "start": 3,
+              "username": "MissAmethysa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PK3CBFVBPU",
+              "end": 73,
+              "expanded_url": "https://x.com/MissAmethysa/status/1901365433682497926/photo/1",
+              "media_key": "3_1901365423976669184",
+              "start": 50,
+              "url": "https://t.co/PK3CBFVBPU"
+            },
+            {
+              "display_url": "pic.x.com/PK3CBFVBPU",
+              "end": 73,
+              "expanded_url": "https://x.com/MissAmethysa/status/1901365433682497926/photo/1",
+              "media_key": "3_1901365424001871872",
+              "start": 50,
+              "url": "https://t.co/PK3CBFVBPU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901663692489715872",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 217
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901365433682497926",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MissAmethysa: Moon lesbians 🩵✨🌙\n#BaldursGate3 https://t.co/PK3CBFVBPU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901365423976669184",
+            "3_1901365424001871872"
+          ]
+        },
+        "author_id": "2752664207",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "1901365433682497926",
+        "created_at": "2025-03-16T20:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T21:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901365433682497926"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "BaldursGate3",
+              "probability": 0.7231,
+              "start": 19,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 18,
+              "tag": "BaldursGate3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PK3CBFVBPU",
+              "end": 55,
+              "expanded_url": "https://x.com/MissAmethysa/status/1901365433682497926/photo/1",
+              "media_key": "3_1901365423976669184",
+              "start": 32,
+              "url": "https://t.co/PK3CBFVBPU"
+            },
+            {
+              "display_url": "pic.x.com/PK3CBFVBPU",
+              "end": 55,
+              "expanded_url": "https://x.com/MissAmethysa/status/1901365433682497926/photo/1",
+              "media_key": "3_1901365424001871872",
+              "start": 32,
+              "url": "https://t.co/PK3CBFVBPU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901365433682497926",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 12138,
+          "like_count": 1208,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 217
+        },
+        "reply_settings": "everyone",
+        "text": "Moon lesbians 🩵✨🌙\n#BaldursGate3 https://t.co/PK3CBFVBPU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 但是还算可以 懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890691451258126336/lPqKitsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 2994,
+          "like_count": 22311,
+          "listed_count": 2,
+          "media_count": 1297,
+          "tweet_count": 21083
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-27T17:14:22.000Z",
+        "description": "Fantasy Fashion designer & illustrator | 💌missamethysa@gmail.com | BG3 enthusiast✨Find more at https://t.co/hMtXFgy9iE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/missamethysa",
+                "end": 118,
+                "expanded_url": "http://patreon.com/missamethysa",
+                "start": 95,
+                "url": "https://t.co/hMtXFgy9iE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/amethysa",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/amethysa",
+                "start": 0,
+                "url": "https://t.co/8BadWfHoFD"
+              }
+            ]
+          }
+        },
+        "id": "2752664207",
+        "location": "🇪🇸 Valencia, Spain //  EN/ES",
+        "name": "Amethysa",
+        "pinned_tweet_id": "1899130720938820092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698790020419670016/bzDqOgkA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51461,
+          "following_count": 575,
+          "like_count": 45809,
+          "listed_count": 285,
+          "media_count": 3527,
+          "tweet_count": 56844
+        },
+        "url": "https://t.co/8BadWfHoFD",
+        "username": "MissAmethysa",
+        "verified": false
+      }
+    ]
+  }
+}

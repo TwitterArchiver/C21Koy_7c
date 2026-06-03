@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970798546703265792"
+      ],
+      "media_source_tweet_id": [
+        "1970798746956165314"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "839543390668673024",
+          "name": "Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1285957056856391681",
+          "name": "Streetwear"
+        }
+      }
+    ],
+    "conversation_id": "1971101274532954613",
+    "created_at": "2025-09-25T06:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T07:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971101274532954613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "510253915",
+          "start": 3,
+          "username": "INGYUARTS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lRCNzj9vBW",
+          "end": 58,
+          "expanded_url": "https://x.com/INGYUARTS/status/1970798746956165314/photo/1",
+          "media_key": "3_1970798546703265792",
+          "start": 35,
+          "url": "https://t.co/lRCNzj9vBW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971101274532954613",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 168
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970798746956165314",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @INGYUARTS: Streetwear Kiriko 🍩 https://t.co/lRCNzj9vBW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1970798546703265792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1mu1iQasAAIQHp.jpg",
+        "width": 3147
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970798546703265792"
+          ],
+          "media_source_tweet_id": [
+            "1970798746956165314"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1285957056856391681",
+              "name": "Streetwear"
+            }
+          }
+        ],
+        "conversation_id": "1971101274532954613",
+        "created_at": "2025-09-25T06:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T07:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971101274532954613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "510253915",
+              "start": 3,
+              "username": "INGYUARTS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lRCNzj9vBW",
+              "end": 58,
+              "expanded_url": "https://x.com/INGYUARTS/status/1970798746956165314/photo/1",
+              "media_key": "3_1970798546703265792",
+              "start": 35,
+              "url": "https://t.co/lRCNzj9vBW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971101274532954613",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 168
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970798746956165314",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @INGYUARTS: Streetwear Kiriko 🍩 https://t.co/lRCNzj9vBW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970798546703265792"
+          ]
+        },
+        "author_id": "510253915",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1285957056856391681",
+              "name": "Streetwear"
+            }
+          }
+        ],
+        "conversation_id": "1970798746956165314",
+        "created_at": "2025-09-24T10:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T11:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970798746956165314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lRCNzj9vBW",
+              "end": 43,
+              "expanded_url": "https://x.com/INGYUARTS/status/1970798746956165314/photo/1",
+              "media_key": "3_1970798546703265792",
+              "start": 20,
+              "url": "https://t.co/lRCNzj9vBW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970798746956165314",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 259,
+          "impression_count": 18038,
+          "like_count": 1741,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 168
+        },
+        "reply_settings": "everyone",
+        "text": "Streetwear Kiriko 🍩 https://t.co/lRCNzj9vBW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964100290095042560/8WRhPH87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 3073,
+          "like_count": 24398,
+          "listed_count": 6,
+          "media_count": 1564,
+          "tweet_count": 23432
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-01T13:38:25.000Z",
+        "description": "i'm Wangcore and also making pre-rendering lighting stuff, i draw sometimes / for business inquiries: sodcjs113@naver.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/68451419",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/68451419",
+                "start": 0,
+                "url": "https://t.co/CrzJZbKkzy"
+              }
+            ]
+          }
+        },
+        "id": "510253915",
+        "location": "대한민국 🇰🇷",
+        "name": "인규 - COMMISSIONS OPEN",
+        "pinned_tweet_id": "1971017640081752247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968262808438710272/ew4YI-Iy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22066,
+          "following_count": 439,
+          "like_count": 11951,
+          "listed_count": 83,
+          "media_count": 1419,
+          "tweet_count": 6523
+        },
+        "url": "https://t.co/CrzJZbKkzy",
+        "username": "INGYUARTS",
+        "verified": false
+      }
+    ]
+  }
+}

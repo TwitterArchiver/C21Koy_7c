@@ -1,0 +1,531 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1945117593582661632"
+      ],
+      "media_source_tweet_id": [
+        "1945121173823541309"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      }
+    ],
+    "conversation_id": "1945835523106574591",
+    "created_at": "2025-07-17T13:18:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T14:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945835523106574591"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "Metric",
+          "probability": 0.5013,
+          "start": 14,
+          "type": "Person"
+        },
+        {
+          "end": 33,
+          "normalized_text": "Lost Kitten",
+          "probability": 0.8541,
+          "start": 23,
+          "type": "Other"
+        },
+        {
+          "end": 51,
+          "normalized_text": "Agnes Tachyon",
+          "probability": 0.777,
+          "start": 39,
+          "type": "Person"
+        },
+        {
+          "end": 63,
+          "normalized_text": "umamusume",
+          "probability": 0.6438,
+          "start": 55,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 64,
+          "start": 54,
+          "tag": "umamusume"
+        },
+        {
+          "end": 69,
+          "start": 65,
+          "tag": "ウマ娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1232965489845911552",
+          "start": 3,
+          "username": "mikuneki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O5Yi4Bxt3y",
+          "end": 93,
+          "expanded_url": "https://x.com/mikuneki/status/1945121173823541309/video/1",
+          "media_key": "13_1945117593582661632",
+          "start": 70,
+          "url": "https://t.co/O5Yi4Bxt3y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945835523106574591",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7446
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945121173823541309",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mikuneki: Metric - Lost Kitten but Agnes Tachyon\n\n#umamusume #ウマ娘 https://t.co/O5Yi4Bxt3y"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 100983,
+        "height": 720,
+        "media_key": "13_1945117593582661632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1945117593582661632/img/iobfgT1JwX_9LmA7.jpg",
+        "public_metrics": {
+          "view_count": 349907
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945117593582661632/vid/avc1/314x270/s-0PqG4qdxB-LEIi.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945117593582661632/vid/avc1/420x360/IrJeJxlNzD5UQww7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945117593582661632/vid/avc1/840x720/4T3QbD35ukhU_8fQ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1945117593582661632/pl/hPriC2rrMrqdvIct.m3u8?tag=14&v=cb7"
+          }
+        ],
+        "width": 840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1945117593582661632"
+          ],
+          "media_source_tweet_id": [
+            "1945121173823541309"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "1945835523106574591",
+        "created_at": "2025-07-17T13:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T14:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945835523106574591"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Metric",
+              "probability": 0.5013,
+              "start": 14,
+              "type": "Person"
+            },
+            {
+              "end": 33,
+              "normalized_text": "Lost Kitten",
+              "probability": 0.8541,
+              "start": 23,
+              "type": "Other"
+            },
+            {
+              "end": 51,
+              "normalized_text": "Agnes Tachyon",
+              "probability": 0.777,
+              "start": 39,
+              "type": "Person"
+            },
+            {
+              "end": 63,
+              "normalized_text": "umamusume",
+              "probability": 0.6438,
+              "start": 55,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 54,
+              "tag": "umamusume"
+            },
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "ウマ娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1232965489845911552",
+              "start": 3,
+              "username": "mikuneki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O5Yi4Bxt3y",
+              "end": 93,
+              "expanded_url": "https://x.com/mikuneki/status/1945121173823541309/video/1",
+              "media_key": "13_1945117593582661632",
+              "start": 70,
+              "url": "https://t.co/O5Yi4Bxt3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945835523106574591",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7446
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945121173823541309",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mikuneki: Metric - Lost Kitten but Agnes Tachyon\n\n#umamusume #ウマ娘 https://t.co/O5Yi4Bxt3y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1945117593582661632"
+          ]
+        },
+        "author_id": "1232965489845911552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "1945121173823541309",
+        "created_at": "2025-07-15T14:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T15:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945121173823541309"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Metric",
+              "probability": 0.5655,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 19,
+              "normalized_text": "Lost Kitten",
+              "probability": 0.8334,
+              "start": 9,
+              "type": "Other"
+            },
+            {
+              "end": 37,
+              "normalized_text": "Agnes Tachyon",
+              "probability": 0.7693,
+              "start": 25,
+              "type": "Person"
+            },
+            {
+              "end": 49,
+              "normalized_text": "umamusume",
+              "probability": 0.6124,
+              "start": 41,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 40,
+              "tag": "umamusume"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "ウマ娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O5Yi4Bxt3y",
+              "end": 79,
+              "expanded_url": "https://x.com/mikuneki/status/1945121173823541309/video/1",
+              "media_key": "13_1945117593582661632",
+              "start": 56,
+              "url": "https://t.co/O5Yi4Bxt3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945121173823541309",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17177,
+          "impression_count": 823666,
+          "like_count": 56461,
+          "quote_count": 198,
+          "reply_count": 181,
+          "retweet_count": 7446
+        },
+        "reply_settings": "everyone",
+        "text": "Metric - Lost Kitten but Agnes Tachyon\n\n#umamusume #ウマ娘 https://t.co/O5Yi4Bxt3y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 3025,
+          "like_count": 23584,
+          "listed_count": 3,
+          "media_count": 1479,
+          "tweet_count": 22723
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-27T09:47:45.000Z",
+        "description": "IG: https://t.co/glYHQg4wIn \nKo-fi: https://t.co/MXcadEBVyo\nArt Tag: #NekiLines",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 69,
+                "tag": "NekiLines"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/mikunekii/",
+                "end": 27,
+                "expanded_url": "https://www.instagram.com/mikunekii/",
+                "start": 4,
+                "url": "https://t.co/glYHQg4wIn"
+              },
+              {
+                "display_url": "ko-fi.com/mikuneki",
+                "end": 59,
+                "expanded_url": "https://ko-fi.com/mikuneki",
+                "start": 36,
+                "url": "https://t.co/MXcadEBVyo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/mikuneki",
+                "end": 23,
+                "expanded_url": "https://vgen.co/mikuneki",
+                "start": 0,
+                "url": "https://t.co/XItR0XjDw5"
+              }
+            ]
+          }
+        },
+        "id": "1232965489845911552",
+        "name": "Mikuneki 🦇",
+        "pinned_tweet_id": "1928088940919054503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928092136525672448/akAwbdVi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213084,
+          "following_count": 553,
+          "like_count": 14926,
+          "listed_count": 398,
+          "media_count": 311,
+          "tweet_count": 1352
+        },
+        "url": "https://t.co/XItR0XjDw5",
+        "username": "mikuneki",
+        "verified": false
+      }
+    ]
+  }
+}

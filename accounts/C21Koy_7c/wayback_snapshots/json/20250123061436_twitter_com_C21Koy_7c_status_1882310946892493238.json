@@ -1,0 +1,525 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1882085654575869953",
+        "3_1882085728106274816",
+        "3_1882085847333515264",
+        "3_1882086718784049152"
+      ],
+      "media_source_tweet_id": [
+        "1882087313322496399",
+        "1882087313322496399",
+        "1882087313322496399",
+        "1882087313322496399"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1882310946892493238",
+    "created_at": "2025-01-23T06:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T07:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882310946892493238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1864526271109320704",
+          "start": 3,
+          "username": "stylishtrash"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wXX9UvKUoQ",
+          "end": 86,
+          "expanded_url": "https://x.com/stylishtrash/status/1882087313322496399/photo/1",
+          "media_key": "3_1882085654575869953",
+          "start": 63,
+          "url": "https://t.co/wXX9UvKUoQ"
+        },
+        {
+          "display_url": "pic.x.com/wXX9UvKUoQ",
+          "end": 86,
+          "expanded_url": "https://x.com/stylishtrash/status/1882087313322496399/photo/1",
+          "media_key": "3_1882085728106274816",
+          "start": 63,
+          "url": "https://t.co/wXX9UvKUoQ"
+        },
+        {
+          "display_url": "pic.x.com/wXX9UvKUoQ",
+          "end": 86,
+          "expanded_url": "https://x.com/stylishtrash/status/1882087313322496399/photo/1",
+          "media_key": "3_1882085847333515264",
+          "start": 63,
+          "url": "https://t.co/wXX9UvKUoQ"
+        },
+        {
+          "display_url": "pic.x.com/wXX9UvKUoQ",
+          "end": 86,
+          "expanded_url": "https://x.com/stylishtrash/status/1882087313322496399/photo/1",
+          "media_key": "3_1882086718784049152",
+          "start": 63,
+          "url": "https://t.co/wXX9UvKUoQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882310946892493238",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882087313322496399",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stylishtrash: dol絵でフォローしてくれた皆さんこんにちは、ぜひわたしが昔描いたdol絵を見てください https://t.co/wXX9UvKUoQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1882085654575869953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh6C7l3acAESYC4.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3155,
+        "media_key": "3_1882085728106274816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh6C_3ybYAA6gTV.jpg",
+        "width": 1864
+      },
+      {
+        "height": 2292,
+        "media_key": "3_1882085847333515264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh6DGz8asAAXbJo.png",
+        "width": 2582
+      },
+      {
+        "height": 1239,
+        "media_key": "3_1882086718784049152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh6D5iWakAADldc.jpg",
+        "width": 2574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882085654575869953",
+            "3_1882085728106274816",
+            "3_1882085847333515264",
+            "3_1882086718784049152"
+          ],
+          "media_source_tweet_id": [
+            "1882087313322496399",
+            "1882087313322496399",
+            "1882087313322496399",
+            "1882087313322496399"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1882310946892493238",
+        "created_at": "2025-01-23T06:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T07:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882310946892493238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1864526271109320704",
+              "start": 3,
+              "username": "stylishtrash"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wXX9UvKUoQ",
+              "end": 86,
+              "expanded_url": "https://x.com/stylishtrash/status/1882087313322496399/photo/1",
+              "media_key": "3_1882085654575869953",
+              "start": 63,
+              "url": "https://t.co/wXX9UvKUoQ"
+            },
+            {
+              "display_url": "pic.x.com/wXX9UvKUoQ",
+              "end": 86,
+              "expanded_url": "https://x.com/stylishtrash/status/1882087313322496399/photo/1",
+              "media_key": "3_1882085728106274816",
+              "start": 63,
+              "url": "https://t.co/wXX9UvKUoQ"
+            },
+            {
+              "display_url": "pic.x.com/wXX9UvKUoQ",
+              "end": 86,
+              "expanded_url": "https://x.com/stylishtrash/status/1882087313322496399/photo/1",
+              "media_key": "3_1882085847333515264",
+              "start": 63,
+              "url": "https://t.co/wXX9UvKUoQ"
+            },
+            {
+              "display_url": "pic.x.com/wXX9UvKUoQ",
+              "end": 86,
+              "expanded_url": "https://x.com/stylishtrash/status/1882087313322496399/photo/1",
+              "media_key": "3_1882086718784049152",
+              "start": 63,
+              "url": "https://t.co/wXX9UvKUoQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882310946892493238",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882087313322496399",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stylishtrash: dol絵でフォローしてくれた皆さんこんにちは、ぜひわたしが昔描いたdol絵を見てください https://t.co/wXX9UvKUoQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882085654575869953",
+            "3_1882085728106274816",
+            "3_1882085847333515264",
+            "3_1882086718784049152"
+          ]
+        },
+        "author_id": "1864526271109320704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1882087313322496399",
+        "created_at": "2025-01-22T15:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T16:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882087313322496399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wXX9UvKUoQ",
+              "end": 68,
+              "expanded_url": "https://x.com/stylishtrash/status/1882087313322496399/photo/1",
+              "media_key": "3_1882085654575869953",
+              "start": 45,
+              "url": "https://t.co/wXX9UvKUoQ"
+            },
+            {
+              "display_url": "pic.x.com/wXX9UvKUoQ",
+              "end": 68,
+              "expanded_url": "https://x.com/stylishtrash/status/1882087313322496399/photo/1",
+              "media_key": "3_1882085728106274816",
+              "start": 45,
+              "url": "https://t.co/wXX9UvKUoQ"
+            },
+            {
+              "display_url": "pic.x.com/wXX9UvKUoQ",
+              "end": 68,
+              "expanded_url": "https://x.com/stylishtrash/status/1882087313322496399/photo/1",
+              "media_key": "3_1882085847333515264",
+              "start": 45,
+              "url": "https://t.co/wXX9UvKUoQ"
+            },
+            {
+              "display_url": "pic.x.com/wXX9UvKUoQ",
+              "end": 68,
+              "expanded_url": "https://x.com/stylishtrash/status/1882087313322496399/photo/1",
+              "media_key": "3_1882086718784049152",
+              "start": 45,
+              "url": "https://t.co/wXX9UvKUoQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882087313322496399",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 4371,
+          "like_count": 351,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "dol絵でフォローしてくれた皆さんこんにちは、ぜひわたしが昔描いたdol絵を見てください https://t.co/wXX9UvKUoQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH言论 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影/三国 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人爱好者 会突然产出想法 BL吃的比其他少 但是会吃 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦肉臀臀",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 2964,
+          "like_count": 20936,
+          "listed_count": 2,
+          "media_count": 1152,
+          "tweet_count": 19242
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T04:24:50.000Z",
+        "description": "https://t.co/xBbxZdWZWK ←ちやほやしてください！　 VRChat @sleepy_factory",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "sleepy_factory"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/zfjmsbm1zn9hdl…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/zfjmsbm1zn9hdll?t=8AY6pi&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/xBbxZdWZWK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/stylishtrash",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/stylishtrash",
+                "start": 0,
+                "url": "https://t.co/ADhAXKfJHK"
+              }
+            ]
+          }
+        },
+        "id": "1864526271109320704",
+        "location": "dont use my pic",
+        "name": "すた",
+        "pinned_tweet_id": "1877585906078724554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880958439591186433/asNsvKaQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 32,
+          "like_count": 250,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 127
+        },
+        "url": "https://t.co/ADhAXKfJHK",
+        "username": "stylishtrash",
+        "verified": false
+      }
+    ]
+  }
+}

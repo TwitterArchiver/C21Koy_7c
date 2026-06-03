@@ -1,0 +1,476 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950828403919380480"
+      ],
+      "media_source_tweet_id": [
+        "1950828407857791230"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1151840382751141889",
+          "name": "Golden Kamuy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1151840382751141889",
+          "name": "Golden Kamuy"
+        }
+      }
+    ],
+    "conversation_id": "1950913573129003339",
+    "created_at": "2025-07-31T13:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T14:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950913573129003339"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "尾莉帕萌",
+          "probability": 0.594,
+          "start": 21,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 26,
+          "tag": "ゴールデンカムイ"
+        },
+        {
+          "end": 40,
+          "start": 36,
+          "tag": "尾リパ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1337664266510295041",
+          "start": 3,
+          "username": "STARKIN95351437"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NZzFXAUJnQ",
+          "end": 64,
+          "expanded_url": "https://x.com/STARKIN95351437/status/1950828407857791230/photo/1",
+          "media_key": "3_1950828403919380480",
+          "start": 41,
+          "url": "https://t.co/NZzFXAUJnQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950913573129003339",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950828407857791230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @STARKIN95351437: 尾莉帕萌 #ゴールデンカムイ #尾リパ https://t.co/NZzFXAUJnQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_1950828403919380480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxK8GPFbYAA2cqH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950828403919380480"
+          ],
+          "media_source_tweet_id": [
+            "1950828407857791230"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1151840382751141889",
+              "name": "Golden Kamuy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1151840382751141889",
+              "name": "Golden Kamuy"
+            }
+          }
+        ],
+        "conversation_id": "1950913573129003339",
+        "created_at": "2025-07-31T13:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T14:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950913573129003339"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "尾莉帕萌",
+              "probability": 0.594,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 26,
+              "tag": "ゴールデンカムイ"
+            },
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "尾リパ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1337664266510295041",
+              "start": 3,
+              "username": "STARKIN95351437"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NZzFXAUJnQ",
+              "end": 64,
+              "expanded_url": "https://x.com/STARKIN95351437/status/1950828407857791230/photo/1",
+              "media_key": "3_1950828403919380480",
+              "start": 41,
+              "url": "https://t.co/NZzFXAUJnQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950913573129003339",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950828407857791230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @STARKIN95351437: 尾莉帕萌 #ゴールデンカムイ #尾リパ https://t.co/NZzFXAUJnQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950828403919380480"
+          ]
+        },
+        "author_id": "1337664266510295041",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1151840382751141889",
+              "name": "Golden Kamuy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1151840382751141889",
+              "name": "Golden Kamuy"
+            }
+          }
+        ],
+        "conversation_id": "1950828407857791230",
+        "created_at": "2025-07-31T07:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T08:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950828407857791230"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "尾莉帕萌",
+              "probability": 0.6093,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 5,
+              "tag": "ゴールデンカムイ"
+            },
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "尾リパ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NZzFXAUJnQ",
+              "end": 43,
+              "expanded_url": "https://x.com/STARKIN95351437/status/1950828407857791230/photo/1",
+              "media_key": "3_1950828403919380480",
+              "start": 20,
+              "url": "https://t.co/NZzFXAUJnQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950828407857791230",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 2281,
+          "like_count": 184,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "尾莉帕萌 #ゴールデンカムイ #尾リパ https://t.co/NZzFXAUJnQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947781415615025152/-8pHQpZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 3036,
+          "like_count": 23856,
+          "listed_count": 3,
+          "media_count": 1494,
+          "tweet_count": 22946
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-12T07:43:25.000Z",
+        "description": "Hii nice to meet u guys！🥳",
+        "id": "1337664266510295041",
+        "name": "Yiiixux",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1510953104971247617/UFCmGswt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 27,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 67
+        },
+        "username": "STARKIN95351437",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1771601783498137600",
+        "3_1771601796391383040"
+      ],
+      "media_source_tweet_id": [
+        "1771601807992590773",
+        "1771601807992590773"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1875607504450887707",
+    "created_at": "2025-01-04T18:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T19:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875607504450887707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1699723084587204608",
+          "start": 3,
+          "username": "solublesalt123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hiHj96Eb3L",
+          "end": 90,
+          "expanded_url": "https://x.com/solublesalt123/status/1771601807992590773/photo/1",
+          "media_key": "3_1771601783498137600",
+          "start": 67,
+          "url": "https://t.co/hiHj96Eb3L"
+        },
+        {
+          "display_url": "pic.x.com/hiHj96Eb3L",
+          "end": 90,
+          "expanded_url": "https://x.com/solublesalt123/status/1771601807992590773/photo/1",
+          "media_key": "3_1771601796391383040",
+          "start": 67,
+          "url": "https://t.co/hiHj96Eb3L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875607504450887707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 607
+    },
+    "referenced_tweets": [
+      {
+        "id": "1771601807992590773",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @solublesalt123: 诈尸发存货。。。忙校考一直没时间画但是我没爬坑啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊 https://t.co/hiHj96Eb3L"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1875607504450887707].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1875607504450887707",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1875607504450887707"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1822,
+        "media_key": "3_1771601783498137600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GJX-b4za4AAVqtq.jpg",
+        "width": 1791
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1771601796391383040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GJX-co1aMAAKI4w.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1771601783498137600",
+            "3_1771601796391383040"
+          ]
+        },
+        "author_id": "1699723084587204608",
+        "conversation_id": "1771601807992590773",
+        "created_at": "2024-03-23T18:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-03-23T19:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1771601807992590773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hiHj96Eb3L",
+              "end": 70,
+              "expanded_url": "https://x.com/solublesalt123/status/1771601807992590773/photo/1",
+              "media_key": "3_1771601783498137600",
+              "start": 47,
+              "url": "https://t.co/hiHj96Eb3L"
+            },
+            {
+              "display_url": "pic.x.com/hiHj96Eb3L",
+              "end": 70,
+              "expanded_url": "https://x.com/solublesalt123/status/1771601807992590773/photo/1",
+              "media_key": "3_1771601796391383040",
+              "start": 47,
+              "url": "https://t.co/hiHj96Eb3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1771601807992590773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 901,
+          "impression_count": 82851,
+          "like_count": 3017,
+          "quote_count": 59,
+          "reply_count": 9,
+          "retweet_count": 607
+        },
+        "reply_settings": "everyone",
+        "text": "诈尸发存货。。。忙校考一直没时间画但是我没爬坑啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊 https://t.co/hiHj96Eb3L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人女 会突然产出想法 BL吃的较少 但是会吃 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 2961,
+          "like_count": 20882,
+          "listed_count": 2,
+          "media_count": 1124,
+          "tweet_count": 18861
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-07T09:55:43.000Z",
+        "description": "称呼＝盐｜中文/English⭕｜🚫AI禁止🚫｜👁️DOL沉迷中👁️....凯拉尔全肯定bot+含凯pc浓度｜现生忙低浮上...｜爬坑前这个账会一直在，没销就没爬",
+        "id": "1699723084587204608",
+        "name": "可溶盐",
+        "pinned_tweet_id": "1743805775812931618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734222852868747264/0JwovunC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6195,
+          "following_count": 101,
+          "like_count": 1147,
+          "listed_count": 5,
+          "media_count": 157,
+          "tweet_count": 1124
+        },
+        "username": "solublesalt123",
+        "verified": false
+      }
+    ]
+  }
+}

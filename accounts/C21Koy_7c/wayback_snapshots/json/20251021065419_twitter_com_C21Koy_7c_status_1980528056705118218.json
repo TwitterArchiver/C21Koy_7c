@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "conversation_id": "1980290606212755704",
+    "created_at": "2025-10-21T06:54:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T07:54:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980528056705118218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1690720072246153217",
+          "start": 0,
+          "username": "Kaliamiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980528056705118218",
+    "in_reply_to_user_id": "1690720072246153217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980290606212755704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kaliamiao 兔儿这个毛绒"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1980290606212755704].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1980290606212755704",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1980290606212755704"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "conversation_id": "1980290606212755704",
+        "created_at": "2025-10-21T06:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T07:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980528056705118218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1690720072246153217",
+              "start": 0,
+              "username": "Kaliamiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980528056705118218",
+        "in_reply_to_user_id": "1690720072246153217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980290606212755704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kaliamiao 兔儿这个毛绒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964100290095042560/8WRhPH87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 3116,
+          "like_count": 24941,
+          "listed_count": 5,
+          "media_count": 1637,
+          "tweet_count": 23944
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T13:40:59.000Z",
+        "description": "🏛️🇪🇪🇺🇦🇨🇿🇸🇮🇬🇷🇬🇪🇨🇱🇦🇷🇬🇱🇰🇾🇩🇰🇩🇪🇺🇸☝️🤓世界和平 坐标:美因多纳ÁnsloMälardrottningen 工业科技迷 心理生物迷 社科手工迷\nLos gatos son originarios de la tierra de conejos",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Abyssbornenocturne.ee",
+                "end": 23,
+                "expanded_url": "http://Abyssbornenocturne.ee",
+                "start": 0,
+                "url": "https://t.co/ouJtB5x4xq"
+              }
+            ]
+          }
+        },
+        "id": "1690720072246153217",
+        "location": "He/She/They",
+        "name": "浣门跟随者🙏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980222445463207936/8ToZxEa7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 1640,
+          "like_count": 31675,
+          "listed_count": 3,
+          "media_count": 1026,
+          "tweet_count": 16210
+        },
+        "url": "https://t.co/ouJtB5x4xq",
+        "username": "Kaliamiao",
+        "verified": false
+      }
+    ]
+  }
+}

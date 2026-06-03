@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1841849020408639488",
+        "3_1841849020312125441",
+        "3_1841849020307931141",
+        "3_1841849020307931137"
+      ],
+      "media_source_tweet_id": [
+        "1841849037118701664",
+        "1841849037118701664",
+        "1841849037118701664",
+        "1841849037118701664"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1842153560794108286",
+    "created_at": "2024-10-04T10:43:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-04T11:43:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842153560794108286"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 15,
+          "tag": "sh"
+        },
+        {
+          "end": 25,
+          "start": 19,
+          "tag": "shtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1452123941686976519",
+          "start": 3,
+          "username": "C21Koy_7c"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NYjm2CEd3I",
+          "end": 59,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1841849037118701664/photo/1",
+          "media_key": "3_1841849020408639488",
+          "start": 36,
+          "url": "https://t.co/NYjm2CEd3I"
+        },
+        {
+          "display_url": "pic.x.com/NYjm2CEd3I",
+          "end": 59,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1841849037118701664/photo/1",
+          "media_key": "3_1841849020312125441",
+          "start": 36,
+          "url": "https://t.co/NYjm2CEd3I"
+        },
+        {
+          "display_url": "pic.x.com/NYjm2CEd3I",
+          "end": 59,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1841849037118701664/photo/1",
+          "media_key": "3_1841849020307931141",
+          "start": 36,
+          "url": "https://t.co/NYjm2CEd3I"
+        },
+        {
+          "display_url": "pic.x.com/NYjm2CEd3I",
+          "end": 59,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1841849037118701664/photo/1",
+          "media_key": "3_1841849020307931137",
+          "start": 36,
+          "url": "https://t.co/NYjm2CEd3I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842153560794108286",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841849037118701664",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @C21Koy_7c: #sh #shtwt 血珠珠 meow！ https://t.co/NYjm2CEd3I"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1842153560794108286].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1842153560794108286",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1842153560794108286"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1841849020408639488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GY-P7O9bsAAHIx8.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_1841849020312125441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GY-P7OmbAAEHmmH.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1841849020307931141",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GY-P7OlbAAUqNmC.jpg",
+        "width": 2498
+      },
+      {
+        "height": 2593,
+        "media_key": "3_1841849020307931137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GY-P7OlbAAE2axw.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841849020408639488",
+            "3_1841849020312125441",
+            "3_1841849020307931141",
+            "3_1841849020307931137"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1841849037118701664",
+        "created_at": "2024-10-03T14:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T15:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841849037118701664"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "sh"
+            },
+            {
+              "end": 10,
+              "start": 4,
+              "tag": "shtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NYjm2CEd3I",
+              "end": 44,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1841849037118701664/photo/1",
+              "media_key": "3_1841849020408639488",
+              "start": 21,
+              "url": "https://t.co/NYjm2CEd3I"
+            },
+            {
+              "display_url": "pic.x.com/NYjm2CEd3I",
+              "end": 44,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1841849037118701664/photo/1",
+              "media_key": "3_1841849020312125441",
+              "start": 21,
+              "url": "https://t.co/NYjm2CEd3I"
+            },
+            {
+              "display_url": "pic.x.com/NYjm2CEd3I",
+              "end": 44,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1841849037118701664/photo/1",
+              "media_key": "3_1841849020307931141",
+              "start": 21,
+              "url": "https://t.co/NYjm2CEd3I"
+            },
+            {
+              "display_url": "pic.x.com/NYjm2CEd3I",
+              "end": 44,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1841849037118701664/photo/1",
+              "media_key": "3_1841849020307931137",
+              "start": 21,
+              "url": "https://t.co/NYjm2CEd3I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841849037118701664",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#sh #shtwt 血珠珠 meow！ https://t.co/NYjm2CEd3I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫 Bipolar patient/ they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT大概淡坑：COD/MK/恐影 不善表达 但是还算nice 请和我保持联络谢谢 努力尽力活着",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1787381657340883290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839204245423403008/lGS1aYqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 2813,
+          "like_count": 20036,
+          "listed_count": 3,
+          "tweet_count": 16020
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      }
+    ]
+  }
+}

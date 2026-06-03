@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886081201837944832"
+      ],
+      "media_source_tweet_id": [
+        "1886081218648662342"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1886088151086870793",
+    "created_at": "2025-02-02T16:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T17:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886088151086870793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1349169836782399488",
+          "start": 3,
+          "username": "puckpatties"
+        },
+        {
+          "end": 26,
+          "id": "3412281493",
+          "start": 17,
+          "username": "bbnomula"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ReOHeaQuS1",
+          "end": 74,
+          "expanded_url": "https://x.com/puckpatties/status/1886081218648662342/photo/1",
+          "media_key": "3_1886081201837944832",
+          "start": 51,
+          "url": "https://t.co/ReOHeaQuS1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886088151086870793",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886081218648662342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @puckpatties: @bbnomula how about we compromise https://t.co/ReOHeaQuS1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 424,
+        "media_key": "3_1886081201837944832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Giy03DUXsAAfQ5u.png",
+        "width": 236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886081201837944832"
+          ],
+          "media_source_tweet_id": [
+            "1886081218648662342"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1886088151086870793",
+        "created_at": "2025-02-02T16:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T17:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886088151086870793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1349169836782399488",
+              "start": 3,
+              "username": "puckpatties"
+            },
+            {
+              "end": 26,
+              "id": "3412281493",
+              "start": 17,
+              "username": "bbnomula"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ReOHeaQuS1",
+              "end": 74,
+              "expanded_url": "https://x.com/puckpatties/status/1886081218648662342/photo/1",
+              "media_key": "3_1886081201837944832",
+              "start": 51,
+              "url": "https://t.co/ReOHeaQuS1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886088151086870793",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886081218648662342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @puckpatties: @bbnomula how about we compromise https://t.co/ReOHeaQuS1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886081201837944832"
+          ]
+        },
+        "author_id": "1349169836782399488",
+        "conversation_id": "1886079504621375713",
+        "created_at": "2025-02-02T15:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T16:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886081218648662342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3412281493",
+              "start": 0,
+              "username": "bbnomula"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ReOHeaQuS1",
+              "end": 57,
+              "expanded_url": "https://x.com/puckpatties/status/1886081218648662342/photo/1",
+              "media_key": "3_1886081201837944832",
+              "start": 34,
+              "url": "https://t.co/ReOHeaQuS1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886081218648662342",
+        "in_reply_to_user_id": "3412281493",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 418,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886079504621375713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbnomula how about we compromise https://t.co/ReOHeaQuS1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH! 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影/三国 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人爱好者 会突然产出想法 BL吃的比其他少 但是会吃 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦肉臀臀",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885384535879409667/UEQG5lqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 2965,
+          "like_count": 21204,
+          "listed_count": 2,
+          "media_count": 1179,
+          "tweet_count": 19637
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-13T01:42:15.000Z",
+        "description": "ho is you on shimmer? ic : swagpescado",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "leagueofderp.straw.page",
+                "end": 23,
+                "expanded_url": "https://leagueofderp.straw.page/",
+                "start": 0,
+                "url": "https://t.co/0YTnY22MZv"
+              }
+            ]
+          }
+        },
+        "id": "1349169836782399488",
+        "location": "she he ⚢ 6teen",
+        "name": "viktor aegyo 🐾",
+        "pinned_tweet_id": "1881383187664035999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883203678653288448/oAZ3ZeQ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 387,
+          "like_count": 117563,
+          "listed_count": 10,
+          "media_count": 7110,
+          "tweet_count": 42045
+        },
+        "url": "https://t.co/0YTnY22MZv",
+        "username": "puckpatties",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-01T07:08:47.000Z",
+        "description": "it’s baby no money +1 (808) 900-4493",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbnomula.com",
+                "end": 23,
+                "expanded_url": "https://bbnomula.com/",
+                "start": 0,
+                "url": "https://t.co/hkRWYVnDvC"
+              }
+            ]
+          }
+        },
+        "id": "3412281493",
+        "location": "Vancouver, British Columbia",
+        "name": "bbno$ 👶🚫💰",
+        "pinned_tweet_id": "1885427975350296984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848786287412510720/epOw08zD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549504,
+          "following_count": 740,
+          "like_count": 3759,
+          "listed_count": 193,
+          "media_count": 819,
+          "tweet_count": 2588
+        },
+        "url": "https://t.co/hkRWYVnDvC",
+        "username": "bbnomula",
+        "verified": true
+      }
+    ]
+  }
+}

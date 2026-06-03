@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "conversation_id": "1837397995366896127",
+    "created_at": "2024-09-30T10:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T11:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840693413710290984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1424412027741605891",
+          "start": 0,
+          "username": "targgg_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840693413710290984",
+    "in_reply_to_user_id": "1424412027741605891",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837397995366896127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@targgg_ 一起打第五的塔日格"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "conversation_id": "1837397995366896127",
+        "created_at": "2024-09-30T10:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T11:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840693413710290984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1424412027741605891",
+              "start": 0,
+              "username": "targgg_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840693413710290984",
+        "in_reply_to_user_id": "1424412027741605891",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837397995366896127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@targgg_ 一起打第五的塔日格"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424412027741605891",
+        "conversation_id": "1837397995366896127",
+        "created_at": "2024-09-21T07:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T08:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837397995366896127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837397995366896127",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7114,
+          "like_count": 171,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有人记得我么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫 they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT大概淡坑：COD/MK/恐影 不善表达 但是还算nice",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1787381657340883290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839204245423403008/lGS1aYqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 2805,
+          "like_count": 19918,
+          "listed_count": 2,
+          "tweet_count": 15811
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-08T16:48:02.000Z",
+        "description": "你可以叫我targ",
+        "id": "1424412027741605891",
+        "name": "鲑鱼茶泡饭",
+        "pinned_tweet_id": "1840577826183152092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825353356744802304/8AG655_f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1737,
+          "following_count": 2468,
+          "like_count": 25445,
+          "listed_count": 14,
+          "tweet_count": 9267
+        },
+        "username": "targgg_",
+        "verified": false
+      }
+    ]
+  }
+}

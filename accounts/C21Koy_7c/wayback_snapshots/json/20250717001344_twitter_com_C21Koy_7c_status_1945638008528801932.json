@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945449008664903680"
+      ],
+      "media_source_tweet_id": [
+        "1945449935606006045"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      }
+    ],
+    "conversation_id": "1945638008528801932",
+    "created_at": "2025-07-17T00:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T01:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945638008528801932"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "Summer Gold Ship",
+          "probability": 0.6007,
+          "start": 19,
+          "type": "Other"
+        },
+        {
+          "end": 49,
+          "normalized_text": "umamusume",
+          "probability": 0.5923,
+          "start": 41,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 40,
+          "tag": "umamusume"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "939152194544181249",
+          "start": 3,
+          "username": "overtonerhine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ztKrXoFVHF",
+          "end": 74,
+          "expanded_url": "https://x.com/overtonerhine/status/1945449935606006045/photo/1",
+          "media_key": "3_1945449008664903680",
+          "start": 51,
+          "url": "https://t.co/ztKrXoFVHF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945638008528801932",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3568
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945449935606006045",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overtonerhine: Summer Gold Ship 🥰🥰🥰 #umamusume https://t.co/ztKrXoFVHF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3317,
+        "media_key": "3_1945449008664903680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv-fkOIbgAAEdKz.jpg",
+        "width": 2691
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945449008664903680"
+          ],
+          "media_source_tweet_id": [
+            "1945449935606006045"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "1945638008528801932",
+        "created_at": "2025-07-17T00:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T01:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945638008528801932"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Summer Gold Ship",
+              "probability": 0.6007,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 49,
+              "normalized_text": "umamusume",
+              "probability": 0.5923,
+              "start": 41,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 40,
+              "tag": "umamusume"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "939152194544181249",
+              "start": 3,
+              "username": "overtonerhine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ztKrXoFVHF",
+              "end": 74,
+              "expanded_url": "https://x.com/overtonerhine/status/1945449935606006045/photo/1",
+              "media_key": "3_1945449008664903680",
+              "start": 51,
+              "url": "https://t.co/ztKrXoFVHF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945638008528801932",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3568
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945449935606006045",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overtonerhine: Summer Gold Ship 🥰🥰🥰 #umamusume https://t.co/ztKrXoFVHF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945449008664903680"
+          ]
+        },
+        "author_id": "939152194544181249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "1945449935606006045",
+        "created_at": "2025-07-16T11:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T12:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945449935606006045"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "Summer Gold Ship",
+              "probability": 0.5687,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 30,
+              "normalized_text": "umamusume",
+              "probability": 0.5828,
+              "start": 22,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 21,
+              "tag": "umamusume"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ztKrXoFVHF",
+              "end": 55,
+              "expanded_url": "https://x.com/overtonerhine/status/1945449935606006045/photo/1",
+              "media_key": "3_1945449008664903680",
+              "start": 32,
+              "url": "https://t.co/ztKrXoFVHF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945449935606006045",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5174,
+          "impression_count": 279114,
+          "like_count": 32356,
+          "quote_count": 17,
+          "reply_count": 27,
+          "retweet_count": 3568
+        },
+        "reply_settings": "everyone",
+        "text": "Summer Gold Ship 🥰🥰🥰 #umamusume https://t.co/ztKrXoFVHF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 3025,
+          "like_count": 23576,
+          "listed_count": 3,
+          "media_count": 1476,
+          "tweet_count": 22711
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-08T15:18:26.000Z",
+        "description": "I Draw - Sometimes just post sketches┆DM for Commission info / ✉️ Mail : overtonerhine@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/20806812",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/20806812",
+                "start": 0,
+                "url": "https://t.co/ZHKpoVcawm"
+              }
+            ]
+          }
+        },
+        "id": "939152194544181249",
+        "location": "steamed bun shop",
+        "name": "RHiNE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835608824969048064/uBcuY1ck_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73494,
+          "following_count": 995,
+          "like_count": 2894,
+          "listed_count": 444,
+          "media_count": 79,
+          "tweet_count": 730
+        },
+        "url": "https://t.co/ZHKpoVcawm",
+        "username": "overtonerhine",
+        "verified": true
+      }
+    ]
+  }
+}

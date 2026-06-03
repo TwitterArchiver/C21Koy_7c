@@ -1,0 +1,704 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1418358396516851713",
+          "name": "Ko-fi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1138829560047259648",
+          "name": "Baldur's Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1138829560047259648",
+          "name": "Baldur's Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1418358396516851713",
+          "name": "Ko-fi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      }
+    ],
+    "conversation_id": "1951277256988565630",
+    "created_at": "2025-08-01T13:42:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T14:42:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951277256988565630"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 57,
+          "normalized_text": "Poland",
+          "probability": 0.9277,
+          "start": 52,
+          "type": "Place"
+        },
+        {
+          "end": 66,
+          "normalized_text": "gortash",
+          "probability": 0.4159,
+          "start": 60,
+          "type": "Other"
+        },
+        {
+          "end": 80,
+          "normalized_text": "BaldursGate3",
+          "probability": 0.6783,
+          "start": 69,
+          "type": "Other"
+        },
+        {
+          "end": 90,
+          "normalized_text": "darkurge",
+          "probability": 0.4635,
+          "start": 83,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 67,
+          "start": 59,
+          "tag": "gortash"
+        },
+        {
+          "end": 81,
+          "start": 68,
+          "tag": "BaldursGate3"
+        },
+        {
+          "end": 91,
+          "start": 82,
+          "tag": "darkurge"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "125076332",
+          "start": 3,
+          "username": "Aria_niziolek"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951277256988565630",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 142
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950993892192465306",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aria_niziolek: I heard his broken heart here in Poland #gortash #BaldursGate3 #darkurge \n(anyway my new  t-shirts are in my kofi-shop!…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2132,
+        "media_key": "3_1950993301332533248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxNSEh0XoAAyEXx.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418358396516851713",
+              "name": "Ko-fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418358396516851713",
+              "name": "Ko-fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "1951277256988565630",
+        "created_at": "2025-08-01T13:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T14:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951277256988565630"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 57,
+              "normalized_text": "Poland",
+              "probability": 0.9277,
+              "start": 52,
+              "type": "Place"
+            },
+            {
+              "end": 66,
+              "normalized_text": "gortash",
+              "probability": 0.4159,
+              "start": 60,
+              "type": "Other"
+            },
+            {
+              "end": 80,
+              "normalized_text": "BaldursGate3",
+              "probability": 0.6783,
+              "start": 69,
+              "type": "Other"
+            },
+            {
+              "end": 90,
+              "normalized_text": "darkurge",
+              "probability": 0.4635,
+              "start": 83,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 59,
+              "tag": "gortash"
+            },
+            {
+              "end": 81,
+              "start": 68,
+              "tag": "BaldursGate3"
+            },
+            {
+              "end": 91,
+              "start": 82,
+              "tag": "darkurge"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "125076332",
+              "start": 3,
+              "username": "Aria_niziolek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951277256988565630",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 142
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950993892192465306",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aria_niziolek: I heard his broken heart here in Poland #gortash #BaldursGate3 #darkurge \n(anyway my new  t-shirts are in my kofi-shop!…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950993301332533248"
+          ]
+        },
+        "author_id": "125076332",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418358396516851713",
+              "name": "Ko-fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418358396516851713",
+              "name": "Ko-fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "1950993892192465306",
+        "created_at": "2025-07-31T18:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T19:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950993892192465306"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "Poland",
+              "probability": 0.9259,
+              "start": 33,
+              "type": "Place"
+            },
+            {
+              "end": 47,
+              "normalized_text": "gortash",
+              "probability": 0.4403,
+              "start": 41,
+              "type": "Other"
+            },
+            {
+              "end": 61,
+              "normalized_text": "BaldursGate3",
+              "probability": 0.6848,
+              "start": 50,
+              "type": "Other"
+            },
+            {
+              "end": 71,
+              "normalized_text": "darkurge",
+              "probability": 0.5125,
+              "start": 64,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 40,
+              "tag": "gortash"
+            },
+            {
+              "end": 62,
+              "start": 49,
+              "tag": "BaldursGate3"
+            },
+            {
+              "end": 72,
+              "start": 63,
+              "tag": "darkurge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GsfJSZIPf5",
+              "end": 171,
+              "expanded_url": "https://x.com/Aria_niziolek/status/1950993892192465306/photo/1",
+              "media_key": "3_1950993301332533248",
+              "start": 148,
+              "url": "https://t.co/GsfJSZIPf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950993892192465306",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 15172,
+          "like_count": 953,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 142
+        },
+        "reply_settings": "everyone",
+        "text": "I heard his broken heart here in Poland #gortash #BaldursGate3 #darkurge \n(anyway my new  t-shirts are in my kofi-shop! I will post link in coment) https://t.co/GsfJSZIPf5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947781415615025152/-8pHQpZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 3037,
+          "like_count": 23875,
+          "listed_count": 3,
+          "media_count": 1494,
+          "tweet_count": 22957
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-21T16:07:23.000Z",
+        "description": "Soon AI will replace me, look at me while you can",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/arianiziolek/s…",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/arianiziolek/shop",
+                "start": 0,
+                "url": "https://t.co/ye3PvAvC5P"
+              }
+            ]
+          }
+        },
+        "id": "125076332",
+        "location": "Poland",
+        "name": "Aria",
+        "pinned_tweet_id": "1857706697004818902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813145739767267328/9Ozrj_cq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3044,
+          "following_count": 216,
+          "like_count": 1941,
+          "listed_count": 8,
+          "media_count": 267,
+          "tweet_count": 1048
+        },
+        "url": "https://t.co/ye3PvAvC5P",
+        "username": "Aria_niziolek",
+        "verified": false
+      }
+    ]
+  }
+}

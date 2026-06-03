@@ -1,0 +1,812 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1964015716778332163"
+      ],
+      "media_source_tweet_id": [
+        "1964015772315095191"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1138829560047259648",
+          "name": "Baldur's Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1138829560047259648",
+          "name": "Baldur's Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      }
+    ],
+    "conversation_id": "1964128718848184333",
+    "created_at": "2025-09-06T00:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T01:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964128718848184333"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 50,
+          "normalized_text": "Baldur’s Gate",
+          "probability": 0.9159,
+          "start": 38,
+          "type": "Other"
+        },
+        {
+          "end": 61,
+          "normalized_text": "Astarion",
+          "probability": 0.7184,
+          "start": 54,
+          "type": "Other"
+        },
+        {
+          "end": 66,
+          "normalized_text": "bg3",
+          "probability": 0.6042,
+          "start": 64,
+          "type": "Other"
+        },
+        {
+          "end": 80,
+          "normalized_text": "BaldursGate3",
+          "probability": 0.7934,
+          "start": 69,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 62,
+          "start": 53,
+          "tag": "Astarion"
+        },
+        {
+          "end": 67,
+          "start": 63,
+          "tag": "bg3"
+        },
+        {
+          "end": 81,
+          "start": 68,
+          "tag": "BaldursGate3"
+        },
+        {
+          "end": 92,
+          "start": 82,
+          "tag": "animation"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1729256485975433216",
+          "start": 3,
+          "username": "WackyDaArt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CP5qexRKlW",
+          "end": 116,
+          "expanded_url": "https://x.com/WackyDaArt/status/1964015772315095191/video/1",
+          "media_key": "13_1964015716778332163",
+          "start": 93,
+          "url": "https://t.co/CP5qexRKlW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964128718848184333",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964015772315095191",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WackyDaArt: Just another night in Baldur’s Gate \n#Astarion #bg3 #BaldursGate3 #animation https://t.co/CP5qexRKlW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10935,
+        "height": 1200,
+        "media_key": "13_1964015716778332163",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1964015716778332163/img/6gbKIUkhkEwQclFT.jpg",
+        "public_metrics": {
+          "view_count": 1308
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964015716778332163/vid/avc1/320x532/HsDC1cEOt-v4uFxs.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964015716778332163/vid/avc1/480x800/UZAgtnjJiRjuX_Kd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964015716778332163/vid/avc1/720x1200/5diXxFC2uZfCt69e.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1964015716778332163/pl/EBYpamSPJvtMvHBv.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1964015716778332163"
+          ],
+          "media_source_tweet_id": [
+            "1964015772315095191"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "1964128718848184333",
+        "created_at": "2025-09-06T00:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T01:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964128718848184333"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "Baldur’s Gate",
+              "probability": 0.9159,
+              "start": 38,
+              "type": "Other"
+            },
+            {
+              "end": 61,
+              "normalized_text": "Astarion",
+              "probability": 0.7184,
+              "start": 54,
+              "type": "Other"
+            },
+            {
+              "end": 66,
+              "normalized_text": "bg3",
+              "probability": 0.6042,
+              "start": 64,
+              "type": "Other"
+            },
+            {
+              "end": 80,
+              "normalized_text": "BaldursGate3",
+              "probability": 0.7934,
+              "start": 69,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 53,
+              "tag": "Astarion"
+            },
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "bg3"
+            },
+            {
+              "end": 81,
+              "start": 68,
+              "tag": "BaldursGate3"
+            },
+            {
+              "end": 92,
+              "start": 82,
+              "tag": "animation"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1729256485975433216",
+              "start": 3,
+              "username": "WackyDaArt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CP5qexRKlW",
+              "end": 116,
+              "expanded_url": "https://x.com/WackyDaArt/status/1964015772315095191/video/1",
+              "media_key": "13_1964015716778332163",
+              "start": 93,
+              "url": "https://t.co/CP5qexRKlW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964128718848184333",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964015772315095191",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WackyDaArt: Just another night in Baldur’s Gate \n#Astarion #bg3 #BaldursGate3 #animation https://t.co/CP5qexRKlW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1964015716778332163"
+          ]
+        },
+        "author_id": "1729256485975433216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "1964015772315095191",
+        "created_at": "2025-09-05T17:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T18:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964015772315095191"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Baldur’s Gate",
+              "probability": 0.9214,
+              "start": 22,
+              "type": "Other"
+            },
+            {
+              "end": 45,
+              "normalized_text": "Astarion",
+              "probability": 0.6931,
+              "start": 38,
+              "type": "Other"
+            },
+            {
+              "end": 50,
+              "normalized_text": "bg3",
+              "probability": 0.6263,
+              "start": 48,
+              "type": "Other"
+            },
+            {
+              "end": 64,
+              "normalized_text": "BaldursGate3",
+              "probability": 0.8457,
+              "start": 53,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 37,
+              "tag": "Astarion"
+            },
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "bg3"
+            },
+            {
+              "end": 65,
+              "start": 52,
+              "tag": "BaldursGate3"
+            },
+            {
+              "end": 76,
+              "start": 66,
+              "tag": "animation"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CP5qexRKlW",
+              "end": 100,
+              "expanded_url": "https://x.com/WackyDaArt/status/1964015772315095191/video/1",
+              "media_key": "13_1964015716778332163",
+              "start": 77,
+              "url": "https://t.co/CP5qexRKlW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964015772315095191",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 3046,
+          "like_count": 241,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "Just another night in Baldur’s Gate \n#Astarion #bg3 #BaldursGate3 #animation https://t.co/CP5qexRKlW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964100290095042560/8WRhPH87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 3057,
+          "like_count": 24139,
+          "listed_count": 7,
+          "media_count": 1527,
+          "tweet_count": 23264
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T21:51:25.000Z",
+        "description": "2D Animator, Illustrator and Cleanup Artist",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/WackyDaArt",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/WackyDaArt",
+                "start": 0,
+                "url": "https://t.co/AqMnqzLUwW"
+              }
+            ]
+          }
+        },
+        "id": "1729256485975433216",
+        "name": "WackyDaArt",
+        "pinned_tweet_id": "1776397935145877967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794007053574504449/100RcbJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 85,
+          "like_count": 489,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 146
+        },
+        "url": "https://t.co/AqMnqzLUwW",
+        "username": "WackyDaArt",
+        "verified": false
+      }
+    ]
+  }
+}

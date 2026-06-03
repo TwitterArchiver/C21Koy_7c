@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1874621222111051776"
+      ],
+      "media_source_tweet_id": [
+        "1874621664396448164"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1874771331155382326",
+    "created_at": "2025-01-02T10:54:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-02T11:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874771331155382326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1024803182705352705",
+          "start": 3,
+          "username": "dachell_ART"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q6CtDQNqHL",
+          "end": 44,
+          "expanded_url": "https://x.com/dachell_ART/status/1874621664396448164/photo/1",
+          "media_key": "3_1874621222111051776",
+          "start": 21,
+          "url": "https://t.co/q6CtDQNqHL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874771331155382326",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 537
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874621664396448164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dachell_ART: 🍎x💎 https://t.co/q6CtDQNqHL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1874771331155382326].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1874771331155382326",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1874771331155382326"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2039,
+        "media_key": "3_1874621222111051776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgP-EcBWgAAY1_H.jpg",
+        "width": 1939
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874621222111051776"
+          ]
+        },
+        "author_id": "1024803182705352705",
+        "conversation_id": "1874621664396448164",
+        "created_at": "2025-01-02T01:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T02:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874621664396448164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q6CtDQNqHL",
+              "end": 27,
+              "expanded_url": "https://x.com/dachell_ART/status/1874621664396448164/photo/1",
+              "media_key": "3_1874621222111051776",
+              "start": 4,
+              "url": "https://t.co/q6CtDQNqHL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874621664396448164",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 585,
+          "impression_count": 56554,
+          "like_count": 5259,
+          "quote_count": 10,
+          "reply_count": 7,
+          "retweet_count": 537
+        },
+        "reply_settings": "everyone",
+        "text": "🍎x💎 https://t.co/q6CtDQNqHL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人女 会突然产出想法 BL吃的较少 但是会吃 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 2957,
+          "like_count": 20876,
+          "listed_count": 2,
+          "media_count": 1124,
+          "tweet_count": 18832
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-01T23:44:53.000Z",
+        "description": "artist ( wlw)\nsometimes n.s.f.w /doodles/please DON'T use my art) and  if you are a minor get out of here",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/dachell_art?ig…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/dachell_art?igshid=YmMyMTA2M2Y=",
+                "start": 0,
+                "url": "https://t.co/Aiw971RG6y"
+              }
+            ]
+          }
+        },
+        "id": "1024803182705352705",
+        "name": "DACHELL",
+        "pinned_tweet_id": "1874621664396448164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844563994452819969/iJXTaOCc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127620,
+          "following_count": 790,
+          "like_count": 69009,
+          "listed_count": 475,
+          "media_count": 977,
+          "tweet_count": 2920
+        },
+        "url": "https://t.co/Aiw971RG6y",
+        "username": "dachell_ART",
+        "verified": false
+      }
+    ]
+  }
+}

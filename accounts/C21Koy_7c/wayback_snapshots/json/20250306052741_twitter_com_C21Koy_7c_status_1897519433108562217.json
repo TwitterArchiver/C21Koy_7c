@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "conversation_id": "1897415697375875207",
+    "created_at": "2025-03-06T05:27:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T06:27:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897519433108562217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1618691976991485952",
+          "start": 0,
+          "username": "Danmohuacha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897519433108562217",
+    "in_reply_to_user_id": "1618691976991485952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897415697375875207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Danmohuacha 我爱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1897415692544073728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlT5hPlXYAA3OEi.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "conversation_id": "1897415697375875207",
+        "created_at": "2025-03-06T05:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T06:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897519433108562217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1618691976991485952",
+              "start": 0,
+              "username": "Danmohuacha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897519433108562217",
+        "in_reply_to_user_id": "1618691976991485952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897415697375875207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Danmohuacha 我爱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897415692544073728"
+          ]
+        },
+        "author_id": "1618691976991485952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1897415697375875207",
+        "created_at": "2025-03-05T22:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T23:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897415697375875207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1896035266302750720/kd9Q2bIk?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1896035266302750720/kd9Q2bIk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/VmZE7J89x9"
+            },
+            {
+              "display_url": "pic.x.com/9AXiqMOnUf",
+              "end": 64,
+              "expanded_url": "https://x.com/Danmohuacha/status/1897415697375875207/photo/1",
+              "media_key": "3_1897415692544073728",
+              "start": 41,
+              "url": "https://t.co/9AXiqMOnUf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897415697375875207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/VmZE7J89x9 https://t.co/9AXiqMOnUf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 但是还算可以 懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890691451258126336/lPqKitsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 2985,
+          "like_count": 22029,
+          "listed_count": 2,
+          "media_count": 1276,
+          "tweet_count": 20763
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T19:27:08.000Z",
+        "description": "药物滥用/负面情绪/不提供药物咨询",
+        "id": "1618691976991485952",
+        "name": "淡沫花茶",
+        "pinned_tweet_id": "1895192913489076624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647292221065166851/cLYFXFnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 254,
+          "like_count": 11144,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 4484
+        },
+        "username": "Danmohuacha",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,518 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940874331099172864"
+      ],
+      "media_source_tweet_id": [
+        "1940874535953445043"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television Channels",
+          "id": "23",
+          "name": "TV Channels"
+        },
+        "entity": {
+          "id": "1278095407738847232",
+          "name": "Netflix Brazil"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026367762",
+          "name": "Netflix"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1108066581098070017",
+          "name": "Netflix Brasil"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026367762",
+          "name": "Netflix"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447585004736512",
+          "name": "Entertainment industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1397573214239289349",
+          "name": "TV streaming services"
+        }
+      }
+    ],
+    "conversation_id": "1941199373800780007",
+    "created_at": "2025-07-04T18:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T19:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941199373800780007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "231579149",
+          "start": 3,
+          "username": "NetflixBrasil"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F2FmOPKHso",
+          "end": 53,
+          "expanded_url": "https://x.com/NetflixBrasil/status/1940874535953445043/photo/1",
+          "media_key": "3_1940874331099172864",
+          "start": 30,
+          "url": "https://t.co/F2FmOPKHso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941199373800780007",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9249
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940874535953445043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NetflixBrasil: 001.\n\n456. https://t.co/F2FmOPKHso"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3494,
+        "media_key": "3_1940874331099172864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu9e68LXEAAwN38.jpg",
+        "width": 2795
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940874331099172864"
+          ],
+          "media_source_tweet_id": [
+            "1940874535953445043"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Channels",
+              "id": "23",
+              "name": "TV Channels"
+            },
+            "entity": {
+              "id": "1278095407738847232",
+              "name": "Netflix Brazil"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1108066581098070017",
+              "name": "Netflix Brasil"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          }
+        ],
+        "conversation_id": "1941199373800780007",
+        "created_at": "2025-07-04T18:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T19:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941199373800780007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "231579149",
+              "start": 3,
+              "username": "NetflixBrasil"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F2FmOPKHso",
+              "end": 53,
+              "expanded_url": "https://x.com/NetflixBrasil/status/1940874535953445043/photo/1",
+              "media_key": "3_1940874331099172864",
+              "start": 30,
+              "url": "https://t.co/F2FmOPKHso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941199373800780007",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9249
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940874535953445043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NetflixBrasil: 001.\n\n456. https://t.co/F2FmOPKHso"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940874331099172864"
+          ]
+        },
+        "author_id": "231579149",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Channels",
+              "id": "23",
+              "name": "TV Channels"
+            },
+            "entity": {
+              "id": "1278095407738847232",
+              "name": "Netflix Brazil"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1108066581098070017",
+              "name": "Netflix Brasil"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          }
+        ],
+        "conversation_id": "1940874535953445043",
+        "created_at": "2025-07-03T20:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T21:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940874535953445043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F2FmOPKHso",
+              "end": 34,
+              "expanded_url": "https://x.com/NetflixBrasil/status/1940874535953445043/photo/1",
+              "media_key": "3_1940874331099172864",
+              "start": 11,
+              "url": "https://t.co/F2FmOPKHso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940874535953445043",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6030,
+          "impression_count": 2826451,
+          "like_count": 118529,
+          "quote_count": 2844,
+          "reply_count": 739,
+          "retweet_count": 9249
+        },
+        "reply_settings": "everyone",
+        "text": "001.\n\n456. https://t.co/F2FmOPKHso"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 3024,
+          "like_count": 23568,
+          "listed_count": 3,
+          "media_count": 1469,
+          "tweet_count": 22618
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-28T22:43:40.000Z",
+        "description": "Fazendo voto de silêncio em apoio ao 456.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "netflix.com",
+                "end": 23,
+                "expanded_url": "https://netflix.com/",
+                "start": 0,
+                "url": "https://t.co/uYnrvZFNSh"
+              }
+            ]
+          }
+        },
+        "id": "231579149",
+        "name": "netflixbrasil",
+        "pinned_tweet_id": "1940065497489285127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872624161576603648/OOlKjAu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35134064,
+          "following_count": 504,
+          "like_count": 13399,
+          "listed_count": 3896,
+          "media_count": 18249,
+          "tweet_count": 96061
+        },
+        "url": "https://t.co/uYnrvZFNSh",
+        "username": "NetflixBrasil",
+        "verified": true
+      }
+    ]
+  }
+}

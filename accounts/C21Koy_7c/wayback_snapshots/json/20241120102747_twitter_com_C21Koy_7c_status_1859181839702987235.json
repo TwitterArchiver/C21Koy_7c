@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859113376124989443"
+      ],
+      "media_source_tweet_id": [
+        "1859113385239142651"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1859181839702987235",
+    "created_at": "2024-11-20T10:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T11:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859181839702987235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "911513884510404609",
+          "start": 3,
+          "username": "nemi0x0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UpJJG1cLNP",
+          "end": 63,
+          "expanded_url": "https://x.com/nemi0x0/status/1859113385239142651/photo/1",
+          "media_key": "3_1859113376124989443",
+          "start": 40,
+          "url": "https://t.co/UpJJG1cLNP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859181839702987235",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859113385239142651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nemi0x0: 今日はラファエルワンマンライブに来てくれてありがとう https://t.co/UpJJG1cLNP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1859113376124989443",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gczlw_0bcAMdMHx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859113376124989443"
+          ],
+          "media_source_tweet_id": [
+            "1859113385239142651"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1859181839702987235",
+        "created_at": "2024-11-20T10:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T11:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859181839702987235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "911513884510404609",
+              "start": 3,
+              "username": "nemi0x0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UpJJG1cLNP",
+              "end": 63,
+              "expanded_url": "https://x.com/nemi0x0/status/1859113385239142651/photo/1",
+              "media_key": "3_1859113376124989443",
+              "start": 40,
+              "url": "https://t.co/UpJJG1cLNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859181839702987235",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859113385239142651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nemi0x0: 今日はラファエルワンマンライブに来てくれてありがとう https://t.co/UpJJG1cLNP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859113376124989443"
+          ]
+        },
+        "author_id": "911513884510404609",
+        "conversation_id": "1859113385239142651",
+        "created_at": "2024-11-20T05:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T06:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859113385239142651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UpJJG1cLNP",
+              "end": 50,
+              "expanded_url": "https://x.com/nemi0x0/status/1859113385239142651/photo/1",
+              "media_key": "3_1859113376124989443",
+              "start": 27,
+              "url": "https://t.co/UpJJG1cLNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859113385239142651",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 734,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "今日はラファエルワンマンライブに来てくれてありがとう https://t.co/UpJJG1cLNP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫bi🏳️‍🌈/ they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人女 会突然产出想法 GB GL大于BL BG 20+",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 2888,
+          "like_count": 20709,
+          "listed_count": 2,
+          "tweet_count": 18131
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-23T08:53:40.000Z",
+        "description": "地獄には尻があります【@0ishig0han】🔞https://t.co/ku2i37dfnM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "0ishig0han"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/85q0kgzta…",
+                "end": 47,
+                "expanded_url": "https://wavebox.me/wave/85q0kgztafnmfvvm/",
+                "start": 24,
+                "url": "https://t.co/ku2i37dfnM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nemi0x0.booth.pm",
+                "end": 23,
+                "expanded_url": "https://nemi0x0.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/Dfagz757Ek"
+              }
+            ]
+          }
+        },
+        "id": "911513884510404609",
+        "location": "成人",
+        "name": "🧠",
+        "pinned_tweet_id": "1818150634971107820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821213799103524866/1u9HUQBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5966,
+          "following_count": 340,
+          "like_count": 63036,
+          "listed_count": 79,
+          "tweet_count": 129496
+        },
+        "url": "https://t.co/Dfagz757Ek",
+        "username": "nemi0x0",
+        "verified": false
+      }
+    ]
+  }
+}

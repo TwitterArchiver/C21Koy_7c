@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1944560490484756480",
+        "3_1944560490442854400"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1944560558252167245",
+    "created_at": "2025-07-14T00:52:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T01:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944560558252167245"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/11C8PkrvS3",
+          "end": 48,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1944560558252167245/video/1",
+          "media_key": "13_1944560490484756480",
+          "start": 25,
+          "url": "https://t.co/11C8PkrvS3"
+        },
+        {
+          "display_url": "pic.x.com/11C8PkrvS3",
+          "end": 48,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1944560558252167245/video/1",
+          "media_key": "3_1944560490442854400",
+          "start": 25,
+          "url": "https://t.co/11C8PkrvS3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944560558252167245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🚬然后手上沾了一些墨水！买了很多墨水用钢笔画速写 https://t.co/11C8PkrvS3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1944560558252167245].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1944560558252167245",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1944560558252167245"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5233,
+        "height": 1280,
+        "media_key": "13_1944560490484756480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1944560490484756480/img/YwxFy20NpW0dhiG_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944560490484756480/vid/avc1/320x568/cMBgExdvLMtSM0fe.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944560490484756480/vid/avc1/480x852/2Mb1kep16pLzicKO.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944560490484756480/vid/avc1/720x1280/4z6dPY5_BTJet66W.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1944560490484756480/pl/NEH4HTqTY-2tz4x0.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1944560490442854400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvx3dp0bEAA6XVN.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 3022,
+          "like_count": 23566,
+          "listed_count": 3,
+          "media_count": 1473,
+          "tweet_count": 22674
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      }
+    ]
+  }
+}

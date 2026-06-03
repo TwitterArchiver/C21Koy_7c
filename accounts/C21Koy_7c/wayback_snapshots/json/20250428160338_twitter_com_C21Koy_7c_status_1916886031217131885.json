@@ -1,0 +1,611 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916814316227141632"
+      ],
+      "media_source_tweet_id": [
+        "1916814326779838763"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1138829560047259648",
+          "name": "Baldur's Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1138829560047259648",
+          "name": "Baldur's Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      }
+    ],
+    "conversation_id": "1916886031217131885",
+    "created_at": "2025-04-28T16:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T17:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916886031217131885"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 48,
+          "normalized_text": "BaldursGate3",
+          "probability": 0.851,
+          "start": 37,
+          "type": "Other"
+        },
+        {
+          "end": 53,
+          "normalized_text": "bg3",
+          "probability": 0.5351,
+          "start": 51,
+          "type": "Other"
+        },
+        {
+          "end": 62,
+          "normalized_text": "Jaheira",
+          "probability": 0.744,
+          "start": 56,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 36,
+          "tag": "BaldursGate3"
+        },
+        {
+          "end": 54,
+          "start": 50,
+          "tag": "bg3"
+        },
+        {
+          "end": 63,
+          "start": 55,
+          "tag": "Jaheira"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1166715534928310272",
+          "start": 3,
+          "username": "MerianaKa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XZdOE3rQ8z",
+          "end": 87,
+          "expanded_url": "https://x.com/MerianaKa/status/1916814326779838763/photo/1",
+          "media_key": "3_1916814316227141632",
+          "start": 64,
+          "url": "https://t.co/XZdOE3rQ8z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916886031217131885",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916814326779838763",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MerianaKa: The nature has fangs\n#BaldursGate3 #bg3 #Jaheira https://t.co/XZdOE3rQ8z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1134,
+        "media_key": "3_1916814316227141632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpnkdwMaIAAO1BH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916814316227141632"
+          ],
+          "media_source_tweet_id": [
+            "1916814326779838763"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "1916886031217131885",
+        "created_at": "2025-04-28T16:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T17:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916886031217131885"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "BaldursGate3",
+              "probability": 0.851,
+              "start": 37,
+              "type": "Other"
+            },
+            {
+              "end": 53,
+              "normalized_text": "bg3",
+              "probability": 0.5351,
+              "start": 51,
+              "type": "Other"
+            },
+            {
+              "end": 62,
+              "normalized_text": "Jaheira",
+              "probability": 0.744,
+              "start": 56,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 36,
+              "tag": "BaldursGate3"
+            },
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "bg3"
+            },
+            {
+              "end": 63,
+              "start": 55,
+              "tag": "Jaheira"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1166715534928310272",
+              "start": 3,
+              "username": "MerianaKa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZdOE3rQ8z",
+              "end": 87,
+              "expanded_url": "https://x.com/MerianaKa/status/1916814326779838763/photo/1",
+              "media_key": "3_1916814316227141632",
+              "start": 64,
+              "url": "https://t.co/XZdOE3rQ8z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916886031217131885",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916814326779838763",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MerianaKa: The nature has fangs\n#BaldursGate3 #bg3 #Jaheira https://t.co/XZdOE3rQ8z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916814316227141632"
+          ]
+        },
+        "author_id": "1166715534928310272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "1916814326779838763",
+        "created_at": "2025-04-28T11:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T12:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916814326779838763"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 21,
+              "tag": "BaldursGate3"
+            },
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "bg3"
+            },
+            {
+              "end": 48,
+              "start": 40,
+              "tag": "Jaheira"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZdOE3rQ8z",
+              "end": 72,
+              "expanded_url": "https://x.com/MerianaKa/status/1916814326779838763/photo/1",
+              "media_key": "3_1916814316227141632",
+              "start": 49,
+              "url": "https://t.co/XZdOE3rQ8z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916814326779838763",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1612,
+          "like_count": 141,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "The nature has fangs\n#BaldursGate3 #bg3 #Jaheira https://t.co/XZdOE3rQ8z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我yan｜肉鸦都可以",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912422021767524352/6G_fWcrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 3012,
+          "like_count": 22727,
+          "listed_count": 3,
+          "media_count": 1362,
+          "tweet_count": 21783
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-28T14:14:06.000Z",
+        "description": "酉鸣安/Meriana｜20｜中文/English/日本語⭕️｜Multi fandom⚠️occasionally nsfw⚠️Do not repost my art on other websites without my permission",
+        "id": "1166715534928310272",
+        "name": "酉鸣安Meriana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1512431976917123076/rWxnMtD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13253,
+          "following_count": 392,
+          "like_count": 3865,
+          "listed_count": 64,
+          "media_count": 810,
+          "tweet_count": 3099
+        },
+        "username": "MerianaKa",
+        "verified": false
+      }
+    ]
+  }
+}

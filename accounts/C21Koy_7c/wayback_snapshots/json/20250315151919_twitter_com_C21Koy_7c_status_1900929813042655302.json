@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1828102132739801088",
+          "name": "2024 US Presidential Debate 2"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      }
+    ],
+    "conversation_id": "1900929813042655302",
+    "created_at": "2025-03-15T15:19:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T16:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900929813042655302"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 64,
+          "normalized_text": "DOLcord",
+          "probability": 0.6303,
+          "start": 58,
+          "type": "Other"
+        },
+        {
+          "end": 85,
+          "normalized_text": "IDF",
+          "probability": 0.435,
+          "start": 83,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1864819815287869440",
+          "start": 3,
+          "username": "KiranD0L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900929813042655302",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900701643127025800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KiranD0L: I was the person who originally talked with DOLcord moderators about IDF soldier being a member on the server\n\nThis 🧵 is post…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1842,
+        "media_key": "3_1900701633803071488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmCmEMrWMAA9IGI.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1828102132739801088",
+              "name": "2024 US Presidential Debate 2"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          }
+        ],
+        "conversation_id": "1900929813042655302",
+        "created_at": "2025-03-15T15:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T16:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900929813042655302"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 64,
+              "normalized_text": "DOLcord",
+              "probability": 0.6303,
+              "start": 58,
+              "type": "Other"
+            },
+            {
+              "end": 85,
+              "normalized_text": "IDF",
+              "probability": 0.435,
+              "start": 83,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1864819815287869440",
+              "start": 3,
+              "username": "KiranD0L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900929813042655302",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900701643127025800",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KiranD0L: I was the person who originally talked with DOLcord moderators about IDF soldier being a member on the server\n\nThis 🧵 is post…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900701633803071488"
+          ]
+        },
+        "author_id": "1864819815287869440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1828102132739801088",
+              "name": "2024 US Presidential Debate 2"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          }
+        ],
+        "conversation_id": "1900701643127025800",
+        "created_at": "2025-03-15T00:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T01:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900701643127025800"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "DOLcord",
+              "probability": 0.653,
+              "start": 44,
+              "type": "Other"
+            },
+            {
+              "end": 71,
+              "normalized_text": "IDF",
+              "probability": 0.4514,
+              "start": 69,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5MyQrOX9dG",
+              "end": 300,
+              "expanded_url": "https://x.com/KiranD0L/status/1900701643127025800/photo/1",
+              "media_key": "3_1900701633803071488",
+              "start": 277,
+              "url": "https://t.co/5MyQrOX9dG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900701643127025800",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 253,
+          "impression_count": 39099,
+          "like_count": 577,
+          "quote_count": 41,
+          "reply_count": 5,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "I was the person who originally talked with DOLcord moderators about IDF soldier being a member on the server\n\nThis 🧵 is posted exclusively as a point of reference for people to make informed decision about to possibly prevent further misinformation about the whole situation+ https://t.co/5MyQrOX9dG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 但是还算可以 懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890691451258126336/lPqKitsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 2987,
+          "like_count": 22247,
+          "listed_count": 2,
+          "media_count": 1288,
+          "tweet_count": 21035
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T23:51:20.000Z",
+        "description": "primary #DegreesOfLewdity account so automatically ‼️MINORS DNI‼️pfp: @R_ainy_Dayzz ♥️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 8,
+                "tag": "DegreesOfLewdity"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "R_ainy_Dayzz"
+              }
+            ]
+          }
+        },
+        "id": "1864819815287869440",
+        "name": "Kiran the playboy🔞",
+        "pinned_tweet_id": "1866501961165746683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873816217925963776/4dNZG4jZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 131,
+          "like_count": 1306,
+          "listed_count": 2,
+          "media_count": 347,
+          "tweet_count": 1010
+        },
+        "username": "KiranD0L",
+        "verified": false
+      }
+    ]
+  }
+}

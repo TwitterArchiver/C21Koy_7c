@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "conversation_id": "1984805603785777655",
+    "created_at": "2025-11-02T10:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T11:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984926574496596139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1590357961272360961",
+          "start": 0,
+          "username": "wB97XD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984926574496596139",
+    "in_reply_to_user_id": "1590357961272360961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984917778575609934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wB97XD 好的谢谢宝贝"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1984917778575609934].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1984917778575609934",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1984917778575609934"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "conversation_id": "1984805603785777655",
+        "created_at": "2025-11-02T10:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T11:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984926574496596139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1590357961272360961",
+              "start": 0,
+              "username": "wB97XD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984926574496596139",
+        "in_reply_to_user_id": "1590357961272360961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984917778575609934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wB97XD 好的谢谢宝贝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984303758306918403/5WX3ho-O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 3144,
+          "like_count": 25208,
+          "listed_count": 5,
+          "media_count": 1688,
+          "tweet_count": 24202
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-09T14:57:48.000Z",
+        "description": "不配得感",
+        "id": "1590357961272360961",
+        "name": "✄",
+        "pinned_tweet_id": "1845872378372362662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834628247843442688/8FH1cSQV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 106,
+          "like_count": 6520,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1007
+        },
+        "username": "wB97XD",
+        "verified": false
+      }
+    ]
+  }
+}

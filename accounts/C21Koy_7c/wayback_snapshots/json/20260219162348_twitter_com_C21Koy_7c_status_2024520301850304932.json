@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024513146657071104",
+        "3_2024513146648743942",
+        "3_2024513146652946432",
+        "13_2024513146665521156"
+      ],
+      "media_source_tweet_id": [
+        "2024513212876767280",
+        "2024513212876767280",
+        "2024513212876767280",
+        "2024513212876767280"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2024520301850304932",
+    "created_at": "2026-02-19T16:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T17:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024520301850304932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1641968587102621696",
+          "start": 3,
+          "username": "0voki33Me"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nY0pnOd7e5",
+          "end": 50,
+          "expanded_url": "https://x.com/0voki33Me/status/2024513212876767280/video/1",
+          "media_key": "3_2024513146657071104",
+          "start": 27,
+          "url": "https://t.co/nY0pnOd7e5"
+        },
+        {
+          "display_url": "pic.x.com/nY0pnOd7e5",
+          "end": 50,
+          "expanded_url": "https://x.com/0voki33Me/status/2024513212876767280/video/1",
+          "media_key": "3_2024513146648743942",
+          "start": 27,
+          "url": "https://t.co/nY0pnOd7e5"
+        },
+        {
+          "display_url": "pic.x.com/nY0pnOd7e5",
+          "end": 50,
+          "expanded_url": "https://x.com/0voki33Me/status/2024513212876767280/video/1",
+          "media_key": "3_2024513146652946432",
+          "start": 27,
+          "url": "https://t.co/nY0pnOd7e5"
+        },
+        {
+          "display_url": "pic.x.com/nY0pnOd7e5",
+          "end": 50,
+          "expanded_url": "https://x.com/0voki33Me/status/2024513212876767280/video/1",
+          "media_key": "13_2024513146665521156",
+          "start": 27,
+          "url": "https://t.co/nY0pnOd7e5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024520301850304932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024513212876767280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0voki33Me: 自介｜磕药自残画画音乐 https://t.co/nY0pnOd7e5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2024520301850304932].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2024520301850304932",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2024520301850304932"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1169,
+        "media_key": "3_2024513146657071104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBiD-wWaYAAA1ze.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2024513146648743942",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBiD-wUbUAYAzoa.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2024513146652946432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBiD-wVbcAAW2l7.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 10516,
+        "height": 960,
+        "media_key": "13_2024513146665521156",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024513146665521156/img/5T-a_-H0sB_uv9rk.jpg",
+        "public_metrics": {
+          "view_count": 15
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024513146665521156/vid/avc1/320x426/6uMxHh7U94nMBDSS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024513146665521156/vid/avc1/480x640/Af5zuyw1UrUeiJe4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024513146665521156/vid/avc1/720x960/DLcpftkWqYMdGzPJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024513146665521156/pl/rxzh6WMw5Aksy11Y.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 10516,
+        "height": 960,
+        "media_key": "13_2024513146665521156",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024513146665521156/img/5T-a_-H0sB_uv9rk.jpg",
+        "public_metrics": {
+          "view_count": 23
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024513146665521156/vid/avc1/320x426/6uMxHh7U94nMBDSS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024513146665521156/vid/avc1/480x640/Af5zuyw1UrUeiJe4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024513146665521156/vid/avc1/720x960/DLcpftkWqYMdGzPJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024513146665521156/pl/rxzh6WMw5Aksy11Y.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024513146657071104",
+            "3_2024513146648743942",
+            "3_2024513146652946432",
+            "13_2024513146665521156"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2024513212876767280",
+        "created_at": "2026-02-19T15:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024513212876767280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nY0pnOd7e5",
+              "end": 35,
+              "expanded_url": "https://x.com/0voki33Me/status/2024513212876767280/video/1",
+              "media_key": "3_2024513146657071104",
+              "start": 12,
+              "url": "https://t.co/nY0pnOd7e5"
+            },
+            {
+              "display_url": "pic.x.com/nY0pnOd7e5",
+              "end": 35,
+              "expanded_url": "https://x.com/0voki33Me/status/2024513212876767280/video/1",
+              "media_key": "3_2024513146648743942",
+              "start": 12,
+              "url": "https://t.co/nY0pnOd7e5"
+            },
+            {
+              "display_url": "pic.x.com/nY0pnOd7e5",
+              "end": 35,
+              "expanded_url": "https://x.com/0voki33Me/status/2024513212876767280/video/1",
+              "media_key": "3_2024513146652946432",
+              "start": 12,
+              "url": "https://t.co/nY0pnOd7e5"
+            },
+            {
+              "display_url": "pic.x.com/nY0pnOd7e5",
+              "end": 35,
+              "expanded_url": "https://x.com/0voki33Me/status/2024513212876767280/video/1",
+              "media_key": "13_2024513146665521156",
+              "start": 12,
+              "url": "https://t.co/nY0pnOd7e5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024513212876767280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "自介｜磕药自残画画音乐 https://t.co/nY0pnOd7e5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nay2841",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nay2841",
+                "start": 0,
+                "url": "https://t.co/p7oRHhHxDn"
+              }
+            ]
+          }
+        },
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987482127756410880/kunx4knz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 3264,
+          "like_count": 28333,
+          "listed_count": 5,
+          "media_count": 1956,
+          "tweet_count": 26731
+        },
+        "url": "https://t.co/p7oRHhHxDn",
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024507363542421608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 1090,
+          "like_count": 5172,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 3613
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947091096149909504"
+      ],
+      "media_source_tweet_id": [
+        "1947091151284240417"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1207454119679553536",
+          "name": "Jojo's Bizarre Adventure"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1207454119679553536",
+          "name": "Jojo's Bizarre Adventure"
+        }
+      }
+    ],
+    "conversation_id": "1947203463726956883",
+    "created_at": "2025-07-21T07:54:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T08:54:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947203463726956883"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "JJBA"
+        },
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "jjba"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1928618730231398400",
+          "start": 3,
+          "username": "Pumo14777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RdMTA6LGjd",
+          "end": 50,
+          "expanded_url": "https://x.com/Pumo14777/status/1947091151284240417/photo/1",
+          "media_key": "3_1947091096149909504",
+          "start": 27,
+          "url": "https://t.co/RdMTA6LGjd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947203463726956883",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947091151284240417",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pumo14777: #JJBA #jjba https://t.co/RdMTA6LGjd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1386,
+        "media_key": "3_1947091096149909504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwV1CStXYAAKkuh.jpg",
+        "width": 1526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947091096149909504"
+          ],
+          "media_source_tweet_id": [
+            "1947091151284240417"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          }
+        ],
+        "conversation_id": "1947203463726956883",
+        "created_at": "2025-07-21T07:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T08:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947203463726956883"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "JJBA"
+            },
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "jjba"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1928618730231398400",
+              "start": 3,
+              "username": "Pumo14777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RdMTA6LGjd",
+              "end": 50,
+              "expanded_url": "https://x.com/Pumo14777/status/1947091151284240417/photo/1",
+              "media_key": "3_1947091096149909504",
+              "start": 27,
+              "url": "https://t.co/RdMTA6LGjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947203463726956883",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947091151284240417",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pumo14777: #JJBA #jjba https://t.co/RdMTA6LGjd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947091096149909504"
+          ]
+        },
+        "author_id": "1928618730231398400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          }
+        ],
+        "conversation_id": "1947091151284240417",
+        "created_at": "2025-07-21T00:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T01:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947091151284240417"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "JJBA"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "jjba"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RdMTA6LGjd",
+              "end": 35,
+              "expanded_url": "https://x.com/Pumo14777/status/1947091151284240417/photo/1",
+              "media_key": "3_1947091096149909504",
+              "start": 12,
+              "url": "https://t.co/RdMTA6LGjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947091151284240417",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 9455,
+          "like_count": 709,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "#JJBA #jjba https://t.co/RdMTA6LGjd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 3025,
+          "like_count": 23628,
+          "listed_count": 3,
+          "media_count": 1482,
+          "tweet_count": 22753
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T01:05:22.000Z",
+        "description": "JJBA｜16｜☔🇺🇸｜低浮上",
+        "id": "1928618730231398400",
+        "name": "大调查桶妹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944779388760862720/R_ZC_ok__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 39,
+          "like_count": 129,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 52
+        },
+        "username": "Pumo14777",
+        "verified": false
+      }
+    ]
+  }
+}

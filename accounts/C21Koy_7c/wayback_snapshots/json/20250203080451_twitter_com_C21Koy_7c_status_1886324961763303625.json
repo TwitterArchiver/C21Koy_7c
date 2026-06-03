@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886091728068956160"
+      ],
+      "media_source_tweet_id": [
+        "1886091733190279346"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1886324961763303625",
+    "created_at": "2025-02-03T08:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T09:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886324961763303625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1560952469643206656",
+          "start": 3,
+          "username": "RIKAINOT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TbwtkeAiTA",
+          "end": 55,
+          "expanded_url": "https://x.com/RIKAINOT/status/1886091733190279346/photo/1",
+          "media_key": "3_1886091728068956160",
+          "start": 32,
+          "url": "https://t.co/TbwtkeAiTA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886324961763303625",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1312
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886091733190279346",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RIKAINOT: Anti-tulpar anya💕 https://t.co/TbwtkeAiTA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1886091728068956160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Giy-bwlaUAA_iQY.jpg",
+        "width": 1535
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886091728068956160"
+          ],
+          "media_source_tweet_id": [
+            "1886091733190279346"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1886324961763303625",
+        "created_at": "2025-02-03T08:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T09:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886324961763303625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560952469643206656",
+              "start": 3,
+              "username": "RIKAINOT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TbwtkeAiTA",
+              "end": 55,
+              "expanded_url": "https://x.com/RIKAINOT/status/1886091733190279346/photo/1",
+              "media_key": "3_1886091728068956160",
+              "start": 32,
+              "url": "https://t.co/TbwtkeAiTA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886324961763303625",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1312
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886091733190279346",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RIKAINOT: Anti-tulpar anya💕 https://t.co/TbwtkeAiTA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886091728068956160"
+          ]
+        },
+        "author_id": "1560952469643206656",
+        "conversation_id": "1886091733190279346",
+        "created_at": "2025-02-02T16:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T17:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886091733190279346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TbwtkeAiTA",
+              "end": 41,
+              "expanded_url": "https://x.com/RIKAINOT/status/1886091733190279346/photo/1",
+              "media_key": "3_1886091728068956160",
+              "start": 18,
+              "url": "https://t.co/TbwtkeAiTA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886091733190279346",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1709,
+          "impression_count": 101479,
+          "like_count": 14272,
+          "quote_count": 26,
+          "reply_count": 21,
+          "retweet_count": 1312
+        },
+        "reply_settings": "everyone",
+        "text": "Anti-tulpar anya💕 https://t.co/TbwtkeAiTA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH! 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影/三国 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人爱好者 会突然产出想法 BL吃的比其他少 但是会吃 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦肉臀臀",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885384535879409667/UEQG5lqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 2965,
+          "like_count": 21213,
+          "listed_count": 2,
+          "media_count": 1180,
+          "tweet_count": 19646
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T11:31:02.000Z",
+        "description": "20↑雑多/Do not use./skeb▶︎https://t.co/qCKrOBXSGG 英語は翻訳機を使用しています。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@kaiware5339",
+                "end": 47,
+                "expanded_url": "https://skeb.jp/@kaiware5339",
+                "start": 24,
+                "url": "https://t.co/qCKrOBXSGG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/box/",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/box/",
+                "start": 0,
+                "url": "https://t.co/ImzGxXMZoA"
+              }
+            ]
+          }
+        },
+        "id": "1560952469643206656",
+        "location": "アーニャの下まつ毛",
+        "name": "離界✴︎comms open.",
+        "pinned_tweet_id": "1881753794683515355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621306840385728512/OgRoIFmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1124,
+          "following_count": 231,
+          "like_count": 6978,
+          "listed_count": 6,
+          "media_count": 197,
+          "tweet_count": 2133
+        },
+        "url": "https://t.co/ImzGxXMZoA",
+        "username": "RIKAINOT",
+        "verified": false
+      }
+    ]
+  }
+}

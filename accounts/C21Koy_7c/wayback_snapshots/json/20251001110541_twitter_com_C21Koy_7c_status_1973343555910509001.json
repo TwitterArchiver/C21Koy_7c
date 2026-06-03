@@ -1,0 +1,603 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044801920",
+          "name": "Overwatch"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044801920",
+          "name": "Overwatch"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "1973343555910509001",
+    "created_at": "2025-10-01T11:05:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T12:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973343555910509001"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 42,
+          "tag": "オーバーウォッチ2"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "745050635742023680",
+          "start": 3,
+          "username": "jpPlayOverwatch"
+        },
+        {
+          "end": 136,
+          "id": "1580575734719909888",
+          "start": 126,
+          "username": "iwa_nashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973343555910509001",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 533
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973222472972734633",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jpPlayOverwatch: 本日10月1日はアッシュの誕生日！🎉🎂\n\n#オーバーウォッチ2 をつけて、みんなでお祝いメッセージやアッシュのベストプレイをシェアしましょう！\n\nアッシュと同じく本日誕生日の皆さんもおめでとうございます🥳\n\n🎨@iwa_nashi ht…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1973222463686451203",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2JLYEraIAMeenb.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1973343555910509001",
+        "created_at": "2025-10-01T11:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T12:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973343555910509001"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 42,
+              "tag": "オーバーウォッチ2"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "745050635742023680",
+              "start": 3,
+              "username": "jpPlayOverwatch"
+            },
+            {
+              "end": 136,
+              "id": "1580575734719909888",
+              "start": 126,
+              "username": "iwa_nashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973343555910509001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 533
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973222472972734633",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jpPlayOverwatch: 本日10月1日はアッシュの誕生日！🎉🎂\n\n#オーバーウォッチ2 をつけて、みんなでお祝いメッセージやアッシュのベストプレイをシェアしましょう！\n\nアッシュと同じく本日誕生日の皆さんもおめでとうございます🥳\n\n🎨@iwa_nashi ht…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973222463686451203"
+          ]
+        },
+        "author_id": "745050635742023680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1973222472972734633",
+        "created_at": "2025-10-01T03:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T04:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973222472972734633"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 21,
+              "tag": "オーバーウォッチ2"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 115,
+              "id": "1580575734719909888",
+              "start": 105,
+              "username": "iwa_nashi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0KqOEcBob2",
+              "end": 139,
+              "expanded_url": "https://x.com/jpPlayOverwatch/status/1973222472972734633/photo/1",
+              "media_key": "3_1973222463686451203",
+              "start": 116,
+              "url": "https://t.co/0KqOEcBob2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973222472972734633",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 73727,
+          "like_count": 2363,
+          "quote_count": 57,
+          "reply_count": 2,
+          "retweet_count": 533
+        },
+        "reply_settings": "everyone",
+        "text": "本日10月1日はアッシュの誕生日！🎉🎂\n\n#オーバーウォッチ2 をつけて、みんなでお祝いメッセージやアッシュのベストプレイをシェアしましょう！\n\nアッシュと同じく本日誕生日の皆さんもおめでとうございます🥳\n\n🎨@iwa_nashi https://t.co/0KqOEcBob2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964100290095042560/8WRhPH87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 3084,
+          "like_count": 24530,
+          "listed_count": 6,
+          "media_count": 1581,
+          "tweet_count": 23529
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-21T00:28:08.000Z",
+        "description": "チームアクションシューター「オーバーウォッチ 2」の日本公式アカウントです。世界はヒーローを求めている！ 日本公式YouTube：https://t.co/3lPfimRX9r サポートへお問い合わせ：https://t.co/5SN2MAYVcv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "is.gd/4Znfmz",
+                "end": 88,
+                "expanded_url": "http://is.gd/4Znfmz",
+                "start": 65,
+                "url": "https://t.co/3lPfimRX9r"
+              },
+              {
+                "display_url": "is.gd/LZChTp",
+                "end": 124,
+                "expanded_url": "http://is.gd/LZChTp",
+                "start": 101,
+                "url": "https://t.co/5SN2MAYVcv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "playoverwatch.com/ja-jp/",
+                "end": 23,
+                "expanded_url": "https://playoverwatch.com/ja-jp/",
+                "start": 0,
+                "url": "https://t.co/UIxHVHX9c1"
+              }
+            ]
+          }
+        },
+        "id": "745050635742023680",
+        "name": "オーバーウォッチ",
+        "pinned_tweet_id": "1967785519066083705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857226401214300160/XFxt9sUm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210877,
+          "following_count": 130,
+          "like_count": 1353,
+          "listed_count": 753,
+          "media_count": 6242,
+          "tweet_count": 8777
+        },
+        "url": "https://t.co/UIxHVHX9c1",
+        "username": "jpPlayOverwatch",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-13T15:06:43.000Z",
+        "description": "マーシーとモイラが好きな一般人です。酒やら絵やらゲームやら🛠️お仕事:天羽衣さん(@amaui_)のメンシスタンプや小道具などなど🪨リプお返事は気まぐれです。Repost is prohibited. she/her 🇯🇵 FF14関連▶︎@iwa_ff14",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 41,
+                "username": "amaui_"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "iwa_ff14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/iwanashi",
+                "end": 23,
+                "expanded_url": "https://lit.link/iwanashi",
+                "start": 0,
+                "url": "https://t.co/DEQQLLXwRn"
+              }
+            ]
+          }
+        },
+        "id": "1580575734719909888",
+        "location": "イラストの無断使用・無断転載はご遠慮ください。",
+        "name": "🪨岩梨🍐〔iwanashi〕",
+        "pinned_tweet_id": "1973224527900606745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775678940721651712/KZdT8dNC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4631,
+          "following_count": 124,
+          "like_count": 7892,
+          "listed_count": 22,
+          "media_count": 1994,
+          "tweet_count": 14834
+        },
+        "url": "https://t.co/DEQQLLXwRn",
+        "username": "iwa_nashi",
+        "verified": true
+      }
+    ]
+  }
+}

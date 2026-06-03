@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945167671714308096"
+      ],
+      "media_source_tweet_id": [
+        "1945167737010999390"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1945636071611773103",
+    "created_at": "2025-07-17T00:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T01:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945636071611773103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "935793043415883776",
+          "start": 3,
+          "username": "z71060671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PMn33AJWiK",
+          "end": 38,
+          "expanded_url": "https://x.com/z71060671/status/1945167737010999390/photo/1",
+          "media_key": "3_1945167671714308096",
+          "start": 15,
+          "url": "https://t.co/PMn33AJWiK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945636071611773103",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 313
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945167737010999390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @z71060671: https://t.co/PMn33AJWiK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_1945167671714308096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv6fsQUa4AAmOlH.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945167671714308096"
+          ],
+          "media_source_tweet_id": [
+            "1945167737010999390"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1945636071611773103",
+        "created_at": "2025-07-17T00:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T01:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945636071611773103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "935793043415883776",
+              "start": 3,
+              "username": "z71060671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMn33AJWiK",
+              "end": 38,
+              "expanded_url": "https://x.com/z71060671/status/1945167737010999390/photo/1",
+              "media_key": "3_1945167671714308096",
+              "start": 15,
+              "url": "https://t.co/PMn33AJWiK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945636071611773103",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 313
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945167737010999390",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @z71060671: https://t.co/PMn33AJWiK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945167671714308096"
+          ]
+        },
+        "author_id": "935793043415883776",
+        "conversation_id": "1945167737010999390",
+        "created_at": "2025-07-15T17:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T18:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945167737010999390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMn33AJWiK",
+              "end": 23,
+              "expanded_url": "https://x.com/z71060671/status/1945167737010999390/photo/1",
+              "media_key": "3_1945167671714308096",
+              "start": 0,
+              "url": "https://t.co/PMn33AJWiK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945167737010999390",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 333,
+          "impression_count": 24685,
+          "like_count": 3229,
+          "quote_count": 8,
+          "reply_count": 2,
+          "retweet_count": 313
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PMn33AJWiK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 3025,
+          "like_count": 23576,
+          "listed_count": 3,
+          "media_count": 1476,
+          "tweet_count": 22709
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-29T08:50:22.000Z",
+        "description": "",
+        "id": "935793043415883776",
+        "name": "NOER",
+        "pinned_tweet_id": "1598663068149587970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879919147016228864/90rwIMA0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 949,
+          "like_count": 1118,
+          "listed_count": 3,
+          "media_count": 39,
+          "tweet_count": 52
+        },
+        "username": "z71060671",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010379171642404864"
+      ],
+      "media_source_tweet_id": [
+        "2010379182543429672"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "2010625951772954989",
+    "created_at": "2026-01-12T08:12:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T09:12:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010625951772954989"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "BG3",
+          "probability": 0.5026,
+          "start": 14,
+          "type": "Other"
+        },
+        {
+          "end": 39,
+          "normalized_text": "Orin",
+          "probability": 0.4715,
+          "start": 36,
+          "type": "Other"
+        },
+        {
+          "end": 52,
+          "normalized_text": "Minthara",
+          "probability": 0.4917,
+          "start": 45,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 73,
+          "start": 69,
+          "tag": "bg3"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "858223976342069248",
+          "start": 3,
+          "username": "Birmit_C"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/izyQW3eZSq",
+          "end": 102,
+          "expanded_url": "https://x.com/Birmit_C/status/2010379182543429672/photo/1",
+          "media_key": "3_2010379171642404864",
+          "start": 79,
+          "url": "https://t.co/izyQW3eZSq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010625951772954989",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 525
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010379182543429672",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Birmit_C: BG3 illustration with Orin and Minthara from last year\n#bg3 🗡️🕷️ https://t.co/izyQW3eZSq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2010379171642404864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ZNNIWW8AAZqD5.jpg",
+        "width": 1825
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010379171642404864"
+          ],
+          "media_source_tweet_id": [
+            "2010379182543429672"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "2010625951772954989",
+        "created_at": "2026-01-12T08:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T09:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010625951772954989"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "BG3",
+              "probability": 0.5026,
+              "start": 14,
+              "type": "Other"
+            },
+            {
+              "end": 39,
+              "normalized_text": "Orin",
+              "probability": 0.4715,
+              "start": 36,
+              "type": "Other"
+            },
+            {
+              "end": 52,
+              "normalized_text": "Minthara",
+              "probability": 0.4917,
+              "start": 45,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 69,
+              "tag": "bg3"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "858223976342069248",
+              "start": 3,
+              "username": "Birmit_C"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/izyQW3eZSq",
+              "end": 102,
+              "expanded_url": "https://x.com/Birmit_C/status/2010379182543429672/photo/1",
+              "media_key": "3_2010379171642404864",
+              "start": 79,
+              "url": "https://t.co/izyQW3eZSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010625951772954989",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 525
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010379182543429672",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Birmit_C: BG3 illustration with Orin and Minthara from last year\n#bg3 🗡️🕷️ https://t.co/izyQW3eZSq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010379171642404864"
+          ]
+        },
+        "author_id": "858223976342069248",
+        "conversation_id": "2010379182543429672",
+        "created_at": "2026-01-11T15:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T16:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010379182543429672"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "BG3",
+              "probability": 0.7058,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 25,
+              "normalized_text": "Orin",
+              "probability": 0.3904,
+              "start": 22,
+              "type": "Other"
+            },
+            {
+              "end": 38,
+              "normalized_text": "Minthara",
+              "probability": 0.4714,
+              "start": 31,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "bg3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/izyQW3eZSq",
+              "end": 88,
+              "expanded_url": "https://x.com/Birmit_C/status/2010379182543429672/photo/1",
+              "media_key": "3_2010379171642404864",
+              "start": 65,
+              "url": "https://t.co/izyQW3eZSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010379182543429672",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 400,
+          "impression_count": 43856,
+          "like_count": 5400,
+          "quote_count": 11,
+          "reply_count": 3,
+          "retweet_count": 525
+        },
+        "reply_settings": "everyone",
+        "text": "BG3 illustration with Orin and Minthara from last year\n#bg3 🗡️🕷️ https://t.co/izyQW3eZSq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nay2841",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nay2841",
+                "start": 0,
+                "url": "https://t.co/p7oRHhHxDn"
+              }
+            ]
+          }
+        },
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987482127756410880/kunx4knz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 3222,
+          "like_count": 27853,
+          "listed_count": 5,
+          "media_count": 1895,
+          "tweet_count": 26305
+        },
+        "url": "https://t.co/p7oRHhHxDn",
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-29T07:38:35.000Z",
+        "description": "Freelance artist | she/her, 26 | birmit.art@gmail.com | https://t.co/pgzcsKgjH4🗡",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "birmit.carrd.co",
+                "end": 79,
+                "expanded_url": "http://birmit.carrd.co",
+                "start": 56,
+                "url": "https://t.co/pgzcsKgjH4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/birmit_c",
+                "end": 23,
+                "expanded_url": "http://patreon.com/birmit_c",
+                "start": 0,
+                "url": "https://t.co/2hL1hHNpQs"
+              }
+            ]
+          }
+        },
+        "id": "858223976342069248",
+        "name": "Birmit",
+        "pinned_tweet_id": "1888229798826127705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893721699654225920/fFAmhf87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62204,
+          "following_count": 611,
+          "like_count": 21662,
+          "listed_count": 353,
+          "media_count": 1387,
+          "tweet_count": 5068
+        },
+        "url": "https://t.co/2hL1hHNpQs",
+        "username": "Birmit_C",
+        "verified": false
+      }
+    ]
+  }
+}

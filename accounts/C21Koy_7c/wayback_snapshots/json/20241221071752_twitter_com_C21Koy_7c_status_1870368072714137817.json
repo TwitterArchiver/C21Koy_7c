@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1870103569057378304"
+      ],
+      "media_source_tweet_id": [
+        "1870103577089441978"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1870368072714137817",
+    "created_at": "2024-12-21T07:17:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-21T08:17:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870368072714137817"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "DOL",
+          "probability": 0.5355,
+          "start": 28,
+          "type": "Other"
+        },
+        {
+          "end": 58,
+          "normalized_text": "DOL",
+          "probability": 0.4607,
+          "start": 56,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 55,
+          "tag": "DOL"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1493406627508064257",
+          "start": 3,
+          "username": "WastelandSpace"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RMrnJT2KxP",
+          "end": 83,
+          "expanded_url": "https://x.com/WastelandSpace/status/1870103577089441978/photo/1",
+          "media_key": "3_1870103569057378304",
+          "start": 60,
+          "url": "https://t.co/RMrnJT2KxP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870368072714137817",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870103577089441978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WastelandSpace: Some of DOL Character &amp; My PC\n\n#DOL https://t.co/RMrnJT2KxP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1870103569057378304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfPxSa7a8AAaS-F.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870103569057378304"
+          ],
+          "media_source_tweet_id": [
+            "1870103577089441978"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1870368072714137817",
+        "created_at": "2024-12-21T07:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T08:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870368072714137817"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "DOL",
+              "probability": 0.5355,
+              "start": 28,
+              "type": "Other"
+            },
+            {
+              "end": 58,
+              "normalized_text": "DOL",
+              "probability": 0.4607,
+              "start": 56,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "DOL"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1493406627508064257",
+              "start": 3,
+              "username": "WastelandSpace"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RMrnJT2KxP",
+              "end": 83,
+              "expanded_url": "https://x.com/WastelandSpace/status/1870103577089441978/photo/1",
+              "media_key": "3_1870103569057378304",
+              "start": 60,
+              "url": "https://t.co/RMrnJT2KxP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870368072714137817",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870103577089441978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WastelandSpace: Some of DOL Character &amp; My PC\n\n#DOL https://t.co/RMrnJT2KxP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870103569057378304"
+          ]
+        },
+        "author_id": "1493406627508064257",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1870103577089441978",
+        "created_at": "2024-12-20T13:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T14:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870103577089441978"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "DOL",
+              "probability": 0.5741,
+              "start": 8,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "DOL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RMrnJT2KxP",
+              "end": 63,
+              "expanded_url": "https://x.com/WastelandSpace/status/1870103577089441978/photo/1",
+              "media_key": "3_1870103569057378304",
+              "start": 40,
+              "url": "https://t.co/RMrnJT2KxP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870103577089441978",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 593,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "Some of DOL Character &amp; My PC\n\n#DOL https://t.co/RMrnJT2KxP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人女 会突然产出想法 GB GL大于BL BG 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 2945,
+          "like_count": 20839,
+          "listed_count": 2,
+          "media_count": 1122,
+          "tweet_count": 18639
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T02:07:55.000Z",
+        "description": "18+/ Minor DNI / Do not use or upload my art without permission// DOL, COT",
+        "id": "1493406627508064257",
+        "name": "Wasteland🔪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869654735391006720/elVSUjP1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 5,
+          "like_count": 1727,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 652
+        },
+        "username": "WastelandSpace",
+        "verified": false
+      }
+    ]
+  }
+}

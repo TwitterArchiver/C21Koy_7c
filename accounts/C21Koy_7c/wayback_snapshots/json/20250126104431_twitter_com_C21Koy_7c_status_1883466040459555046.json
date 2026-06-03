@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883466032423358464",
+        "3_1883466032423264256"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1883466040459555046",
+    "created_at": "2025-01-26T10:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T11:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883466040459555046"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/weQriiFQ3X",
+          "end": 46,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1883466040459555046/photo/1",
+          "media_key": "3_1883466032423358464",
+          "start": 23,
+          "url": "https://t.co/weQriiFQ3X"
+        },
+        {
+          "display_url": "pic.x.com/weQriiFQ3X",
+          "end": 46,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1883466040459555046/photo/1",
+          "media_key": "3_1883466032423264256",
+          "start": 23,
+          "url": "https://t.co/weQriiFQ3X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883466040459555046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "邋遢的衣服🚬\n我并不认为这个需要打敏感很抱歉 https://t.co/weQriiFQ3X"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1883466040459555046].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1883466040459555046",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1883466040459555046"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_1883466032423358464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiNqYKEb0AA0TET.jpg",
+        "width": 649
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1883466032423264256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiNqYKEaYAAq5qc.jpg",
+        "width": 1427
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH! 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影/三国 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人爱好者 会突然产出想法 BL吃的比其他少 但是会吃 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦肉臀臀",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 2962,
+          "like_count": 20998,
+          "listed_count": 2,
+          "media_count": 1157,
+          "tweet_count": 19348
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      }
+    ]
+  }
+}

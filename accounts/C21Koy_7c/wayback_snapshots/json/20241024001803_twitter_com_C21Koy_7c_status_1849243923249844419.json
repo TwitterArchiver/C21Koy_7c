@@ -1,0 +1,168 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1848787144099205120"
+      ],
+      "media_source_tweet_id": [
+        "1848787147135893513"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1849243923249844419",
+    "created_at": "2024-10-24T00:18:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-24T01:18:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1849243923249844419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1070147736060735493",
+          "start": 3,
+          "username": "Gio_utti"
+        }
+      ]
+    },
+    "id": "1849243923249844419",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1978
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848787147135893513",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gio_utti: Some Astarion doodles from a while ago\n#bg3 #Astarion https://t.co/k7TM8YQV9O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1132,
+        "media_key": "3_1848787144099205120",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gag2HL1XkAAEVgX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1848787144099205120"
+          ],
+          "media_source_tweet_id": [
+            "1848787147135893513"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1849243923249844419",
+        "created_at": "2024-10-24T00:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-24T01:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1849243923249844419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1070147736060735493",
+              "start": 3,
+              "username": "Gio_utti"
+            }
+          ]
+        },
+        "id": "1849243923249844419",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1978
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848787147135893513",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gio_utti: Some Astarion doodles from a while ago\n#bg3 #Astarion https://t.co/k7TM8YQV9O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人女 会突然产出想法 GB GL大于BL BG 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 2924,
+          "like_count": 20697,
+          "listed_count": 2,
+          "media_count": 1110,
+          "tweet_count": 18370
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-05T02:47:57.000Z",
+        "description": "I draw stuff I like :)  ||  TYPOS everywhere  || currently in a BG3 brainrot ||  (ENG/PT/ESP)          \n        🇧🇷 2001 | any pronouns",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gioutti.carrd.co",
+                "end": 23,
+                "expanded_url": "https://gioutti.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/GONE24GXPL"
+              }
+            ]
+          }
+        },
+        "id": "1070147736060735493",
+        "name": "Gio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845151258379796484/ML-GtXqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20284,
+          "following_count": 513,
+          "like_count": 4240,
+          "listed_count": 113,
+          "media_count": 238,
+          "tweet_count": 1240
+        },
+        "url": "https://t.co/GONE24GXPL",
+        "username": "Gio_utti",
+        "verified": false
+      }
+    ]
+  }
+}

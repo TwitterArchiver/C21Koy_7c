@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Tanning",
+          "id": "855114635963318272",
+          "name": "Tanning"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tanning",
+          "id": "855114635963318272",
+          "name": "Tanning"
+        }
+      }
+    ],
+    "conversation_id": "1960721416254579194",
+    "created_at": "2025-08-27T15:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T16:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960721416254579194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1738732218129014784",
+          "start": 3,
+          "username": "ORCA_LW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960721416254579194",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960533452576711144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ORCA_LW: He’s slightly tanned, and it’s so cute!\nThe fact that the lifeguard isn’t tanned at all just shows how much he’s been slacking…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 719,
+        "media_key": "3_1960533446180397062",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzU2yC3a4AYgQW7.jpg",
+        "width": 575
+      },
+      {
+        "height": 719,
+        "media_key": "3_1960533446192979980",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzU2yC6a4AwmNr9.jpg",
+        "width": 563
+      },
+      {
+        "height": 719,
+        "media_key": "3_1960533446163619844",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzU2yCza4AQ2EKe.jpg",
+        "width": 804
+      },
+      {
+        "height": 719,
+        "media_key": "3_1960533446159425538",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzU2yCya4AIlZNW.jpg",
+        "width": 797
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tanning",
+              "id": "855114635963318272",
+              "name": "Tanning"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tanning",
+              "id": "855114635963318272",
+              "name": "Tanning"
+            }
+          }
+        ],
+        "conversation_id": "1960721416254579194",
+        "created_at": "2025-08-27T15:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T16:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960721416254579194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1738732218129014784",
+              "start": 3,
+              "username": "ORCA_LW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960721416254579194",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960533452576711144",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ORCA_LW: He’s slightly tanned, and it’s so cute!\nThe fact that the lifeguard isn’t tanned at all just shows how much he’s been slacking…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960533446180397062",
+            "3_1960533446192979980",
+            "3_1960533446163619844",
+            "3_1960533446159425538"
+          ]
+        },
+        "author_id": "1738732218129014784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tanning",
+              "id": "855114635963318272",
+              "name": "Tanning"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tanning",
+              "id": "855114635963318272",
+              "name": "Tanning"
+            }
+          }
+        ],
+        "conversation_id": "1960533452576711144",
+        "created_at": "2025-08-27T02:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T03:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960533452576711144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VDzyz69PY5",
+              "end": 154,
+              "expanded_url": "https://x.com/ORCA_LW/status/1960533452576711144/photo/1",
+              "media_key": "3_1960533446180397062",
+              "start": 131,
+              "url": "https://t.co/VDzyz69PY5"
+            },
+            {
+              "display_url": "pic.x.com/VDzyz69PY5",
+              "end": 154,
+              "expanded_url": "https://x.com/ORCA_LW/status/1960533452576711144/photo/1",
+              "media_key": "3_1960533446192979980",
+              "start": 131,
+              "url": "https://t.co/VDzyz69PY5"
+            },
+            {
+              "display_url": "pic.x.com/VDzyz69PY5",
+              "end": 154,
+              "expanded_url": "https://x.com/ORCA_LW/status/1960533452576711144/photo/1",
+              "media_key": "3_1960533446163619844",
+              "start": 131,
+              "url": "https://t.co/VDzyz69PY5"
+            },
+            {
+              "display_url": "pic.x.com/VDzyz69PY5",
+              "end": 154,
+              "expanded_url": "https://x.com/ORCA_LW/status/1960533452576711144/photo/1",
+              "media_key": "3_1960533446159425538",
+              "start": 131,
+              "url": "https://t.co/VDzyz69PY5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960533452576711144",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 7621,
+          "like_count": 605,
+          "quote_count": 8,
+          "reply_count": 8,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "He’s slightly tanned, and it’s so cute!\nThe fact that the lifeguard isn’t tanned at all just shows how much he’s been slacking off https://t.co/VDzyz69PY5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953486936422912000/qZREob8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 3052,
+          "like_count": 24164,
+          "listed_count": 6,
+          "media_count": 1518,
+          "tweet_count": 23203
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-24T01:24:24.000Z",
+        "description": "20↑ || 🪷🙏✨ × 🤌💎👌 【🔞🤫 → @ORCA_LW18】 ⚠️無断転載・無断使用禁止/日本語◎/ENG△(I use a translator a little bit for English)/AI❌/ Banner with my bestie @Uh_Niran_Really ☀️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "ORCA_LW18"
+              },
+              {
+                "end": 147,
+                "start": 131,
+                "username": "Uh_Niran_Really"
+              }
+            ]
+          }
+        },
+        "id": "1738732218129014784",
+        "location": "Drag you into my sea",
+        "name": "ORCA",
+        "pinned_tweet_id": "1806796061740310705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934220520528199680/tb6rbh4w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3660,
+          "following_count": 14,
+          "like_count": 3428,
+          "listed_count": 5,
+          "media_count": 254,
+          "tweet_count": 1236
+        },
+        "username": "ORCA_LW",
+        "verified": false
+      }
+    ]
+  }
+}

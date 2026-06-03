@@ -1,0 +1,666 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1138829560047259648",
+          "name": "Baldur's Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1138829560047259648",
+          "name": "Baldur's Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      }
+    ],
+    "conversation_id": "1855176302145548548",
+    "created_at": "2024-11-09T09:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T10:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855176302145548548"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 73,
+          "normalized_text": "Baldur’s Gate 3",
+          "probability": 0.5503,
+          "start": 59,
+          "type": "Other"
+        },
+        {
+          "end": 138,
+          "normalized_text": "BaldursGa",
+          "probability": 0.4575,
+          "start": 130,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 128,
+          "start": 115,
+          "tag": "BaldursGate3"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1899360529",
+          "start": 3,
+          "username": "Frau_Haku"
+        },
+        {
+          "end": 94,
+          "id": "1899360529",
+          "start": 84,
+          "username": "Frau_Haku"
+        },
+        {
+          "end": 112,
+          "id": "218799281",
+          "start": 99,
+          "username": "MilliganVick"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855176302145548548",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 90
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855146807799541782",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Frau_Haku: I will come and take what is mine\nLae’zel | Baldur’s Gate 3\n\nLae’zel @Frau_Haku \nPh @MilliganVick \n\n#BaldursGate3 #BaldursGa…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "1855176302145548548",
+        "created_at": "2024-11-09T09:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T10:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855176302145548548"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 73,
+              "normalized_text": "Baldur’s Gate 3",
+              "probability": 0.5503,
+              "start": 59,
+              "type": "Other"
+            },
+            {
+              "end": 138,
+              "normalized_text": "BaldursGa",
+              "probability": 0.4575,
+              "start": 130,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 128,
+              "start": 115,
+              "tag": "BaldursGate3"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1899360529",
+              "start": 3,
+              "username": "Frau_Haku"
+            },
+            {
+              "end": 94,
+              "id": "1899360529",
+              "start": 84,
+              "username": "Frau_Haku"
+            },
+            {
+              "end": 112,
+              "id": "218799281",
+              "start": 99,
+              "username": "MilliganVick"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855176302145548548",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855146807799541782",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Frau_Haku: I will come and take what is mine\nLae’zel | Baldur’s Gate 3\n\nLae’zel @Frau_Haku \nPh @MilliganVick \n\n#BaldursGate3 #BaldursGa…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855146789394841600",
+            "3_1855146789403238400",
+            "3_1855146789394948096",
+            "3_1855146789403344896"
+          ]
+        },
+        "author_id": "1899360529",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "1855146807799541782",
+        "created_at": "2024-11-09T07:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T08:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855146807799541782"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 113,
+              "start": 100,
+              "tag": "BaldursGate3"
+            },
+            {
+              "end": 134,
+              "start": 114,
+              "tag": "BaldursGate3Cosplay"
+            },
+            {
+              "end": 142,
+              "start": 135,
+              "tag": "Laezel"
+            },
+            {
+              "end": 157,
+              "start": 143,
+              "tag": "LaezelCosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 79,
+              "id": "1899360529",
+              "start": 69,
+              "username": "Frau_Haku"
+            },
+            {
+              "end": 97,
+              "id": "218799281",
+              "start": 84,
+              "username": "MilliganVick"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d6oMSecspH",
+              "end": 181,
+              "expanded_url": "https://x.com/Frau_Haku/status/1855146807799541782/photo/1",
+              "media_key": "3_1855146789394841600",
+              "start": 158,
+              "url": "https://t.co/d6oMSecspH"
+            },
+            {
+              "display_url": "pic.x.com/d6oMSecspH",
+              "end": 181,
+              "expanded_url": "https://x.com/Frau_Haku/status/1855146807799541782/photo/1",
+              "media_key": "3_1855146789403238400",
+              "start": 158,
+              "url": "https://t.co/d6oMSecspH"
+            },
+            {
+              "display_url": "pic.x.com/d6oMSecspH",
+              "end": 181,
+              "expanded_url": "https://x.com/Frau_Haku/status/1855146807799541782/photo/1",
+              "media_key": "3_1855146789394948096",
+              "start": 158,
+              "url": "https://t.co/d6oMSecspH"
+            },
+            {
+              "display_url": "pic.x.com/d6oMSecspH",
+              "end": 181,
+              "expanded_url": "https://x.com/Frau_Haku/status/1855146807799541782/photo/1",
+              "media_key": "3_1855146789403344896",
+              "start": 158,
+              "url": "https://t.co/d6oMSecspH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855146807799541782",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 7746,
+          "like_count": 969,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "I will come and take what is mine\nLae’zel | Baldur’s Gate 3\n\nLae’zel @Frau_Haku \nPh @MilliganVick \n\n#BaldursGate3 #BaldursGate3Cosplay #Laezel #LaezelCosplay https://t.co/d6oMSecspH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫bi🏳️‍🌈/ they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影 大概淡坑：COD/MK 不善表达 但是还算可以 请和我保持联络谢谢 尽力活着 我没恶意 我鼓起很大勇气才会评论你 GB GL大于BL BG 20+",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 2871,
+          "like_count": 20564,
+          "listed_count": 3,
+          "tweet_count": 17813
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-24T05:35:12.000Z",
+        "description": "Cosplayer | Creating cosplay since 2017 | Seamstress\n【All cosplay WIP's you can find in my Instagram】\n#MGS | #DeathStranding | #BaldursGate3",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "MGS"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "tag": "DeathStranding"
+              },
+              {
+                "end": 140,
+                "start": 127,
+                "tag": "BaldursGate3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Frau_Haku",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Frau_Haku",
+                "start": 0,
+                "url": "https://t.co/P4QBhgU12s"
+              }
+            ]
+          }
+        },
+        "id": "1899360529",
+        "name": "Frau Haku❗️",
+        "pinned_tweet_id": "1790324432545759740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671888909989707777/wxnLlom9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57618,
+          "following_count": 186,
+          "like_count": 41278,
+          "listed_count": 200,
+          "tweet_count": 12668
+        },
+        "url": "https://t.co/P4QBhgU12s",
+        "username": "Frau_Haku",
+        "verified": true
+      },
+      {
+        "created_at": "2010-11-23T09:17:54.000Z",
+        "description": "hello, darlings!\n\nphotographer, makeup artist/\nsame username everywhere",
+        "id": "218799281",
+        "name": "Vick ʕ•ᴥ•ʔ",
+        "pinned_tweet_id": "1702702726176469225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1149513776900661248/Tfk1-ZXF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9043,
+          "following_count": 86,
+          "like_count": 11437,
+          "listed_count": 53,
+          "tweet_count": 3410
+        },
+        "username": "MilliganVick",
+        "verified": false
+      }
+    ]
+  }
+}

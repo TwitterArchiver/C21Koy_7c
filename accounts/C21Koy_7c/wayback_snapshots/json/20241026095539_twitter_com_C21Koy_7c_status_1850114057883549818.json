@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1850018144645152771"
+      ],
+      "media_source_tweet_id": [
+        "1850018151976796542"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1850114057883549818",
+    "created_at": "2024-10-26T09:55:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-26T10:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850114057883549818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1807337179942920193",
+          "start": 3,
+          "username": "gmowlbbami"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E8fg9gc0hL",
+          "end": 56,
+          "expanded_url": "https://x.com/gmowlbbami/status/1850018151976796542/photo/1",
+          "media_key": "3_1850018144645152771",
+          "start": 33,
+          "url": "https://t.co/E8fg9gc0hL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850114057883549818",
+    "lang": "ko",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850018151976796542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gmowlbbami: ㅁㄷㅍㄷ 칼(feat.올리)… https://t.co/E8fg9gc0hL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1850114057883549818].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1850114057883549818",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1850114057883549818"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1850018144645152771",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GayVs2OaAAM5r5p.jpg",
+        "width": 1532
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850018144645152771"
+          ]
+        },
+        "author_id": "1807337179942920193",
+        "conversation_id": "1850018151976796542",
+        "created_at": "2024-10-26T03:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T04:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850018151976796542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E8fg9gc0hL",
+              "end": 40,
+              "expanded_url": "https://x.com/gmowlbbami/status/1850018151976796542/photo/1",
+              "media_key": "3_1850018144645152771",
+              "start": 17,
+              "url": "https://t.co/E8fg9gc0hL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850018151976796542",
+        "lang": "ko",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 492,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "ㅁㄷㅍㄷ 칼(feat.올리)… https://t.co/E8fg9gc0hL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫bi🏳️‍🌈/ they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT大概淡坑：COD/MK/恐影 不善表达 但是还算可以 请和我保持联络谢谢 尽力活着 我没恶意 我鼓起很大勇气才会评论你 lgbt+ GB GL大于BL BG",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1787381657340883290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849238518457143296/KSYxwv47_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 2840,
+          "like_count": 20261,
+          "listed_count": 2,
+          "tweet_count": 17049
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T08:55:55.000Z",
+        "description": "게임하자여 🔕",
+        "id": "1807337179942920193",
+        "location": "발더스게이트 하수구 노숙자",
+        "name": "올빼미",
+        "pinned_tweet_id": "1832399635627028550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807338809551622144/csQyF8e9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 64,
+          "like_count": 2531,
+          "listed_count": 0,
+          "tweet_count": 5447
+        },
+        "username": "gmowlbbami",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,490 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947779823184814080"
+      ],
+      "media_source_tweet_id": [
+        "1947779960472801573"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Undertale",
+          "id": "1057622481396068352",
+          "name": "Undertale"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Undertale",
+          "id": "1057622481396068352",
+          "name": "Undertale"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "1947873551807353174",
+    "created_at": "2025-07-23T04:16:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T05:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947873551807353174"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 44,
+          "normalized_text": "kris deltarune",
+          "probability": 0.9068,
+          "start": 31,
+          "type": "Person"
+        },
+        {
+          "end": 59,
+          "normalized_text": "mcr",
+          "probability": 0.4864,
+          "start": 57,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1747074816816136192",
+          "start": 3,
+          "username": "xXfartmasterXx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z39T6yoPgL",
+          "end": 84,
+          "expanded_url": "https://x.com/xXfartmasterXx/status/1947779960472801573/photo/1",
+          "media_key": "3_1947779823184814080",
+          "start": 61,
+          "url": "https://t.co/z39T6yoPgL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947873551807353174",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1367
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947779960472801573",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xXfartmasterXx: hello i am kris deltarune and i love mcr https://t.co/z39T6yoPgL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3264,
+        "media_key": "3_1947779823184814080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwfnbe2aoAAQ3Um.jpg",
+        "width": 2448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947779823184814080"
+          ],
+          "media_source_tweet_id": [
+            "1947779960472801573"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Undertale",
+              "id": "1057622481396068352",
+              "name": "Undertale"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Undertale",
+              "id": "1057622481396068352",
+              "name": "Undertale"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1947873551807353174",
+        "created_at": "2025-07-23T04:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T05:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947873551807353174"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "kris deltarune",
+              "probability": 0.9068,
+              "start": 31,
+              "type": "Person"
+            },
+            {
+              "end": 59,
+              "normalized_text": "mcr",
+              "probability": 0.4864,
+              "start": 57,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1747074816816136192",
+              "start": 3,
+              "username": "xXfartmasterXx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z39T6yoPgL",
+              "end": 84,
+              "expanded_url": "https://x.com/xXfartmasterXx/status/1947779960472801573/photo/1",
+              "media_key": "3_1947779823184814080",
+              "start": 61,
+              "url": "https://t.co/z39T6yoPgL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947873551807353174",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1367
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947779960472801573",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xXfartmasterXx: hello i am kris deltarune and i love mcr https://t.co/z39T6yoPgL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947779823184814080"
+          ]
+        },
+        "author_id": "1747074816816136192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Undertale",
+              "id": "1057622481396068352",
+              "name": "Undertale"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Undertale",
+              "id": "1057622481396068352",
+              "name": "Undertale"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1947779960472801573",
+        "created_at": "2025-07-22T22:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T23:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947779960472801573"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "kris deltarune",
+              "probability": 0.8915,
+              "start": 11,
+              "type": "Person"
+            },
+            {
+              "end": 39,
+              "normalized_text": "mcr",
+              "probability": 0.4275,
+              "start": 37,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z39T6yoPgL",
+              "end": 64,
+              "expanded_url": "https://x.com/xXfartmasterXx/status/1947779960472801573/photo/1",
+              "media_key": "3_1947779823184814080",
+              "start": 41,
+              "url": "https://t.co/z39T6yoPgL"
+            },
+            {
+              "display_url": "x.com/ventalizm/stat…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/ventalizm/status/1947725005401227674",
+              "start": 65,
+              "url": "https://t.co/kap72QJ7B3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947779960472801573",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1070,
+          "impression_count": 161041,
+          "like_count": 17057,
+          "quote_count": 41,
+          "reply_count": 45,
+          "retweet_count": 1367
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947725005401227674",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "hello i am kris deltarune and i love mcr https://t.co/z39T6yoPgL https://t.co/kap72QJ7B3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947781415615025152/-8pHQpZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 3028,
+          "like_count": 23692,
+          "listed_count": 3,
+          "media_count": 1488,
+          "tweet_count": 22804
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T01:54:39.000Z",
+        "description": "⭒🇵🇭 ✮ twentyteen⭒\n☆*:.｡.o(≧▽≦)o.｡.:*☆\n⭒girly boy☆⋆｡𖦹°‧★\nnsfw sometimes\n⭒main: @lemondemonfan6\nheader: @/pump_upthejam_\nMINORS DNI!!!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "lemondemonfan6"
+              }
+            ]
+          }
+        },
+        "id": "1747074816816136192",
+        "location": "he/they",
+        "name": "☆copycat☆",
+        "pinned_tweet_id": "1947779960472801573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942850282519429120/CI_CozBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 120,
+          "like_count": 2383,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 608
+        },
+        "username": "xXfartmasterXx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880028905891065859"
+      ],
+      "media_source_tweet_id": [
+        "1880028909489852524"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1880140523673121006",
+    "created_at": "2025-01-17T06:30:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T07:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880140523673121006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1665446418709098496",
+          "start": 3,
+          "username": "Freesia_QUAN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/leJg0CYd6c",
+          "end": 41,
+          "expanded_url": "https://x.com/Freesia_QUAN/status/1880028909489852524/photo/1",
+          "media_key": "3_1880028905891065859",
+          "start": 18,
+          "url": "https://t.co/leJg0CYd6c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880140523673121006",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880028909489852524",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Freesia_QUAN: https://t.co/leJg0CYd6c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1692,
+        "media_key": "3_1880028905891065859",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ghc0VD8acAMNl_x.jpg",
+        "width": 1864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880028905891065859"
+          ],
+          "media_source_tweet_id": [
+            "1880028909489852524"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1880140523673121006",
+        "created_at": "2025-01-17T06:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T07:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880140523673121006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1665446418709098496",
+              "start": 3,
+              "username": "Freesia_QUAN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/leJg0CYd6c",
+              "end": 41,
+              "expanded_url": "https://x.com/Freesia_QUAN/status/1880028909489852524/photo/1",
+              "media_key": "3_1880028905891065859",
+              "start": 18,
+              "url": "https://t.co/leJg0CYd6c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880140523673121006",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880028909489852524",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Freesia_QUAN: https://t.co/leJg0CYd6c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880028905891065859"
+          ]
+        },
+        "author_id": "1665446418709098496",
+        "conversation_id": "1880028909489852524",
+        "created_at": "2025-01-16T23:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T00:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880028909489852524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/leJg0CYd6c",
+              "end": 23,
+              "expanded_url": "https://x.com/Freesia_QUAN/status/1880028909489852524/photo/1",
+              "media_key": "3_1880028905891065859",
+              "start": 0,
+              "url": "https://t.co/leJg0CYd6c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880028909489852524",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 2128,
+          "like_count": 374,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/leJg0CYd6c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人女 会突然产出想法 BL吃的较少 但是会吃 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 2960,
+          "like_count": 20685,
+          "listed_count": 2,
+          "media_count": 1126,
+          "tweet_count": 18959
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-04T19:52:35.000Z",
+        "description": "腿点图用",
+        "id": "1665446418709098496",
+        "name": "🚯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879095418996617216/t4Vbm9Q2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 122,
+          "like_count": 565,
+          "listed_count": 3,
+          "media_count": 170,
+          "tweet_count": 356
+        },
+        "username": "Freesia_QUAN",
+        "verified": false
+      }
+    ]
+  }
+}

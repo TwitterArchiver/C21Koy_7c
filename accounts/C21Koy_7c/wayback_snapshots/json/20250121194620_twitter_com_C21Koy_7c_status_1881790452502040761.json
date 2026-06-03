@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1881790441924030464",
+        "3_1881790441928228864",
+        "3_1881790441932369920",
+        "3_1881790441940795392"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1881790452502040761",
+    "created_at": "2025-01-21T19:46:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T20:46:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881790452502040761"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MVnSDqTx9j",
+          "end": 80,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1881790452502040761/photo/1",
+          "media_key": "3_1881790441924030464",
+          "start": 57,
+          "url": "https://t.co/MVnSDqTx9j"
+        },
+        {
+          "display_url": "pic.x.com/MVnSDqTx9j",
+          "end": 80,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1881790452502040761/photo/1",
+          "media_key": "3_1881790441928228864",
+          "start": 57,
+          "url": "https://t.co/MVnSDqTx9j"
+        },
+        {
+          "display_url": "pic.x.com/MVnSDqTx9j",
+          "end": 80,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1881790452502040761/photo/1",
+          "media_key": "3_1881790441932369920",
+          "start": 57,
+          "url": "https://t.co/MVnSDqTx9j"
+        },
+        {
+          "display_url": "pic.x.com/MVnSDqTx9j",
+          "end": 80,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1881790452502040761/photo/1",
+          "media_key": "3_1881790441940795392",
+          "start": 57,
+          "url": "https://t.co/MVnSDqTx9j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881790452502040761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我其实还是想发\n请不要点开…这是sh\n1.3\n现在愈合后全是红色蚯蚓\n我到现在都没再sh\n大腿一直在哭，我也在哭 https://t.co/MVnSDqTx9j"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1881790452502040761].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1881790452502040761",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1881790452502040761"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1881790441924030464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh12b9CbcAAJZag.jpg",
+        "width": 1921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1881790441928228864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh12b9DbgAA1Z47.jpg",
+        "width": 945
+      },
+      {
+        "height": 1069,
+        "media_key": "3_1881790441932369920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh12b9EasAAMqfR.jpg",
+        "width": 1178
+      },
+      {
+        "height": 891,
+        "media_key": "3_1881790441940795392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh12b9GbQAAOfwH.jpg",
+        "width": 1178
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH言论 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影/三国 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人爱好者 会突然产出想法 BL吃的比其他少 但是会吃 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦肉臀臀",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 2963,
+          "like_count": 20900,
+          "listed_count": 2,
+          "media_count": 1149,
+          "tweet_count": 19191
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      }
+    ]
+  }
+}

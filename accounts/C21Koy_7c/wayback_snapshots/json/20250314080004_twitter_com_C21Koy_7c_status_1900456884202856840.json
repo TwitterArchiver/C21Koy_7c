@@ -1,0 +1,662 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1900178817664311296"
+      ],
+      "media_source_tweet_id": [
+        "1900179925694636152"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1138829560047259648",
+          "name": "Baldur's Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1138829560047259648",
+          "name": "Baldur's Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      }
+    ],
+    "conversation_id": "1900456884202856840",
+    "created_at": "2025-03-14T08:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T09:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900456884202856840"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "karlach",
+          "probability": 0.4488,
+          "start": 25,
+          "type": "Person"
+        },
+        {
+          "end": 52,
+          "normalized_text": "baldursgate3",
+          "probability": 0.6385,
+          "start": 41,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 40,
+          "tag": "baldursgate3"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "782660036354973696",
+          "start": 3,
+          "username": "avercwh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cWSwQe3bKu",
+          "end": 77,
+          "expanded_url": "https://x.com/avercwh/status/1900179925694636152/video/1",
+          "media_key": "7_1900178817664311296",
+          "start": 54,
+          "url": "https://t.co/cWSwQe3bKu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900456884202856840",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 554
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900179925694636152",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @avercwh: shadowheart karlach banter #baldursgate3 https://t.co/cWSwQe3bKu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18333,
+        "height": 1080,
+        "media_key": "7_1900178817664311296",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1900178817664311296/pu/img/8GelP4UrgoxFDpp7.jpg",
+        "public_metrics": {
+          "view_count": 17671
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1900178817664311296/pu/vid/avc1/480x270/I5CPi6iOyhUURvhK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1900178817664311296/pu/vid/avc1/640x360/_crlUIlUrWmKSQW6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1900178817664311296/pu/vid/avc1/1280x720/igy8wXChHSpnocp7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1900178817664311296/pu/pl/ykR87xYrUyvG0d7i.m3u8?tag=12&v=5f3"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 18333,
+        "height": 1080,
+        "media_key": "7_1900178817664311296",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1900178817664311296/pu/img/8GelP4UrgoxFDpp7.jpg",
+        "public_metrics": {
+          "view_count": 17806
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1900178817664311296/pu/vid/avc1/480x270/I5CPi6iOyhUURvhK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1900178817664311296/pu/vid/avc1/640x360/_crlUIlUrWmKSQW6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1900178817664311296/pu/vid/avc1/1280x720/igy8wXChHSpnocp7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1900178817664311296/pu/pl/ykR87xYrUyvG0d7i.m3u8?tag=12&v=5f3"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1900178817664311296"
+          ],
+          "media_source_tweet_id": [
+            "1900179925694636152"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "1900456884202856840",
+        "created_at": "2025-03-14T08:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T09:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900456884202856840"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "karlach",
+              "probability": 0.4488,
+              "start": 25,
+              "type": "Person"
+            },
+            {
+              "end": 52,
+              "normalized_text": "baldursgate3",
+              "probability": 0.6385,
+              "start": 41,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 40,
+              "tag": "baldursgate3"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "782660036354973696",
+              "start": 3,
+              "username": "avercwh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cWSwQe3bKu",
+              "end": 77,
+              "expanded_url": "https://x.com/avercwh/status/1900179925694636152/video/1",
+              "media_key": "7_1900178817664311296",
+              "start": 54,
+              "url": "https://t.co/cWSwQe3bKu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900456884202856840",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 554
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900179925694636152",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @avercwh: shadowheart karlach banter #baldursgate3 https://t.co/cWSwQe3bKu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1900178817664311296"
+          ]
+        },
+        "author_id": "782660036354973696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "1900179925694636152",
+        "created_at": "2025-03-13T13:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T14:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900179925694636152"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "shadowheart",
+              "probability": 0.4696,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 18,
+              "normalized_text": "karlach",
+              "probability": 0.384,
+              "start": 12,
+              "type": "Person"
+            },
+            {
+              "end": 39,
+              "normalized_text": "baldursgate3",
+              "probability": 0.7452,
+              "start": 28,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 27,
+              "tag": "baldursgate3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cWSwQe3bKu",
+              "end": 64,
+              "expanded_url": "https://x.com/avercwh/status/1900179925694636152/video/1",
+              "media_key": "7_1900178817664311296",
+              "start": 41,
+              "url": "https://t.co/cWSwQe3bKu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900179925694636152",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 685,
+          "impression_count": 32394,
+          "like_count": 3475,
+          "quote_count": 7,
+          "reply_count": 5,
+          "retweet_count": 554
+        },
+        "reply_settings": "everyone",
+        "text": "shadowheart karlach banter #baldursgate3 https://t.co/cWSwQe3bKu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 但是还算可以 懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890691451258126336/lPqKitsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 2989,
+          "like_count": 22186,
+          "listed_count": 2,
+          "media_count": 1285,
+          "tweet_count": 20967
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-02T19:14:28.000Z",
+        "description": "🇹🇼 2d animator • avercwh @ gmail 🌿• instagram/bluesky: avercwh",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/avercwh",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/avercwh",
+                "start": 0,
+                "url": "https://t.co/KoFJwD1ujH"
+              }
+            ]
+          }
+        },
+        "id": "782660036354973696",
+        "location": "any",
+        "name": "claire 🐠",
+        "pinned_tweet_id": "1624754661550096384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866134519813914624/YG2pAXEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636,
+          "following_count": 1231,
+          "like_count": 6913,
+          "listed_count": 13,
+          "media_count": 120,
+          "tweet_count": 2347
+        },
+        "url": "https://t.co/KoFJwD1ujH",
+        "username": "avercwh",
+        "verified": false
+      }
+    ]
+  }
+}

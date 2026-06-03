@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1847718093252153344",
+        "3_1847718093247967232"
+      ],
+      "media_source_tweet_id": [
+        "1847718106560704948",
+        "1847718106560704948"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1882628888452612252",
+    "created_at": "2025-01-24T03:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T04:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882628888452612252"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 19,
+          "tag": "shtwt"
+        },
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "sh"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1452123941686976519",
+          "start": 3,
+          "username": "C21Koy_7c"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EYA5dV40M5",
+          "end": 53,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1847718106560704948/photo/1",
+          "media_key": "3_1847718093252153344",
+          "start": 30,
+          "url": "https://t.co/EYA5dV40M5"
+        },
+        {
+          "display_url": "pic.x.com/EYA5dV40M5",
+          "end": 53,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1847718106560704948/photo/1",
+          "media_key": "3_1847718093247967232",
+          "start": 30,
+          "url": "https://t.co/EYA5dV40M5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882628888452612252",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847718106560704948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @C21Koy_7c: 小眼睛👀#shtwt #sh https://t.co/EYA5dV40M5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1882628888452612252].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1882628888452612252",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1882628888452612252"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_1847718093252153344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaRp0PFbUAAB2Qx.jpg",
+        "width": 4032
+      },
+      {
+        "height": 2633,
+        "media_key": "3_1847718093247967232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaRp0PEbcAAy9FK.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1847718093252153344",
+            "3_1847718093247967232"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1847718106560704948",
+        "created_at": "2024-10-19T19:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T20:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847718106560704948"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 4,
+              "tag": "shtwt"
+            },
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "sh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EYA5dV40M5",
+              "end": 38,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1847718106560704948/photo/1",
+              "media_key": "3_1847718093252153344",
+              "start": 15,
+              "url": "https://t.co/EYA5dV40M5"
+            },
+            {
+              "display_url": "pic.x.com/EYA5dV40M5",
+              "end": 38,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1847718106560704948/photo/1",
+              "media_key": "3_1847718093247967232",
+              "start": 15,
+              "url": "https://t.co/EYA5dV40M5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847718106560704948",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "小眼睛👀#shtwt #sh https://t.co/EYA5dV40M5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH言论 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影/三国 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人爱好者 会突然产出想法 BL吃的比其他少 但是会吃 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦肉臀臀",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 2963,
+          "like_count": 20945,
+          "listed_count": 2,
+          "media_count": 1153,
+          "tweet_count": 19280
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      }
+    ]
+  }
+}

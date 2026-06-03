@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1784930352986984448"
+      ],
+      "media_source_tweet_id": [
+        "1784930368011059255"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1882639822952845360",
+    "created_at": "2025-01-24T04:01:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T05:01:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882639822952845360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1452123941686976519",
+          "start": 3,
+          "username": "C21Koy_7c"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oTzM9YIQ6W",
+          "end": 43,
+          "expanded_url": "https://x.com/yanxx284/status/1784930368011059255/photo/1",
+          "media_key": "3_1784930352986984448",
+          "start": 20,
+          "url": "https://t.co/oTzM9YIQ6W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882639822952845360",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1784930368011059255",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @C21Koy_7c: hehe https://t.co/oTzM9YIQ6W"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1882639822952845360].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1882639822952845360",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1882639822952845360"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1784930352986984448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GMVYsvaaEAAa9Ns.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1784930352986984448"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1784930368011059255",
+        "created_at": "2024-04-29T12:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-04-29T13:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1784930368011059255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oTzM9YIQ6W",
+              "end": 28,
+              "expanded_url": "https://x.com/yanxx284/status/1784930368011059255/photo/1",
+              "media_key": "3_1784930352986984448",
+              "start": 5,
+              "url": "https://t.co/oTzM9YIQ6W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1784930368011059255",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 285,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "hehe https://t.co/oTzM9YIQ6W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH言论 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影/三国 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人爱好者 会突然产出想法 BL吃的比其他少 但是会吃 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦肉臀臀",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 2963,
+          "like_count": 20945,
+          "listed_count": 2,
+          "media_count": 1154,
+          "tweet_count": 19288
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      }
+    ]
+  }
+}

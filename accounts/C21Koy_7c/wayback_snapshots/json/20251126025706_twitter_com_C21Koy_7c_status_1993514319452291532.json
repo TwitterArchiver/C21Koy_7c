@@ -1,0 +1,440 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993350918289735680"
+      ],
+      "media_source_tweet_id": [
+        "1993351071616676096"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A film like Rogue One: A Star Wars Story",
+          "id": "86",
+          "name": "Movie"
+        },
+        "entity": {
+          "description": "Entity about Wicked Part I 2024 movie.",
+          "id": "1790132487890300928",
+          "name": "Wicked 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Musical",
+          "id": "1035186638777802752",
+          "name": "Musicals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Movies",
+          "id": "1072936713134071808",
+          "name": "Movies"
+        }
+      }
+    ],
+    "conversation_id": "1993514319452291532",
+    "created_at": "2025-11-26T02:57:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T03:57:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993514319452291532"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 56,
+          "normalized_text": "Shadowheart",
+          "probability": 0.7134,
+          "start": 46,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 45,
+          "tag": "Shadowheart"
+        },
+        {
+          "end": 65,
+          "start": 58,
+          "tag": "laezel"
+        },
+        {
+          "end": 73,
+          "start": 66,
+          "tag": "wicked"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1418528610172903433",
+          "start": 3,
+          "username": "kanaewit"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x9JymXpOU3",
+          "end": 97,
+          "expanded_url": "https://x.com/kanaewit/status/1993351071616676096/photo/1",
+          "media_key": "3_1993350918289735680",
+          "start": 74,
+          "url": "https://t.co/x9JymXpOU3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993514319452291532",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 382
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993351071616676096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kanaewit: Does anyone want to see this?? #Shadowheart #laezel #wicked https://t.co/x9JymXpOU3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2970,
+        "media_key": "3_1993350918289735680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6nOGVVbwAAsxGH.jpg",
+        "width": 2719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993350918289735680"
+          ],
+          "media_source_tweet_id": [
+            "1993351071616676096"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "description": "Entity about Wicked Part I 2024 movie.",
+              "id": "1790132487890300928",
+              "name": "Wicked 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical",
+              "id": "1035186638777802752",
+              "name": "Musicals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Movies",
+              "id": "1072936713134071808",
+              "name": "Movies"
+            }
+          }
+        ],
+        "conversation_id": "1993514319452291532",
+        "created_at": "2025-11-26T02:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T03:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993514319452291532"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 56,
+              "normalized_text": "Shadowheart",
+              "probability": 0.7134,
+              "start": 46,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 45,
+              "tag": "Shadowheart"
+            },
+            {
+              "end": 65,
+              "start": 58,
+              "tag": "laezel"
+            },
+            {
+              "end": 73,
+              "start": 66,
+              "tag": "wicked"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1418528610172903433",
+              "start": 3,
+              "username": "kanaewit"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x9JymXpOU3",
+              "end": 97,
+              "expanded_url": "https://x.com/kanaewit/status/1993351071616676096/photo/1",
+              "media_key": "3_1993350918289735680",
+              "start": 74,
+              "url": "https://t.co/x9JymXpOU3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993514319452291532",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 382
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993351071616676096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kanaewit: Does anyone want to see this?? #Shadowheart #laezel #wicked https://t.co/x9JymXpOU3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993350918289735680"
+          ]
+        },
+        "author_id": "1418528610172903433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "description": "Entity about Wicked Part I 2024 movie.",
+              "id": "1790132487890300928",
+              "name": "Wicked 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical",
+              "id": "1035186638777802752",
+              "name": "Musicals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Movies",
+              "id": "1072936713134071808",
+              "name": "Movies"
+            }
+          }
+        ],
+        "conversation_id": "1993351071616676096",
+        "created_at": "2025-11-25T16:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T17:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993351071616676096"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "Shadowheart",
+              "probability": 0.7135,
+              "start": 32,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 31,
+              "tag": "Shadowheart"
+            },
+            {
+              "end": 51,
+              "start": 44,
+              "tag": "laezel"
+            },
+            {
+              "end": 59,
+              "start": 52,
+              "tag": "wicked"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x9JymXpOU3",
+              "end": 83,
+              "expanded_url": "https://x.com/kanaewit/status/1993351071616676096/photo/1",
+              "media_key": "3_1993350918289735680",
+              "start": 60,
+              "url": "https://t.co/x9JymXpOU3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993351071616676096",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 21957,
+          "like_count": 2400,
+          "quote_count": 12,
+          "reply_count": 14,
+          "retweet_count": 382
+        },
+        "reply_settings": "everyone",
+        "text": "Does anyone want to see this?? #Shadowheart #laezel #wicked https://t.co/x9JymXpOU3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987482127756410880/kunx4knz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 3165,
+          "like_count": 26222,
+          "listed_count": 5,
+          "media_count": 1770,
+          "tweet_count": 24949
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-23T11:09:21.000Z",
+        "description": "Artist | You can call me Kanae☺️| 月見里葉 | BG3 - Minthara💜 | 🏳️‍🌈 | She/Her | kanaewit@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/kanaewit",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/kanaewit",
+                "start": 0,
+                "url": "https://t.co/2dujI1eObk"
+              }
+            ]
+          }
+        },
+        "id": "1418528610172903433",
+        "name": "KanaeWit",
+        "pinned_tweet_id": "1984914060065087506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991433428802367492/3Pl4HOWO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5779,
+          "following_count": 311,
+          "like_count": 7188,
+          "listed_count": 27,
+          "media_count": 247,
+          "tweet_count": 997
+        },
+        "url": "https://t.co/2dujI1eObk",
+        "username": "kanaewit",
+        "verified": false
+      }
+    ]
+  }
+}

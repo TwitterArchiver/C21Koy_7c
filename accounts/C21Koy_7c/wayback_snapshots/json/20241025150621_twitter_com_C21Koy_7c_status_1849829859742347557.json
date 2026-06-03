@@ -1,0 +1,166 @@
+{
+  "data": {
+    "attachments": {
+      "media_source_tweet_id": [
+        "1849829209918537751",
+        "1849829209918537751"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1849829859742347557",
+    "created_at": "2024-10-25T15:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-25T16:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1849829859742347557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1128416222763155456",
+          "start": 3,
+          "username": "baldursgate3"
+        }
+      ]
+    },
+    "id": "1849829859742347557",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1297
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849829209918537751",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baldursgate3: \"I like playing as Durge\"         \"I want to smooch Gortash\" https://t.co/NFWfmUWVJi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_source_tweet_id": [
+            "1849829209918537751",
+            "1849829209918537751"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1849829859742347557",
+        "created_at": "2024-10-25T15:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-25T16:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1849829859742347557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1128416222763155456",
+              "start": 3,
+              "username": "baldursgate3"
+            }
+          ]
+        },
+        "id": "1849829859742347557",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1297
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849829209918537751",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baldursgate3: \"I like playing as Durge\"         \"I want to smooch Gortash\" https://t.co/NFWfmUWVJi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫bi🏳️‍🌈/ they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人女 会突然产出想法 GB GL大于BL BG  是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 2921,
+          "like_count": 20849,
+          "listed_count": 2,
+          "media_count": 1106,
+          "tweet_count": 18314
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-14T21:46:07.000Z",
+        "description": "Developed by @larianstudios. Gather your party, let's play some Dungeons & Dragons. Baldur's Gate 3 is out now on PC, PS5 and Xbox Series X|S!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "larianstudios"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "larian.club/x_BG3_PartyTime",
+                "end": 23,
+                "expanded_url": "https://larian.club/x_BG3_PartyTime",
+                "start": 0,
+                "url": "https://t.co/OsqvdITpFs"
+              }
+            ]
+          }
+        },
+        "id": "1128416222763155456",
+        "location": "Faerûn",
+        "name": "Baldur's Gate 3",
+        "pinned_tweet_id": "1732974863655063715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1222914397900886020/vi60lxc6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335341,
+          "following_count": 20,
+          "like_count": 1127,
+          "listed_count": 562,
+          "media_count": 371,
+          "tweet_count": 1181
+        },
+        "url": "https://t.co/OsqvdITpFs",
+        "username": "baldursgate3",
+        "verified": false
+      }
+    ]
+  }
+}

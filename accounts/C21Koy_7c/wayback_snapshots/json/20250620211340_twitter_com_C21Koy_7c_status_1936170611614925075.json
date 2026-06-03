@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936170605528682496"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drink Experience",
+          "id": "1006278636842782720",
+          "name": "Drink Experience"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      }
+    ],
+    "conversation_id": "1936118760676762013",
+    "created_at": "2025-06-20T21:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T22:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936170611614925075"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "日本",
+          "probability": 0.8465,
+          "start": 15,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1750134402464788481",
+          "start": 0,
+          "username": "dogneco2020"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MgL5LfZwkH",
+          "end": 89,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1936170611614925075/photo/1",
+          "media_key": "3_1936170605528682496",
+          "start": 66,
+          "url": "https://t.co/MgL5LfZwkH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936170611614925075",
+    "in_reply_to_user_id": "1750134402464788481",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936170296018599975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dogneco2020 私は日本のコンビニエンスストアが大好きです。美味しいアイスクリーム🍦や美味しい飲み物がたくさんあります！ https://t.co/MgL5LfZwkH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "3_1936170605528682496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt6o6E8XEAAnj1h.jpg",
+        "width": 370
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936170605528682496"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drink Experience",
+              "id": "1006278636842782720",
+              "name": "Drink Experience"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          }
+        ],
+        "conversation_id": "1936118760676762013",
+        "created_at": "2025-06-20T21:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T22:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936170611614925075"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "日本",
+              "probability": 0.8465,
+              "start": 15,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1750134402464788481",
+              "start": 0,
+              "username": "dogneco2020"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MgL5LfZwkH",
+              "end": 89,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1936170611614925075/photo/1",
+              "media_key": "3_1936170605528682496",
+              "start": 66,
+              "url": "https://t.co/MgL5LfZwkH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936170611614925075",
+        "in_reply_to_user_id": "1750134402464788481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936170296018599975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dogneco2020 私は日本のコンビニエンスストアが大好きです。美味しいアイスクリーム🍦や美味しい飲み物がたくさんあります！ https://t.co/MgL5LfZwkH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750134402464788481",
+        "conversation_id": "1936118760676762013",
+        "created_at": "2025-06-20T21:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T22:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936170296018599975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1452123941686976519",
+              "start": 0,
+              "username": "C21Koy_7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936170296018599975",
+        "in_reply_to_user_id": "1452123941686976519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936170204461203824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C21Koy_7c コンビニで飲みました！🙂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 3023,
+          "like_count": 23555,
+          "listed_count": 3,
+          "media_count": 1453,
+          "tweet_count": 22505
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T12:32:39.000Z",
+        "description": "2歳⬆️相棒@evoxr35gtr 推し＠8rWFraqry022027 @nanimoez_uwu裏@necodog2222 バウンティ 猫？犬だよ 苦しいから犬やってます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "evoxr35gtr"
+              },
+              {
+                "end": 36,
+                "start": 20,
+                "username": "8rWFraqry022027"
+              },
+              {
+                "end": 50,
+                "start": 37,
+                "username": "nanimoez_uwu"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "necodog2222"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/dogneco2020/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/dogneco2020/",
+                "start": 0,
+                "url": "https://t.co/qJyjyuc3u9"
+              }
+            ]
+          }
+        },
+        "id": "1750134402464788481",
+        "location": "オンボロ犬小屋",
+        "name": "d🐶社蓄oチワワ🐕g",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935999089512267782/YPaN8IdG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 682,
+          "like_count": 72030,
+          "listed_count": 5,
+          "media_count": 1953,
+          "tweet_count": 28723
+        },
+        "url": "https://t.co/qJyjyuc3u9",
+        "username": "dogneco2020",
+        "verified": false
+      }
+    ]
+  }
+}

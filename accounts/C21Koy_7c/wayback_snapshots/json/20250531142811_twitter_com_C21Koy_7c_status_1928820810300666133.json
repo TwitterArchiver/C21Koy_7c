@@ -1,0 +1,539 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928507489378775042"
+      ],
+      "media_source_tweet_id": [
+        "1928508316696850916"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "1928820810300666133",
+    "created_at": "2025-05-31T14:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T15:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928820810300666133"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 49,
+          "normalized_text": "DevilMayCry",
+          "probability": 0.5028,
+          "start": 39,
+          "type": "Other"
+        },
+        {
+          "end": 62,
+          "normalized_text": "Vergil",
+          "probability": 0.357,
+          "start": 57,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 38,
+          "tag": "DevilMayCry"
+        },
+        {
+          "end": 55,
+          "start": 51,
+          "tag": "DMC"
+        },
+        {
+          "end": 63,
+          "start": 56,
+          "tag": "Vergil"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1255770610862395392",
+          "start": 3,
+          "username": "ashtonaholic_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xFzxiGvnl9",
+          "end": 87,
+          "expanded_url": "https://x.com/ashtonaholic_/status/1928508316696850916/photo/1",
+          "media_key": "3_1928507489378775042",
+          "start": 64,
+          "url": "https://t.co/xFzxiGvnl9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928820810300666133",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 405
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928508316696850916",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ashtonaholic_: Smoking Sexy Style #DevilMayCry #DMC #Vergil https://t.co/xFzxiGvnl9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1036,
+        "media_key": "3_1928507489378775042",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsNvWAsaMAINrrr.jpg",
+        "width": 1688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928507489378775042"
+          ],
+          "media_source_tweet_id": [
+            "1928508316696850916"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1928820810300666133",
+        "created_at": "2025-05-31T14:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T15:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928820810300666133"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "DevilMayCry",
+              "probability": 0.5028,
+              "start": 39,
+              "type": "Other"
+            },
+            {
+              "end": 62,
+              "normalized_text": "Vergil",
+              "probability": 0.357,
+              "start": 57,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 38,
+              "tag": "DevilMayCry"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "DMC"
+            },
+            {
+              "end": 63,
+              "start": 56,
+              "tag": "Vergil"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1255770610862395392",
+              "start": 3,
+              "username": "ashtonaholic_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xFzxiGvnl9",
+              "end": 87,
+              "expanded_url": "https://x.com/ashtonaholic_/status/1928508316696850916/photo/1",
+              "media_key": "3_1928507489378775042",
+              "start": 64,
+              "url": "https://t.co/xFzxiGvnl9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928820810300666133",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 405
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928508316696850916",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ashtonaholic_: Smoking Sexy Style #DevilMayCry #DMC #Vergil https://t.co/xFzxiGvnl9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928507489378775042"
+          ]
+        },
+        "author_id": "1255770610862395392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1928508316696850916",
+        "created_at": "2025-05-30T17:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T18:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928508316696850916"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "DevilMayCry",
+              "probability": 0.5521,
+              "start": 20,
+              "type": "Other"
+            },
+            {
+              "end": 43,
+              "normalized_text": "Vergil",
+              "probability": 0.3735,
+              "start": 38,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 19,
+              "tag": "DevilMayCry"
+            },
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "DMC"
+            },
+            {
+              "end": 44,
+              "start": 37,
+              "tag": "Vergil"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xFzxiGvnl9",
+              "end": 68,
+              "expanded_url": "https://x.com/ashtonaholic_/status/1928508316696850916/photo/1",
+              "media_key": "3_1928507489378775042",
+              "start": 45,
+              "url": "https://t.co/xFzxiGvnl9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928508316696850916",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 242,
+          "impression_count": 18244,
+          "like_count": 2373,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 405
+        },
+        "reply_settings": "everyone",
+        "text": "Smoking Sexy Style #DevilMayCry #DMC #Vergil https://t.co/xFzxiGvnl9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我yan｜肉鸦都可以 不会外语翻译器OK",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 3016,
+          "like_count": 23234,
+          "listed_count": 3,
+          "media_count": 1416,
+          "tweet_count": 22231
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-30T08:07:09.000Z",
+        "description": "18 ⋆ neurodivergent digital artist :^)\n⋆ LF #devilmaycry artist moots (begging)\n⋆ open for comms! feel free to dm me\n⋆ proshippers DNI!!!!!!!",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 44,
+                "tag": "devilmaycry"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ashtonaholic.carrd.co",
+                "end": 23,
+                "expanded_url": "http://ashtonaholic.carrd.co",
+                "start": 0,
+                "url": "https://t.co/X21pkTk7fz"
+              }
+            ]
+          }
+        },
+        "id": "1255770610862395392",
+        "location": "🇵🇭 ⋆ he/she ",
+        "name": "Asht",
+        "pinned_tweet_id": "1928508316696850916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904544208687628288/ER9IlStN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 73,
+          "like_count": 33181,
+          "listed_count": 10,
+          "media_count": 1618,
+          "tweet_count": 7756
+        },
+        "url": "https://t.co/X21pkTk7fz",
+        "username": "ashtonaholic_",
+        "verified": false
+      }
+    ]
+  }
+}

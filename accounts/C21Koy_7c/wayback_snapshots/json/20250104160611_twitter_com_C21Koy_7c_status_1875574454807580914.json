@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1875524222417825797"
+      ],
+      "media_source_tweet_id": [
+        "1875524224577847586"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1875574454807580914",
+    "created_at": "2025-01-04T16:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T17:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875574454807580914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1553824318387527680",
+          "start": 3,
+          "username": "magucinnamontee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tkeApOo4Vc",
+          "end": 44,
+          "expanded_url": "https://x.com/magucinnamontee/status/1875524224577847586/photo/1",
+          "media_key": "3_1875524222417825797",
+          "start": 21,
+          "url": "https://t.co/tkeApOo4Vc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875574454807580914",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875524224577847586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @magucinnamontee: https://t.co/tkeApOo4Vc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 671,
+        "media_key": "3_1875524222417825797",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgczV-Ta8AUirTW.jpg",
+        "width": 493
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875524222417825797"
+          ],
+          "media_source_tweet_id": [
+            "1875524224577847586"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1875574454807580914",
+        "created_at": "2025-01-04T16:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T17:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875574454807580914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1553824318387527680",
+              "start": 3,
+              "username": "magucinnamontee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tkeApOo4Vc",
+              "end": 44,
+              "expanded_url": "https://x.com/magucinnamontee/status/1875524224577847586/photo/1",
+              "media_key": "3_1875524222417825797",
+              "start": 21,
+              "url": "https://t.co/tkeApOo4Vc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875574454807580914",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875524224577847586",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @magucinnamontee: https://t.co/tkeApOo4Vc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875524222417825797"
+          ]
+        },
+        "author_id": "1553824318387527680",
+        "conversation_id": "1875524224577847586",
+        "created_at": "2025-01-04T12:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T13:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875524224577847586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tkeApOo4Vc",
+              "end": 23,
+              "expanded_url": "https://x.com/magucinnamontee/status/1875524224577847586/photo/1",
+              "media_key": "3_1875524222417825797",
+              "start": 0,
+              "url": "https://t.co/tkeApOo4Vc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875524224577847586",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 3737,
+          "like_count": 362,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tkeApOo4Vc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人女 会突然产出想法 BL吃的较少 但是会吃 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 2961,
+          "like_count": 20883,
+          "listed_count": 2,
+          "media_count": 1124,
+          "tweet_count": 18857
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-31T19:26:15.000Z",
+        "description": "구독,그림계",
+        "id": "1553824318387527680",
+        "name": "계피차",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801307279758868481/HQEo2AkC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1832,
+          "following_count": 35,
+          "like_count": 1625,
+          "listed_count": 10,
+          "media_count": 46,
+          "tweet_count": 928
+        },
+        "username": "magucinnamontee",
+        "verified": false
+      }
+    ]
+  }
+}

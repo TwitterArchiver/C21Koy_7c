@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1858612712257056771"
+      ],
+      "media_source_tweet_id": [
+        "1858613162926641538"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1858716665649000592",
+    "created_at": "2024-11-19T03:39:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T04:39:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858716665649000592"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "valveplug",
+          "probability": 0.5091,
+          "start": 29,
+          "type": "Other"
+        },
+        {
+          "end": 47,
+          "normalized_text": "megatron",
+          "probability": 0.6369,
+          "start": 40,
+          "type": "Other"
+        },
+        {
+          "end": 64,
+          "normalized_text": "TransformersOne",
+          "probability": 0.9435,
+          "start": 50,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 28,
+          "tag": "valveplug"
+        },
+        {
+          "end": 48,
+          "start": 39,
+          "tag": "megatron"
+        },
+        {
+          "end": 65,
+          "start": 49,
+          "tag": "TransformersOne"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1146280563621453824",
+          "start": 3,
+          "username": "YtjyFDszaB7qft2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MbZBB18fbN",
+          "end": 89,
+          "expanded_url": "https://x.com/YtjyFDszaB7qft2/status/1858613162926641538/photo/1",
+          "media_key": "3_1858612712257056771",
+          "start": 66,
+          "url": "https://t.co/MbZBB18fbN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858716665649000592",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858613162926641538",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YtjyFDszaB7qft2: canary\n#valveplug #megatron #TransformersOne https://t.co/MbZBB18fbN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1858612712257056771",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcseahkbcAMI0XR.jpg",
+        "width": 2690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858612712257056771"
+          ],
+          "media_source_tweet_id": [
+            "1858613162926641538"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1858716665649000592",
+        "created_at": "2024-11-19T03:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T04:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858716665649000592"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "valveplug",
+              "probability": 0.5091,
+              "start": 29,
+              "type": "Other"
+            },
+            {
+              "end": 47,
+              "normalized_text": "megatron",
+              "probability": 0.6369,
+              "start": 40,
+              "type": "Other"
+            },
+            {
+              "end": 64,
+              "normalized_text": "TransformersOne",
+              "probability": 0.9435,
+              "start": 50,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 28,
+              "tag": "valveplug"
+            },
+            {
+              "end": 48,
+              "start": 39,
+              "tag": "megatron"
+            },
+            {
+              "end": 65,
+              "start": 49,
+              "tag": "TransformersOne"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1146280563621453824",
+              "start": 3,
+              "username": "YtjyFDszaB7qft2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MbZBB18fbN",
+              "end": 89,
+              "expanded_url": "https://x.com/YtjyFDszaB7qft2/status/1858613162926641538/photo/1",
+              "media_key": "3_1858612712257056771",
+              "start": 66,
+              "url": "https://t.co/MbZBB18fbN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858716665649000592",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858613162926641538",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YtjyFDszaB7qft2: canary\n#valveplug #megatron #TransformersOne https://t.co/MbZBB18fbN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858612712257056771"
+          ]
+        },
+        "author_id": "1146280563621453824",
+        "conversation_id": "1858613162926641538",
+        "created_at": "2024-11-18T20:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T21:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858613162926641538"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "valveplug",
+              "probability": 0.5306,
+              "start": 8,
+              "type": "Other"
+            },
+            {
+              "end": 26,
+              "normalized_text": "megatron",
+              "probability": 0.5861,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 43,
+              "normalized_text": "TransformersOne",
+              "probability": 0.9438,
+              "start": 29,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 7,
+              "tag": "valveplug"
+            },
+            {
+              "end": 27,
+              "start": 18,
+              "tag": "megatron"
+            },
+            {
+              "end": 44,
+              "start": 28,
+              "tag": "TransformersOne"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MbZBB18fbN",
+              "end": 68,
+              "expanded_url": "https://x.com/YtjyFDszaB7qft2/status/1858613162926641538/photo/1",
+              "media_key": "3_1858612712257056771",
+              "start": 45,
+              "url": "https://t.co/MbZBB18fbN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858613162926641538",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 5699,
+          "like_count": 553,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "canary\n#valveplug #megatron #TransformersOne https://t.co/MbZBB18fbN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫bi🏳️‍🌈/ they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人女 会突然产出想法 GB GL大于BL BG 20+",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 2883,
+          "like_count": 20678,
+          "listed_count": 2,
+          "tweet_count": 18076
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-03T04:52:38.000Z",
+        "description": "挖喔是推特欸專門看瑟瑟的好地方 讚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/dawnwe…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/dawnweed.bsky.social",
+                "start": 0,
+                "url": "https://t.co/BMSO2zj5sE"
+              }
+            ]
+          }
+        },
+        "id": "1146280563621453824",
+        "location": "Taiwan",
+        "name": "DAWN CECILIA047",
+        "pinned_tweet_id": "1857838204029665322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623285026212450305/dntrJpME_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 4074,
+          "like_count": 54965,
+          "listed_count": 1,
+          "tweet_count": 314
+        },
+        "url": "https://t.co/BMSO2zj5sE",
+        "username": "YtjyFDszaB7qft2",
+        "verified": false
+      }
+    ]
+  }
+}

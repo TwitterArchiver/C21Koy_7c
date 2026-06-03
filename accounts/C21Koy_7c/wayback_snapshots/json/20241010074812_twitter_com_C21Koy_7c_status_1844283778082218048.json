@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1844277851480260609"
+      ],
+      "media_source_tweet_id": [
+        "1844277869847130179"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1844283778082218048",
+    "created_at": "2024-10-10T07:48:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-10T08:48:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1844283778082218048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1792326831556972544",
+          "start": 3,
+          "username": "KAI10_DOL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JQtQ5ie1cA",
+          "end": 50,
+          "expanded_url": "https://x.com/KAI10_DOL/status/1844277869847130179/photo/1",
+          "media_key": "3_1844277851480260609",
+          "start": 27,
+          "url": "https://t.co/JQtQ5ie1cA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1844283778082218048",
+    "lang": "en",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1844277869847130179",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KAI10_DOL: ⚠️Cuntboy⚠️ https://t.co/JQtQ5ie1cA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1844283778082218048].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1844283778082218048",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1844283778082218048"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2524,
+        "media_key": "3_1844277851480260609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZgw7zyaAAEbDqx.jpg",
+        "width": 1574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1844277851480260609"
+          ]
+        },
+        "author_id": "1792326831556972544",
+        "conversation_id": "1844277869847130179",
+        "created_at": "2024-10-10T07:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-10T08:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1844277869847130179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JQtQ5ie1cA",
+              "end": 35,
+              "expanded_url": "https://x.com/KAI10_DOL/status/1844277869847130179/photo/1",
+              "media_key": "3_1844277851480260609",
+              "start": 12,
+              "url": "https://t.co/JQtQ5ie1cA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1844277869847130179",
+        "lang": "en",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 156,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️Cuntboy⚠️ https://t.co/JQtQ5ie1cA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫 Bipolar patient/ they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT大概淡坑：COD/MK/恐影 不善表达 但是还算nice 请和我保持联络谢谢 努力尽力活着 我没恶意 我鼓起很大勇气才会评论你 因为我想友善的和你互动",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1787381657340883290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842795137925255168/Z-0bJ2Zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 2818,
+          "like_count": 20168,
+          "listed_count": 2,
+          "tweet_count": 16232
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T22:50:06.000Z",
+        "description": "Kai\\ไก่🐔•21 yo•TH🇹🇭/EN (my english not good but okay!)•\n#DegreesofLewdity 🔞❗ I'M WHITNEY SLUT🚬 \nmain acc @Drakkai10 pfp : @Naii_DOL",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 56,
+                "tag": "DegreesofLewdity"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 115,
+                "start": 105,
+                "username": "Drakkai10"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "Naii_DOL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kaikai10.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://kaikai10.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/En7HMcdnBZ"
+              }
+            ]
+          }
+        },
+        "id": "1792326831556972544",
+        "location": "KFC",
+        "name": "KAIKAI🔞",
+        "pinned_tweet_id": "1810534556027822312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836060044972187648/GmI1mk5h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9887,
+          "following_count": 105,
+          "like_count": 4117,
+          "listed_count": 7,
+          "tweet_count": 2691
+        },
+        "url": "https://t.co/En7HMcdnBZ",
+        "username": "KAI10_DOL",
+        "verified": false
+      }
+    ]
+  }
+}

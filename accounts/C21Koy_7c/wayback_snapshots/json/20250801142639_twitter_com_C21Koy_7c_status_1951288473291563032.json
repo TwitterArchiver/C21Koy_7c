@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951242502985621504"
+      ],
+      "media_source_tweet_id": [
+        "1951242594161209476"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1951288473291563032",
+    "created_at": "2025-08-01T14:26:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T15:26:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951288473291563032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1867609461684416513",
+          "start": 3,
+          "username": "nunhighink22623"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JMXW8LwEtY",
+          "end": 44,
+          "expanded_url": "https://x.com/nunhighink22623/status/1951242594161209476/photo/1",
+          "media_key": "3_1951242502985621504",
+          "start": 21,
+          "url": "https://t.co/JMXW8LwEtY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951288473291563032",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951242594161209476",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nunhighink22623: https://t.co/JMXW8LwEtY"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1951288473291563032].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1951288473291563032",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1951288473291563032"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1951242502985621504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxQ0t-UaIAAan7w.jpg",
+        "width": 1707
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951242502985621504"
+          ]
+        },
+        "author_id": "1867609461684416513",
+        "conversation_id": "1951242594161209476",
+        "created_at": "2025-08-01T11:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T12:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951242594161209476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JMXW8LwEtY",
+              "end": 23,
+              "expanded_url": "https://x.com/nunhighink22623/status/1951242594161209476/photo/1",
+              "media_key": "3_1951242502985621504",
+              "start": 0,
+              "url": "https://t.co/JMXW8LwEtY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951242594161209476",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 1025,
+          "like_count": 235,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JMXW8LwEtY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947781415615025152/-8pHQpZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 3037,
+          "like_count": 23880,
+          "listed_count": 3,
+          "media_count": 1494,
+          "tweet_count": 22964
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T16:36:22.000Z",
+        "description": "mangopp\ni'm into alot of things\nNSFW\nrepost with credit\nno AI pls",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nunhighinki.straw.page",
+                "end": 23,
+                "expanded_url": "http://nunhighinki.straw.page",
+                "start": 0,
+                "url": "https://t.co/u5utxyWjGV"
+              }
+            ]
+          }
+        },
+        "id": "1867609461684416513",
+        "name": "sơn tùng mtp",
+        "pinned_tweet_id": "1950251604990709999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867611610451521540/ITyk_Fqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6821,
+          "following_count": 486,
+          "like_count": 8794,
+          "listed_count": 9,
+          "media_count": 77,
+          "tweet_count": 147
+        },
+        "url": "https://t.co/u5utxyWjGV",
+        "username": "nunhighink22623",
+        "verified": false
+      }
+    ]
+  }
+}

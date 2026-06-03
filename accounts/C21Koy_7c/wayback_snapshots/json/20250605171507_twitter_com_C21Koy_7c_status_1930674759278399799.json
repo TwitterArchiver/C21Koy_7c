@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1930590743371915264"
+      ],
+      "media_source_tweet_id": [
+        "1930590838318346345"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1930674759278399799",
+    "created_at": "2025-06-05T17:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T18:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930674759278399799"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 12,
+          "tag": "afraidofmonsters"
+        },
+        {
+          "end": 40,
+          "start": 30,
+          "tag": "CryOfFear"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1868523332490194944",
+          "start": 3,
+          "username": "pnkebb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uc3kpywG3S",
+          "end": 64,
+          "expanded_url": "https://x.com/pnkebb/status/1930590838318346345/video/1",
+          "media_key": "13_1930590743371915264",
+          "start": 41,
+          "url": "https://t.co/uc3kpywG3S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930674759278399799",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930590838318346345",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pnkebb: #afraidofmonsters #CryOfFear https://t.co/uc3kpywG3S"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16133,
+        "height": 720,
+        "media_key": "13_1930590743371915264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1930590743371915264/img/EXutIfoMDJiq5CWu.jpg",
+        "public_metrics": {
+          "view_count": 675
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930590743371915264/vid/avc1/320x320/I2XMswgWtvotf1jK.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930590743371915264/vid/avc1/540x540/oHBhac57EYbU81ai.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930590743371915264/vid/avc1/720x720/Qo68J7n1DdFVav-K.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1930590743371915264/pl/qsddwNCau1AYEJpx.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1930590743371915264"
+          ],
+          "media_source_tweet_id": [
+            "1930590838318346345"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1930674759278399799",
+        "created_at": "2025-06-05T17:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T18:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930674759278399799"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 12,
+              "tag": "afraidofmonsters"
+            },
+            {
+              "end": 40,
+              "start": 30,
+              "tag": "CryOfFear"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1868523332490194944",
+              "start": 3,
+              "username": "pnkebb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uc3kpywG3S",
+              "end": 64,
+              "expanded_url": "https://x.com/pnkebb/status/1930590838318346345/video/1",
+              "media_key": "13_1930590743371915264",
+              "start": 41,
+              "url": "https://t.co/uc3kpywG3S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930674759278399799",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930590838318346345",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pnkebb: #afraidofmonsters #CryOfFear https://t.co/uc3kpywG3S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1930590743371915264"
+          ]
+        },
+        "author_id": "1868523332490194944",
+        "conversation_id": "1930590838318346345",
+        "created_at": "2025-06-05T11:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T12:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930590838318346345"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 0,
+              "tag": "afraidofmonsters"
+            },
+            {
+              "end": 28,
+              "start": 18,
+              "tag": "CryOfFear"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uc3kpywG3S",
+              "end": 52,
+              "expanded_url": "https://x.com/pnkebb/status/1930590838318346345/video/1",
+              "media_key": "13_1930590743371915264",
+              "start": 29,
+              "url": "https://t.co/uc3kpywG3S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930590838318346345",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 1371,
+          "like_count": 258,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "#afraidofmonsters #CryOfFear https://t.co/uc3kpywG3S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 3031,
+          "like_count": 23385,
+          "listed_count": 3,
+          "media_count": 1436,
+          "tweet_count": 22375
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T05:07:40.000Z",
+        "description": "搬运请授权",
+        "id": "1868523332490194944",
+        "name": "84",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918827911681015809/RSgnqynI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2261,
+          "following_count": 272,
+          "like_count": 2775,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 801
+        },
+        "username": "pnkebb",
+        "verified": false
+      }
+    ]
+  }
+}

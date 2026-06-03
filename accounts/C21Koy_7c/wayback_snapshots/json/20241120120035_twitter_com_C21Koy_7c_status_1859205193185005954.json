@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1858644810246352897",
+        "3_1858644845952462848"
+      ],
+      "media_source_tweet_id": [
+        "1858644852516548765",
+        "1858644852516548765"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1859205193185005954",
+    "created_at": "2024-11-20T12:00:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T13:00:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859205193185005954"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "arcane",
+          "probability": 0.509,
+          "start": 23,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1354406296796057601",
+          "start": 3,
+          "username": "kirammisu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zqhYoMSTgI",
+          "end": 64,
+          "expanded_url": "https://x.com/kirammisu/status/1858644852516548765/photo/1",
+          "media_key": "3_1858644810246352897",
+          "start": 41,
+          "url": "https://t.co/zqhYoMSTgI"
+        },
+        {
+          "display_url": "pic.x.com/zqhYoMSTgI",
+          "end": 64,
+          "expanded_url": "https://x.com/kirammisu/status/1858644852516548765/photo/1",
+          "media_key": "3_1858644845952462848",
+          "start": 41,
+          "url": "https://t.co/zqhYoMSTgI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859205193185005954",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2922
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858644852516548765",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kirammisu: what is arcane even about https://t.co/zqhYoMSTgI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 537,
+        "media_key": "3_1858644810246352897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gcs7m35bcAE1qB9.jpg",
+        "width": 955
+      },
+      {
+        "height": 688,
+        "media_key": "3_1858644845952462848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gcs7o86bcAAk8kK.jpg",
+        "width": 688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858644810246352897",
+            "3_1858644845952462848"
+          ],
+          "media_source_tweet_id": [
+            "1858644852516548765",
+            "1858644852516548765"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1859205193185005954",
+        "created_at": "2024-11-20T12:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T13:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859205193185005954"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "arcane",
+              "probability": 0.509,
+              "start": 23,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1354406296796057601",
+              "start": 3,
+              "username": "kirammisu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zqhYoMSTgI",
+              "end": 64,
+              "expanded_url": "https://x.com/kirammisu/status/1858644852516548765/photo/1",
+              "media_key": "3_1858644810246352897",
+              "start": 41,
+              "url": "https://t.co/zqhYoMSTgI"
+            },
+            {
+              "display_url": "pic.x.com/zqhYoMSTgI",
+              "end": 64,
+              "expanded_url": "https://x.com/kirammisu/status/1858644852516548765/photo/1",
+              "media_key": "3_1858644845952462848",
+              "start": 41,
+              "url": "https://t.co/zqhYoMSTgI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859205193185005954",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2922
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858644852516548765",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kirammisu: what is arcane even about https://t.co/zqhYoMSTgI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858644810246352897",
+            "3_1858644845952462848"
+          ]
+        },
+        "author_id": "1354406296796057601",
+        "conversation_id": "1858644852516548765",
+        "created_at": "2024-11-18T22:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T23:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858644852516548765"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "arcane",
+              "probability": 0.5019,
+              "start": 8,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zqhYoMSTgI",
+              "end": 49,
+              "expanded_url": "https://x.com/kirammisu/status/1858644852516548765/photo/1",
+              "media_key": "3_1858644810246352897",
+              "start": 26,
+              "url": "https://t.co/zqhYoMSTgI"
+            },
+            {
+              "display_url": "pic.x.com/zqhYoMSTgI",
+              "end": 49,
+              "expanded_url": "https://x.com/kirammisu/status/1858644852516548765/photo/1",
+              "media_key": "3_1858644845952462848",
+              "start": 26,
+              "url": "https://t.co/zqhYoMSTgI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858644852516548765",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2313,
+          "impression_count": 288869,
+          "like_count": 39622,
+          "quote_count": 143,
+          "reply_count": 37,
+          "retweet_count": 2922
+        },
+        "reply_settings": "everyone",
+        "text": "what is arcane even about https://t.co/zqhYoMSTgI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫bi🏳️‍🌈/ they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人女 会突然产出想法 GB GL大于BL BG 20+",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 2889,
+          "like_count": 20712,
+          "listed_count": 2,
+          "tweet_count": 18135
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-27T12:30:11.000Z",
+        "description": "femme who yaps",
+        "id": "1354406296796057601",
+        "location": "17 she/her ⋅˚₊‧ ୨୧ ‧₊˚ ⋅",
+        "name": "clo ♰",
+        "pinned_tweet_id": "1859194312241602882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858143166135943168/PvianMxH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 638,
+          "like_count": 17100,
+          "listed_count": 9,
+          "tweet_count": 7671
+        },
+        "username": "kirammisu",
+        "verified": false
+      }
+    ]
+  }
+}

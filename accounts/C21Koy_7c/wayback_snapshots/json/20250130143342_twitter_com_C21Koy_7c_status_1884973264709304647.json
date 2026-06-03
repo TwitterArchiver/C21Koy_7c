@@ -1,0 +1,501 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1884549563497021440"
+      ],
+      "media_source_tweet_id": [
+        "1884549568421142990"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "992498112978534400",
+          "name": "Animal Crossing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "992498112978534400",
+          "name": "Animal Crossing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897662399922176",
+          "name": "Simulation games"
+        }
+      }
+    ],
+    "conversation_id": "1884973264709304647",
+    "created_at": "2025-01-30T14:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T15:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884973264709304647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "979058700903071744",
+          "start": 3,
+          "username": "o_taku_thd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G9egQK6al9",
+          "end": 67,
+          "expanded_url": "https://x.com/o_taku_thd/status/1884549568421142990/photo/1",
+          "media_key": "3_1884549563497021440",
+          "start": 44,
+          "url": "https://t.co/G9egQK6al9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884973264709304647",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884549568421142990",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @o_taku_thd: (낙서도 아닌 애매한 퀄리티의)\n동숲AU 아스달린 https://t.co/G9egQK6al9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1133,
+        "media_key": "3_1884549563497021440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GidD193bgAARuBL.jpg",
+        "width": 1511
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884549563497021440"
+          ],
+          "media_source_tweet_id": [
+            "1884549568421142990"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "992498112978534400",
+              "name": "Animal Crossing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "992498112978534400",
+              "name": "Animal Crossing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897662399922176",
+              "name": "Simulation games"
+            }
+          }
+        ],
+        "conversation_id": "1884973264709304647",
+        "created_at": "2025-01-30T14:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T15:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884973264709304647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "979058700903071744",
+              "start": 3,
+              "username": "o_taku_thd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G9egQK6al9",
+              "end": 67,
+              "expanded_url": "https://x.com/o_taku_thd/status/1884549568421142990/photo/1",
+              "media_key": "3_1884549563497021440",
+              "start": 44,
+              "url": "https://t.co/G9egQK6al9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884973264709304647",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884549568421142990",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @o_taku_thd: (낙서도 아닌 애매한 퀄리티의)\n동숲AU 아스달린 https://t.co/G9egQK6al9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884549563497021440"
+          ]
+        },
+        "author_id": "979058700903071744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "992498112978534400",
+              "name": "Animal Crossing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "992498112978534400",
+              "name": "Animal Crossing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897662399922176",
+              "name": "Simulation games"
+            }
+          }
+        ],
+        "conversation_id": "1884549568421142990",
+        "created_at": "2025-01-29T10:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T11:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884549568421142990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G9egQK6al9",
+              "end": 51,
+              "expanded_url": "https://x.com/o_taku_thd/status/1884549568421142990/photo/1",
+              "media_key": "3_1884549563497021440",
+              "start": 28,
+              "url": "https://t.co/G9egQK6al9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884549568421142990",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2715,
+          "like_count": 99,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "(낙서도 아닌 애매한 퀄리티의)\n동숲AU 아스달린 https://t.co/G9egQK6al9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH! 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影/三国 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人爱好者 会突然产出想法 BL吃的比其他少 但是会吃 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦肉臀臀",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 2961,
+          "like_count": 21031,
+          "listed_count": 2,
+          "media_count": 1160,
+          "tweet_count": 19426
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-28T18:12:39.000Z",
+        "description": "송의 발더계 | 𝑨𝒔𝒕𝒂𝒓𝒊𝒐𝒏❤ | 티플링사랑단😈 | 이별은 블언블",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "postype.com/@songtaku",
+                "end": 23,
+                "expanded_url": "http://www.postype.com/@songtaku",
+                "start": 0,
+                "url": "https://t.co/IBxsZdM5YX"
+              }
+            ]
+          }
+        },
+        "id": "979058700903071744",
+        "location": "인장 by 크레페 오비님",
+        "name": "🕯송💖",
+        "pinned_tweet_id": "1835884457204527535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882096259970043904/qw7PfRDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 118,
+          "like_count": 23512,
+          "listed_count": 1,
+          "media_count": 601,
+          "tweet_count": 6464
+        },
+        "url": "https://t.co/IBxsZdM5YX",
+        "username": "o_taku_thd",
+        "verified": false
+      }
+    ]
+  }
+}

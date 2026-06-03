@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1859790297540198402"
+      ],
+      "media_source_tweet_id": [
+        "1859790339382669645"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1859944052063617090",
+    "created_at": "2024-11-22T12:56:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T13:56:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859944052063617090"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "Lucanis",
+          "probability": 0.4813,
+          "start": 21,
+          "type": "Other"
+        },
+        {
+          "end": 66,
+          "normalized_text": "LucanisDellamorte",
+          "probability": 0.456,
+          "start": 50,
+          "type": "Person"
+        },
+        {
+          "end": 83,
+          "normalized_text": "EmmrichVolkarin",
+          "probability": 0.5969,
+          "start": 69,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 67,
+          "start": 49,
+          "tag": "LucanisDellamorte"
+        },
+        {
+          "end": 84,
+          "start": 68,
+          "tag": "EmmrichVolkarin"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1727215002560675840",
+          "start": 3,
+          "username": "DarkUrgeDiaries"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YJtRIOc9uf",
+          "end": 108,
+          "expanded_url": "https://x.com/DarkUrgeDiaries/status/1859790339382669645/video/1",
+          "media_key": "7_1859790297540198402",
+          "start": 85,
+          "url": "https://t.co/YJtRIOc9uf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859944052063617090",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 123
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859790339382669645",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DarkUrgeDiaries: Lucanis, what ARE you doing #LucanisDellamorte #EmmrichVolkarin https://t.co/YJtRIOc9uf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17133,
+        "height": 720,
+        "media_key": "7_1859790297540198402",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1859790297540198402/pu/img/--1cpeqGe6phfAp0.jpg",
+        "public_metrics": {
+          "view_count": 9838
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1859790297540198402/pu/vid/avc1/480x270/HGjx-Xx9D0EuixWF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1859790297540198402/pu/vid/avc1/640x360/7wkrd5xARmXDAloY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1859790297540198402/pu/vid/avc1/1280x720/WqQg_u9dDMcTPRaB.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1859790297540198402/pu/pl/aUJdGy_Gri6SsBya.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1859790297540198402"
+          ],
+          "media_source_tweet_id": [
+            "1859790339382669645"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1859944052063617090",
+        "created_at": "2024-11-22T12:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T13:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859944052063617090"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "Lucanis",
+              "probability": 0.4813,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 66,
+              "normalized_text": "LucanisDellamorte",
+              "probability": 0.456,
+              "start": 50,
+              "type": "Person"
+            },
+            {
+              "end": 83,
+              "normalized_text": "EmmrichVolkarin",
+              "probability": 0.5969,
+              "start": 69,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 49,
+              "tag": "LucanisDellamorte"
+            },
+            {
+              "end": 84,
+              "start": 68,
+              "tag": "EmmrichVolkarin"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1727215002560675840",
+              "start": 3,
+              "username": "DarkUrgeDiaries"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YJtRIOc9uf",
+              "end": 108,
+              "expanded_url": "https://x.com/DarkUrgeDiaries/status/1859790339382669645/video/1",
+              "media_key": "7_1859790297540198402",
+              "start": 85,
+              "url": "https://t.co/YJtRIOc9uf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859944052063617090",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 123
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859790339382669645",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DarkUrgeDiaries: Lucanis, what ARE you doing #LucanisDellamorte #EmmrichVolkarin https://t.co/YJtRIOc9uf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1859790297540198402"
+          ]
+        },
+        "author_id": "1727215002560675840",
+        "conversation_id": "1859790339382669645",
+        "created_at": "2024-11-22T02:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T03:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859790339382669645"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "Lucanis",
+              "probability": 0.4838,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 45,
+              "normalized_text": "LucanisDellamorte",
+              "probability": 0.5021,
+              "start": 29,
+              "type": "Other"
+            },
+            {
+              "end": 62,
+              "normalized_text": "EmmrichVolkarin",
+              "probability": 0.5692,
+              "start": 48,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 28,
+              "tag": "LucanisDellamorte"
+            },
+            {
+              "end": 63,
+              "start": 47,
+              "tag": "EmmrichVolkarin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YJtRIOc9uf",
+              "end": 87,
+              "expanded_url": "https://x.com/DarkUrgeDiaries/status/1859790339382669645/video/1",
+              "media_key": "7_1859790297540198402",
+              "start": 64,
+              "url": "https://t.co/YJtRIOc9uf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859790339382669645",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 20425,
+          "like_count": 1023,
+          "quote_count": 26,
+          "reply_count": 39,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "Lucanis, what ARE you doing #LucanisDellamorte #EmmrichVolkarin https://t.co/YJtRIOc9uf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫bi🏳️‍🌈/ they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人女 会突然产出想法 GB GL大于BL BG 20+",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 2897,
+          "like_count": 20721,
+          "listed_count": 2,
+          "tweet_count": 18177
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T06:39:13.000Z",
+        "description": "Besotted and Brainrotted with Emmrich, Astarion, Gortash, & Raphael brainrot 🫠🤍",
+        "id": "1727215002560675840",
+        "name": "Dark Urge Diaries 🔞",
+        "pinned_tweet_id": "1774786943701893262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769320943040724992/m9MbOSMC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 159,
+          "like_count": 1668,
+          "listed_count": 0,
+          "tweet_count": 443
+        },
+        "username": "DarkUrgeDiaries",
+        "verified": false
+      }
+    ]
+  }
+}

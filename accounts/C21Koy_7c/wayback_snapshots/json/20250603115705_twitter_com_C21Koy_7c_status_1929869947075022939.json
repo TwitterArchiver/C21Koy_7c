@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929676866639556608"
+      ],
+      "media_source_tweet_id": [
+        "1929676987553006014"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1929869947075022939",
+    "created_at": "2025-06-03T11:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T12:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929869947075022939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1798445367345754112",
+          "start": 3,
+          "username": "kidutuskone"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GJaAj93Lo1",
+          "end": 40,
+          "expanded_url": "https://x.com/kidutuskone/status/1929676987553006014/photo/1",
+          "media_key": "3_1929676866639556608",
+          "start": 17,
+          "url": "https://t.co/GJaAj93Lo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929869947075022939",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 486
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929676987553006014",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kidutuskone: https://t.co/GJaAj93Lo1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1929869947075022939].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1929869947075022939",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1929869947075022939"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2282,
+        "media_key": "3_1929676866639556608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GseW4udW8AAp83j.jpg",
+        "width": 2124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929676866639556608"
+          ]
+        },
+        "author_id": "1798445367345754112",
+        "conversation_id": "1929676987553006014",
+        "created_at": "2025-06-02T23:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T00:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929676987553006014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GJaAj93Lo1",
+              "end": 23,
+              "expanded_url": "https://x.com/kidutuskone/status/1929676987553006014/photo/1",
+              "media_key": "3_1929676866639556608",
+              "start": 0,
+              "url": "https://t.co/GJaAj93Lo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929676987553006014",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 798,
+          "impression_count": 23251,
+          "like_count": 4338,
+          "quote_count": 33,
+          "reply_count": 27,
+          "retweet_count": 486
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GJaAj93Lo1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 3030,
+          "like_count": 23335,
+          "listed_count": 3,
+          "media_count": 1432,
+          "tweet_count": 22339
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T20:03:02.000Z",
+        "description": "guro/nsfw 18 ↑ First fullbody 4D Model @konekidutus",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "konekidutus"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kidutuskone.straw.page",
+                "end": 23,
+                "expanded_url": "https://kidutuskone.straw.page",
+                "start": 0,
+                "url": "https://t.co/ecoL2eEtlX"
+              }
+            ]
+          }
+        },
+        "id": "1798445367345754112",
+        "name": "father Mary",
+        "pinned_tweet_id": "1864403685167501817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872778902550032384/SXN-TeAI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33229,
+          "following_count": 95,
+          "like_count": 1904,
+          "listed_count": 38,
+          "media_count": 75,
+          "tweet_count": 289
+        },
+        "url": "https://t.co/ecoL2eEtlX",
+        "username": "kidutuskone",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868125392629800960"
+      ],
+      "media_source_tweet_id": [
+        "1868125395360379217"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1868263636554441208",
+    "created_at": "2024-12-15T11:55:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T12:55:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868263636554441208"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 48,
+          "normalized_text": "jimcurly",
+          "probability": 0.7606,
+          "start": 41,
+          "type": "Person"
+        },
+        {
+          "end": 69,
+          "normalized_text": "jimmy",
+          "probability": 0.7415,
+          "start": 65,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 40,
+          "tag": "jimcurly"
+        },
+        {
+          "end": 63,
+          "start": 50,
+          "tag": "mouthwashing"
+        },
+        {
+          "end": 70,
+          "start": 64,
+          "tag": "jimmy"
+        },
+        {
+          "end": 77,
+          "start": 71,
+          "tag": "curly"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1821960688790601729",
+          "start": 3,
+          "username": "jameszare"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sz3SifxzSr",
+          "end": 101,
+          "expanded_url": "https://x.com/jameszare/status/1868125395360379217/photo/1",
+          "media_key": "3_1868125392629800960",
+          "start": 78,
+          "url": "https://t.co/Sz3SifxzSr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868263636554441208",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868125395360379217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jameszare: scream x mouthwashing ?? #jimcurly #mouthwashing #jimmy #curly https://t.co/Sz3SifxzSr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_1868125392629800960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GezqJZeWIAAK34J.jpg",
+        "width": 1016
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868125392629800960"
+          ],
+          "media_source_tweet_id": [
+            "1868125395360379217"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1868263636554441208",
+        "created_at": "2024-12-15T11:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T12:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868263636554441208"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "jimcurly",
+              "probability": 0.7606,
+              "start": 41,
+              "type": "Person"
+            },
+            {
+              "end": 69,
+              "normalized_text": "jimmy",
+              "probability": 0.7415,
+              "start": 65,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 40,
+              "tag": "jimcurly"
+            },
+            {
+              "end": 63,
+              "start": 50,
+              "tag": "mouthwashing"
+            },
+            {
+              "end": 70,
+              "start": 64,
+              "tag": "jimmy"
+            },
+            {
+              "end": 77,
+              "start": 71,
+              "tag": "curly"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1821960688790601729",
+              "start": 3,
+              "username": "jameszare"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sz3SifxzSr",
+              "end": 101,
+              "expanded_url": "https://x.com/jameszare/status/1868125395360379217/photo/1",
+              "media_key": "3_1868125392629800960",
+              "start": 78,
+              "url": "https://t.co/Sz3SifxzSr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868263636554441208",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868125395360379217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jameszare: scream x mouthwashing ?? #jimcurly #mouthwashing #jimmy #curly https://t.co/Sz3SifxzSr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868125392629800960"
+          ]
+        },
+        "author_id": "1821960688790601729",
+        "conversation_id": "1868125395360379217",
+        "created_at": "2024-12-15T02:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T03:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868125395360379217"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "jimcurly",
+              "probability": 0.8167,
+              "start": 26,
+              "type": "Person"
+            },
+            {
+              "end": 54,
+              "normalized_text": "jimmy",
+              "probability": 0.764,
+              "start": 50,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 25,
+              "tag": "jimcurly"
+            },
+            {
+              "end": 48,
+              "start": 35,
+              "tag": "mouthwashing"
+            },
+            {
+              "end": 55,
+              "start": 49,
+              "tag": "jimmy"
+            },
+            {
+              "end": 62,
+              "start": 56,
+              "tag": "curly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sz3SifxzSr",
+              "end": 86,
+              "expanded_url": "https://x.com/jameszare/status/1868125395360379217/photo/1",
+              "media_key": "3_1868125392629800960",
+              "start": 63,
+              "url": "https://t.co/Sz3SifxzSr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868125395360379217",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 3294,
+          "like_count": 337,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "scream x mouthwashing ?? #jimcurly #mouthwashing #jimmy #curly https://t.co/Sz3SifxzSr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人女 会突然产出想法 GB GL大于BL BG 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 2936,
+          "like_count": 20818,
+          "listed_count": 2,
+          "media_count": 1119,
+          "tweet_count": 18536
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T17:24:26.000Z",
+        "description": "adult // i draw sometimes / pfp; mimimitaq https://t.co/dhwJLdrA1h",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jimmyzare.straw.page",
+                "end": 66,
+                "expanded_url": "https://jimmyzare.straw.page",
+                "start": 43,
+                "url": "https://t.co/dhwJLdrA1h"
+              }
+            ]
+          }
+        },
+        "id": "1821960688790601729",
+        "location": "🔞 minors dni",
+        "name": "jimmers",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866687043402711040/OJb0Ta7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 33,
+          "like_count": 3089,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 350
+        },
+        "username": "jameszare",
+        "verified": false
+      }
+    ]
+  }
+}

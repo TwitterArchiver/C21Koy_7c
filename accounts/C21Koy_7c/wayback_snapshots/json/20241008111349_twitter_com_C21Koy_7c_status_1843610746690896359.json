@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1843251385665830912",
+        "3_1843251385628078080",
+        "3_1843251385661591552",
+        "3_1843251385632178176"
+      ],
+      "media_source_tweet_id": [
+        "1843251399003722215",
+        "1843251399003722215",
+        "1843251399003722215",
+        "1843251399003722215"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1843610746690896359",
+    "created_at": "2024-10-08T11:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-08T12:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843610746690896359"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "bunny",
+          "probability": 0.3681,
+          "start": 19,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "712567833138298880",
+          "start": 3,
+          "username": "NamikazeNami1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f4eLdq3rNL",
+          "end": 60,
+          "expanded_url": "https://x.com/NamikazeNami1/status/1843251399003722215/photo/1",
+          "media_key": "3_1843251385665830912",
+          "start": 37,
+          "url": "https://t.co/f4eLdq3rNL"
+        },
+        {
+          "display_url": "pic.x.com/f4eLdq3rNL",
+          "end": 60,
+          "expanded_url": "https://x.com/NamikazeNami1/status/1843251399003722215/photo/1",
+          "media_key": "3_1843251385628078080",
+          "start": 37,
+          "url": "https://t.co/f4eLdq3rNL"
+        },
+        {
+          "display_url": "pic.x.com/f4eLdq3rNL",
+          "end": 60,
+          "expanded_url": "https://x.com/NamikazeNami1/status/1843251399003722215/photo/1",
+          "media_key": "3_1843251385661591552",
+          "start": 37,
+          "url": "https://t.co/f4eLdq3rNL"
+        },
+        {
+          "display_url": "pic.x.com/f4eLdq3rNL",
+          "end": 60,
+          "expanded_url": "https://x.com/NamikazeNami1/status/1843251399003722215/photo/1",
+          "media_key": "3_1843251385632178176",
+          "start": 37,
+          "url": "https://t.co/f4eLdq3rNL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843610746690896359",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 145
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843251399003722215",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NamikazeNami1: bunny &amp; prime https://t.co/f4eLdq3rNL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1843251385665830912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZSLXopbwAA0iPZ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1042,
+        "media_key": "3_1843251385628078080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZSLXogbsAAh4-C.jpg",
+        "width": 1337
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1843251385661591552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZSLXoobEAAHhHN.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1843251385632178176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZSLXohaQAACnYH.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843251385665830912",
+            "3_1843251385628078080",
+            "3_1843251385661591552",
+            "3_1843251385632178176"
+          ],
+          "media_source_tweet_id": [
+            "1843251399003722215",
+            "1843251399003722215",
+            "1843251399003722215",
+            "1843251399003722215"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1843610746690896359",
+        "created_at": "2024-10-08T11:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T12:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843610746690896359"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "bunny",
+              "probability": 0.3681,
+              "start": 19,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "712567833138298880",
+              "start": 3,
+              "username": "NamikazeNami1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f4eLdq3rNL",
+              "end": 60,
+              "expanded_url": "https://x.com/NamikazeNami1/status/1843251399003722215/photo/1",
+              "media_key": "3_1843251385665830912",
+              "start": 37,
+              "url": "https://t.co/f4eLdq3rNL"
+            },
+            {
+              "display_url": "pic.x.com/f4eLdq3rNL",
+              "end": 60,
+              "expanded_url": "https://x.com/NamikazeNami1/status/1843251399003722215/photo/1",
+              "media_key": "3_1843251385628078080",
+              "start": 37,
+              "url": "https://t.co/f4eLdq3rNL"
+            },
+            {
+              "display_url": "pic.x.com/f4eLdq3rNL",
+              "end": 60,
+              "expanded_url": "https://x.com/NamikazeNami1/status/1843251399003722215/photo/1",
+              "media_key": "3_1843251385661591552",
+              "start": 37,
+              "url": "https://t.co/f4eLdq3rNL"
+            },
+            {
+              "display_url": "pic.x.com/f4eLdq3rNL",
+              "end": 60,
+              "expanded_url": "https://x.com/NamikazeNami1/status/1843251399003722215/photo/1",
+              "media_key": "3_1843251385632178176",
+              "start": 37,
+              "url": "https://t.co/f4eLdq3rNL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843610746690896359",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 145
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843251399003722215",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NamikazeNami1: bunny &amp; prime https://t.co/f4eLdq3rNL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843251385665830912",
+            "3_1843251385628078080",
+            "3_1843251385661591552",
+            "3_1843251385632178176"
+          ]
+        },
+        "author_id": "712567833138298880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1843251399003722215",
+        "created_at": "2024-10-07T11:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T12:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843251399003722215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f4eLdq3rNL",
+              "end": 41,
+              "expanded_url": "https://x.com/NamikazeNami1/status/1843251399003722215/photo/1",
+              "media_key": "3_1843251385665830912",
+              "start": 18,
+              "url": "https://t.co/f4eLdq3rNL"
+            },
+            {
+              "display_url": "pic.x.com/f4eLdq3rNL",
+              "end": 41,
+              "expanded_url": "https://x.com/NamikazeNami1/status/1843251399003722215/photo/1",
+              "media_key": "3_1843251385628078080",
+              "start": 18,
+              "url": "https://t.co/f4eLdq3rNL"
+            },
+            {
+              "display_url": "pic.x.com/f4eLdq3rNL",
+              "end": 41,
+              "expanded_url": "https://x.com/NamikazeNami1/status/1843251399003722215/photo/1",
+              "media_key": "3_1843251385661591552",
+              "start": 18,
+              "url": "https://t.co/f4eLdq3rNL"
+            },
+            {
+              "display_url": "pic.x.com/f4eLdq3rNL",
+              "end": 41,
+              "expanded_url": "https://x.com/NamikazeNami1/status/1843251399003722215/photo/1",
+              "media_key": "3_1843251385632178176",
+              "start": 18,
+              "url": "https://t.co/f4eLdq3rNL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843251399003722215",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 141,
+          "impression_count": 12733,
+          "like_count": 1158,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 145
+        },
+        "reply_settings": "everyone",
+        "text": "bunny &amp; prime https://t.co/f4eLdq3rNL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫 Bipolar patient/ they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT大概淡坑：COD/MK/恐影 不善表达 但是还算nice 请和我保持联络谢谢 努力尽力活着 我没恶意 我鼓起很大勇气才会评论你 因为我想友善的和你互动",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1787381657340883290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842795137925255168/Z-0bJ2Zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 2818,
+          "like_count": 20121,
+          "listed_count": 2,
+          "tweet_count": 16167
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-23T09:13:05.000Z",
+        "description": "Hello~This is Nami！中文/ENGLISH/日本語 OK~20+~Megop only（威擎不拆不逆）give me more YGO（DM） and FF14（~7.0）and please~無言フォロー失礼しまQAQ 最近又被冒充了，认准这个..",
+        "id": "712567833138298880",
+        "name": "NAMINYAKO（波风nami_喵子）",
+        "pinned_tweet_id": "1742976344965943651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842211668102987777/WA7wDfva_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3826,
+          "following_count": 123,
+          "like_count": 532,
+          "listed_count": 18,
+          "tweet_count": 713
+        },
+        "username": "NamikazeNami1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1848540932955901953"
+      ],
+      "media_source_tweet_id": [
+        "1848540977495216622"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1301813885272354816",
+          "name": "Stardew Valley"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403407197669715972",
+          "name": "Indie games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897662399922176",
+          "name": "Simulation games"
+        }
+      }
+    ],
+    "conversation_id": "1850559690163528175",
+    "created_at": "2024-10-27T15:26:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-27T16:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850559690163528175"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 17,
+          "tag": "StardewValley"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1135022732532281344",
+          "start": 3,
+          "username": "justcosmos1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/14UdpFkh7K",
+          "end": 55,
+          "expanded_url": "https://x.com/justcosmos1/status/1848540977495216622/photo/1",
+          "media_key": "3_1848540932955901953",
+          "start": 32,
+          "url": "https://t.co/14UdpFkh7K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850559690163528175",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 188
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848540977495216622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @justcosmos1: #StardewValley https://t.co/14UdpFkh7K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1158,
+        "media_key": "3_1848540932955901953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GadWLz2bEAE7fbZ.jpg",
+        "width": 1628
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1848540932955901953"
+          ],
+          "media_source_tweet_id": [
+            "1848540977495216622"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1301813885272354816",
+              "name": "Stardew Valley"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403407197669715972",
+              "name": "Indie games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897662399922176",
+              "name": "Simulation games"
+            }
+          }
+        ],
+        "conversation_id": "1850559690163528175",
+        "created_at": "2024-10-27T15:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T16:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850559690163528175"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 17,
+              "tag": "StardewValley"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1135022732532281344",
+              "start": 3,
+              "username": "justcosmos1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/14UdpFkh7K",
+              "end": 55,
+              "expanded_url": "https://x.com/justcosmos1/status/1848540977495216622/photo/1",
+              "media_key": "3_1848540932955901953",
+              "start": 32,
+              "url": "https://t.co/14UdpFkh7K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850559690163528175",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 188
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848540977495216622",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @justcosmos1: #StardewValley https://t.co/14UdpFkh7K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1848540932955901953"
+          ]
+        },
+        "author_id": "1135022732532281344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1301813885272354816",
+              "name": "Stardew Valley"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403407197669715972",
+              "name": "Indie games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897662399922176",
+              "name": "Simulation games"
+            }
+          }
+        ],
+        "conversation_id": "1848540977495216622",
+        "created_at": "2024-10-22T01:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-22T02:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1848540977495216622"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "StardewValley"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/14UdpFkh7K",
+              "end": 38,
+              "expanded_url": "https://x.com/justcosmos1/status/1848540977495216622/photo/1",
+              "media_key": "3_1848540932955901953",
+              "start": 15,
+              "url": "https://t.co/14UdpFkh7K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1848540977495216622",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 13215,
+          "like_count": 1010,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 188
+        },
+        "reply_settings": "everyone",
+        "text": "#StardewValley https://t.co/14UdpFkh7K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫bi🏳️‍🌈/ they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT大概淡坑：COD/MK/恐影 不善表达 但是还算可以 请和我保持联络谢谢 尽力活着 我没恶意 我鼓起很大勇气才会评论你 lgbt+ GB GL大于BL BG 20+",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1850400060410093573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849238518457143296/KSYxwv47_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 2851,
+          "like_count": 20331,
+          "listed_count": 2,
+          "tweet_count": 17222
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-02T03:18:01.000Z",
+        "description": "20↑ I’m just posting my works here.",
+        "id": "1135022732532281344",
+        "name": "Cosmospaghetti🎃",
+        "pinned_tweet_id": "1770682454782960001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779040227727966208/69pqwgiq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 916,
+          "like_count": 4612,
+          "listed_count": 7,
+          "tweet_count": 981
+        },
+        "username": "justcosmos1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997731695299076096",
+        "3_1997731695332630528"
+      ],
+      "media_source_tweet_id": [
+        "1997731697656582267",
+        "1997731697656582267"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1998061393032192077",
+    "created_at": "2025-12-08T16:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T17:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998061393032192077"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "dva",
+          "probability": 0.5217,
+          "start": 20,
+          "type": "Other"
+        },
+        {
+          "end": 32,
+          "normalized_text": "widow",
+          "probability": 0.4243,
+          "start": 28,
+          "type": "Other"
+        },
+        {
+          "end": 88,
+          "normalized_text": "jade",
+          "probability": 0.6816,
+          "start": 85,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "766354896186667009",
+          "start": 3,
+          "username": "racheltheblack"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f6BxqD1L9p",
+          "end": 124,
+          "expanded_url": "https://x.com/racheltheblack/status/1997731697656582267/photo/1",
+          "media_key": "3_1997731695299076096",
+          "start": 101,
+          "url": "https://t.co/f6BxqD1L9p"
+        },
+        {
+          "display_url": "pic.x.com/f6BxqD1L9p",
+          "end": 124,
+          "expanded_url": "https://x.com/racheltheblack/status/1997731697656582267/photo/1",
+          "media_key": "3_1997731695332630528",
+          "start": 101,
+          "url": "https://t.co/f6BxqD1L9p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998061393032192077",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997731697656582267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @racheltheblack: dva and widow with sage mythic aspects🍃\nthese would go well with jade weapons! 🤍 https://t.co/f6BxqD1L9p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1326,
+        "media_key": "3_1997731695299076096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7leZHbXIAAohDg.jpg",
+        "width": 1238
+      },
+      {
+        "height": 1699,
+        "media_key": "3_1997731695332630528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7leZHjXIAAu4TR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997731695299076096",
+            "3_1997731695332630528"
+          ],
+          "media_source_tweet_id": [
+            "1997731697656582267",
+            "1997731697656582267"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1998061393032192077",
+        "created_at": "2025-12-08T16:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T17:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998061393032192077"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "dva",
+              "probability": 0.5217,
+              "start": 20,
+              "type": "Other"
+            },
+            {
+              "end": 32,
+              "normalized_text": "widow",
+              "probability": 0.4243,
+              "start": 28,
+              "type": "Other"
+            },
+            {
+              "end": 88,
+              "normalized_text": "jade",
+              "probability": 0.6816,
+              "start": 85,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "766354896186667009",
+              "start": 3,
+              "username": "racheltheblack"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f6BxqD1L9p",
+              "end": 124,
+              "expanded_url": "https://x.com/racheltheblack/status/1997731697656582267/photo/1",
+              "media_key": "3_1997731695299076096",
+              "start": 101,
+              "url": "https://t.co/f6BxqD1L9p"
+            },
+            {
+              "display_url": "pic.x.com/f6BxqD1L9p",
+              "end": 124,
+              "expanded_url": "https://x.com/racheltheblack/status/1997731697656582267/photo/1",
+              "media_key": "3_1997731695332630528",
+              "start": 101,
+              "url": "https://t.co/f6BxqD1L9p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998061393032192077",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997731697656582267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @racheltheblack: dva and widow with sage mythic aspects🍃\nthese would go well with jade weapons! 🤍 https://t.co/f6BxqD1L9p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997731695299076096",
+            "3_1997731695332630528"
+          ]
+        },
+        "author_id": "766354896186667009",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1997731697656582267",
+        "created_at": "2025-12-07T18:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T19:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997731697656582267"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "dva",
+              "probability": 0.5372,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 12,
+              "normalized_text": "widow",
+              "probability": 0.5007,
+              "start": 8,
+              "type": "Other"
+            },
+            {
+              "end": 22,
+              "normalized_text": "sage",
+              "probability": 0.4314,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 68,
+              "normalized_text": "jade",
+              "probability": 0.6683,
+              "start": 65,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f6BxqD1L9p",
+              "end": 104,
+              "expanded_url": "https://x.com/racheltheblack/status/1997731697656582267/photo/1",
+              "media_key": "3_1997731695299076096",
+              "start": 81,
+              "url": "https://t.co/f6BxqD1L9p"
+            },
+            {
+              "display_url": "pic.x.com/f6BxqD1L9p",
+              "end": 104,
+              "expanded_url": "https://x.com/racheltheblack/status/1997731697656582267/photo/1",
+              "media_key": "3_1997731695332630528",
+              "start": 81,
+              "url": "https://t.co/f6BxqD1L9p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997731697656582267",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 19189,
+          "like_count": 1062,
+          "quote_count": 4,
+          "reply_count": 18,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "dva and widow with sage mythic aspects🍃\nthese would go well with jade weapons! 🤍 https://t.co/f6BxqD1L9p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987482127756410880/kunx4knz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 3185,
+          "like_count": 26786,
+          "listed_count": 5,
+          "media_count": 1805,
+          "tweet_count": 25383
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-18T19:23:40.000Z",
+        "description": "overwatch editor ꨄ︎ support main",
+        "id": "766354896186667009",
+        "location": "eng/日本語/عربي",
+        "name": "rachel ♡",
+        "pinned_tweet_id": "1994233634086064213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994156202771533824/dbPQA8NU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 236,
+          "like_count": 10381,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 3021
+        },
+        "username": "racheltheblack",
+        "verified": false
+      }
+    ]
+  }
+}

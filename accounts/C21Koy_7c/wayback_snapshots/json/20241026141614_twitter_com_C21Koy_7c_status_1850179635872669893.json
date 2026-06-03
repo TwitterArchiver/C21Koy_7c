@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1849816163129184258"
+      ],
+      "media_source_tweet_id": [
+        "1849816197283336542"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1850179635872669893",
+    "created_at": "2024-10-26T14:16:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-26T15:16:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850179635872669893"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "Tara",
+          "probability": 0.4779,
+          "start": 29,
+          "type": "Person"
+        },
+        {
+          "end": 44,
+          "normalized_text": "BG3",
+          "probability": 0.6867,
+          "start": 42,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "Gale"
+        },
+        {
+          "end": 45,
+          "start": 41,
+          "tag": "BG3"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3355356179",
+          "start": 3,
+          "username": "Emy_san_arts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s5xD1vpcL3",
+          "end": 69,
+          "expanded_url": "https://x.com/Emy_san_arts/status/1849816197283336542/photo/1",
+          "media_key": "3_1849816163129184258",
+          "start": 46,
+          "url": "https://t.co/s5xD1vpcL3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850179635872669893",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 166
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849816197283336542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Emy_san_arts: Thank you, Tara.\n#Gale #BG3 https://t.co/s5xD1vpcL3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_1849816163129184258",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gavd_-cXUAI3mm4.jpg",
+        "width": 1184
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1849816163129184258"
+          ],
+          "media_source_tweet_id": [
+            "1849816197283336542"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1850179635872669893",
+        "created_at": "2024-10-26T14:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T15:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850179635872669893"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "Tara",
+              "probability": 0.4779,
+              "start": 29,
+              "type": "Person"
+            },
+            {
+              "end": 44,
+              "normalized_text": "BG3",
+              "probability": 0.6867,
+              "start": 42,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "Gale"
+            },
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "BG3"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3355356179",
+              "start": 3,
+              "username": "Emy_san_arts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s5xD1vpcL3",
+              "end": 69,
+              "expanded_url": "https://x.com/Emy_san_arts/status/1849816197283336542/photo/1",
+              "media_key": "3_1849816163129184258",
+              "start": 46,
+              "url": "https://t.co/s5xD1vpcL3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850179635872669893",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 166
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849816197283336542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Emy_san_arts: Thank you, Tara.\n#Gale #BG3 https://t.co/s5xD1vpcL3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1849816163129184258"
+          ]
+        },
+        "author_id": "3355356179",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1849816197283336542",
+        "created_at": "2024-10-25T14:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-25T15:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1849816197283336542"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "Tara",
+              "probability": 0.4606,
+              "start": 11,
+              "type": "Other"
+            },
+            {
+              "end": 21,
+              "normalized_text": "Gale",
+              "probability": 0.3385,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 26,
+              "normalized_text": "BG3",
+              "probability": 0.7586,
+              "start": 24,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "Gale"
+            },
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "BG3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s5xD1vpcL3",
+              "end": 51,
+              "expanded_url": "https://x.com/Emy_san_arts/status/1849816197283336542/photo/1",
+              "media_key": "3_1849816163129184258",
+              "start": 28,
+              "url": "https://t.co/s5xD1vpcL3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1849816197283336542",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 20700,
+          "like_count": 1188,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 166
+        },
+        "reply_settings": "everyone",
+        "text": "Thank you, Tara.\n#Gale #BG3 https://t.co/s5xD1vpcL3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫bi🏳️‍🌈/ they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT大概淡坑：COD/MK/恐影 不善表达 但是还算可以 请和我保持联络谢谢 尽力活着 我没恶意 我鼓起很大勇气才会评论你 lgbt+ GB GL大于BL BG",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1787381657340883290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849238518457143296/KSYxwv47_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 2841,
+          "like_count": 20269,
+          "listed_count": 2,
+          "tweet_count": 17072
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-02T16:59:53.000Z",
+        "description": "Emy | 25+ | she/her | 2D & 3D | Multishipper & Multifandom ※\n※NO A/I※\n\nCommission infos ✦ https://t.co/Rw2gkV0Mla\nFAQ ✦ https://t.co/FNEqprFcat",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "emy-cms.carrd.co",
+                "end": 113,
+                "expanded_url": "http://emy-cms.carrd.co",
+                "start": 90,
+                "url": "https://t.co/Rw2gkV0Mla"
+              },
+              {
+                "display_url": "emy-faq.carrd.co",
+                "end": 143,
+                "expanded_url": "http://emy-faq.carrd.co",
+                "start": 120,
+                "url": "https://t.co/FNEqprFcat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/emysan",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/emysan",
+                "start": 0,
+                "url": "https://t.co/xRI59NUNSR"
+              }
+            ]
+          }
+        },
+        "id": "3355356179",
+        "location": "Velvet Room",
+        "name": "ᴇᴍʏ ⭐️ - commissions open",
+        "pinned_tweet_id": "1706430980964110346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741193075790147584/lgAeoh2b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39746,
+          "following_count": 571,
+          "like_count": 56225,
+          "listed_count": 201,
+          "tweet_count": 5407
+        },
+        "url": "https://t.co/xRI59NUNSR",
+        "username": "Emy_san_arts",
+        "verified": false
+      }
+    ]
+  }
+}

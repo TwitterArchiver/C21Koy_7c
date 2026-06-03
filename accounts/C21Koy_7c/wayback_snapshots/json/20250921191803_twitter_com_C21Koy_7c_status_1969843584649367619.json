@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969681175179640836"
+      ],
+      "media_source_tweet_id": [
+        "1969681185585709371"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1969843584649367619",
+    "created_at": "2025-09-21T19:18:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T20:18:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969843584649367619"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 40,
+          "normalized_text": "Faralex",
+          "probability": 0.5478,
+          "start": 34,
+          "type": "Person"
+        },
+        {
+          "end": 52,
+          "normalized_text": "FarahKarim",
+          "probability": 0.8924,
+          "start": 43,
+          "type": "Person"
+        },
+        {
+          "end": 64,
+          "normalized_text": "AlexKeller",
+          "probability": 0.9526,
+          "start": 55,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 33,
+          "tag": "Faralex"
+        },
+        {
+          "end": 53,
+          "start": 42,
+          "tag": "FarahKarim"
+        },
+        {
+          "end": 65,
+          "start": 54,
+          "tag": "AlexKeller"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1691894153641402368",
+          "start": 3,
+          "username": "maverick_743"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dvZe1tCeqK",
+          "end": 89,
+          "expanded_url": "https://x.com/maverick_743/status/1969681185585709371/photo/1",
+          "media_key": "3_1969681175179640836",
+          "start": 66,
+          "url": "https://t.co/dvZe1tCeqK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969843584649367619",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969681185585709371",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maverick_743: Literally them\n#Faralex #FarahKarim #AlexKeller https://t.co/dvZe1tCeqK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969681175179640836",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1W2l89bQAQ1VpR.jpg",
+        "width": 1771
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969681175179640836"
+          ],
+          "media_source_tweet_id": [
+            "1969681185585709371"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1969843584649367619",
+        "created_at": "2025-09-21T19:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T20:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969843584649367619"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "Faralex",
+              "probability": 0.5478,
+              "start": 34,
+              "type": "Person"
+            },
+            {
+              "end": 52,
+              "normalized_text": "FarahKarim",
+              "probability": 0.8924,
+              "start": 43,
+              "type": "Person"
+            },
+            {
+              "end": 64,
+              "normalized_text": "AlexKeller",
+              "probability": 0.9526,
+              "start": 55,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 33,
+              "tag": "Faralex"
+            },
+            {
+              "end": 53,
+              "start": 42,
+              "tag": "FarahKarim"
+            },
+            {
+              "end": 65,
+              "start": 54,
+              "tag": "AlexKeller"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1691894153641402368",
+              "start": 3,
+              "username": "maverick_743"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dvZe1tCeqK",
+              "end": 89,
+              "expanded_url": "https://x.com/maverick_743/status/1969681185585709371/photo/1",
+              "media_key": "3_1969681175179640836",
+              "start": 66,
+              "url": "https://t.co/dvZe1tCeqK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969843584649367619",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969681185585709371",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maverick_743: Literally them\n#Faralex #FarahKarim #AlexKeller https://t.co/dvZe1tCeqK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969681175179640836"
+          ]
+        },
+        "author_id": "1691894153641402368",
+        "conversation_id": "1969681185585709371",
+        "created_at": "2025-09-21T08:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T09:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969681185585709371"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "Faralex",
+              "probability": 0.6293,
+              "start": 16,
+              "type": "Person"
+            },
+            {
+              "end": 34,
+              "normalized_text": "FarahKarim",
+              "probability": 0.8655,
+              "start": 25,
+              "type": "Person"
+            },
+            {
+              "end": 46,
+              "normalized_text": "AlexKeller",
+              "probability": 0.9529,
+              "start": 37,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 15,
+              "tag": "Faralex"
+            },
+            {
+              "end": 35,
+              "start": 24,
+              "tag": "FarahKarim"
+            },
+            {
+              "end": 47,
+              "start": 36,
+              "tag": "AlexKeller"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dvZe1tCeqK",
+              "end": 71,
+              "expanded_url": "https://x.com/maverick_743/status/1969681185585709371/photo/1",
+              "media_key": "3_1969681175179640836",
+              "start": 48,
+              "url": "https://t.co/dvZe1tCeqK"
+            },
+            {
+              "display_url": "x.com/wolfdetergent/…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/wolfdetergent/status/1966780278342336654",
+              "start": 72,
+              "url": "https://t.co/bbc0WDuQAD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969681185585709371",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 7223,
+          "like_count": 706,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966780278342336654",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Literally them\n#Faralex #FarahKarim #AlexKeller https://t.co/dvZe1tCeqK https://t.co/bbc0WDuQAD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964100290095042560/8WRhPH87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 3071,
+          "like_count": 24342,
+          "listed_count": 6,
+          "media_count": 1551,
+          "tweet_count": 23383
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-16T19:26:33.000Z",
+        "description": "Mav | 22 | military related art |🇻🇳🇬🇧 shitpost @m4v3r1ck_27 only 💀🧼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 47,
+                "username": "m4v3r1ck_27"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/Supernaturalca…",
+                "end": 23,
+                "expanded_url": "https://bit.ly/Supernaturalcatz",
+                "start": 0,
+                "url": "https://t.co/vaYiSUi4vp"
+              }
+            ]
+          }
+        },
+        "id": "1691894153641402368",
+        "location": "I'm on Bsky 2",
+        "name": "Supernaturalcatz",
+        "pinned_tweet_id": "1892562913736458687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703020320641445888/pIAL0JCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 266,
+          "like_count": 3777,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 576
+        },
+        "url": "https://t.co/vaYiSUi4vp",
+        "username": "maverick_743",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,664 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1866115907711541249"
+      ],
+      "media_source_tweet_id": [
+        "1866117227814203661"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1095327230433972227",
+          "name": "Apex Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1095327230433972227",
+          "name": "Apex Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197906382529294337",
+          "name": "Competitive games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1866820386698223903",
+    "created_at": "2024-12-11T12:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T13:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866820386698223903"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 58,
+          "normalized_text": "Apex Legends",
+          "probability": 0.9567,
+          "start": 47,
+          "type": "Other"
+        },
+        {
+          "end": 76,
+          "normalized_text": "Mouthwashing",
+          "probability": 0.904,
+          "start": 65,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 105,
+          "start": 92,
+          "tag": "mouthwashing"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1068910049244803072",
+          "start": 3,
+          "username": "Joetastic_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VG2shmjMsc",
+          "end": 129,
+          "expanded_url": "https://x.com/Joetastic_/status/1866117227814203661/video/1",
+          "media_key": "7_1866115907711541249",
+          "start": 106,
+          "url": "https://t.co/VG2shmjMsc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866820386698223903",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7803
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866117227814203661",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Joetastic_: I imported the animations from Apex Legends into Mouthwashing cause why not #mouthwashing https://t.co/VG2shmjMsc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6464,
+        "height": 1440,
+        "media_key": "7_1866115907711541249",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1866115907711541249/pu/img/kLctNOJL-HsF32h3.jpg",
+        "public_metrics": {
+          "view_count": 429882
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1866115907711541249/pu/pl/gRo9M_8o0UZpVxqC.m3u8?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1866115907711541249/pu/vid/avc1/640x360/NSohY5zTZYjQKdPf.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1866115907711541249/pu/vid/avc1/1280x720/woN-ZyRwloSMMRY4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1866115907711541249/pu/vid/avc1/480x270/IMb0635tykEbcG5o.mp4?tag=14"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1866115907711541249/pu/vid/avc1/1920x1080/FUnP2_AWWvQYwtOG.mp4?tag=14"
+          }
+        ],
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1866115907711541249"
+          ],
+          "media_source_tweet_id": [
+            "1866117227814203661"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1095327230433972227",
+              "name": "Apex Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1095327230433972227",
+              "name": "Apex Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1866820386698223903",
+        "created_at": "2024-12-11T12:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T13:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866820386698223903"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 58,
+              "normalized_text": "Apex Legends",
+              "probability": 0.9567,
+              "start": 47,
+              "type": "Other"
+            },
+            {
+              "end": 76,
+              "normalized_text": "Mouthwashing",
+              "probability": 0.904,
+              "start": 65,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 92,
+              "tag": "mouthwashing"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1068910049244803072",
+              "start": 3,
+              "username": "Joetastic_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VG2shmjMsc",
+              "end": 129,
+              "expanded_url": "https://x.com/Joetastic_/status/1866117227814203661/video/1",
+              "media_key": "7_1866115907711541249",
+              "start": 106,
+              "url": "https://t.co/VG2shmjMsc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866820386698223903",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7803
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866117227814203661",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Joetastic_: I imported the animations from Apex Legends into Mouthwashing cause why not #mouthwashing https://t.co/VG2shmjMsc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1866115907711541249"
+          ]
+        },
+        "author_id": "1068910049244803072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1095327230433972227",
+              "name": "Apex Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1095327230433972227",
+              "name": "Apex Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1866117227814203661",
+        "created_at": "2024-12-09T13:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T14:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866117227814203661"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "Apex Legends",
+              "probability": 0.9473,
+              "start": 31,
+              "type": "Other"
+            },
+            {
+              "end": 60,
+              "normalized_text": "Mouthwashing",
+              "probability": 0.8918,
+              "start": 49,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 76,
+              "tag": "mouthwashing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VG2shmjMsc",
+              "end": 113,
+              "expanded_url": "https://x.com/Joetastic_/status/1866117227814203661/video/1",
+              "media_key": "7_1866115907711541249",
+              "start": 90,
+              "url": "https://t.co/VG2shmjMsc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866117227814203661",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7998,
+          "impression_count": 956873,
+          "like_count": 58682,
+          "quote_count": 155,
+          "reply_count": 151,
+          "retweet_count": 7803
+        },
+        "reply_settings": "everyone",
+        "text": "I imported the animations from Apex Legends into Mouthwashing cause why not #mouthwashing https://t.co/VG2shmjMsc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人女 会突然产出想法 GB GL大于BL BG 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 2930,
+          "like_count": 20763,
+          "listed_count": 2,
+          "media_count": 1116,
+          "tweet_count": 18445
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-01T16:49:49.000Z",
+        "description": "Commissions: Open \n\nInto #SIGNALIS & #Mouthwashing brainrot | Rank 1 @beatsaber Mapper: https://t.co/yamURGptGV | DM for commission enquires | (Pfp by @omnlet)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 25,
+                "tag": "SIGNALIS"
+              },
+              {
+                "end": 50,
+                "start": 37,
+                "tag": "Mouthwashing"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 69,
+                "username": "beatsaber"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "omnlet"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "beatsaver.com/mappers",
+                "end": 111,
+                "expanded_url": "http://beatsaver.com/mappers",
+                "start": 88,
+                "url": "https://t.co/yamURGptGV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Joetastic",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Joetastic",
+                "start": 0,
+                "url": "https://t.co/mhCdUH5Rq3"
+              }
+            ]
+          }
+        },
+        "id": "1068910049244803072",
+        "location": "Singapore 🇸🇬 ",
+        "name": "Joetastic #Mouthwashing brainrot era👄🧼",
+        "pinned_tweet_id": "1846819172573151472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847835450897256448/874CeVoq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44878,
+          "following_count": 1823,
+          "like_count": 82704,
+          "listed_count": 51,
+          "media_count": 5007,
+          "tweet_count": 15265
+        },
+        "url": "https://t.co/mhCdUH5Rq3",
+        "username": "Joetastic_",
+        "verified": true
+      }
+    ]
+  }
+}

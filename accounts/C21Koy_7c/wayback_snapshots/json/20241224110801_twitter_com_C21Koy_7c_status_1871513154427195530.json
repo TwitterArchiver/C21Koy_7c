@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1871198964516618241"
+      ],
+      "media_source_tweet_id": [
+        "1871199586041410042"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1871513154427195530",
+    "created_at": "2024-12-24T11:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T12:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871513154427195530"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "Astarion",
+          "probability": 0.5599,
+          "start": 20,
+          "type": "Person"
+        },
+        {
+          "end": 46,
+          "normalized_text": "Ysari",
+          "probability": 0.4806,
+          "start": 42,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "717368237214797825",
+          "start": 3,
+          "username": "MeebsEscapades"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/whoDEEu3Cd",
+          "end": 99,
+          "expanded_url": "https://x.com/MeebsEscapades/status/1871199586041410042/video/1",
+          "media_key": "7_1871198964516618241",
+          "start": 76,
+          "url": "https://t.co/whoDEEu3Cd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871513154427195530",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871199586041410042",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MeebsEscapades: Astarion proposing to Ysari has me in absolute shambles https://t.co/whoDEEu3Cd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34249,
+        "height": 1080,
+        "media_key": "7_1871198964516618241",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1871198964516618241/pu/img/Dxl8W-37Wd4UVTtQ.jpg",
+        "public_metrics": {
+          "view_count": 13125
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1871198964516618241/pu/vid/avc1/480x270/fPZ9NNpAsufhUdxo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1871198964516618241/pu/vid/avc1/640x360/AWdmNmvSNnsE8pdH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1871198964516618241/pu/vid/avc1/1280x720/sdvAtl6KxRNO9w70.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1871198964516618241/pu/pl/yuqhlQM_O9gNpcdK.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1871198964516618241"
+          ],
+          "media_source_tweet_id": [
+            "1871199586041410042"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1871513154427195530",
+        "created_at": "2024-12-24T11:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T12:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871513154427195530"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "Astarion",
+              "probability": 0.5599,
+              "start": 20,
+              "type": "Person"
+            },
+            {
+              "end": 46,
+              "normalized_text": "Ysari",
+              "probability": 0.4806,
+              "start": 42,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "717368237214797825",
+              "start": 3,
+              "username": "MeebsEscapades"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/whoDEEu3Cd",
+              "end": 99,
+              "expanded_url": "https://x.com/MeebsEscapades/status/1871199586041410042/video/1",
+              "media_key": "7_1871198964516618241",
+              "start": 76,
+              "url": "https://t.co/whoDEEu3Cd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871513154427195530",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871199586041410042",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MeebsEscapades: Astarion proposing to Ysari has me in absolute shambles https://t.co/whoDEEu3Cd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1871198964516618241"
+          ]
+        },
+        "author_id": "717368237214797825",
+        "conversation_id": "1871199586041410042",
+        "created_at": "2024-12-23T14:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T15:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871199586041410042"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "Astarion",
+              "probability": 0.6051,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 26,
+              "normalized_text": "Ysari",
+              "probability": 0.4549,
+              "start": 22,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/whoDEEu3Cd",
+              "end": 79,
+              "expanded_url": "https://x.com/MeebsEscapades/status/1871199586041410042/video/1",
+              "media_key": "7_1871198964516618241",
+              "start": 56,
+              "url": "https://t.co/whoDEEu3Cd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871199586041410042",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 226,
+          "impression_count": 26781,
+          "like_count": 1025,
+          "quote_count": 5,
+          "reply_count": 16,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "Astarion proposing to Ysari has me in absolute shambles https://t.co/whoDEEu3Cd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人女 会突然产出想法 GB GL大于BL BG 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 2951,
+          "like_count": 20854,
+          "listed_count": 2,
+          "media_count": 1123,
+          "tweet_count": 18724
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-05T15:08:10.000Z",
+        "description": "Meebs | F | 27 | 🇬🇧🇩🇪 | ♋︎ | INFP-T | memes, multifandom #bg3 #Astarion\nArt is my passion | 🚫AI",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 57,
+                "tag": "bg3"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "tag": "Astarion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/meebsi…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/meebsie.bsky.social",
+                "start": 0,
+                "url": "https://t.co/OTrKpsWSHj"
+              }
+            ]
+          }
+        },
+        "id": "717368237214797825",
+        "location": "simping for Astarion",
+        "name": "Meebs 🌿🦇 • CEO of Softstarion",
+        "pinned_tweet_id": "1850091736179106052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827680794233479168/bJgsdM0i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 681,
+          "like_count": 36757,
+          "listed_count": 17,
+          "media_count": 1011,
+          "tweet_count": 11930
+        },
+        "url": "https://t.co/OTrKpsWSHj",
+        "username": "MeebsEscapades",
+        "verified": false
+      }
+    ]
+  }
+}

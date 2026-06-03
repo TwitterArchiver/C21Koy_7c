@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Sydney",
+          "id": "855109903752454145",
+          "name": "Sydney"
+        }
+      }
+    ],
+    "conversation_id": "1868653570633126165",
+    "created_at": "2024-12-16T13:45:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T14:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868653570633126165"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 21,
+          "tag": "DoL"
+        },
+        {
+          "end": 43,
+          "start": 26,
+          "tag": "DegreesofLewdity"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "795588823837069313",
+          "start": 3,
+          "username": "montblancLAS2cm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868653570633126165",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812465353936732330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @montblancLAS2cm: #DoL #DegreesofLewdity ♂️ Sydney\n그 친구 그려왔습니다...\n그리기 정말 어려웠고.,,,... 결과물이... 정말 민망하네요\n나체 노출은 아닌데 일단 콘텐츠 경고 걸어서 올려봅니다...…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1868653570633126165].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1868653570633126165",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1868653570633126165"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1812464931544932352"
+          ]
+        },
+        "author_id": "795588823837069313",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Sydney",
+              "id": "855109903752454145",
+              "name": "Sydney"
+            }
+          }
+        ],
+        "conversation_id": "1812465353936732330",
+        "created_at": "2024-07-14T12:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T13:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812465353936732330"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "DoL"
+            },
+            {
+              "end": 22,
+              "start": 5,
+              "tag": "DegreesofLewdity"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ijJtKqUIax",
+              "end": 177,
+              "expanded_url": "https://x.com/montblancLAS2cm/status/1812465353936732330/photo/1",
+              "media_key": "3_1812464931544932352",
+              "start": 154,
+              "url": "https://t.co/ijJtKqUIax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812465353936732330",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 9607,
+          "like_count": 241,
+          "quote_count": 10,
+          "reply_count": 2,
+          "retweet_count": 86
+        },
+        "reply_settings": "following",
+        "text": "#DoL #DegreesofLewdity ♂️ Sydney\n그 친구 그려왔습니다...\n그리기 정말 어려웠고.,,,... 결과물이... 정말 민망하네요\n나체 노출은 아닌데 일단 콘텐츠 경고 걸어서 올려봅니다...\n역시 전 타드니가 좋은 것 같아요 (순드니 그리기 너무 어려움) https://t.co/ijJtKqUIax"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人女 会突然产出想法 GB GL大于BL BG 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 2938,
+          "like_count": 20822,
+          "listed_count": 2,
+          "media_count": 1120,
+          "tweet_count": 18557
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-07T11:28:51.000Z",
+        "description": "성인 | 리가된다면 리생태계의 가물치이자 장수말벌이자 황소개구리이자 핑크뮬리이자 금계국(대충생태계교란종이란뜻)이 될 어떤 변태밀수업자 덕질계 | 미자 팔로우 시 블락 | 성인만 팔로우 해주세요! | 그림 속 인물은 전원 성인입니다! | 듦주이름: 카나리아 | 닉: 몽블랑 | 인장:비알님",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spinspin.net/montblancLAS2cm",
+                "end": 23,
+                "expanded_url": "https://spinspin.net/montblancLAS2cm",
+                "start": 0,
+                "url": "https://t.co/7X8DZiuj8e"
+              }
+            ]
+          }
+        },
+        "id": "795588823837069313",
+        "location": "레미의 영지 속 오두막 0.2.24.1",
+        "name": "🕯💛ㄹ-llㄴ마트 황무지점 사장🩷🕯",
+        "pinned_tweet_id": "1817867998457425972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838583339881828352/8Sg_u7y2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 152,
+          "like_count": 21745,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 16750
+        },
+        "url": "https://t.co/7X8DZiuj8e",
+        "username": "montblancLAS2cm",
+        "verified": false
+      }
+    ]
+  }
+}

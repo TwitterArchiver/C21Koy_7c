@@ -1,0 +1,440 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946970734128926720"
+      ],
+      "media_source_tweet_id": [
+        "1946971018968625210"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1207454119679553536",
+          "name": "Jojo's Bizarre Adventure"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1207454119679553536",
+          "name": "Jojo's Bizarre Adventure"
+        }
+      }
+    ],
+    "conversation_id": "1947298331019075852",
+    "created_at": "2025-07-21T14:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T15:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947298331019075852"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 20,
+          "tag": "JOJO"
+        },
+        {
+          "end": 37,
+          "start": 26,
+          "tag": "ジョジョの奇妙な冒険"
+        },
+        {
+          "end": 42,
+          "start": 38,
+          "tag": "SBR"
+        },
+        {
+          "end": 57,
+          "start": 43,
+          "tag": "JohnnyJoestar"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1378935702440738819",
+          "start": 3,
+          "username": "ichigo107256"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/knXAlstc9F",
+          "end": 81,
+          "expanded_url": "https://x.com/ichigo107256/status/1946971018968625210/photo/1",
+          "media_key": "3_1946970734128926720",
+          "start": 58,
+          "url": "https://t.co/knXAlstc9F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947298331019075852",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 728
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946971018968625210",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ichigo107256: 🐎🏇#JOJO #ジョジョの奇妙な冒険 #SBR #JohnnyJoestar https://t.co/knXAlstc9F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1946970734128926720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwUHkTPWEAAkPHG.jpg",
+        "width": 2301
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946970734128926720"
+          ],
+          "media_source_tweet_id": [
+            "1946971018968625210"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          }
+        ],
+        "conversation_id": "1947298331019075852",
+        "created_at": "2025-07-21T14:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T15:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947298331019075852"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "JOJO"
+            },
+            {
+              "end": 37,
+              "start": 26,
+              "tag": "ジョジョの奇妙な冒険"
+            },
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "SBR"
+            },
+            {
+              "end": 57,
+              "start": 43,
+              "tag": "JohnnyJoestar"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1378935702440738819",
+              "start": 3,
+              "username": "ichigo107256"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/knXAlstc9F",
+              "end": 81,
+              "expanded_url": "https://x.com/ichigo107256/status/1946971018968625210/photo/1",
+              "media_key": "3_1946970734128926720",
+              "start": 58,
+              "url": "https://t.co/knXAlstc9F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947298331019075852",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 728
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946971018968625210",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ichigo107256: 🐎🏇#JOJO #ジョジョの奇妙な冒険 #SBR #JohnnyJoestar https://t.co/knXAlstc9F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946970734128926720"
+          ]
+        },
+        "author_id": "1378935702440738819",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          }
+        ],
+        "conversation_id": "1946971018968625210",
+        "created_at": "2025-07-20T16:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T17:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946971018968625210"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 2,
+              "tag": "JOJO"
+            },
+            {
+              "end": 19,
+              "start": 8,
+              "tag": "ジョジョの奇妙な冒険"
+            },
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "SBR"
+            },
+            {
+              "end": 39,
+              "start": 25,
+              "tag": "JohnnyJoestar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/knXAlstc9F",
+              "end": 63,
+              "expanded_url": "https://x.com/ichigo107256/status/1946971018968625210/photo/1",
+              "media_key": "3_1946970734128926720",
+              "start": 40,
+              "url": "https://t.co/knXAlstc9F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946971018968625210",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 384,
+          "impression_count": 72499,
+          "like_count": 4722,
+          "quote_count": 12,
+          "reply_count": 4,
+          "retweet_count": 728
+        },
+        "reply_settings": "everyone",
+        "text": "🐎🏇#JOJO #ジョジョの奇妙な冒険 #SBR #JohnnyJoestar https://t.co/knXAlstc9F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 3024,
+          "like_count": 23657,
+          "listed_count": 3,
+          "media_count": 1482,
+          "tweet_count": 22771
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-05T05:01:10.000Z",
+        "description": "少年漫爱好者，喜欢火影死神dn猎人，谢谢大家喜欢！     注:🚫转载、拿图自印以及无盈利授权谢谢",
+        "id": "1378935702440738819",
+        "name": "LUO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904252990976090112/C2h1jGzI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51694,
+          "following_count": 245,
+          "like_count": 1358,
+          "listed_count": 291,
+          "media_count": 272,
+          "tweet_count": 512
+        },
+        "username": "ichigo107256",
+        "verified": false
+      }
+    ]
+  }
+}

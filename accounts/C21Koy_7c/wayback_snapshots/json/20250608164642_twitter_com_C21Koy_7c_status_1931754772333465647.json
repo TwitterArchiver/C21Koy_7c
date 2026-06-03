@@ -1,0 +1,647 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1138829560047259648",
+          "name": "Baldur's Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1138829560047259648",
+          "name": "Baldur's Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      }
+    ],
+    "conversation_id": "1931754772333465647",
+    "created_at": "2025-06-08T16:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T17:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931754772333465647"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 43,
+          "normalized_text": "Baldur’s Gate 3",
+          "probability": 0.6711,
+          "start": 29,
+          "type": "Other"
+        },
+        {
+          "end": 102,
+          "normalized_text": "BG3",
+          "probability": 0.8477,
+          "start": 100,
+          "type": "Other"
+        },
+        {
+          "end": 116,
+          "normalized_text": "BaldursGate3",
+          "probability": 0.7855,
+          "start": 105,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 103,
+          "start": 99,
+          "tag": "BG3"
+        },
+        {
+          "end": 117,
+          "start": 104,
+          "tag": "BaldursGate3"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1675168010112311297",
+          "start": 3,
+          "username": "darling_outlaw_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/2UuwyRdV",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/2UuwyRdV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931754772333465647",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931092929931559392",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @darling_outlaw_: ｡･:*˚:✧｡Baldur’s Gate 3 characters as ice cream flavors: a thread ↓🍦🧵｡･:*˚:✧｡ #BG3 #BaldursGate3 https://t.co/2UuwyRdV…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_1931092925787615232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsyeyN3XMAAzdkF.jpg",
+        "width": 736
+      },
+      {
+        "height": 933,
+        "media_key": "3_1931092925779148800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsyeyN1WAAA3nYT.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "1931754772333465647",
+        "created_at": "2025-06-08T16:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T17:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931754772333465647"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "Baldur’s Gate 3",
+              "probability": 0.6711,
+              "start": 29,
+              "type": "Other"
+            },
+            {
+              "end": 102,
+              "normalized_text": "BG3",
+              "probability": 0.8477,
+              "start": 100,
+              "type": "Other"
+            },
+            {
+              "end": 116,
+              "normalized_text": "BaldursGate3",
+              "probability": 0.7855,
+              "start": 105,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 99,
+              "tag": "BG3"
+            },
+            {
+              "end": 117,
+              "start": 104,
+              "tag": "BaldursGate3"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1675168010112311297",
+              "start": 3,
+              "username": "darling_outlaw_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/2UuwyRdV",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/2UuwyRdV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931754772333465647",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931092929931559392",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @darling_outlaw_: ｡･:*˚:✧｡Baldur’s Gate 3 characters as ice cream flavors: a thread ↓🍦🧵｡･:*˚:✧｡ #BG3 #BaldursGate3 https://t.co/2UuwyRdV…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931092925787615232",
+            "3_1931092925779148800"
+          ]
+        },
+        "author_id": "1675168010112311297",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "1931092929931559392",
+        "created_at": "2025-06-06T20:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T21:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931092929931559392"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "Baldur’s Gate 3",
+              "probability": 0.7662,
+              "start": 8,
+              "type": "Other"
+            },
+            {
+              "end": 81,
+              "normalized_text": "BG3",
+              "probability": 0.9086,
+              "start": 79,
+              "type": "Other"
+            },
+            {
+              "end": 95,
+              "normalized_text": "BaldursGate3",
+              "probability": 0.8422,
+              "start": 84,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 78,
+              "tag": "BG3"
+            },
+            {
+              "end": 96,
+              "start": 83,
+              "tag": "BaldursGate3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2UuwyRdVmc",
+              "end": 120,
+              "expanded_url": "https://x.com/darling_outlaw_/status/1931092929931559392/photo/1",
+              "media_key": "3_1931092925787615232",
+              "start": 97,
+              "url": "https://t.co/2UuwyRdVmc"
+            },
+            {
+              "display_url": "pic.x.com/2UuwyRdVmc",
+              "end": 120,
+              "expanded_url": "https://x.com/darling_outlaw_/status/1931092929931559392/photo/1",
+              "media_key": "3_1931092925779148800",
+              "start": 97,
+              "url": "https://t.co/2UuwyRdVmc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931092929931559392",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 19361,
+          "like_count": 795,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "｡･:*˚:✧｡Baldur’s Gate 3 characters as ice cream flavors: a thread ↓🍦🧵｡･:*˚:✧｡ #BG3 #BaldursGate3 https://t.co/2UuwyRdVmc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 3029,
+          "like_count": 23440,
+          "listed_count": 3,
+          "media_count": 1440,
+          "tweet_count": 22409
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T15:42:51.000Z",
+        "description": "| she/her | sapphic 💞| gemini | dr pepper obsessed🌲🎮🪐🌿 Lover of The Last of Us, Critical Role, Vox Machina, Arcane, Baldur’s Gate, Red Dead R2 & Outlander",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@darling_outlaw",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@darling_outlaw",
+                "start": 0,
+                "url": "https://t.co/C1pKwWpWAS"
+              }
+            ]
+          }
+        },
+        "id": "1675168010112311297",
+        "location": "29 // Baldur’s Gate",
+        "name": "allison 🌿🗡️🫐",
+        "pinned_tweet_id": "1931092929931559392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927110231965782017/nH4Pn-hQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 791,
+          "like_count": 16282,
+          "listed_count": 3,
+          "media_count": 602,
+          "tweet_count": 4872
+        },
+        "url": "https://t.co/C1pKwWpWAS",
+        "username": "darling_outlaw_",
+        "verified": false
+      }
+    ]
+  }
+}

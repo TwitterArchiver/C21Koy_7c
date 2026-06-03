@@ -1,0 +1,647 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1875219256960290816"
+      ],
+      "media_source_tweet_id": [
+        "1875219263159710076"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1138829560047259648",
+          "name": "Baldur's Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1138829560047259648",
+          "name": "Baldur's Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      }
+    ],
+    "conversation_id": "1875544439260901523",
+    "created_at": "2025-01-04T14:06:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T15:06:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875544439260901523"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 20,
+          "tag": "minthara"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "872939224084828160",
+          "start": 3,
+          "username": "heythisisangle"
+        },
+        {
+          "end": 45,
+          "id": "624590333",
+          "start": 30,
+          "username": "emma_chorussea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nLZRxcG7eA",
+          "end": 69,
+          "expanded_url": "https://x.com/heythisisangle/status/1875219263159710076/photo/1",
+          "media_key": "3_1875219256960290816",
+          "start": 46,
+          "url": "https://t.co/nLZRxcG7eA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875544439260901523",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 233
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875219263159710076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @heythisisangle: #minthara @emma_chorussea https://t.co/nLZRxcG7eA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1875219256960290816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgYd-pcXEAAJG40.jpg",
+        "width": 1326
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875219256960290816"
+          ],
+          "media_source_tweet_id": [
+            "1875219263159710076"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "1875544439260901523",
+        "created_at": "2025-01-04T14:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T15:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875544439260901523"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "minthara"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "872939224084828160",
+              "start": 3,
+              "username": "heythisisangle"
+            },
+            {
+              "end": 45,
+              "id": "624590333",
+              "start": 30,
+              "username": "emma_chorussea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nLZRxcG7eA",
+              "end": 69,
+              "expanded_url": "https://x.com/heythisisangle/status/1875219263159710076/photo/1",
+              "media_key": "3_1875219256960290816",
+              "start": 46,
+              "url": "https://t.co/nLZRxcG7eA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875544439260901523",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 233
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875219263159710076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @heythisisangle: #minthara @emma_chorussea https://t.co/nLZRxcG7eA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875219256960290816"
+          ]
+        },
+        "author_id": "872939224084828160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "1875219263159710076",
+        "created_at": "2025-01-03T16:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T17:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875219263159710076"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "minthara"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 25,
+              "id": "624590333",
+              "start": 10,
+              "username": "emma_chorussea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nLZRxcG7eA",
+              "end": 49,
+              "expanded_url": "https://x.com/heythisisangle/status/1875219263159710076/photo/1",
+              "media_key": "3_1875219256960290816",
+              "start": 26,
+              "url": "https://t.co/nLZRxcG7eA"
+            },
+            {
+              "display_url": "x.com/heythisisangle…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/heythisisangle/status/1872696056154341435",
+              "start": 50,
+              "url": "https://t.co/WKPePWhGRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875219263159710076",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 34986,
+          "like_count": 2400,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 233
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872696056154341435",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#minthara @emma_chorussea https://t.co/nLZRxcG7eA https://t.co/WKPePWhGRI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人女 会突然产出想法 BL吃的较少 但是会吃 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 2961,
+          "like_count": 20881,
+          "listed_count": 2,
+          "media_count": 1124,
+          "tweet_count": 18854
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-08T22:11:44.000Z",
+        "description": "‍Hello, my name is Angle ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍𝙄𝙡𝙡𝙪𝙨𝙩𝙧𝙖𝙩𝙞𝙤𝙣 | 𝘾𝙤𝙢𝙞𝙘𝙨 | 𝙃𝙪𝙢𝙖𝙣 𝘼𝙢𝙖𝙩𝙚𝙪𝙧 ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ NSFW and more on Patreon🔻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hellothisisangle.carrd.co/#",
+                "end": 23,
+                "expanded_url": "https://hellothisisangle.carrd.co/#",
+                "start": 0,
+                "url": "https://t.co/N36WivQnSJ"
+              }
+            ]
+          }
+        },
+        "id": "872939224084828160",
+        "location": "Working on comms",
+        "name": "Angle",
+        "pinned_tweet_id": "1832501918742225194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870260877867237376/xRigIIvl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29386,
+          "following_count": 490,
+          "like_count": 2517,
+          "listed_count": 161,
+          "media_count": 795,
+          "tweet_count": 2157
+        },
+        "url": "https://t.co/N36WivQnSJ",
+        "username": "heythisisangle",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-02T11:32:12.000Z",
+        "description": "@VoicecallAgency @PembertonAssociates BG3, DOS I&II, Warhammer 40K, SW Battlefront II, Audible 5⭐️ https://t.co/BRnrSrJc8b https://t.co/P4rozsaSt0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "VoicecallAgency"
+              },
+              {
+                "end": 37,
+                "start": 17,
+                "username": "PembertonAssociates"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "v.cameo.com/e/glVXZQgYCGb",
+                "end": 122,
+                "expanded_url": "https://v.cameo.com/e/glVXZQgYCGb",
+                "start": 99,
+                "url": "https://t.co/BRnrSrJc8b"
+              },
+              {
+                "display_url": "gunghobooking.com",
+                "end": 146,
+                "expanded_url": "http://gunghobooking.com",
+                "start": 123,
+                "url": "https://t.co/P4rozsaSt0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "streamily.com/emmagregory",
+                "end": 23,
+                "expanded_url": "http://streamily.com/emmagregory",
+                "start": 0,
+                "url": "https://t.co/RSnyvmph65"
+              }
+            ]
+          }
+        },
+        "id": "624590333",
+        "name": "Emma Gregory",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869021020473917440/IzBRC8dL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6965,
+          "following_count": 474,
+          "like_count": 884,
+          "listed_count": 12,
+          "media_count": 108,
+          "tweet_count": 1562
+        },
+        "url": "https://t.co/RSnyvmph65",
+        "username": "emma_chorussea",
+        "verified": false
+      }
+    ]
+  }
+}

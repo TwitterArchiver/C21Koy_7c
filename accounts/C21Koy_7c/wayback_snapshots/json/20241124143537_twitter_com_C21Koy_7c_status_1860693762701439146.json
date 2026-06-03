@@ -1,0 +1,666 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1712547064712663040"
+      ],
+      "media_source_tweet_id": [
+        "1712549685595091246"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1138829560047259648",
+          "name": "Baldur's Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1138829560047259648",
+          "name": "Baldur's Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      }
+    ],
+    "conversation_id": "1860693762701439146",
+    "created_at": "2024-11-24T14:35:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T15:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860693762701439146"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "Shadowheart",
+          "probability": 0.7964,
+          "start": 37,
+          "type": "Other"
+        },
+        {
+          "end": 58,
+          "normalized_text": "Karlach",
+          "probability": 0.769,
+          "start": 52,
+          "type": "Other"
+        },
+        {
+          "end": 74,
+          "normalized_text": "BaldursGate3",
+          "probability": 0.8393,
+          "start": 63,
+          "type": "Other"
+        },
+        {
+          "end": 79,
+          "normalized_text": "BG3",
+          "probability": 0.9228,
+          "start": 77,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 75,
+          "start": 62,
+          "tag": "BaldursGate3"
+        },
+        {
+          "end": 80,
+          "start": 76,
+          "tag": "BG3"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "193147499",
+          "start": 3,
+          "username": "Caminukai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k0UljEl43O",
+          "end": 104,
+          "expanded_url": "https://x.com/Caminukai/status/1712549685595091246/photo/1",
+          "media_key": "3_1712547064712663040",
+          "start": 81,
+          "url": "https://t.co/k0UljEl43O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860693762701439146",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 953
+    },
+    "referenced_tweets": [
+      {
+        "id": "1712549685595091246",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Caminukai: How to eat ice cream: Shadowheart or Karlach?\n\n#BaldursGate3 #BG3 https://t.co/k0UljEl43O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1573,
+        "media_key": "3_1712547064712663040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F8Qwe11WEAAcfvq.jpg",
+        "width": 1845
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1712547064712663040"
+          ],
+          "media_source_tweet_id": [
+            "1712549685595091246"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "1860693762701439146",
+        "created_at": "2024-11-24T14:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T15:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860693762701439146"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "Shadowheart",
+              "probability": 0.7964,
+              "start": 37,
+              "type": "Other"
+            },
+            {
+              "end": 58,
+              "normalized_text": "Karlach",
+              "probability": 0.769,
+              "start": 52,
+              "type": "Other"
+            },
+            {
+              "end": 74,
+              "normalized_text": "BaldursGate3",
+              "probability": 0.8393,
+              "start": 63,
+              "type": "Other"
+            },
+            {
+              "end": 79,
+              "normalized_text": "BG3",
+              "probability": 0.9228,
+              "start": 77,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 62,
+              "tag": "BaldursGate3"
+            },
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "BG3"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "193147499",
+              "start": 3,
+              "username": "Caminukai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k0UljEl43O",
+              "end": 104,
+              "expanded_url": "https://x.com/Caminukai/status/1712549685595091246/photo/1",
+              "media_key": "3_1712547064712663040",
+              "start": 81,
+              "url": "https://t.co/k0UljEl43O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860693762701439146",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 953
+        },
+        "referenced_tweets": [
+          {
+            "id": "1712549685595091246",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Caminukai: How to eat ice cream: Shadowheart or Karlach?\n\n#BaldursGate3 #BG3 https://t.co/k0UljEl43O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1712547064712663040"
+          ]
+        },
+        "author_id": "193147499",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "1712549685595091246",
+        "created_at": "2023-10-12T19:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2023-10-12T20:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1712549685595091246"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "Shadowheart",
+              "probability": 0.7722,
+              "start": 22,
+              "type": "Other"
+            },
+            {
+              "end": 43,
+              "normalized_text": "Karlach",
+              "probability": 0.7508,
+              "start": 37,
+              "type": "Other"
+            },
+            {
+              "end": 59,
+              "normalized_text": "BaldursGate3",
+              "probability": 0.8635,
+              "start": 48,
+              "type": "Other"
+            },
+            {
+              "end": 64,
+              "normalized_text": "BG3",
+              "probability": 0.9117,
+              "start": 62,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 47,
+              "tag": "BaldursGate3"
+            },
+            {
+              "end": 65,
+              "start": 61,
+              "tag": "BG3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k0UljEl43O",
+              "end": 89,
+              "expanded_url": "https://x.com/Caminukai/status/1712549685595091246/photo/1",
+              "media_key": "3_1712547064712663040",
+              "start": 66,
+              "url": "https://t.co/k0UljEl43O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1712549685595091246",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 210,
+          "impression_count": 93408,
+          "like_count": 5543,
+          "quote_count": 4,
+          "reply_count": 23,
+          "retweet_count": 953
+        },
+        "reply_settings": "everyone",
+        "text": "How to eat ice cream: Shadowheart or Karlach?\n\n#BaldursGate3 #BG3 https://t.co/k0UljEl43O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫bi🏳️‍🌈/ they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人女 会突然产出想法 GB GL大于BL BG 20+",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 2907,
+          "like_count": 20742,
+          "listed_count": 2,
+          "tweet_count": 18214
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-21T02:36:10.000Z",
+        "description": "Illustrator & character designer | 🇨🇱 | Support me on https://t.co/lTD49yuTL8 ❤️‍🔥 | contact caminukai@gmail.com - open for commercial work!",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/caminukai",
+                "end": 77,
+                "expanded_url": "http://patreon.com/caminukai",
+                "start": 54,
+                "url": "https://t.co/lTD49yuTL8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "caminukai.carrd.co",
+                "end": 23,
+                "expanded_url": "https://caminukai.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/gr9afIwFai"
+              }
+            ]
+          }
+        },
+        "id": "193147499",
+        "location": "Chile",
+        "name": "Cami ❤️‍🔥",
+        "pinned_tweet_id": "1854274791856804348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711144603812827136/ClyS2_Fj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20659,
+          "following_count": 1082,
+          "like_count": 23573,
+          "listed_count": 177,
+          "tweet_count": 15316
+        },
+        "url": "https://t.co/gr9afIwFai",
+        "username": "Caminukai",
+        "verified": false
+      }
+    ]
+  }
+}

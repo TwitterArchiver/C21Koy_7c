@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1893056301162283008"
+      ],
+      "media_source_tweet_id": [
+        "1893056418330075542"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1893186989563744485",
+    "created_at": "2025-02-22T06:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T07:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893186989563744485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1448607835554783239",
+          "start": 3,
+          "username": "jetstream_E"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BcPgasZzWZ",
+          "end": 40,
+          "expanded_url": "https://x.com/jetstream_E/status/1893056418330075542/photo/1",
+          "media_key": "3_1893056301162283008",
+          "start": 17,
+          "url": "https://t.co/BcPgasZzWZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893186989563744485",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893056418330075542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jetstream_E: https://t.co/BcPgasZzWZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1893186989563744485].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1893186989563744485",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1893186989563744485"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1846,
+        "media_key": "3_1893056301162283008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkV8rRKXwAAYUTG.jpg",
+        "width": 2018
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893056301162283008"
+          ]
+        },
+        "author_id": "1448607835554783239",
+        "conversation_id": "1893056418330075542",
+        "created_at": "2025-02-21T21:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T22:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893056418330075542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BcPgasZzWZ",
+              "end": 23,
+              "expanded_url": "https://x.com/jetstream_E/status/1893056418330075542/photo/1",
+              "media_key": "3_1893056301162283008",
+              "start": 0,
+              "url": "https://t.co/BcPgasZzWZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893056418330075542",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 2524,
+          "like_count": 370,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BcPgasZzWZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 但是还算可以 懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890691451258126336/lPqKitsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 2970,
+          "like_count": 21762,
+          "listed_count": 2,
+          "media_count": 1258,
+          "tweet_count": 20438
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-14T11:13:45.000Z",
+        "description": "♀/artist/R18G/oc/汉语,Ita,bad Eng/高等生殖器动力学、土木解剖学双学位/前小孩",
+        "id": "1448607835554783239",
+        "location": "逼",
+        "name": "油腻史蒂夫",
+        "pinned_tweet_id": "1872895488737067065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641024241037352960/-Gcba_Xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11798,
+          "following_count": 1048,
+          "like_count": 13401,
+          "listed_count": 22,
+          "media_count": 202,
+          "tweet_count": 615
+        },
+        "username": "jetstream_E",
+        "verified": false
+      }
+    ]
+  }
+}

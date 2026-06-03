@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "conversation_id": "1970565445137891461",
+    "created_at": "2025-09-23T19:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T20:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970565445137891461"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 10,
+          "normalized_text": "pretty girl",
+          "probability": 0.5478,
+          "start": 0,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/116kuku/status…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/116kuku/status/1970565044250538389",
+          "start": 12,
+          "url": "https://t.co/vX9BT6ZBf8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970565445137891461",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970565044250538389",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "pretty girl https://t.co/vX9BT6ZBf8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1970565033961955328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1jadTgboAADk8-.jpg",
+        "width": 1626
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1970565033966063616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1jadThaUAA1Rkm.jpg",
+        "width": 1632
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "conversation_id": "1970565445137891461",
+        "created_at": "2025-09-23T19:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T20:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970565445137891461"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "pretty girl",
+              "probability": 0.5478,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/116kuku/status…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/116kuku/status/1970565044250538389",
+              "start": 12,
+              "url": "https://t.co/vX9BT6ZBf8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970565445137891461",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970565044250538389",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "pretty girl https://t.co/vX9BT6ZBf8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970565033961955328",
+            "3_1970565033966063616"
+          ]
+        },
+        "author_id": "1947951416162787328",
+        "conversation_id": "1970565044250538389",
+        "created_at": "2025-09-23T19:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T20:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970565044250538389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fTExQFrTji",
+              "end": 26,
+              "expanded_url": "https://x.com/116Kuku/status/1970565044250538389/photo/1",
+              "media_key": "3_1970565033961955328",
+              "start": 3,
+              "url": "https://t.co/fTExQFrTji"
+            },
+            {
+              "display_url": "pic.x.com/fTExQFrTji",
+              "end": 26,
+              "expanded_url": "https://x.com/116Kuku/status/1970565044250538389/photo/1",
+              "media_key": "3_1970565033966063616",
+              "start": 3,
+              "url": "https://t.co/fTExQFrTji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970565044250538389",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "☺️ https://t.co/fTExQFrTji"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964100290095042560/8WRhPH87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 3071,
+          "like_count": 24372,
+          "listed_count": 6,
+          "media_count": 1558,
+          "tweet_count": 23405
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T09:26:50.000Z",
+        "description": "骷都骷不出来",
+        "id": "1947951416162787328",
+        "name": "骷骷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947953674052833280/Vn-CMTYg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 5,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 16
+        },
+        "username": "116Kuku",
+        "verified": false
+      }
+    ]
+  }
+}

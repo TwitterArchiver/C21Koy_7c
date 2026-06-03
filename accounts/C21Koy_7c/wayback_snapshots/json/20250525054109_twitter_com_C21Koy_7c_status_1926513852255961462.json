@@ -1,0 +1,718 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926172232373403648",
+        "3_1926172232369283072",
+        "3_1926172232373370881",
+        "3_1926172232377663489"
+      ],
+      "media_source_tweet_id": [
+        "1926172240657211733",
+        "1926172240657211733",
+        "1926172240657211733",
+        "1926172240657211733"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1138829560047259648",
+          "name": "Baldur's Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1138829560047259648",
+          "name": "Baldur's Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      }
+    ],
+    "conversation_id": "1926513852255961462",
+    "created_at": "2025-05-25T05:41:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T06:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926513852255961462"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "Lady Shar",
+          "probability": 0.6153,
+          "start": 15,
+          "type": "Person"
+        },
+        {
+          "end": 39,
+          "normalized_text": "BaldursGate3",
+          "probability": 0.8128,
+          "start": 28,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 27,
+          "tag": "BaldursGate3"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "100187103",
+          "start": 3,
+          "username": "Barbozari"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2wmlmWpUTA",
+          "end": 64,
+          "expanded_url": "https://x.com/Barbozari/status/1926172240657211733/photo/1",
+          "media_key": "3_1926172232373403648",
+          "start": 41,
+          "url": "https://t.co/2wmlmWpUTA"
+        },
+        {
+          "display_url": "pic.x.com/2wmlmWpUTA",
+          "end": 64,
+          "expanded_url": "https://x.com/Barbozari/status/1926172240657211733/photo/1",
+          "media_key": "3_1926172232369283072",
+          "start": 41,
+          "url": "https://t.co/2wmlmWpUTA"
+        },
+        {
+          "display_url": "pic.x.com/2wmlmWpUTA",
+          "end": 64,
+          "expanded_url": "https://x.com/Barbozari/status/1926172240657211733/photo/1",
+          "media_key": "3_1926172232373370881",
+          "start": 41,
+          "url": "https://t.co/2wmlmWpUTA"
+        },
+        {
+          "display_url": "pic.x.com/2wmlmWpUTA",
+          "end": 64,
+          "expanded_url": "https://x.com/Barbozari/status/1926172240657211733/photo/1",
+          "media_key": "3_1926172232377663489",
+          "start": 41,
+          "url": "https://t.co/2wmlmWpUTA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926513852255961462",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926172240657211733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Barbozari: Lady Shar 💜 #BaldursGate3 https://t.co/2wmlmWpUTA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1926172232373403648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrsjcKbWgAADahd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1926172232369283072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrsjcKaXoAAb1_G.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1926172232373370881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrsjcKbWAAEp7mW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1926172232377663489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrsjcKcXgAEWbeN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926172232373403648",
+            "3_1926172232369283072",
+            "3_1926172232373370881",
+            "3_1926172232377663489"
+          ],
+          "media_source_tweet_id": [
+            "1926172240657211733",
+            "1926172240657211733",
+            "1926172240657211733",
+            "1926172240657211733"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "1926513852255961462",
+        "created_at": "2025-05-25T05:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T06:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926513852255961462"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Lady Shar",
+              "probability": 0.6153,
+              "start": 15,
+              "type": "Person"
+            },
+            {
+              "end": 39,
+              "normalized_text": "BaldursGate3",
+              "probability": 0.8128,
+              "start": 28,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 27,
+              "tag": "BaldursGate3"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "100187103",
+              "start": 3,
+              "username": "Barbozari"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2wmlmWpUTA",
+              "end": 64,
+              "expanded_url": "https://x.com/Barbozari/status/1926172240657211733/photo/1",
+              "media_key": "3_1926172232373403648",
+              "start": 41,
+              "url": "https://t.co/2wmlmWpUTA"
+            },
+            {
+              "display_url": "pic.x.com/2wmlmWpUTA",
+              "end": 64,
+              "expanded_url": "https://x.com/Barbozari/status/1926172240657211733/photo/1",
+              "media_key": "3_1926172232369283072",
+              "start": 41,
+              "url": "https://t.co/2wmlmWpUTA"
+            },
+            {
+              "display_url": "pic.x.com/2wmlmWpUTA",
+              "end": 64,
+              "expanded_url": "https://x.com/Barbozari/status/1926172240657211733/photo/1",
+              "media_key": "3_1926172232373370881",
+              "start": 41,
+              "url": "https://t.co/2wmlmWpUTA"
+            },
+            {
+              "display_url": "pic.x.com/2wmlmWpUTA",
+              "end": 64,
+              "expanded_url": "https://x.com/Barbozari/status/1926172240657211733/photo/1",
+              "media_key": "3_1926172232377663489",
+              "start": 41,
+              "url": "https://t.co/2wmlmWpUTA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926513852255961462",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926172240657211733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Barbozari: Lady Shar 💜 #BaldursGate3 https://t.co/2wmlmWpUTA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926172232373403648",
+            "3_1926172232369283072",
+            "3_1926172232373370881",
+            "3_1926172232377663489"
+          ]
+        },
+        "author_id": "100187103",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "1926172240657211733",
+        "created_at": "2025-05-24T07:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T08:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926172240657211733"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "Lady Shar",
+              "probability": 0.8654,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 24,
+              "normalized_text": "BaldursGate3",
+              "probability": 0.8749,
+              "start": 13,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 12,
+              "tag": "BaldursGate3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2wmlmWpUTA",
+              "end": 49,
+              "expanded_url": "https://x.com/Barbozari/status/1926172240657211733/photo/1",
+              "media_key": "3_1926172232373403648",
+              "start": 26,
+              "url": "https://t.co/2wmlmWpUTA"
+            },
+            {
+              "display_url": "pic.x.com/2wmlmWpUTA",
+              "end": 49,
+              "expanded_url": "https://x.com/Barbozari/status/1926172240657211733/photo/1",
+              "media_key": "3_1926172232369283072",
+              "start": 26,
+              "url": "https://t.co/2wmlmWpUTA"
+            },
+            {
+              "display_url": "pic.x.com/2wmlmWpUTA",
+              "end": 49,
+              "expanded_url": "https://x.com/Barbozari/status/1926172240657211733/photo/1",
+              "media_key": "3_1926172232373370881",
+              "start": 26,
+              "url": "https://t.co/2wmlmWpUTA"
+            },
+            {
+              "display_url": "pic.x.com/2wmlmWpUTA",
+              "end": 49,
+              "expanded_url": "https://x.com/Barbozari/status/1926172240657211733/photo/1",
+              "media_key": "3_1926172232377663489",
+              "start": 26,
+              "url": "https://t.co/2wmlmWpUTA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926172240657211733",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 2833,
+          "like_count": 201,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "Lady Shar 💜 #BaldursGate3 https://t.co/2wmlmWpUTA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我yan｜肉鸦都可以 不会外语翻译器OK",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 3015,
+          "like_count": 23157,
+          "listed_count": 3,
+          "media_count": 1409,
+          "tweet_count": 22165
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-29T09:48:21.000Z",
+        "description": "✨FUB FREE⚠️RT Blood/nsfw⚠️Hobbyist Artist,,GL,,OC,,Multifandom | 🔞: @barbozari2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "barbozari2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Barbozari",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Barbozari",
+                "start": 0,
+                "url": "https://t.co/247UNoBSno"
+              }
+            ]
+          }
+        },
+        "id": "100187103",
+        "location": "Thailand",
+        "name": "Barbozari 🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912927963324284928/ZVcC9wKf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2509,
+          "following_count": 615,
+          "like_count": 5496,
+          "listed_count": 7,
+          "media_count": 2152,
+          "tweet_count": 64408
+        },
+        "url": "https://t.co/247UNoBSno",
+        "username": "Barbozari",
+        "verified": false
+      }
+    ]
+  }
+}

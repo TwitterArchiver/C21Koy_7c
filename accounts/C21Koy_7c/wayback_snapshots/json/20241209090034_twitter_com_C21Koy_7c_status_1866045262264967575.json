@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1865750628028350464"
+      ],
+      "media_source_tweet_id": [
+        "1865750655316398141"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+          "id": "854954654546907136",
+          "name": "Persona"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+          "id": "854954654546907136",
+          "name": "Persona"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898900390707204",
+          "name": "JRPGs"
+        }
+      }
+    ],
+    "conversation_id": "1866045262264967575",
+    "created_at": "2024-12-09T09:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T10:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866045262264967575"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "adachy",
+          "probability": 0.528,
+          "start": 19,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 31,
+          "tag": "ペルソナ4"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1691557961158545409",
+          "start": 3,
+          "username": "kakashipookie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KsjP4QpZcX",
+          "end": 61,
+          "expanded_url": "https://x.com/kakashipookie/status/1865750655316398141/video/1",
+          "media_key": "7_1865750628028350464",
+          "start": 38,
+          "url": "https://t.co/KsjP4QpZcX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866045262264967575",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 526
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865750655316398141",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kakashipookie: adachy-baby #ペルソナ4 https://t.co/KsjP4QpZcX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15200,
+        "height": 720,
+        "media_key": "7_1865750628028350464",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1865750628028350464/pu/img/Vyobg5baPP3VMcj-.jpg",
+        "public_metrics": {
+          "view_count": 11374
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1865750628028350464/pu/vid/avc1/318x270/zDn14rkbv-1APL7T.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1865750628028350464/pu/vid/avc1/424x360/a9j4nu5grEUm6zzH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1865750628028350464/pu/vid/avc1/848x720/00G-rNPIwz4lKZmD.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1865750628028350464/pu/pl/mXLutCZvn_83KNGn.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1865750628028350464"
+          ],
+          "media_source_tweet_id": [
+            "1865750655316398141"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898900390707204",
+              "name": "JRPGs"
+            }
+          }
+        ],
+        "conversation_id": "1866045262264967575",
+        "created_at": "2024-12-09T09:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T10:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866045262264967575"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "adachy",
+              "probability": 0.528,
+              "start": 19,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 31,
+              "tag": "ペルソナ4"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1691557961158545409",
+              "start": 3,
+              "username": "kakashipookie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KsjP4QpZcX",
+              "end": 61,
+              "expanded_url": "https://x.com/kakashipookie/status/1865750655316398141/video/1",
+              "media_key": "7_1865750628028350464",
+              "start": 38,
+              "url": "https://t.co/KsjP4QpZcX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866045262264967575",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 526
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865750655316398141",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kakashipookie: adachy-baby #ペルソナ4 https://t.co/KsjP4QpZcX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1865750628028350464"
+          ]
+        },
+        "author_id": "1691557961158545409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898900390707204",
+              "name": "JRPGs"
+            }
+          }
+        ],
+        "conversation_id": "1865750655316398141",
+        "created_at": "2024-12-08T13:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T14:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865750655316398141"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "adachy",
+              "probability": 0.5093,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 12,
+              "tag": "ペルソナ4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KsjP4QpZcX",
+              "end": 42,
+              "expanded_url": "https://x.com/kakashipookie/status/1865750655316398141/video/1",
+              "media_key": "7_1865750628028350464",
+              "start": 19,
+              "url": "https://t.co/KsjP4QpZcX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865750655316398141",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 664,
+          "impression_count": 28409,
+          "like_count": 2429,
+          "quote_count": 31,
+          "reply_count": 10,
+          "retweet_count": 526
+        },
+        "reply_settings": "everyone",
+        "text": "adachy-baby #ペルソナ4 https://t.co/KsjP4QpZcX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人女 会突然产出想法 GB GL大于BL BG 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 2926,
+          "like_count": 20711,
+          "listed_count": 2,
+          "media_count": 1110,
+          "tweet_count": 18387
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T21:10:30.000Z",
+        "description": "PERSONA!!!!!! ★ ic JIYO I #HEART YOU",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 26,
+                "tag": "HEART"
+              }
+            ]
+          }
+        },
+        "id": "1691557961158545409",
+        "location": "she/her",
+        "name": "sara",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765053053395243008/sJWWurfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1418,
+          "following_count": 219,
+          "like_count": 7994,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 1472
+        },
+        "username": "kakashipookie",
+        "verified": false
+      }
+    ]
+  }
+}

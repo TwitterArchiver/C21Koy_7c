@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_source_tweet_id": [
+        "1852011819272958259"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Dragon Ball",
+          "id": "1026525069474902017",
+          "name": "Dragon Ball"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Dragon Ball",
+          "id": "1026525069474902017",
+          "name": "Dragon Ball"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1852182636485358036",
+    "created_at": "2024-11-01T02:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-01T03:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852182636485358036"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "Astarion",
+          "probability": 0.5965,
+          "start": 12,
+          "type": "Other"
+        },
+        {
+          "end": 29,
+          "normalized_text": "Durge",
+          "probability": 0.5372,
+          "start": 25,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1757778266931318785",
+          "start": 3,
+          "username": "durgey"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V89FXYHpc4",
+          "end": 54,
+          "expanded_url": "https://x.com/durgey/status/1852011819272958259/photo/1",
+          "media_key": "3_1852011686779088896",
+          "start": 31,
+          "url": "https://t.co/V89FXYHpc4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852182636485358036",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 218
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852011819272958259",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @durgey: Astarion and Durge https://t.co/V89FXYHpc4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_source_tweet_id": [
+            "1852011819272958259"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Dragon Ball",
+              "id": "1026525069474902017",
+              "name": "Dragon Ball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dragon Ball",
+              "id": "1026525069474902017",
+              "name": "Dragon Ball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1852182636485358036",
+        "created_at": "2024-11-01T02:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T03:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852182636485358036"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Astarion",
+              "probability": 0.5965,
+              "start": 12,
+              "type": "Other"
+            },
+            {
+              "end": 29,
+              "normalized_text": "Durge",
+              "probability": 0.5372,
+              "start": 25,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1757778266931318785",
+              "start": 3,
+              "username": "durgey"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V89FXYHpc4",
+              "end": 54,
+              "expanded_url": "https://x.com/durgey/status/1852011819272958259/photo/1",
+              "media_key": "3_1852011686779088896",
+              "start": 31,
+              "url": "https://t.co/V89FXYHpc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852182636485358036",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 218
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852011819272958259",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @durgey: Astarion and Durge https://t.co/V89FXYHpc4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852011686779088896"
+          ]
+        },
+        "author_id": "1757778266931318785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Dragon Ball",
+              "id": "1026525069474902017",
+              "name": "Dragon Ball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dragon Ball",
+              "id": "1026525069474902017",
+              "name": "Dragon Ball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1852011819272958259",
+        "created_at": "2024-10-31T15:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T16:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852011819272958259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V89FXYHpc4",
+              "end": 42,
+              "expanded_url": "https://x.com/durgey/status/1852011819272958259/photo/1",
+              "media_key": "3_1852011686779088896",
+              "start": 19,
+              "url": "https://t.co/V89FXYHpc4"
+            },
+            {
+              "display_url": "x.com/diz_korall_DB/…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/diz_korall_DB/status/1643655164119613449",
+              "start": 43,
+              "url": "https://t.co/an0ActzcZp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852011819272958259",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 24292,
+          "like_count": 1530,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 218
+        },
+        "referenced_tweets": [
+          {
+            "id": "1643655164119613449",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Astarion and Durge https://t.co/V89FXYHpc4 https://t.co/an0ActzcZp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫bi🏳️‍🌈/ they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT大概淡坑：COD/MK/恐影 不善表达 但是还算可以 请和我保持联络谢谢 尽力活着 我没恶意 我鼓起很大勇气才会评论你 lgbt+ GB GL大于BL BG 20+",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1850400060410093573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849238518457143296/KSYxwv47_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 2855,
+          "like_count": 20420,
+          "listed_count": 2,
+          "tweet_count": 17519
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T14:46:23.000Z",
+        "description": "Hi I'm Durgey! I love Astarion and Baldurs Gate 3 #baldursgate3 #アスタリオン #bg3",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 50,
+                "tag": "baldursgate3"
+              },
+              {
+                "end": 71,
+                "start": 64,
+                "tag": "アスタリオン"
+              },
+              {
+                "end": 76,
+                "start": 72,
+                "tag": "bg3"
+              }
+            ]
+          }
+        },
+        "id": "1757778266931318785",
+        "name": "Durgey✩",
+        "pinned_tweet_id": "1788210264262820076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780598954150739968/kd_ZfnLg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 128,
+          "like_count": 1133,
+          "listed_count": 3,
+          "tweet_count": 158
+        },
+        "username": "durgey",
+        "verified": false
+      }
+    ]
+  }
+}

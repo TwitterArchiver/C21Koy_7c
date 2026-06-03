@@ -1,0 +1,515 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1392988484256759811",
+          "name": "Steam"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1392975566253424640",
+          "name": "Gaming retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1392988484256759811",
+          "name": "Steam"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "1884550009250808297",
+    "created_at": "2025-01-29T10:31:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T11:31:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884550009250808297"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 69,
+          "normalized_text": "Alice: Madness Returns",
+          "probability": 0.4303,
+          "start": 48,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2786677338",
+          "start": 3,
+          "username": "denfaminicogame"
+        }
+      ],
+      "urls": [
+        {
+          "description": "記憶を取り戻すため、包丁片手のアリスがヴァイオレンスワンダーランドを冒険。ティーポットキャノンやお仕置き木馬など多数の武器を駆使する",
+          "display_url": "news.denfaminicogamer.jp/news/250128q",
+          "end": 131,
+          "expanded_url": "https://news.denfaminicogamer.jp/news/250128q",
+          "images": [
+            {
+              "height": 1012,
+              "url": "https://pbs.twimg.com/news_img/1884088025430581248/e3NfgZJ8?format=jpg&name=orig",
+              "width": 1799
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1884088025430581248/e3NfgZJ8?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 108,
+          "status": 200,
+          "title": "『Alice: Madness Returns』のSteam版が90％オフの1400円⇒140円で購入できる破格のセール開催中。狂気に満ちた\"不思議の国”で、包丁片手にアリスが冒険する",
+          "unwound_url": "https://news.denfaminicogamer.jp/news/250128q",
+          "url": "https://t.co/hnasX01N6R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884550009250808297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4446
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884088017310343613",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @denfaminicogame: 狂気に満ちた“不思議の国”を冒険するアクションゲーム『Alice: Madness Returns』のSteam版が90％オフの1400円⇒140円で購入できるセール開催中\nhttps://t.co/hnasX01N6R\n\n記憶を取り戻…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392975566253424640",
+              "name": "Gaming retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1884550009250808297",
+        "created_at": "2025-01-29T10:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T11:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884550009250808297"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 69,
+              "normalized_text": "Alice: Madness Returns",
+              "probability": 0.4303,
+              "start": 48,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2786677338",
+              "start": 3,
+              "username": "denfaminicogame"
+            }
+          ],
+          "urls": [
+            {
+              "description": "記憶を取り戻すため、包丁片手のアリスがヴァイオレンスワンダーランドを冒険。ティーポットキャノンやお仕置き木馬など多数の武器を駆使する",
+              "display_url": "news.denfaminicogamer.jp/news/250128q",
+              "end": 131,
+              "expanded_url": "https://news.denfaminicogamer.jp/news/250128q",
+              "images": [
+                {
+                  "height": 1012,
+                  "url": "https://pbs.twimg.com/news_img/1884088025430581248/e3NfgZJ8?format=jpg&name=orig",
+                  "width": 1799
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1884088025430581248/e3NfgZJ8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 108,
+              "status": 200,
+              "title": "『Alice: Madness Returns』のSteam版が90％オフの1400円⇒140円で購入できる破格のセール開催中。狂気に満ちた\"不思議の国”で、包丁片手にアリスが冒険する",
+              "unwound_url": "https://news.denfaminicogamer.jp/news/250128q",
+              "url": "https://t.co/hnasX01N6R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884550009250808297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4446
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884088017310343613",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @denfaminicogame: 狂気に満ちた“不思議の国”を冒険するアクションゲーム『Alice: Madness Returns』のSteam版が90％オフの1400円⇒140円で購入できるセール開催中\nhttps://t.co/hnasX01N6R\n\n記憶を取り戻…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1884087991376961539"
+          ]
+        },
+        "author_id": "2786677338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392975566253424640",
+              "name": "Gaming retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1884088017310343613",
+        "created_at": "2025-01-28T03:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T04:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884088017310343613"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "Alice: Madness Returns",
+              "probability": 0.4,
+              "start": 27,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "記憶を取り戻すため、包丁片手のアリスがヴァイオレンスワンダーランドを冒険。ティーポットキャノンやお仕置き木馬など多数の武器を駆使する",
+              "display_url": "news.denfaminicogamer.jp/news/250128q",
+              "end": 110,
+              "expanded_url": "https://news.denfaminicogamer.jp/news/250128q",
+              "images": [
+                {
+                  "height": 1012,
+                  "url": "https://pbs.twimg.com/news_img/1884088025430581248/e3NfgZJ8?format=jpg&name=orig",
+                  "width": 1799
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1884088025430581248/e3NfgZJ8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 87,
+              "status": 200,
+              "title": "『Alice: Madness Returns』のSteam版が90％オフの1400円⇒140円で購入できる破格のセール開催中。狂気に満ちた\"不思議の国”で、包丁片手にアリスが冒険する",
+              "unwound_url": "https://news.denfaminicogamer.jp/news/250128q",
+              "url": "https://t.co/hnasX01N6R"
+            },
+            {
+              "display_url": "pic.x.com/36ZzL5JWJs",
+              "end": 196,
+              "expanded_url": "https://x.com/denfaminicogame/status/1884088017310343613/video/1",
+              "media_key": "7_1884087991376961539",
+              "start": 173,
+              "url": "https://t.co/36ZzL5JWJs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884088017310343613",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2307,
+          "impression_count": 947590,
+          "like_count": 9213,
+          "quote_count": 615,
+          "reply_count": 20,
+          "retweet_count": 4446
+        },
+        "reply_settings": "everyone",
+        "text": "狂気に満ちた“不思議の国”を冒険するアクションゲーム『Alice: Madness Returns』のSteam版が90％オフの1400円⇒140円で購入できるセール開催中\nhttps://t.co/hnasX01N6R\n\n記憶を取り戻すため、包丁片手のアリスがヴァイオレンスな世界を巡る。ティーポットキャノンやお仕置き木馬など多数の武器を駆使 https://t.co/36ZzL5JWJs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH! 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影/三国 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人爱好者 会突然产出想法 BL吃的比其他少 但是会吃 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦肉臀臀",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 2962,
+          "like_count": 21032,
+          "listed_count": 2,
+          "media_count": 1158,
+          "tweet_count": 19407
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-02T21:20:04.000Z",
+        "description": "「ゲームの面白い記事読んでみない？」あなたの時間を奪う、読み応えたっぷりの記事をお届け！「電ファミニコゲーマー」の公式アカウントです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.denfaminicogamer.jp",
+                "end": 23,
+                "expanded_url": "https://news.denfaminicogamer.jp/",
+                "start": 0,
+                "url": "https://t.co/8vJgkHBnTV"
+              }
+            ]
+          }
+        },
+        "id": "2786677338",
+        "location": "日本 東京都",
+        "name": "電ファミニコゲーマー",
+        "pinned_tweet_id": "1884171059261559038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1552262697852366848/KJN34d9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074711,
+          "following_count": 3417,
+          "like_count": 8884,
+          "listed_count": 4762,
+          "media_count": 67822,
+          "tweet_count": 76433
+        },
+        "url": "https://t.co/8vJgkHBnTV",
+        "username": "denfaminicogame",
+        "verified": true
+      }
+    ]
+  }
+}

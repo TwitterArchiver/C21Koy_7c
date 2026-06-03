@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1841869034612260865",
+        "3_1841869033928597504"
+      ],
+      "media_source_tweet_id": [
+        "1841869043910819995",
+        "1841869043910819995"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10035838880",
+          "name": "Kill la Kill"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10056081963",
+          "name": "Kill La Kill"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1416100911823212548",
+          "name": "Kill la Kill"
+        }
+      }
+    ],
+    "conversation_id": "1842121833941975359",
+    "created_at": "2024-10-04T08:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-04T09:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842121833941975359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1367132643834306563",
+          "start": 3,
+          "username": "hatotheman"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9ueK3UshVJ",
+          "end": 91,
+          "expanded_url": "https://x.com/hatotheman/status/1841869043910819995/photo/1",
+          "media_key": "3_1841869034612260865",
+          "start": 68,
+          "url": "https://t.co/9ueK3UshVJ"
+        },
+        {
+          "display_url": "pic.x.com/9ueK3UshVJ",
+          "end": 91,
+          "expanded_url": "https://x.com/hatotheman/status/1841869043910819995/photo/1",
+          "media_key": "3_1841869033928597504",
+          "start": 68,
+          "url": "https://t.co/9ueK3UshVJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842121833941975359",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 299
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841869043910819995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hatotheman: Happy 11th Anniversary, Kill la Kill\nキルラキル十一襲年おめでとう https://t.co/9ueK3UshVJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1947,
+        "media_key": "3_1841869034612260865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GY-iINrbAAES712.jpg",
+        "width": 1167
+      },
+      {
+        "height": 1443,
+        "media_key": "3_1841869033928597504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GY-iILIbIAAlMbC.jpg",
+        "width": 912
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841869034612260865",
+            "3_1841869033928597504"
+          ],
+          "media_source_tweet_id": [
+            "1841869043910819995",
+            "1841869043910819995"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10035838880",
+              "name": "Kill la Kill"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10056081963",
+              "name": "Kill La Kill"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416100911823212548",
+              "name": "Kill la Kill"
+            }
+          }
+        ],
+        "conversation_id": "1842121833941975359",
+        "created_at": "2024-10-04T08:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T09:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842121833941975359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1367132643834306563",
+              "start": 3,
+              "username": "hatotheman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ueK3UshVJ",
+              "end": 91,
+              "expanded_url": "https://x.com/hatotheman/status/1841869043910819995/photo/1",
+              "media_key": "3_1841869034612260865",
+              "start": 68,
+              "url": "https://t.co/9ueK3UshVJ"
+            },
+            {
+              "display_url": "pic.x.com/9ueK3UshVJ",
+              "end": 91,
+              "expanded_url": "https://x.com/hatotheman/status/1841869043910819995/photo/1",
+              "media_key": "3_1841869033928597504",
+              "start": 68,
+              "url": "https://t.co/9ueK3UshVJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842121833941975359",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 299
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841869043910819995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hatotheman: Happy 11th Anniversary, Kill la Kill\nキルラキル十一襲年おめでとう https://t.co/9ueK3UshVJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841869034612260865",
+            "3_1841869033928597504"
+          ]
+        },
+        "author_id": "1367132643834306563",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10035838880",
+              "name": "Kill la Kill"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10056081963",
+              "name": "Kill La Kill"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416100911823212548",
+              "name": "Kill la Kill"
+            }
+          }
+        ],
+        "conversation_id": "1841869043910819995",
+        "created_at": "2024-10-03T15:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T16:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841869043910819995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ueK3UshVJ",
+              "end": 75,
+              "expanded_url": "https://x.com/hatotheman/status/1841869043910819995/photo/1",
+              "media_key": "3_1841869034612260865",
+              "start": 52,
+              "url": "https://t.co/9ueK3UshVJ"
+            },
+            {
+              "display_url": "pic.x.com/9ueK3UshVJ",
+              "end": 75,
+              "expanded_url": "https://x.com/hatotheman/status/1841869043910819995/photo/1",
+              "media_key": "3_1841869033928597504",
+              "start": 52,
+              "url": "https://t.co/9ueK3UshVJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841869043910819995",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 286,
+          "impression_count": 19525,
+          "like_count": 1790,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 299
+        },
+        "reply_settings": "everyone",
+        "text": "Happy 11th Anniversary, Kill la Kill\nキルラキル十一襲年おめでとう https://t.co/9ueK3UshVJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫 Bipolar patient/ they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT大概淡坑：COD/MK/恐影 不善表达 但是还算nice 请和我保持联络谢谢 努力尽力活着",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1787381657340883290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839204245423403008/lGS1aYqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 2812,
+          "like_count": 20030,
+          "listed_count": 3,
+          "tweet_count": 16007
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-03T15:20:14.000Z",
+        "description": "2D/3D Illustrator. Drawing mostly anything especially TRIGGER / GAINAX stuff. NSFW: @hatothelewd EN/日本語OK.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 84,
+                "username": "hatothelewd"
+              }
+            ]
+          }
+        },
+        "id": "1367132643834306563",
+        "name": "はとまん / COMMISSIONS CLOSED",
+        "pinned_tweet_id": "1815805325842252126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819786664236998656/PVZ9tjOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11969,
+          "following_count": 252,
+          "like_count": 24234,
+          "listed_count": 36,
+          "tweet_count": 12386
+        },
+        "username": "hatotheman",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953795761713426432"
+      ],
+      "media_source_tweet_id": [
+        "1953795767220539822"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      }
+    ],
+    "conversation_id": "1954055473193529532",
+    "created_at": "2025-08-09T05:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T06:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954055473193529532"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 63,
+          "normalized_text": "umamusme",
+          "probability": 0.5186,
+          "start": 56,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 64,
+          "start": 55,
+          "tag": "umamusme"
+        },
+        {
+          "end": 72,
+          "start": 65,
+          "tag": "vodsca"
+        },
+        {
+          "end": 77,
+          "start": 73,
+          "tag": "ウマ娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1930461307050045440",
+          "start": 3,
+          "username": "foxszns"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y07RwM5dRB",
+          "end": 101,
+          "expanded_url": "https://x.com/foxszns/status/1953795767220539822/photo/1",
+          "media_key": "3_1953795761713426432",
+          "start": 78,
+          "url": "https://t.co/Y07RwM5dRB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954055473193529532",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1721
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953795767220539822",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @foxszns: that rival ur lowkey in love with or wtv\n\n#umamusme #vodsca #ウマ娘 https://t.co/Y07RwM5dRB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1421,
+        "media_key": "3_1953795761713426432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx1G5MSXsAAp_vA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953795761713426432"
+          ],
+          "media_source_tweet_id": [
+            "1953795767220539822"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "1954055473193529532",
+        "created_at": "2025-08-09T05:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T06:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954055473193529532"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 63,
+              "normalized_text": "umamusme",
+              "probability": 0.5186,
+              "start": 56,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 55,
+              "tag": "umamusme"
+            },
+            {
+              "end": 72,
+              "start": 65,
+              "tag": "vodsca"
+            },
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "ウマ娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1930461307050045440",
+              "start": 3,
+              "username": "foxszns"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y07RwM5dRB",
+              "end": 101,
+              "expanded_url": "https://x.com/foxszns/status/1953795767220539822/photo/1",
+              "media_key": "3_1953795761713426432",
+              "start": 78,
+              "url": "https://t.co/Y07RwM5dRB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954055473193529532",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1721
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953795767220539822",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @foxszns: that rival ur lowkey in love with or wtv\n\n#umamusme #vodsca #ウマ娘 https://t.co/Y07RwM5dRB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953795761713426432"
+          ]
+        },
+        "author_id": "1930461307050045440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "1953795767220539822",
+        "created_at": "2025-08-08T12:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T13:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953795767220539822"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "umamusme",
+              "probability": 0.6171,
+              "start": 43,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 42,
+              "tag": "umamusme"
+            },
+            {
+              "end": 59,
+              "start": 52,
+              "tag": "vodsca"
+            },
+            {
+              "end": 64,
+              "start": 60,
+              "tag": "ウマ娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y07RwM5dRB",
+              "end": 88,
+              "expanded_url": "https://x.com/foxszns/status/1953795767220539822/photo/1",
+              "media_key": "3_1953795761713426432",
+              "start": 65,
+              "url": "https://t.co/Y07RwM5dRB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953795767220539822",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 928,
+          "impression_count": 79717,
+          "like_count": 9531,
+          "quote_count": 8,
+          "reply_count": 14,
+          "retweet_count": 1721
+        },
+        "reply_settings": "everyone",
+        "text": "that rival ur lowkey in love with or wtv\n\n#umamusme #vodsca #ウマ娘 https://t.co/Y07RwM5dRB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953486936422912000/qZREob8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 3042,
+          "like_count": 23991,
+          "listed_count": 3,
+          "media_count": 1504,
+          "tweet_count": 23058
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-05T03:08:06.000Z",
+        "description": "who is up pokeing their taki? (14- dnf please + NSFW DNI) 🧪🌴🧪🌴🧪🌴🧪🌴🧪🌴🧪🌴🧪 priv @tachyonbian try ur luck",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "tachyonbian"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "poke-taki.straw.page",
+                "end": 23,
+                "expanded_url": "https://poke-taki.straw.page/",
+                "start": 0,
+                "url": "https://t.co/jOhH4g6YwM"
+              }
+            ]
+          }
+        },
+        "id": "1930461307050045440",
+        "location": "⚢ 6TEEN 🇺🇦 he/any",
+        "name": "nicky 🫀",
+        "pinned_tweet_id": "1952942956476023094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953456067674820608/xnYhqc_i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1538,
+          "following_count": 205,
+          "like_count": 6144,
+          "listed_count": 3,
+          "media_count": 443,
+          "tweet_count": 5549
+        },
+        "url": "https://t.co/jOhH4g6YwM",
+        "username": "foxszns",
+        "verified": false
+      }
+    ]
+  }
+}

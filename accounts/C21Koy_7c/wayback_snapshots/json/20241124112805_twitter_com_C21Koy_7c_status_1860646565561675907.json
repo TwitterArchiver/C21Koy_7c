@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1860610784684093441"
+      ],
+      "media_source_tweet_id": [
+        "1860611582734258677"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1860646565561675907",
+    "created_at": "2024-11-24T11:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T12:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860646565561675907"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 45,
+          "normalized_text": "Swansea",
+          "probability": 0.4691,
+          "start": 39,
+          "type": "Place"
+        },
+        {
+          "end": 57,
+          "normalized_text": "Daisuke",
+          "probability": 0.6355,
+          "start": 51,
+          "type": "Person"
+        },
+        {
+          "end": 71,
+          "normalized_text": "Jimmy",
+          "probability": 0.6855,
+          "start": 67,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 98,
+          "start": 85,
+          "tag": "Mouthwashing"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1068910049244803072",
+          "start": 3,
+          "username": "Joetastic_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aVvQouAxZ1",
+          "end": 122,
+          "expanded_url": "https://x.com/Joetastic_/status/1860611582734258677/video/1",
+          "media_key": "7_1860610784684093441",
+          "start": 99,
+          "url": "https://t.co/aVvQouAxZ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860646565561675907",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 373
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860611582734258677",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Joetastic_: (CW: Implied Assault)\n\nSwansea and Daisuke catches Jimmy red handed. #Mouthwashing https://t.co/aVvQouAxZ1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 55616,
+        "height": 1440,
+        "media_key": "7_1860610784684093441",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1860610784684093441/pu/img/T_-yUdkRHsMSw3D7.jpg",
+        "public_metrics": {
+          "view_count": 17273
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1860610784684093441/pu/vid/avc1/1280x720/BycJfhhnssav0Qfg.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1860610784684093441/pu/pl/VN5dN1YnqkJLLdX4.m3u8?tag=14"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1860610784684093441/pu/vid/avc1/1920x1080/jP2fs21NiFLHMW3W.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1860610784684093441/pu/vid/avc1/640x360/nhX_7QIfHeb2JUBK.mp4?tag=14"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1860610784684093441/pu/vid/avc1/480x270/NYkuNQAu_bsJphew.mp4?tag=14"
+          }
+        ],
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1860610784684093441"
+          ],
+          "media_source_tweet_id": [
+            "1860611582734258677"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1860646565561675907",
+        "created_at": "2024-11-24T11:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T12:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860646565561675907"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "Swansea",
+              "probability": 0.4691,
+              "start": 39,
+              "type": "Place"
+            },
+            {
+              "end": 57,
+              "normalized_text": "Daisuke",
+              "probability": 0.6355,
+              "start": 51,
+              "type": "Person"
+            },
+            {
+              "end": 71,
+              "normalized_text": "Jimmy",
+              "probability": 0.6855,
+              "start": 67,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 85,
+              "tag": "Mouthwashing"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1068910049244803072",
+              "start": 3,
+              "username": "Joetastic_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aVvQouAxZ1",
+              "end": 122,
+              "expanded_url": "https://x.com/Joetastic_/status/1860611582734258677/video/1",
+              "media_key": "7_1860610784684093441",
+              "start": 99,
+              "url": "https://t.co/aVvQouAxZ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860646565561675907",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 373
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860611582734258677",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Joetastic_: (CW: Implied Assault)\n\nSwansea and Daisuke catches Jimmy red handed. #Mouthwashing https://t.co/aVvQouAxZ1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1860610784684093441"
+          ]
+        },
+        "author_id": "1068910049244803072",
+        "conversation_id": "1860611582734258677",
+        "created_at": "2024-11-24T09:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T10:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860611582734258677"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "Swansea",
+              "probability": 0.4491,
+              "start": 23,
+              "type": "Place"
+            },
+            {
+              "end": 41,
+              "normalized_text": "Daisuke",
+              "probability": 0.5804,
+              "start": 35,
+              "type": "Person"
+            },
+            {
+              "end": 55,
+              "normalized_text": "Jimmy",
+              "probability": 0.6218,
+              "start": 51,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 69,
+              "tag": "Mouthwashing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aVvQouAxZ1",
+              "end": 106,
+              "expanded_url": "https://x.com/Joetastic_/status/1860611582734258677/video/1",
+              "media_key": "7_1860610784684093441",
+              "start": 83,
+              "url": "https://t.co/aVvQouAxZ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860611582734258677",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 423,
+          "impression_count": 29009,
+          "like_count": 2155,
+          "quote_count": 33,
+          "reply_count": 33,
+          "retweet_count": 373
+        },
+        "reply_settings": "everyone",
+        "text": "(CW: Implied Assault)\n\nSwansea and Daisuke catches Jimmy red handed. #Mouthwashing https://t.co/aVvQouAxZ1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫bi🏳️‍🌈/ they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人女 会突然产出想法 GB GL大于BL BG 20+",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 2904,
+          "like_count": 20735,
+          "listed_count": 2,
+          "tweet_count": 18207
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-01T16:49:49.000Z",
+        "description": "Commissions: Open Rank 1 @beatsaber Mapper: https://t.co/yamURGptGV | Into #SIGNALIS & #Mouthwashing brainrot | DM for commission enquires | (Pfp by @omnlet)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 84,
+                "start": 75,
+                "tag": "SIGNALIS"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "tag": "Mouthwashing"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "beatsaber"
+              },
+              {
+                "end": 156,
+                "start": 149,
+                "username": "omnlet"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "beatsaver.com/mappers",
+                "end": 67,
+                "expanded_url": "http://beatsaver.com/mappers",
+                "start": 44,
+                "url": "https://t.co/yamURGptGV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Joetastic",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Joetastic",
+                "start": 0,
+                "url": "https://t.co/mhCdUH5Rq3"
+              }
+            ]
+          }
+        },
+        "id": "1068910049244803072",
+        "location": "Singapore 🇸🇬 ",
+        "name": "Joetastic #Mouthwashing brainrot era👄🧼",
+        "pinned_tweet_id": "1846819172573151472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847835450897256448/874CeVoq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34237,
+          "following_count": 1742,
+          "like_count": 80937,
+          "listed_count": 45,
+          "tweet_count": 14945
+        },
+        "url": "https://t.co/mhCdUH5Rq3",
+        "username": "Joetastic_",
+        "verified": true
+      }
+    ]
+  }
+}

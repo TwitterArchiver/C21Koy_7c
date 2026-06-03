@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961078138621820928",
+        "3_1961078138638622720"
+      ],
+      "media_source_tweet_id": [
+        "1961078145966113176",
+        "1961078145966113176"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1961796786089263520",
+    "created_at": "2025-08-30T14:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T15:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961796786089263520"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "franbow",
+          "probability": 0.784,
+          "start": 23,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 22,
+          "tag": "franbow"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1402687501555404808",
+          "start": 3,
+          "username": "musapylsa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6fvb1HHaLS",
+          "end": 54,
+          "expanded_url": "https://x.com/musapylsa/status/1961078145966113176/photo/1",
+          "media_key": "3_1961078138621820928",
+          "start": 31,
+          "url": "https://t.co/6fvb1HHaLS"
+        },
+        {
+          "display_url": "pic.x.com/6fvb1HHaLS",
+          "end": 54,
+          "expanded_url": "https://x.com/musapylsa/status/1961078145966113176/photo/1",
+          "media_key": "3_1961078138638622720",
+          "start": 31,
+          "url": "https://t.co/6fvb1HHaLS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961796786089263520",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7501
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961078145966113176",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @musapylsa: omg hi #franbow https://t.co/6fvb1HHaLS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_1961078138621820928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzcmLUVWgAAtIaJ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1560,
+        "media_key": "3_1961078138638622720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzcmLUZW4AAAySY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961078138621820928",
+            "3_1961078138638622720"
+          ],
+          "media_source_tweet_id": [
+            "1961078145966113176",
+            "1961078145966113176"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1961796786089263520",
+        "created_at": "2025-08-30T14:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T15:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961796786089263520"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "franbow",
+              "probability": 0.784,
+              "start": 23,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 22,
+              "tag": "franbow"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1402687501555404808",
+              "start": 3,
+              "username": "musapylsa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6fvb1HHaLS",
+              "end": 54,
+              "expanded_url": "https://x.com/musapylsa/status/1961078145966113176/photo/1",
+              "media_key": "3_1961078138621820928",
+              "start": 31,
+              "url": "https://t.co/6fvb1HHaLS"
+            },
+            {
+              "display_url": "pic.x.com/6fvb1HHaLS",
+              "end": 54,
+              "expanded_url": "https://x.com/musapylsa/status/1961078145966113176/photo/1",
+              "media_key": "3_1961078138638622720",
+              "start": 31,
+              "url": "https://t.co/6fvb1HHaLS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961796786089263520",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7501
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961078145966113176",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @musapylsa: omg hi #franbow https://t.co/6fvb1HHaLS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961078138621820928",
+            "3_1961078138638622720"
+          ]
+        },
+        "author_id": "1402687501555404808",
+        "conversation_id": "1961078145966113176",
+        "created_at": "2025-08-28T14:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T15:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961078145966113176"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "franbow",
+              "probability": 0.639,
+              "start": 8,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 7,
+              "tag": "franbow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6fvb1HHaLS",
+              "end": 39,
+              "expanded_url": "https://x.com/musapylsa/status/1961078145966113176/photo/1",
+              "media_key": "3_1961078138621820928",
+              "start": 16,
+              "url": "https://t.co/6fvb1HHaLS"
+            },
+            {
+              "display_url": "pic.x.com/6fvb1HHaLS",
+              "end": 39,
+              "expanded_url": "https://x.com/musapylsa/status/1961078145966113176/photo/1",
+              "media_key": "3_1961078138638622720",
+              "start": 16,
+              "url": "https://t.co/6fvb1HHaLS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961078145966113176",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4731,
+          "impression_count": 473652,
+          "like_count": 60478,
+          "quote_count": 50,
+          "reply_count": 35,
+          "retweet_count": 7501
+        },
+        "reply_settings": "everyone",
+        "text": "omg hi #franbow https://t.co/6fvb1HHaLS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953486936422912000/qZREob8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 3053,
+          "like_count": 24188,
+          "listed_count": 6,
+          "media_count": 1519,
+          "tweet_count": 23221
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-09T18:02:31.000Z",
+        "description": "she/her | rus/eng | 18+ | comms open & other social media in link",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hipolink.me/musa.pylsa",
+                "end": 23,
+                "expanded_url": "http://hipolink.me/musa.pylsa",
+                "start": 0,
+                "url": "https://t.co/uCiLQAamWC"
+              }
+            ]
+          }
+        },
+        "id": "1402687501555404808",
+        "name": "маша мышка!🪷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879543313776197632/ZV19sMkT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7557,
+          "following_count": 21,
+          "like_count": 456,
+          "listed_count": 10,
+          "media_count": 154,
+          "tweet_count": 171
+        },
+        "url": "https://t.co/uCiLQAamWC",
+        "username": "musapylsa",
+        "verified": false
+      }
+    ]
+  }
+}

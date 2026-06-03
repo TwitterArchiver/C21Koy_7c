@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912555074498490376"
+      ],
+      "media_source_tweet_id": [
+        "1912555085638619486"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1912624653488795651",
+    "created_at": "2025-04-16T21:50:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T22:50:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912624653488795651"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 27,
+          "tag": "shtwt"
+        },
+        {
+          "end": 37,
+          "start": 34,
+          "tag": "sh"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1452123941686976519",
+          "start": 3,
+          "username": "C21Koy_7c"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WL1J1m5jfk",
+          "end": 61,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1912555085638619486/photo/1",
+          "media_key": "3_1912555074498490376",
+          "start": 38,
+          "url": "https://t.co/WL1J1m5jfk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912624653488795651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912555085638619486",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @C21Koy_7c: 库存，某一天\nsh⚠️\n#shtwt #sh https://t.co/WL1J1m5jfk"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1912624653488795651].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1912624653488795651",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1912624653488795651"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1912555074498490376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GorCtQTacAgiR6O.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912555074498490376"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1912555085638619486",
+        "created_at": "2025-04-16T17:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T18:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912555085638619486"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 12,
+              "tag": "shtwt"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "sh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WL1J1m5jfk",
+              "end": 46,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1912555085638619486/photo/1",
+              "media_key": "3_1912555074498490376",
+              "start": 23,
+              "url": "https://t.co/WL1J1m5jfk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912555085638619486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "库存，某一天\nsh⚠️\n#shtwt #sh https://t.co/WL1J1m5jfk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我yan｜肉鸦都可以",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912422021767524352/6G_fWcrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 2999,
+          "like_count": 22734,
+          "listed_count": 3,
+          "media_count": 1348,
+          "tweet_count": 21640
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,531 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1843620261016547334"
+      ],
+      "media_source_tweet_id": [
+        "1843620289797927018"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1022485839232655360",
+          "name": "Transformers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1022485839232655360",
+          "name": "Transformers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1843640287404626154",
+    "created_at": "2024-10-08T13:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-08T14:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843640287404626154"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 14,
+          "tag": "Maccadam"
+        },
+        {
+          "end": 34,
+          "start": 24,
+          "tag": "maccadams"
+        },
+        {
+          "end": 48,
+          "start": 35,
+          "tag": "transformers"
+        },
+        {
+          "end": 65,
+          "start": 50,
+          "tag": "TransformerOne"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "970281502989783041",
+          "start": 3,
+          "username": "9sa9n9ku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xlfoL76gr5",
+          "end": 112,
+          "expanded_url": "https://x.com/9sa9n9ku/status/1843620289797927018/video/1",
+          "media_key": "7_1843620261016547334",
+          "start": 89,
+          "url": "https://t.co/xlfoL76gr5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843640287404626154",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 115
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843620289797927018",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @9sa9n9ku: #Maccadam #maccadams #transformers  #TransformerOne \n《宿舍停水了，給我貼紙的好心人說來他那洗》 https://t.co/xlfoL76gr5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17716,
+        "height": 720,
+        "media_key": "7_1843620261016547334",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1843620261016547334/pu/img/BcaVBFVMgS88AezD.jpg",
+        "public_metrics": {
+          "view_count": 5756
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1843620261016547334/pu/vid/avc1/480x270/VumgyFDkTGPcL9Mk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1843620261016547334/pu/vid/avc1/640x360/42tosm3r9x9sIPiX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1843620261016547334/pu/vid/avc1/1280x720/PErWd8TjfvDxfaq8.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1843620261016547334/pu/pl/tP3MI5kMdVbzYYgu.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1843620261016547334"
+          ],
+          "media_source_tweet_id": [
+            "1843620289797927018"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1022485839232655360",
+              "name": "Transformers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1022485839232655360",
+              "name": "Transformers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1843640287404626154",
+        "created_at": "2024-10-08T13:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T14:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843640287404626154"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 14,
+              "tag": "Maccadam"
+            },
+            {
+              "end": 34,
+              "start": 24,
+              "tag": "maccadams"
+            },
+            {
+              "end": 48,
+              "start": 35,
+              "tag": "transformers"
+            },
+            {
+              "end": 65,
+              "start": 50,
+              "tag": "TransformerOne"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "970281502989783041",
+              "start": 3,
+              "username": "9sa9n9ku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xlfoL76gr5",
+              "end": 112,
+              "expanded_url": "https://x.com/9sa9n9ku/status/1843620289797927018/video/1",
+              "media_key": "7_1843620261016547334",
+              "start": 89,
+              "url": "https://t.co/xlfoL76gr5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843640287404626154",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 115
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843620289797927018",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @9sa9n9ku: #Maccadam #maccadams #transformers  #TransformerOne \n《宿舍停水了，給我貼紙的好心人說來他那洗》 https://t.co/xlfoL76gr5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1843620261016547334"
+          ]
+        },
+        "author_id": "970281502989783041",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1022485839232655360",
+              "name": "Transformers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1022485839232655360",
+              "name": "Transformers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1843620289797927018",
+        "created_at": "2024-10-08T11:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T12:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843620289797927018"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "Maccadam"
+            },
+            {
+              "end": 20,
+              "start": 10,
+              "tag": "maccadams"
+            },
+            {
+              "end": 34,
+              "start": 21,
+              "tag": "transformers"
+            },
+            {
+              "end": 51,
+              "start": 36,
+              "tag": "TransformerOne"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xlfoL76gr5",
+              "end": 98,
+              "expanded_url": "https://x.com/9sa9n9ku/status/1843620289797927018/video/1",
+              "media_key": "7_1843620261016547334",
+              "start": 75,
+              "url": "https://t.co/xlfoL76gr5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843620289797927018",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 11834,
+          "like_count": 583,
+          "quote_count": 7,
+          "reply_count": 4,
+          "retweet_count": 115
+        },
+        "reply_settings": "everyone",
+        "text": "#Maccadam #maccadams #transformers  #TransformerOne \n《宿舍停水了，給我貼紙的好心人說來他那洗》 https://t.co/xlfoL76gr5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫 Bipolar patient/ they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT大概淡坑：COD/MK/恐影 不善表达 但是还算nice 请和我保持联络谢谢 努力尽力活着 我没恶意 我鼓起很大勇气才会评论你 因为我想友善的和你互动",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1787381657340883290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842795137925255168/Z-0bJ2Zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 2818,
+          "like_count": 20126,
+          "listed_count": 2,
+          "tweet_count": 16180
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-04T12:55:12.000Z",
+        "description": "🔞NSFW，GORE，腐丨ENG/日本語/中文，🚫禁止轉載、AI學習。🚫AI。🚫Don't repost my art.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/jJFey3tQo3d5…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/jJFey3tQo3d5jgH9ELzPncLrKHj1",
+                "start": 0,
+                "url": "https://t.co/ggnALjv62r"
+              }
+            ]
+          }
+        },
+        "id": "970281502989783041",
+        "location": "super雜食、地雷無し",
+        "name": "999胃痛戰士💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754886381959344128/PiNbrZs7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53894,
+          "following_count": 454,
+          "like_count": 4533,
+          "listed_count": 163,
+          "tweet_count": 3858
+        },
+        "url": "https://t.co/ggnALjv62r",
+        "username": "9sa9n9ku",
+        "verified": false
+      }
+    ]
+  }
+}

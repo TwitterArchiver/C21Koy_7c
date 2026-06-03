@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952769967264546821"
+      ],
+      "media_source_tweet_id": [
+        "1952769998579245558"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1952872027444171069",
+    "created_at": "2025-08-05T23:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T00:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952872027444171069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1463428721218449409",
+          "start": 3,
+          "username": "Oct_sg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WUt1E48f4I",
+          "end": 38,
+          "expanded_url": "https://x.com/Oct_sg/status/1952769998579245558/photo/1",
+          "media_key": "3_1952769967264546821",
+          "start": 15,
+          "url": "https://t.co/WUt1E48f4I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952872027444171069",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 591
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952769998579245558",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Oct_sg: 🟥🟦 https://t.co/WUt1E48f4I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2037,
+        "media_key": "3_1952769967264546821",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxmh8GLawAUCFzb.jpg",
+        "width": 1932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952769967264546821"
+          ],
+          "media_source_tweet_id": [
+            "1952769998579245558"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1952872027444171069",
+        "created_at": "2025-08-05T23:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T00:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952872027444171069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1463428721218449409",
+              "start": 3,
+              "username": "Oct_sg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WUt1E48f4I",
+              "end": 38,
+              "expanded_url": "https://x.com/Oct_sg/status/1952769998579245558/photo/1",
+              "media_key": "3_1952769967264546821",
+              "start": 15,
+              "url": "https://t.co/WUt1E48f4I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952872027444171069",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 591
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952769998579245558",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Oct_sg: 🟥🟦 https://t.co/WUt1E48f4I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952769967264546821"
+          ]
+        },
+        "author_id": "1463428721218449409",
+        "conversation_id": "1952769998579245558",
+        "created_at": "2025-08-05T16:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T17:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952769998579245558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WUt1E48f4I",
+              "end": 26,
+              "expanded_url": "https://x.com/Oct_sg/status/1952769998579245558/photo/1",
+              "media_key": "3_1952769967264546821",
+              "start": 3,
+              "url": "https://t.co/WUt1E48f4I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952769998579245558",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 619,
+          "impression_count": 62275,
+          "like_count": 6983,
+          "quote_count": 15,
+          "reply_count": 3,
+          "retweet_count": 591
+        },
+        "reply_settings": "everyone",
+        "text": "🟥🟦 https://t.co/WUt1E48f4I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947781415615025152/-8pHQpZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 3042,
+          "like_count": 23946,
+          "listed_count": 3,
+          "media_count": 1498,
+          "tweet_count": 23011
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-24T08:46:35.000Z",
+        "description": "🦑🎮️18↑/メンコ男🟥🟦だいすき/無断転載使用厳禁⚠️Reuploading is prohibited⚠️/🔞→@Oct_pay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "Oct_pay"
+              }
+            ]
+          }
+        },
+        "id": "1463428721218449409",
+        "location": "描くのも見るのも左右ポジション完全固定",
+        "name": "たこやき",
+        "pinned_tweet_id": "1504035910018473985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1463435221140111360/R08RdHHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19026,
+          "following_count": 16,
+          "like_count": 1354,
+          "listed_count": 31,
+          "media_count": 62,
+          "tweet_count": 785
+        },
+        "username": "Oct_sg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Sydney",
+          "id": "855109903752454145",
+          "name": "Sydney"
+        }
+      }
+    ],
+    "conversation_id": "1852354942524363262",
+    "created_at": "2024-11-01T14:20:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-01T15:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852354942524363262"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 116,
+          "normalized_text": "Sydney",
+          "probability": 0.6251,
+          "start": 111,
+          "type": "Place"
+        },
+        {
+          "end": 130,
+          "normalized_text": "Diale",
+          "probability": 0.5999,
+          "start": 126,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 15,
+          "tag": "dol"
+        },
+        {
+          "end": 37,
+          "start": 20,
+          "tag": "DegreesofLewdity"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1101412959161470977",
+          "start": 3,
+          "username": "dellphie_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852354942524363262",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852036418492862710",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dellphie_: #dol #DegreesofLewdity \n\"They said they didn't come to the party!\"\n---\nHappy Halloweeeeeen with Sydney(iw) and Diale https:/…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Sydney",
+              "id": "855109903752454145",
+              "name": "Sydney"
+            }
+          }
+        ],
+        "conversation_id": "1852354942524363262",
+        "created_at": "2024-11-01T14:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T15:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852354942524363262"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 116,
+              "normalized_text": "Sydney",
+              "probability": 0.6251,
+              "start": 111,
+              "type": "Place"
+            },
+            {
+              "end": 130,
+              "normalized_text": "Diale",
+              "probability": 0.5999,
+              "start": 126,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "dol"
+            },
+            {
+              "end": 37,
+              "start": 20,
+              "tag": "DegreesofLewdity"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1101412959161470977",
+              "start": 3,
+              "username": "dellphie_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852354942524363262",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852036418492862710",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dellphie_: #dol #DegreesofLewdity \n\"They said they didn't come to the party!\"\n---\nHappy Halloweeeeeen with Sydney(iw) and Diale https:/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852035874726514688"
+          ]
+        },
+        "author_id": "1101412959161470977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Sydney",
+              "id": "855109903752454145",
+              "name": "Sydney"
+            }
+          }
+        ],
+        "conversation_id": "1852036418492862710",
+        "created_at": "2024-10-31T17:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T18:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852036418492862710"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 101,
+              "normalized_text": "Sydney",
+              "probability": 0.6665,
+              "start": 96,
+              "type": "Place"
+            },
+            {
+              "end": 115,
+              "normalized_text": "Diale",
+              "probability": 0.6032,
+              "start": 111,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "dol"
+            },
+            {
+              "end": 22,
+              "start": 5,
+              "tag": "DegreesofLewdity"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/110kgZgXkH",
+              "end": 140,
+              "expanded_url": "https://x.com/dellphie_/status/1852036418492862710/photo/1",
+              "media_key": "3_1852035874726514688",
+              "start": 117,
+              "url": "https://t.co/110kgZgXkH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852036418492862710",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1570,
+          "like_count": 115,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "#dol #DegreesofLewdity \n\"They said they didn't come to the party!\"\n---\nHappy Halloweeeeeen with Sydney(iw) and Diale https://t.co/110kgZgXkH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫bi🏳️‍🌈/ they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT大概淡坑：COD/MK/恐影 不善表达 但是还算可以 请和我保持联络谢谢 尽力活着 我没恶意 我鼓起很大勇气才会评论你 lgbt+ GB GL大于BL BG 20+",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1850400060410093573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849238518457143296/KSYxwv47_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 2864,
+          "like_count": 20438,
+          "listed_count": 2,
+          "tweet_count": 17565
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-01T09:24:47.000Z",
+        "description": "dol/ffxiv/oc/coc 中文/EN/日本語/ID",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dellphie.mmm.page",
+                "end": 23,
+                "expanded_url": "https://dellphie.mmm.page/",
+                "start": 0,
+                "url": "https://t.co/tIFLhSeKAU"
+              }
+            ]
+          }
+        },
+        "id": "1101412959161470977",
+        "location": "🚫unauthorized copy",
+        "name": "羚雀",
+        "pinned_tweet_id": "1812704524580294965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773141500593070080/tbsWOHn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 102,
+          "like_count": 4279,
+          "listed_count": 0,
+          "tweet_count": 2603
+        },
+        "url": "https://t.co/tIFLhSeKAU",
+        "username": "dellphie_",
+        "verified": false
+      }
+    ]
+  }
+}

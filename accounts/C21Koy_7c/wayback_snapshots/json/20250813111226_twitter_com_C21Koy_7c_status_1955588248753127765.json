@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955554984885653504"
+      ],
+      "media_source_tweet_id": [
+        "1955554991026077792"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1955588248753127765",
+    "created_at": "2025-08-13T11:12:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T12:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955588248753127765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1772125613241032704",
+          "start": 3,
+          "username": "gemudamgom"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CrlWj44KqM",
+          "end": 47,
+          "expanded_url": "https://x.com/gemudamgom/status/1955554991026077792/photo/1",
+          "media_key": "3_1955554984885653504",
+          "start": 24,
+          "url": "https://t.co/CrlWj44KqM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955588248753127765",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955554991026077792",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gemudamgom: 줏대있게 살자 https://t.co/CrlWj44KqM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1108,
+        "media_key": "3_1955554984885653504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyOG5dTakAAUCYc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955554984885653504"
+          ],
+          "media_source_tweet_id": [
+            "1955554991026077792"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1955588248753127765",
+        "created_at": "2025-08-13T11:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T12:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955588248753127765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1772125613241032704",
+              "start": 3,
+              "username": "gemudamgom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CrlWj44KqM",
+              "end": 47,
+              "expanded_url": "https://x.com/gemudamgom/status/1955554991026077792/photo/1",
+              "media_key": "3_1955554984885653504",
+              "start": 24,
+              "url": "https://t.co/CrlWj44KqM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955588248753127765",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955554991026077792",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gemudamgom: 줏대있게 살자 https://t.co/CrlWj44KqM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955554984885653504"
+          ]
+        },
+        "author_id": "1772125613241032704",
+        "conversation_id": "1955554991026077792",
+        "created_at": "2025-08-13T09:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T10:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955554991026077792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CrlWj44KqM",
+              "end": 31,
+              "expanded_url": "https://x.com/gemudamgom/status/1955554991026077792/photo/1",
+              "media_key": "3_1955554984885653504",
+              "start": 8,
+              "url": "https://t.co/CrlWj44KqM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955554991026077792",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 638,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "줏대있게 살자 https://t.co/CrlWj44KqM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953486936422912000/qZREob8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 3049,
+          "like_count": 24051,
+          "listed_count": 3,
+          "media_count": 1508,
+          "tweet_count": 23096
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-25T04:57:38.000Z",
+        "description": "오세요 발더스게이트",
+        "id": "1772125613241032704",
+        "name": "neckniku",
+        "pinned_tweet_id": "1853639919115321541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921217465666654208/GUb7pQmp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 146,
+          "like_count": 28483,
+          "listed_count": 2,
+          "media_count": 1227,
+          "tweet_count": 20111
+        },
+        "username": "gemudamgom",
+        "verified": false
+      }
+    ]
+  }
+}

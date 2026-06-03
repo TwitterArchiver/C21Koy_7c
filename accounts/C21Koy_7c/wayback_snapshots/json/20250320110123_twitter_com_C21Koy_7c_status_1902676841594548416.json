@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1902019976741228544"
+      ],
+      "media_source_tweet_id": [
+        "1902019979769270606"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1902676841594548416",
+    "created_at": "2025-03-20T11:01:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T12:01:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902676841594548416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876309824654172161",
+          "start": 3,
+          "username": "aspdnotes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8ORGc7if0g",
+          "end": 38,
+          "expanded_url": "https://x.com/aspdnotes/status/1902019979769270606/photo/1",
+          "media_key": "3_1902019976741228544",
+          "start": 15,
+          "url": "https://t.co/8ORGc7if0g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902676841594548416",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4418
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902019979769270606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aspdnotes: https://t.co/8ORGc7if0g"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1902676841594548416].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1902676841594548416",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1902676841594548416"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1221,
+        "media_key": "3_1902019976741228544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmVVF21bkAAUD47.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902019976741228544"
+          ]
+        },
+        "author_id": "1876309824654172161",
+        "conversation_id": "1902019979769270606",
+        "created_at": "2025-03-18T15:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T16:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902019979769270606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ORGc7if0g",
+              "end": 23,
+              "expanded_url": "https://x.com/aspdnotes/status/1902019979769270606/photo/1",
+              "media_key": "3_1902019976741228544",
+              "start": 0,
+              "url": "https://t.co/8ORGc7if0g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902019979769270606",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4279,
+          "impression_count": 1084601,
+          "like_count": 32662,
+          "quote_count": 252,
+          "reply_count": 96,
+          "retweet_count": 4418
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8ORGc7if0g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 但是还算可以 懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890691451258126336/lPqKitsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 2993,
+          "like_count": 22257,
+          "listed_count": 3,
+          "media_count": 1305,
+          "tweet_count": 21135
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-06T16:48:27.000Z",
+        "description": "your stalker 🖤",
+        "id": "1876309824654172161",
+        "name": "ً",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881538871260856320/eIyeU9qs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5215,
+          "following_count": 2,
+          "like_count": 160,
+          "listed_count": 8,
+          "media_count": 51,
+          "tweet_count": 51
+        },
+        "username": "aspdnotes",
+        "verified": false
+      }
+    ]
+  }
+}

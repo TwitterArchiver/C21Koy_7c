@@ -1,0 +1,545 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1927573933919698944"
+      ],
+      "media_source_tweet_id": [
+        "1927574153894211587"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "1927732084677779468",
+    "created_at": "2025-05-28T14:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T15:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927732084677779468"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "Dante",
+          "probability": 0.8145,
+          "start": 16,
+          "type": "Person"
+        },
+        {
+          "end": 41,
+          "normalized_text": "Vergil",
+          "probability": 0.42,
+          "start": 36,
+          "type": "Person"
+        },
+        {
+          "end": 46,
+          "normalized_text": "DMC",
+          "probability": 0.6925,
+          "start": 44,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 43,
+          "tag": "DMC"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1612632446184611840",
+          "start": 3,
+          "username": "shikii5666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HvGxS3zsJw",
+          "end": 71,
+          "expanded_url": "https://x.com/shikii5666/status/1927574153894211587/video/1",
+          "media_key": "13_1927573933919698944",
+          "start": 48,
+          "url": "https://t.co/HvGxS3zsJw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927732084677779468",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 206
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927574153894211587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shikii5666: Dante on his way to Vergil\n#DMC https://t.co/HvGxS3zsJw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8708,
+        "height": 1378,
+        "media_key": "13_1927573933919698944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1927573933919698944/img/ImDA8sUNG8kO7b1V.jpg",
+        "public_metrics": {
+          "view_count": 3573
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927573933919698944/vid/avc1/320x408/V4b0TJPy_W9LNCHI.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927573933919698944/vid/avc1/480x612/X4ioV6IRObJAaUPw.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927573933919698944/vid/avc1/720x918/N2oKCUa2XpYA9DrT.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1927573933919698944/pl/dDtZzEHvHr3Gdtz4.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1927573933919698944"
+          ],
+          "media_source_tweet_id": [
+            "1927574153894211587"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1927732084677779468",
+        "created_at": "2025-05-28T14:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T15:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927732084677779468"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Dante",
+              "probability": 0.8145,
+              "start": 16,
+              "type": "Person"
+            },
+            {
+              "end": 41,
+              "normalized_text": "Vergil",
+              "probability": 0.42,
+              "start": 36,
+              "type": "Person"
+            },
+            {
+              "end": 46,
+              "normalized_text": "DMC",
+              "probability": 0.6925,
+              "start": 44,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "DMC"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1612632446184611840",
+              "start": 3,
+              "username": "shikii5666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HvGxS3zsJw",
+              "end": 71,
+              "expanded_url": "https://x.com/shikii5666/status/1927574153894211587/video/1",
+              "media_key": "13_1927573933919698944",
+              "start": 48,
+              "url": "https://t.co/HvGxS3zsJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927732084677779468",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 206
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927574153894211587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shikii5666: Dante on his way to Vergil\n#DMC https://t.co/HvGxS3zsJw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1927573933919698944"
+          ]
+        },
+        "author_id": "1612632446184611840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1927574153894211587",
+        "created_at": "2025-05-28T03:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T04:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927574153894211587"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "Dante",
+              "probability": 0.8048,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 25,
+              "normalized_text": "Vergil",
+              "probability": 0.4195,
+              "start": 20,
+              "type": "Person"
+            },
+            {
+              "end": 30,
+              "normalized_text": "DMC",
+              "probability": 0.7034,
+              "start": 28,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "DMC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HvGxS3zsJw",
+              "end": 55,
+              "expanded_url": "https://x.com/shikii5666/status/1927574153894211587/video/1",
+              "media_key": "13_1927573933919698944",
+              "start": 32,
+              "url": "https://t.co/HvGxS3zsJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927574153894211587",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 9376,
+          "like_count": 1283,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 206
+        },
+        "reply_settings": "everyone",
+        "text": "Dante on his way to Vergil\n#DMC https://t.co/HvGxS3zsJw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我yan｜肉鸦都可以 不会外语翻译器OK",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 3016,
+          "like_count": 23195,
+          "listed_count": 3,
+          "media_count": 1414,
+          "tweet_count": 22220
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T02:09:14.000Z",
+        "description": "DMC | no AI 🚫🚫\nnew account🐧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "artstation.com/kiyoshi62",
+                "end": 23,
+                "expanded_url": "https://www.artstation.com/kiyoshi62",
+                "start": 0,
+                "url": "https://t.co/Z2oRWdcMch"
+              }
+            ]
+          }
+        },
+        "id": "1612632446184611840",
+        "location": "Vietnam",
+        "name": "Shiki",
+        "pinned_tweet_id": "1911401499088875602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911393779572985856/GDjpb5qq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 351,
+          "like_count": 1801,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 140
+        },
+        "url": "https://t.co/Z2oRWdcMch",
+        "username": "shikii5666",
+        "verified": false
+      }
+    ]
+  }
+}

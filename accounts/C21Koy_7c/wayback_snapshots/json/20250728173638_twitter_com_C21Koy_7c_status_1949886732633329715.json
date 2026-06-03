@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1949886289630941184",
+        "3_1949886289496723457",
+        "3_1949886289588948992",
+        "3_1949886289567993856"
+      ],
+      "media_source_tweet_id": [
+        "1949886303446979075",
+        "1949886303446979075",
+        "1949886303446979075",
+        "1949886303446979075"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1949886732633329715",
+    "created_at": "2025-07-28T17:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T18:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949886732633329715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1452123941686976519",
+          "start": 3,
+          "username": "C21Koy_7c"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4IlIipTJ4i",
+          "end": 127,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1949886303446979075/video/1",
+          "media_key": "13_1949886289630941184",
+          "start": 104,
+          "url": "https://t.co/4IlIipTJ4i"
+        },
+        {
+          "display_url": "pic.x.com/4IlIipTJ4i",
+          "end": 127,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1949886303446979075/video/1",
+          "media_key": "3_1949886289496723457",
+          "start": 104,
+          "url": "https://t.co/4IlIipTJ4i"
+        },
+        {
+          "display_url": "pic.x.com/4IlIipTJ4i",
+          "end": 127,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1949886303446979075/video/1",
+          "media_key": "3_1949886289588948992",
+          "start": 104,
+          "url": "https://t.co/4IlIipTJ4i"
+        },
+        {
+          "display_url": "pic.x.com/4IlIipTJ4i",
+          "end": 127,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1949886303446979075/video/1",
+          "media_key": "3_1949886289567993856",
+          "start": 104,
+          "url": "https://t.co/4IlIipTJ4i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949886732633329715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949886303446979075",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @C21Koy_7c: 其他都是自愿赠与，我也认了，我只是希望你把我的孩子还给我，我最爱的孩子，我的心血………我不想恨你，你拿走我的帕库设定集也好，可是你是借的，有借有还，请还给我\n她是我的梦想求求你 https://t.co/4IlIipTJ4i"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7900,
+        "height": 1280,
+        "media_key": "13_1949886289630941184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1949886289630941184/img/VB79cRxSBIPMNd5r.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949886289630941184/vid/avc1/320x568/acRMtClznsa79q60.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949886289630941184/vid/avc1/480x852/6yKVXZvb9ollVMgM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949886289630941184/vid/avc1/720x1280/nzsYXn4YGcoWYAj4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1949886289630941184/pl/VRHFF2Ggl7Z4fYgS.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1163,
+        "media_key": "3_1949886289496723457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw9jP9XbUAE7cDw.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1949886289588948992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw9jP9takAAQDO8.jpg",
+        "width": 1862
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1949886289567993856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw9jP9oa0AA0Yp7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1949886289630941184",
+            "3_1949886289496723457",
+            "3_1949886289588948992",
+            "3_1949886289567993856"
+          ],
+          "media_source_tweet_id": [
+            "1949886303446979075",
+            "1949886303446979075",
+            "1949886303446979075",
+            "1949886303446979075"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1949886732633329715",
+        "created_at": "2025-07-28T17:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T18:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949886732633329715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1452123941686976519",
+              "start": 3,
+              "username": "C21Koy_7c"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4IlIipTJ4i",
+              "end": 127,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1949886303446979075/video/1",
+              "media_key": "13_1949886289630941184",
+              "start": 104,
+              "url": "https://t.co/4IlIipTJ4i"
+            },
+            {
+              "display_url": "pic.x.com/4IlIipTJ4i",
+              "end": 127,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1949886303446979075/video/1",
+              "media_key": "3_1949886289496723457",
+              "start": 104,
+              "url": "https://t.co/4IlIipTJ4i"
+            },
+            {
+              "display_url": "pic.x.com/4IlIipTJ4i",
+              "end": 127,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1949886303446979075/video/1",
+              "media_key": "3_1949886289588948992",
+              "start": 104,
+              "url": "https://t.co/4IlIipTJ4i"
+            },
+            {
+              "display_url": "pic.x.com/4IlIipTJ4i",
+              "end": 127,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1949886303446979075/video/1",
+              "media_key": "3_1949886289567993856",
+              "start": 104,
+              "url": "https://t.co/4IlIipTJ4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949886732633329715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949886303446979075",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @C21Koy_7c: 其他都是自愿赠与，我也认了，我只是希望你把我的孩子还给我，我最爱的孩子，我的心血………我不想恨你，你拿走我的帕库设定集也好，可是你是借的，有借有还，请还给我\n她是我的梦想求求你 https://t.co/4IlIipTJ4i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1949886289630941184",
+            "3_1949886289496723457",
+            "3_1949886289588948992",
+            "3_1949886289567993856"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1949883228233617807",
+        "created_at": "2025-07-28T17:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T18:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949886303446979075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4IlIipTJ4i",
+              "end": 112,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1949886303446979075/video/1",
+              "media_key": "13_1949886289630941184",
+              "start": 89,
+              "url": "https://t.co/4IlIipTJ4i"
+            },
+            {
+              "display_url": "pic.x.com/4IlIipTJ4i",
+              "end": 112,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1949886303446979075/video/1",
+              "media_key": "3_1949886289496723457",
+              "start": 89,
+              "url": "https://t.co/4IlIipTJ4i"
+            },
+            {
+              "display_url": "pic.x.com/4IlIipTJ4i",
+              "end": 112,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1949886303446979075/video/1",
+              "media_key": "3_1949886289588948992",
+              "start": 89,
+              "url": "https://t.co/4IlIipTJ4i"
+            },
+            {
+              "display_url": "pic.x.com/4IlIipTJ4i",
+              "end": 112,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1949886303446979075/video/1",
+              "media_key": "3_1949886289567993856",
+              "start": 89,
+              "url": "https://t.co/4IlIipTJ4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949886303446979075",
+        "in_reply_to_user_id": "1452123941686976519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949883652802039884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其他都是自愿赠与，我也认了，我只是希望你把我的孩子还给我，我最爱的孩子，我的心血………我不想恨你，你拿走我的帕库设定集也好，可是你是借的，有借有还，请还给我\n她是我的梦想求求你 https://t.co/4IlIipTJ4i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947781415615025152/-8pHQpZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 3037,
+          "like_count": 23774,
+          "listed_count": 3,
+          "media_count": 1496,
+          "tweet_count": 22892
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      }
+    ]
+  }
+}

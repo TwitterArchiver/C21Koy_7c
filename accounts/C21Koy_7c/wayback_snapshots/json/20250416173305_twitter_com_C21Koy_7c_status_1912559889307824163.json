@@ -1,0 +1,744 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912415643204227072"
+      ],
+      "media_source_tweet_id": [
+        "1912415688859189400"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1138829560047259648",
+          "name": "Baldur's Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1138829560047259648",
+          "name": "Baldur's Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      }
+    ],
+    "conversation_id": "1912559889307824163",
+    "created_at": "2025-04-16T17:33:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T18:33:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912559889307824163"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 45,
+          "normalized_text": "SultansGame\n\nshadowheart",
+          "probability": 0.6369,
+          "start": 22,
+          "type": "Other"
+        },
+        {
+          "end": 59,
+          "normalized_text": "shadowheart",
+          "probability": 0.6664,
+          "start": 49,
+          "type": "Other"
+        },
+        {
+          "end": 67,
+          "normalized_text": "steam",
+          "probability": 0.5534,
+          "start": 63,
+          "type": "Other"
+        },
+        {
+          "end": 81,
+          "normalized_text": "BaldursGate3",
+          "probability": 0.8199,
+          "start": 70,
+          "type": "Other"
+        },
+        {
+          "end": 94,
+          "normalized_text": "SultansGame",
+          "probability": 0.7755,
+          "start": 84,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 60,
+          "start": 48,
+          "tag": "shadowheart"
+        },
+        {
+          "end": 68,
+          "start": 62,
+          "tag": "steam"
+        },
+        {
+          "end": 82,
+          "start": 69,
+          "tag": "BaldursGate3"
+        },
+        {
+          "end": 95,
+          "start": 83,
+          "tag": "SultansGame"
+        },
+        {
+          "end": 103,
+          "start": 97,
+          "tag": "苏丹的游戏"
+        },
+        {
+          "end": 114,
+          "start": 105,
+          "tag": "スルタンのゲーム"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3066060549",
+          "start": 3,
+          "username": "waste__cat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qKOArn9UUr",
+          "end": 138,
+          "expanded_url": "https://x.com/waste__cat/status/1912415688859189400/photo/1",
+          "media_key": "3_1912415643204227072",
+          "start": 115,
+          "url": "https://t.co/qKOArn9UUr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912559889307824163",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912415688859189400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @waste__cat: bg3 x SultansGame\n\nshadowheart\n\n#shadowheart \n#steam\n#BaldursGate3\n#SultansGame \n#苏丹的游戏 \n#スルタンのゲーム https://t.co/qKOArn9UUr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1995,
+        "media_key": "3_1912415643204227072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GopD5SQWkAAUXwO.jpg",
+        "width": 1972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912415643204227072"
+          ],
+          "media_source_tweet_id": [
+            "1912415688859189400"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "1912559889307824163",
+        "created_at": "2025-04-16T17:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T18:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912559889307824163"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "SultansGame\n\nshadowheart",
+              "probability": 0.6369,
+              "start": 22,
+              "type": "Other"
+            },
+            {
+              "end": 59,
+              "normalized_text": "shadowheart",
+              "probability": 0.6664,
+              "start": 49,
+              "type": "Other"
+            },
+            {
+              "end": 67,
+              "normalized_text": "steam",
+              "probability": 0.5534,
+              "start": 63,
+              "type": "Other"
+            },
+            {
+              "end": 81,
+              "normalized_text": "BaldursGate3",
+              "probability": 0.8199,
+              "start": 70,
+              "type": "Other"
+            },
+            {
+              "end": 94,
+              "normalized_text": "SultansGame",
+              "probability": 0.7755,
+              "start": 84,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 48,
+              "tag": "shadowheart"
+            },
+            {
+              "end": 68,
+              "start": 62,
+              "tag": "steam"
+            },
+            {
+              "end": 82,
+              "start": 69,
+              "tag": "BaldursGate3"
+            },
+            {
+              "end": 95,
+              "start": 83,
+              "tag": "SultansGame"
+            },
+            {
+              "end": 103,
+              "start": 97,
+              "tag": "苏丹的游戏"
+            },
+            {
+              "end": 114,
+              "start": 105,
+              "tag": "スルタンのゲーム"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3066060549",
+              "start": 3,
+              "username": "waste__cat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qKOArn9UUr",
+              "end": 138,
+              "expanded_url": "https://x.com/waste__cat/status/1912415688859189400/photo/1",
+              "media_key": "3_1912415643204227072",
+              "start": 115,
+              "url": "https://t.co/qKOArn9UUr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912559889307824163",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912415688859189400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @waste__cat: bg3 x SultansGame\n\nshadowheart\n\n#shadowheart \n#steam\n#BaldursGate3\n#SultansGame \n#苏丹的游戏 \n#スルタンのゲーム https://t.co/qKOArn9UUr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912415643204227072"
+          ]
+        },
+        "author_id": "3066060549",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "1912415688859189400",
+        "created_at": "2025-04-16T08:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T09:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912415688859189400"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "bg3",
+              "probability": 0.4742,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 29,
+              "normalized_text": "SultansGame\n\nshadowheart",
+              "probability": 0.6387,
+              "start": 6,
+              "type": "Other"
+            },
+            {
+              "end": 43,
+              "normalized_text": "shadowheart",
+              "probability": 0.6472,
+              "start": 33,
+              "type": "Other"
+            },
+            {
+              "end": 51,
+              "normalized_text": "steam",
+              "probability": 0.5824,
+              "start": 47,
+              "type": "Other"
+            },
+            {
+              "end": 65,
+              "normalized_text": "BaldursGate3",
+              "probability": 0.8379,
+              "start": 54,
+              "type": "Other"
+            },
+            {
+              "end": 78,
+              "normalized_text": "SultansGame",
+              "probability": 0.8669,
+              "start": 68,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 32,
+              "tag": "shadowheart"
+            },
+            {
+              "end": 52,
+              "start": 46,
+              "tag": "steam"
+            },
+            {
+              "end": 66,
+              "start": 53,
+              "tag": "BaldursGate3"
+            },
+            {
+              "end": 79,
+              "start": 67,
+              "tag": "SultansGame"
+            },
+            {
+              "end": 87,
+              "start": 81,
+              "tag": "苏丹的游戏"
+            },
+            {
+              "end": 98,
+              "start": 89,
+              "tag": "スルタンのゲーム"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qKOArn9UUr",
+              "end": 122,
+              "expanded_url": "https://x.com/waste__cat/status/1912415688859189400/photo/1",
+              "media_key": "3_1912415643204227072",
+              "start": 99,
+              "url": "https://t.co/qKOArn9UUr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912415688859189400",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1665,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "bg3 x SultansGame\n\nshadowheart\n\n#shadowheart \n#steam\n#BaldursGate3\n#SultansGame \n#苏丹的游戏 \n#スルタンのゲーム https://t.co/qKOArn9UUr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我yan｜肉鸦都可以",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912422021767524352/6G_fWcrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 2999,
+          "like_count": 22733,
+          "listed_count": 3,
+          "media_count": 1347,
+          "tweet_count": 21638
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-02T21:49:58.000Z",
+        "description": "🚫ai/中文/English/Italiano gardening/handmaker/FF14 mana·asura/cn一区/BG3🐉×🩸 有简中平台账号别盗图 我会狠狠透盗图狗他爹的皮炎 work：wastecat532749377@gmail.com DA：wastecat1995",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Ko-fi.com/wastecat",
+                "end": 23,
+                "expanded_url": "http://Ko-fi.com/wastecat",
+                "start": 0,
+                "url": "https://t.co/ZeOGucXrTA"
+              }
+            ]
+          }
+        },
+        "id": "3066060549",
+        "location": "Milano, Lombardia",
+        "name": "wastecat/commission open",
+        "pinned_tweet_id": "1906216448621441195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1548345328327618560/aQA5PFt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1771,
+          "following_count": 422,
+          "like_count": 4109,
+          "listed_count": 7,
+          "media_count": 1617,
+          "tweet_count": 4580
+        },
+        "url": "https://t.co/ZeOGucXrTA",
+        "username": "waste__cat",
+        "verified": false
+      }
+    ]
+  }
+}

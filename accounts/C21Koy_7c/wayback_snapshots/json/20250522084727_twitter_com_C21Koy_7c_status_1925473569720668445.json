@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1925421274635149312",
+        "7_1925421274647650304",
+        "3_1925421274622513152"
+      ],
+      "media_source_tweet_id": [
+        "1925421313596039499",
+        "1925421313596039499",
+        "1925421313596039499"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1925473569720668445",
+    "created_at": "2025-05-22T08:47:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T09:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925473569720668445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1191270126496239616",
+          "start": 3,
+          "username": "GHpSGoSbgAbFHkM"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yxR9uFKmLp",
+          "end": 51,
+          "expanded_url": "https://x.com/GHpSGoSbgAbFHkM/status/1925421313596039499/video/1",
+          "media_key": "7_1925421274635149312",
+          "start": 28,
+          "url": "https://t.co/yxR9uFKmLp"
+        },
+        {
+          "display_url": "pic.x.com/yxR9uFKmLp",
+          "end": 51,
+          "expanded_url": "https://x.com/GHpSGoSbgAbFHkM/status/1925421313596039499/video/1",
+          "media_key": "7_1925421274647650304",
+          "start": 28,
+          "url": "https://t.co/yxR9uFKmLp"
+        },
+        {
+          "display_url": "pic.x.com/yxR9uFKmLp",
+          "end": 51,
+          "expanded_url": "https://x.com/GHpSGoSbgAbFHkM/status/1925421313596039499/video/1",
+          "media_key": "3_1925421274622513152",
+          "start": 28,
+          "url": "https://t.co/yxR9uFKmLp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925473569720668445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925421313596039499",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GHpSGoSbgAbFHkM: 笑死了这小人 https://t.co/yxR9uFKmLp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7583,
+        "height": 720,
+        "media_key": "7_1925421274635149312",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1925421274635149312/pu/img/mDwuSLtL8WySDgJm.jpg",
+        "public_metrics": {
+          "view_count": 574
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1925421274635149312/pu/vid/avc1/388x270/U3yfpUKPcOdnrNPq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1925421274635149312/pu/vid/avc1/518x360/xuGbYZ3YfX64-2bp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1925421274635149312/pu/vid/avc1/1036x720/tSLRVlhMuE59aNEL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1925421274635149312/pu/pl/G0VOciY5dVNTVC1g.m3u8?tag=12"
+          }
+        ],
+        "width": 1036
+      },
+      {
+        "duration_ms": 8900,
+        "height": 720,
+        "media_key": "7_1925421274647650304",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1925421274647650304/pu/img/Ou7lb8GnYCxy5zvB.jpg",
+        "public_metrics": {
+          "view_count": 241
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1925421274647650304/pu/vid/avc1/388x270/j4xsHkBbLIB6lC12.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1925421274647650304/pu/vid/avc1/518x360/gTJIl42R_EX0Ed1P.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1925421274647650304/pu/vid/avc1/1036x720/kAWIO7v2nM00rH0T.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1925421274647650304/pu/pl/9xVWlvdaymS31A1H.m3u8?tag=12"
+          }
+        ],
+        "width": 1036
+      },
+      {
+        "height": 261,
+        "media_key": "3_1925421274622513152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grh4cqza0AAab3q.jpg",
+        "width": 261
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1925421274635149312",
+            "7_1925421274647650304",
+            "3_1925421274622513152"
+          ],
+          "media_source_tweet_id": [
+            "1925421313596039499",
+            "1925421313596039499",
+            "1925421313596039499"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1925473569720668445",
+        "created_at": "2025-05-22T08:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T09:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925473569720668445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1191270126496239616",
+              "start": 3,
+              "username": "GHpSGoSbgAbFHkM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yxR9uFKmLp",
+              "end": 51,
+              "expanded_url": "https://x.com/GHpSGoSbgAbFHkM/status/1925421313596039499/video/1",
+              "media_key": "7_1925421274635149312",
+              "start": 28,
+              "url": "https://t.co/yxR9uFKmLp"
+            },
+            {
+              "display_url": "pic.x.com/yxR9uFKmLp",
+              "end": 51,
+              "expanded_url": "https://x.com/GHpSGoSbgAbFHkM/status/1925421313596039499/video/1",
+              "media_key": "7_1925421274647650304",
+              "start": 28,
+              "url": "https://t.co/yxR9uFKmLp"
+            },
+            {
+              "display_url": "pic.x.com/yxR9uFKmLp",
+              "end": 51,
+              "expanded_url": "https://x.com/GHpSGoSbgAbFHkM/status/1925421313596039499/video/1",
+              "media_key": "3_1925421274622513152",
+              "start": 28,
+              "url": "https://t.co/yxR9uFKmLp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925473569720668445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925421313596039499",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GHpSGoSbgAbFHkM: 笑死了这小人 https://t.co/yxR9uFKmLp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1925421274635149312",
+            "7_1925421274647650304",
+            "3_1925421274622513152"
+          ]
+        },
+        "author_id": "1191270126496239616",
+        "conversation_id": "1925421313596039499",
+        "created_at": "2025-05-22T05:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T06:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925421313596039499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yxR9uFKmLp",
+              "end": 30,
+              "expanded_url": "https://x.com/GHpSGoSbgAbFHkM/status/1925421313596039499/video/1",
+              "media_key": "7_1925421274635149312",
+              "start": 7,
+              "url": "https://t.co/yxR9uFKmLp"
+            },
+            {
+              "display_url": "pic.x.com/yxR9uFKmLp",
+              "end": 30,
+              "expanded_url": "https://x.com/GHpSGoSbgAbFHkM/status/1925421313596039499/video/1",
+              "media_key": "7_1925421274647650304",
+              "start": 7,
+              "url": "https://t.co/yxR9uFKmLp"
+            },
+            {
+              "display_url": "pic.x.com/yxR9uFKmLp",
+              "end": 30,
+              "expanded_url": "https://x.com/GHpSGoSbgAbFHkM/status/1925421313596039499/video/1",
+              "media_key": "3_1925421274622513152",
+              "start": 7,
+              "url": "https://t.co/yxR9uFKmLp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925421313596039499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 1442,
+          "like_count": 123,
+          "quote_count": 14,
+          "reply_count": 1,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "笑死了这小人 https://t.co/yxR9uFKmLp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我yan｜肉鸦都可以 不会外语翻译器OK",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 3017,
+          "like_count": 23103,
+          "listed_count": 3,
+          "media_count": 1402,
+          "tweet_count": 22123
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-04T08:25:19.000Z",
+        "description": "主bottom dante|高强度🔞🔞|❌❌🔁｜最近游戏splatoon",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "archiveofourown.org/users/PZPZ/wor…",
+                "end": 23,
+                "expanded_url": "https://archiveofourown.org/users/PZPZ/works",
+                "start": 0,
+                "url": "https://t.co/wZ8jAe38x0"
+              }
+            ]
+          }
+        },
+        "id": "1191270126496239616",
+        "location": "dante子宫里",
+        "name": "🍋",
+        "pinned_tweet_id": "1531923783874793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837841267583340544/TuIKhhbf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3186,
+          "following_count": 140,
+          "like_count": 4354,
+          "listed_count": 17,
+          "media_count": 472,
+          "tweet_count": 2363
+        },
+        "url": "https://t.co/wZ8jAe38x0",
+        "username": "GHpSGoSbgAbFHkM",
+        "verified": false
+      }
+    ]
+  }
+}

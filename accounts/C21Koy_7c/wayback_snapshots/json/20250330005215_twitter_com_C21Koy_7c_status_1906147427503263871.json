@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "1906147427503263871",
+    "created_at": "2025-03-30T00:52:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T01:52:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906147427503263871"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "AI",
+          "probability": 0.6244,
+          "start": 14,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3412281493",
+          "start": 3,
+          "username": "bbnomula"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906147427503263871",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23129
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905779828290371933",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbnomula: AI art 👎\ncommissioning artists 👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1906147427503263871",
+        "created_at": "2025-03-30T00:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T01:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906147427503263871"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "AI",
+              "probability": 0.6244,
+              "start": 14,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3412281493",
+              "start": 3,
+              "username": "bbnomula"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906147427503263871",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23129
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905779828290371933",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bbnomula: AI art 👎\ncommissioning artists 👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3412281493",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1905779828290371933",
+        "created_at": "2025-03-29T00:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T01:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905779828290371933"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "AI",
+              "probability": 0.5784,
+              "start": 0,
+              "type": "Organization"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905779828290371933",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1943,
+          "impression_count": 2246473,
+          "like_count": 165303,
+          "quote_count": 926,
+          "reply_count": 988,
+          "retweet_count": 23129
+        },
+        "reply_settings": "everyone",
+        "text": "AI art 👎\ncommissioning artists 👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 但是还算可以 懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890691451258126336/lPqKitsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 2993,
+          "like_count": 22381,
+          "listed_count": 3,
+          "media_count": 1312,
+          "tweet_count": 21272
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-01T07:08:47.000Z",
+        "description": "it’s baby no money +1 (808) 900-4493",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbnomula.com",
+                "end": 23,
+                "expanded_url": "https://bbnomula.com/",
+                "start": 0,
+                "url": "https://t.co/hkRWYVnDvC"
+              }
+            ]
+          }
+        },
+        "id": "3412281493",
+        "location": "Vancouver, British Columbia",
+        "name": "bbno$ 👶🚫💰",
+        "pinned_tweet_id": "1885427975350296984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848786287412510720/epOw08zD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721345,
+          "following_count": 761,
+          "like_count": 3817,
+          "listed_count": 223,
+          "media_count": 1140,
+          "tweet_count": 3066
+        },
+        "url": "https://t.co/hkRWYVnDvC",
+        "username": "bbnomula",
+        "verified": true
+      }
+    ]
+  }
+}

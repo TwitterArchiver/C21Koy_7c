@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937460035225047040",
+        "3_1937460035254386690",
+        "3_1937460035187277826",
+        "3_1937460035204055041"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1937460044112756832",
+    "created_at": "2025-06-24T10:37:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T11:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937460044112756832"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 3,
+          "start": 0,
+          "tag": "sh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MOrE4aDq9Y",
+          "end": 41,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1937460044112756832/photo/1",
+          "media_key": "3_1937460035225047040",
+          "start": 18,
+          "url": "https://t.co/MOrE4aDq9Y"
+        },
+        {
+          "display_url": "pic.x.com/MOrE4aDq9Y",
+          "end": 41,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1937460044112756832/photo/1",
+          "media_key": "3_1937460035254386690",
+          "start": 18,
+          "url": "https://t.co/MOrE4aDq9Y"
+        },
+        {
+          "display_url": "pic.x.com/MOrE4aDq9Y",
+          "end": 41,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1937460044112756832/photo/1",
+          "media_key": "3_1937460035187277826",
+          "start": 18,
+          "url": "https://t.co/MOrE4aDq9Y"
+        },
+        {
+          "display_url": "pic.x.com/MOrE4aDq9Y",
+          "end": 41,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1937460044112756832/photo/1",
+          "media_key": "3_1937460035204055041",
+          "start": 18,
+          "url": "https://t.co/MOrE4aDq9Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937460044112756832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#sh \n哈哈，no不小心切到手了 https://t.co/MOrE4aDq9Y"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1937460044112756832].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1937460044112756832",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1937460044112756832"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1937460035225047040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuM9ow4a0AAt2Hk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1937460035254386690",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuM9ow_agAI9Kzv.jpg",
+        "width": 1144
+      },
+      {
+        "height": 1335,
+        "media_key": "3_1937460035187277826",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuM9owvagAIH6Bf.jpg",
+        "width": 1895
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1937460035204055041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuM9owzagAEVcm3.jpg",
+        "width": 1920
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 3025,
+          "like_count": 23567,
+          "listed_count": 3,
+          "media_count": 1457,
+          "tweet_count": 22524
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      }
+    ]
+  }
+}

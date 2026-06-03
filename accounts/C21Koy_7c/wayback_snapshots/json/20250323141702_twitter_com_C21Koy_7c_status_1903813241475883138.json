@@ -1,0 +1,455 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1903107419787407362"
+      ],
+      "media_source_tweet_id": [
+        "1903107430038311273"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1002576732971384832",
+          "name": "Marvel Universe"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1002576732971384832",
+          "name": "Marvel Universe"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1903813241475883138",
+    "created_at": "2025-03-23T14:17:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T15:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903813241475883138"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "thanos",
+          "probability": 0.4587,
+          "start": 19,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1898151580802990080",
+          "start": 3,
+          "username": "SEMIPLAYER380"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cBUPFnnI2B",
+          "end": 82,
+          "expanded_url": "https://x.com/SEMIPLAYER380/status/1903107430038311273/photo/1",
+          "media_key": "3_1903107419787407362",
+          "start": 59,
+          "url": "https://t.co/cBUPFnnI2B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903813241475883138",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 164
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903107430038311273",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SEMIPLAYER380: thanos team without the purple menace 🙁 https://t.co/cBUPFnnI2B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 793,
+        "media_key": "3_1903107419787407362",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmkyHX3WsAIlBaj.jpg",
+        "width": 793
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903107419787407362"
+          ],
+          "media_source_tweet_id": [
+            "1903107430038311273"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1903813241475883138",
+        "created_at": "2025-03-23T14:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T15:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903813241475883138"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "thanos",
+              "probability": 0.4587,
+              "start": 19,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1898151580802990080",
+              "start": 3,
+              "username": "SEMIPLAYER380"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cBUPFnnI2B",
+              "end": 82,
+              "expanded_url": "https://x.com/SEMIPLAYER380/status/1903107430038311273/photo/1",
+              "media_key": "3_1903107419787407362",
+              "start": 59,
+              "url": "https://t.co/cBUPFnnI2B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903813241475883138",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 164
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903107430038311273",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SEMIPLAYER380: thanos team without the purple menace 🙁 https://t.co/cBUPFnnI2B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903107419787407362"
+          ]
+        },
+        "author_id": "1898151580802990080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1903107430038311273",
+        "created_at": "2025-03-21T15:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T16:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903107430038311273"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "thanos",
+              "probability": 0.426,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cBUPFnnI2B",
+              "end": 63,
+              "expanded_url": "https://x.com/SEMIPLAYER380/status/1903107430038311273/photo/1",
+              "media_key": "3_1903107419787407362",
+              "start": 40,
+              "url": "https://t.co/cBUPFnnI2B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903107430038311273",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 16422,
+          "like_count": 1781,
+          "quote_count": 8,
+          "reply_count": 12,
+          "retweet_count": 164
+        },
+        "reply_settings": "everyone",
+        "text": "thanos team without the purple menace 🙁 https://t.co/cBUPFnnI2B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 但是还算可以 懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890691451258126336/lPqKitsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 2998,
+          "like_count": 22295,
+          "listed_count": 3,
+          "media_count": 1306,
+          "tweet_count": 21185
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T23:20:03.000Z",
+        "description": ". ݁₊ ⊹  27 ★. ݁˖ \n⊹₊ ݁anyノpronouns ✰ ﾟ.ᶠᶸᶜᵏᵧₒᵤ!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "semiplayer380.straw.page",
+                "end": 23,
+                "expanded_url": "https://semiplayer380.straw.page/",
+                "start": 0,
+                "url": "https://t.co/BTOe7M5kjj"
+              }
+            ]
+          }
+        },
+        "id": "1898151580802990080",
+        "location": "rp | 18+ ooc",
+        "name": "se-mi ☆⋆｡𖦹°‧★",
+        "pinned_tweet_id": "1903107430038311273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902780897268731904/bfQPb3rV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 220,
+          "like_count": 2291,
+          "listed_count": 8,
+          "media_count": 201,
+          "tweet_count": 1489
+        },
+        "url": "https://t.co/BTOe7M5kjj",
+        "username": "SEMIPLAYER380",
+        "verified": true
+      }
+    ]
+  }
+}

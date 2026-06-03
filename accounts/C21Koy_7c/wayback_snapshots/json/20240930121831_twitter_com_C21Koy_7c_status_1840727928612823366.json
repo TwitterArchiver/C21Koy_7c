@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1840712764832313344"
+      ],
+      "media_source_tweet_id": [
+        "1840715824497332262"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1840727928612823366",
+    "created_at": "2024-09-30T12:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T13:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840727928612823366"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 20,
+          "tag": "DegreesofLewdity"
+        },
+        {
+          "end": 42,
+          "start": 38,
+          "tag": "dol"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1614197527267643394",
+          "start": 3,
+          "username": "paisley_una"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ebkagn6u2p",
+          "end": 66,
+          "expanded_url": "https://twitter.com/paisley_una/status/1840715824497332262/video/1",
+          "media_key": "7_1840712764832313344",
+          "start": 43,
+          "url": "https://t.co/ebKaGN6U2p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840727928612823366",
+    "lang": "qme",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840715824497332262",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @paisley_una: 👀\n\n#DegreesofLewdity #dol https://t.co/ebKaGN6U2p"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1840727928612823366].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1840727928612823366",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1840727928612823366"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14880,
+        "height": 1000,
+        "media_key": "7_1840712764832313344",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1840712764832313344/pu/img/qYV5KkE3OszBNRbo.jpg",
+        "public_metrics": {
+          "view_count": 63
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1840712764832313344/pu/vid/avc1/320x320/l5lZ5VOGZYXXLVzR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1840712764832313344/pu/vid/avc1/540x540/7uXD4cHVsRVta2sn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1840712764832313344/pu/vid/avc1/720x720/OL80tGXnjhG_FzXv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1840712764832313344/pu/pl/f1PPppQF_NW3yuLf.m3u8?tag=12"
+          }
+        ],
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1840712764832313344"
+          ]
+        },
+        "author_id": "1614197527267643394",
+        "conversation_id": "1840715824497332262",
+        "created_at": "2024-09-30T11:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T12:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840715824497332262"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 3,
+              "tag": "DegreesofLewdity"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "dol"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ebkagn6u2p",
+              "end": 49,
+              "expanded_url": "https://twitter.com/paisley_una/status/1840715824497332262/video/1",
+              "media_key": "7_1840712764832313344",
+              "start": 26,
+              "url": "https://t.co/ebKaGN6U2p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840715824497332262",
+        "lang": "qme",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 178,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "👀\n\n#DegreesofLewdity #dol https://t.co/ebKaGN6U2p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫 they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT大概淡坑：COD/MK/恐影 不善表达 但是还算nice",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1787381657340883290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839204245423403008/lGS1aYqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 2805,
+          "like_count": 19922,
+          "listed_count": 2,
+          "tweet_count": 15820
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-14T09:47:46.000Z",
+        "description": "I do NSFW and gore 🔞 | https://t.co/l68wNHdDaI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paisleyuna.carrd.co",
+                "end": 46,
+                "expanded_url": "https://paisleyuna.carrd.co/",
+                "start": 23,
+                "url": "https://t.co/l68wNHdDaI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/paisley_una",
+                "end": 23,
+                "expanded_url": "https://vgen.co/paisley_una",
+                "start": 0,
+                "url": "https://t.co/13z64QNtGD"
+              }
+            ]
+          }
+        },
+        "id": "1614197527267643394",
+        "name": "000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834041174459645954/C8Hjko_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 78,
+          "like_count": 3315,
+          "listed_count": 0,
+          "tweet_count": 122
+        },
+        "url": "https://t.co/13z64QNtGD",
+        "username": "paisley_una",
+        "verified": false
+      }
+    ]
+  }
+}

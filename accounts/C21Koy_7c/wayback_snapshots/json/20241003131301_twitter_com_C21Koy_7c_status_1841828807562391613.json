@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1841805603926376452"
+      ],
+      "media_source_tweet_id": [
+        "1841805614961590372"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1841828807562391613",
+    "created_at": "2024-10-03T13:13:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T14:13:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841828807562391613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1424982891721756673",
+          "start": 3,
+          "username": "zinkbackin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J4kXhgOkvb",
+          "end": 68,
+          "expanded_url": "https://x.com/zinkbackin/status/1841805614961590372/photo/1",
+          "media_key": "3_1841805603926376452",
+          "start": 45,
+          "url": "https://t.co/J4kXhgOkvb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841828807562391613",
+    "lang": "en",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841805614961590372",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zinkbackin: draw smokie on my sketchbook https://t.co/J4kXhgOkvb"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1841828807562391613].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1841828807562391613",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1841828807562391613"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1841805603926376452",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GY9ocD9bAAQJ18G.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841805603926376452"
+          ]
+        },
+        "author_id": "1424982891721756673",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1841805614961590372",
+        "created_at": "2024-10-03T11:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T12:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841805614961590372"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "smokie",
+              "probability": 0.5473,
+              "start": 5,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J4kXhgOkvb",
+              "end": 52,
+              "expanded_url": "https://x.com/zinkbackin/status/1841805614961590372/photo/1",
+              "media_key": "3_1841805603926376452",
+              "start": 29,
+              "url": "https://t.co/J4kXhgOkvb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841805614961590372",
+        "lang": "en",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 90,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "draw smokie on my sketchbook https://t.co/J4kXhgOkvb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫 they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT大概淡坑：COD/MK/恐影 不善表达 但是还算nice 请和我保持联络谢谢",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1787381657340883290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839204245423403008/lGS1aYqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 2814,
+          "like_count": 20002,
+          "listed_count": 3,
+          "tweet_count": 15978
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-10T06:36:21.000Z",
+        "description": "she/her/♀♀/22/🏳️‍🌈/\n🔞🔞its my nsfw 账户\nif you under 18 I will block you\n🤍smoke💛kuailiang💚syzoth lover\nwb:zink枝子",
+        "id": "1424982891721756673",
+        "name": "zink枝子🔞",
+        "pinned_tweet_id": "1820971343103586340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730740558774280192/L3lIvI21_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 577,
+          "like_count": 8352,
+          "listed_count": 3,
+          "tweet_count": 1446
+        },
+        "username": "zinkbackin",
+        "verified": false
+      }
+    ]
+  }
+}

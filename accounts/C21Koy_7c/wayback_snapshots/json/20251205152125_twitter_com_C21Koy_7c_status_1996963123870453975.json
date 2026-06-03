@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "conversation_id": "1996963123870453975",
+    "created_at": "2025-12-05T15:21:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T16:21:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996963123870453975"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 15,
+          "tag": "dol"
+        },
+        {
+          "end": 37,
+          "start": 20,
+          "tag": "DegreesofLewdity"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1216232050233159680",
+          "start": 3,
+          "username": "MurariusS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/m6B2JnTO",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/m6B2JnTO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996963123870453975",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996949178518540509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MurariusS: #dol #DegreesofLewdity oh gwylan, the man (or whatever creature) you are.............................. https://t.co/m6B2JnTO…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1996963123870453975].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1996963123870453975",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1996963123870453975"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1996946781351919616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7aUhHHXQAAFmjm.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996946781351919616"
+          ]
+        },
+        "author_id": "1216232050233159680",
+        "conversation_id": "1996949178518540509",
+        "created_at": "2025-12-05T14:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T15:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996949178518540509"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "dol"
+            },
+            {
+              "end": 22,
+              "start": 5,
+              "tag": "DegreesofLewdity"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m6B2JnTOFy",
+              "end": 126,
+              "expanded_url": "https://x.com/MurariusS/status/1996949178518540509/photo/1",
+              "media_key": "3_1996946781351919616",
+              "start": 103,
+              "url": "https://t.co/m6B2JnTOFy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996949178518540509",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 889,
+          "like_count": 93,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "#dol #DegreesofLewdity oh gwylan, the man (or whatever creature) you are.............................. https://t.co/m6B2JnTOFy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987482127756410880/kunx4knz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 3174,
+          "like_count": 26653,
+          "listed_count": 5,
+          "media_count": 1798,
+          "tweet_count": 25275
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-12T05:35:15.000Z",
+        "description": "comms closed",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mrrsinfo.carrd.co",
+                "end": 23,
+                "expanded_url": "https://mrrsinfo.carrd.co",
+                "start": 0,
+                "url": "https://t.co/4DKUzvaQMz"
+              }
+            ]
+          }
+        },
+        "id": "1216232050233159680",
+        "name": "mrrs⛪️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876111381524549632/jAsz_wHh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18347,
+          "following_count": 177,
+          "like_count": 6824,
+          "listed_count": 14,
+          "media_count": 433,
+          "tweet_count": 673
+        },
+        "url": "https://t.co/4DKUzvaQMz",
+        "username": "MurariusS",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,597 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Detroit: Become Human",
+          "id": "1037758596300169216",
+          "name": "Detroit: Become Human"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Detroit: Become Human",
+          "id": "1037758596300169216",
+          "name": "Detroit: Become Human"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278061468265508864",
+          "name": "Collectibles"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898787358408746",
+          "name": "Sci-fi games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541881395164786688",
+          "name": "Adventure games"
+        }
+      }
+    ],
+    "conversation_id": "1843694498024734861",
+    "created_at": "2024-10-08T16:46:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-08T17:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1843694498024734861"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gsc_kahotan/st…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/gsc_kahotan/status/1843577080140673461",
+          "start": 21,
+          "url": "https://t.co/zeGZWaM9y6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843694498024734861",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843577080140673461",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你最好再贩，你不知道现在炒到多少了吗…… https://t.co/zeGZWaM9y6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Detroit: Become Human",
+              "id": "1037758596300169216",
+              "name": "Detroit: Become Human"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Detroit: Become Human",
+              "id": "1037758596300169216",
+              "name": "Detroit: Become Human"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898787358408746",
+              "name": "Sci-fi games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541881395164786688",
+              "name": "Adventure games"
+            }
+          }
+        ],
+        "conversation_id": "1843694498024734861",
+        "created_at": "2024-10-08T16:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T17:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843694498024734861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gsc_kahotan/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/gsc_kahotan/status/1843577080140673461",
+              "start": 21,
+              "url": "https://t.co/zeGZWaM9y6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843694498024734861",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843577080140673461",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你最好再贩，你不知道现在炒到多少了吗…… https://t.co/zeGZWaM9y6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843571246539386880",
+            "3_1843571272296607746",
+            "3_1843571289073823744"
+          ]
+        },
+        "author_id": "547299604",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Detroit: Become Human",
+              "id": "1037758596300169216",
+              "name": "Detroit: Become Human"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Detroit: Become Human",
+              "id": "1037758596300169216",
+              "name": "Detroit: Become Human"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898787358408746",
+              "name": "Sci-fi games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541881395164786688",
+              "name": "Adventure games"
+            }
+          }
+        ],
+        "conversation_id": "1843577080140673461",
+        "created_at": "2024-10-08T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843577080140673461"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 79,
+              "tag": "DBH"
+            },
+            {
+              "end": 103,
+              "start": 84,
+              "tag": "DetroitBecomeHuman"
+            },
+            {
+              "end": 114,
+              "start": 104,
+              "tag": "ねんどろふりかえり"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IagmgpBM3x",
+              "end": 139,
+              "expanded_url": "https://x.com/gsc_kahotan/status/1843577080140673461/photo/1",
+              "media_key": "3_1843571246539386880",
+              "start": 116,
+              "url": "https://t.co/IagmgpBM3x"
+            },
+            {
+              "display_url": "pic.x.com/IagmgpBM3x",
+              "end": 139,
+              "expanded_url": "https://x.com/gsc_kahotan/status/1843577080140673461/photo/1",
+              "media_key": "3_1843571272296607746",
+              "start": 116,
+              "url": "https://t.co/IagmgpBM3x"
+            },
+            {
+              "display_url": "pic.x.com/IagmgpBM3x",
+              "end": 139,
+              "expanded_url": "https://x.com/gsc_kahotan/status/1843577080140673461/photo/1",
+              "media_key": "3_1843571289073823744",
+              "start": 116,
+              "url": "https://t.co/IagmgpBM3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843577080140673461",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 60391,
+          "like_count": 916,
+          "quote_count": 90,
+          "reply_count": 8,
+          "retweet_count": 257
+        },
+        "reply_settings": "everyone",
+        "text": "『Detroit: Become Human』\n￣￣￣￣￣￣￣￣￣￣￣￣\nねんどろいど コナー\n＿＿＿＿＿＿＿＿＿＿＿＿\n\n2021年に発売いたしました✨️\n#DBH #DetroitBecomeHuman #ねんどろふりかえり💭 https://t.co/IagmgpBM3x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫 Bipolar patient/ they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT大概淡坑：COD/MK/恐影 不善表达 但是还算nice 请和我保持联络谢谢 努力尽力活着 我没恶意 我鼓起很大勇气才会评论你 因为我想友善的和你互动",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1787381657340883290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842795137925255168/Z-0bJ2Zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 2818,
+          "like_count": 20127,
+          "listed_count": 2,
+          "tweet_count": 16183
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-07T03:50:58.000Z",
+        "description": "グッドスマイルカンパニーの企画部所属。フィギュア商品企画の他にブログも担当しております！どうぞよろしくお願いいたします◎\n\nグッスマ公式サイト：https://t.co/B3NQgLiiqg\nマシュマロ： https://t.co/bnSJnl4Jnx…",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "goodsmile.com/ja",
+                "end": 95,
+                "expanded_url": "https://www.goodsmile.com/ja",
+                "start": 72,
+                "url": "https://t.co/B3NQgLiiqg"
+              },
+              {
+                "display_url": "marshmallow-qa.com/gsc_kahotan?ut",
+                "end": 126,
+                "expanded_url": "http://marshmallow-qa.com/gsc_kahotan?ut",
+                "start": 103,
+                "url": "https://t.co/bnSJnl4Jnx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "goodsmile.jp/kahotan",
+                "end": 23,
+                "expanded_url": "http://goodsmile.jp/kahotan",
+                "start": 0,
+                "url": "https://t.co/KkUNvZ4p7W"
+              }
+            ]
+          }
+        },
+        "id": "547299604",
+        "location": "秋葉原の程近く",
+        "name": "カホタン＠グッスマのすみっこ",
+        "pinned_tweet_id": "1843297731319885825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1557060860631138304/DNcidBzz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267446,
+          "following_count": 343,
+          "like_count": 3706,
+          "listed_count": 2670,
+          "tweet_count": 67622
+        },
+        "url": "https://t.co/KkUNvZ4p7W",
+        "username": "gsc_kahotan",
+        "verified": true
+      }
+    ]
+  }
+}

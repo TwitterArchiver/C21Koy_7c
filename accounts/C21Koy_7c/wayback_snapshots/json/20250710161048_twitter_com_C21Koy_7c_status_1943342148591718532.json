@@ -1,0 +1,523 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942920171892486144",
+        "3_1942920171892428800"
+      ],
+      "media_source_tweet_id": [
+        "1942920183036678430",
+        "1942920183036678430"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1022485839232655360",
+          "name": "Transformers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1022485839232655360",
+          "name": "Transformers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1943342148591718532",
+    "created_at": "2025-07-10T16:10:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T17:10:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943342148591718532"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 46,
+          "normalized_text": "Transformers",
+          "probability": 0.9525,
+          "start": 35,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 34,
+          "tag": "Transformers"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "38395079",
+          "start": 3,
+          "username": "JU5T777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CwpogeR4qS",
+          "end": 71,
+          "expanded_url": "https://x.com/JU5T777/status/1942920183036678430/photo/1",
+          "media_key": "3_1942920171892486144",
+          "start": 48,
+          "url": "https://t.co/CwpogeR4qS"
+        },
+        {
+          "display_url": "pic.x.com/CwpogeR4qS",
+          "end": 71,
+          "expanded_url": "https://x.com/JU5T777/status/1942920183036678430/photo/1",
+          "media_key": "3_1942920171892428800",
+          "start": 48,
+          "url": "https://t.co/CwpogeR4qS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943342148591718532",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 559
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942920183036678430",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JU5T777: old screamer studies #Transformers https://t.co/CwpogeR4qS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942920171892486144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvajmjCXsAAahjT.jpg",
+        "width": 1450
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1942920171892428800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvajmjCW0AAtzkb.jpg",
+        "width": 1450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942920171892486144",
+            "3_1942920171892428800"
+          ],
+          "media_source_tweet_id": [
+            "1942920183036678430",
+            "1942920183036678430"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1022485839232655360",
+              "name": "Transformers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1022485839232655360",
+              "name": "Transformers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1943342148591718532",
+        "created_at": "2025-07-10T16:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T17:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943342148591718532"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "Transformers",
+              "probability": 0.9525,
+              "start": 35,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 34,
+              "tag": "Transformers"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "38395079",
+              "start": 3,
+              "username": "JU5T777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CwpogeR4qS",
+              "end": 71,
+              "expanded_url": "https://x.com/JU5T777/status/1942920183036678430/photo/1",
+              "media_key": "3_1942920171892486144",
+              "start": 48,
+              "url": "https://t.co/CwpogeR4qS"
+            },
+            {
+              "display_url": "pic.x.com/CwpogeR4qS",
+              "end": 71,
+              "expanded_url": "https://x.com/JU5T777/status/1942920183036678430/photo/1",
+              "media_key": "3_1942920171892428800",
+              "start": 48,
+              "url": "https://t.co/CwpogeR4qS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943342148591718532",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 559
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942920183036678430",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JU5T777: old screamer studies #Transformers https://t.co/CwpogeR4qS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942920171892486144",
+            "3_1942920171892428800"
+          ]
+        },
+        "author_id": "38395079",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1022485839232655360",
+              "name": "Transformers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1022485839232655360",
+              "name": "Transformers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1942920183036678430",
+        "created_at": "2025-07-09T12:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T13:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942920183036678430"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "Transformers",
+              "probability": 0.9561,
+              "start": 22,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 21,
+              "tag": "Transformers"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CwpogeR4qS",
+              "end": 58,
+              "expanded_url": "https://x.com/JU5T777/status/1942920183036678430/photo/1",
+              "media_key": "3_1942920171892486144",
+              "start": 35,
+              "url": "https://t.co/CwpogeR4qS"
+            },
+            {
+              "display_url": "pic.x.com/CwpogeR4qS",
+              "end": 58,
+              "expanded_url": "https://x.com/JU5T777/status/1942920183036678430/photo/1",
+              "media_key": "3_1942920171892428800",
+              "start": 35,
+              "url": "https://t.co/CwpogeR4qS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942920183036678430",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 399,
+          "impression_count": 29101,
+          "like_count": 2998,
+          "quote_count": 5,
+          "reply_count": 11,
+          "retweet_count": 559
+        },
+        "reply_settings": "everyone",
+        "text": "old screamer studies #Transformers https://t.co/CwpogeR4qS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 3024,
+          "like_count": 23578,
+          "listed_count": 3,
+          "media_count": 1471,
+          "tweet_count": 22659
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-07T08:17:24.000Z",
+        "description": "Learning to draw comics. Mostly Ultraman, Transformers and Otokojuku. Eng/粤/中, 日本語を学ぶ. See @51nJu5t for 🫣 stuff",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 91,
+                "username": "51nJu5t"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ju5t777.tumblr.com",
+                "end": 23,
+                "expanded_url": "https://ju5t777.tumblr.com/",
+                "start": 0,
+                "url": "https://t.co/E7QOGsm3Bn"
+              }
+            ]
+          }
+        },
+        "id": "38395079",
+        "location": "Somewhere cold",
+        "name": "JU5T (finishing projects) (on 🦋)",
+        "pinned_tweet_id": "1927985582396870763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879883428763447296/MLqdwrwG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6878,
+          "following_count": 546,
+          "like_count": 4972,
+          "listed_count": 22,
+          "media_count": 514,
+          "tweet_count": 2335
+        },
+        "url": "https://t.co/E7QOGsm3Bn",
+        "username": "JU5T777",
+        "verified": false
+      }
+    ]
+  }
+}

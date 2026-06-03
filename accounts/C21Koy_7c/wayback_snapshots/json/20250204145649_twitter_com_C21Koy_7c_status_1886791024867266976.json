@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886785959406288896"
+      ],
+      "media_source_tweet_id": [
+        "1886785970554769767"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1886791024867266976",
+    "created_at": "2025-02-04T14:56:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T15:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886791024867266976"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 25,
+          "tag": "mk1"
+        },
+        {
+          "end": 44,
+          "start": 30,
+          "tag": "MortalKombat1"
+        },
+        {
+          "end": 56,
+          "start": 46,
+          "tag": "kuailiang"
+        },
+        {
+          "end": 67,
+          "start": 57,
+          "tag": "tomaskuai"
+        },
+        {
+          "end": 79,
+          "start": 69,
+          "tag": "smokekuai"
+        },
+        {
+          "end": 92,
+          "start": 80,
+          "tag": "tomasvrbada"
+        },
+        {
+          "end": 103,
+          "start": 94,
+          "tag": "smoscorp"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1424982891721756673",
+          "start": 3,
+          "username": "zinkbackin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/94bWsr9rBn",
+          "end": 127,
+          "expanded_url": "https://x.com/zinkbackin/status/1886785970554769767/photo/1",
+          "media_key": "3_1886785959406288896",
+          "start": 104,
+          "url": "https://t.co/94bWsr9rBn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886791024867266976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886785970554769767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zinkbackin: 驯鹿kuai🤍🧡\n#mk1 #MortalKombat1 \n#kuailiang #tomaskuai \n#smokekuai #tomasvrbada \n#smoscorp https://t.co/94bWsr9rBn"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1886791024867266976].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1886791024867266976",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1886791024867266976"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1886785959406288896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi811V2bQAAEV4E.jpg",
+        "width": 1591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886785959406288896"
+          ]
+        },
+        "author_id": "1424982891721756673",
+        "conversation_id": "1886785970554769767",
+        "created_at": "2025-02-04T14:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T15:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886785970554769767"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "mk1"
+            },
+            {
+              "end": 28,
+              "start": 14,
+              "tag": "MortalKombat1"
+            },
+            {
+              "end": 40,
+              "start": 30,
+              "tag": "kuailiang"
+            },
+            {
+              "end": 51,
+              "start": 41,
+              "tag": "tomaskuai"
+            },
+            {
+              "end": 63,
+              "start": 53,
+              "tag": "smokekuai"
+            },
+            {
+              "end": 76,
+              "start": 64,
+              "tag": "tomasvrbada"
+            },
+            {
+              "end": 87,
+              "start": 78,
+              "tag": "smoscorp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/94bWsr9rBn",
+              "end": 111,
+              "expanded_url": "https://x.com/zinkbackin/status/1886785970554769767/photo/1",
+              "media_key": "3_1886785959406288896",
+              "start": 88,
+              "url": "https://t.co/94bWsr9rBn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886785970554769767",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "驯鹿kuai🤍🧡\n#mk1 #MortalKombat1 \n#kuailiang #tomaskuai \n#smokekuai #tomasvrbada \n#smoscorp https://t.co/94bWsr9rBn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH! 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影/三国 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人爱好者 会突然产出想法 BL吃的比其他少 但是会吃 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦肉臀臀",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885384535879409667/UEQG5lqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 2967,
+          "like_count": 21271,
+          "listed_count": 2,
+          "media_count": 1186,
+          "tweet_count": 19706
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-10T06:36:21.000Z",
+        "description": "she/her/♀♀/22/🏳️‍🌈/\n🔞🔞its my nsfw 账户\nif you under 18 I will block you\n🤍smoke💛kuailiang💚syzoth lover\nwb:zink枝子",
+        "id": "1424982891721756673",
+        "name": "zink枝子🔞",
+        "pinned_tweet_id": "1860806536161120685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730740558774280192/L3lIvI21_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1738,
+          "following_count": 768,
+          "like_count": 11853,
+          "listed_count": 5,
+          "media_count": 191,
+          "tweet_count": 1750
+        },
+        "username": "zinkbackin",
+        "verified": false
+      }
+    ]
+  }
+}

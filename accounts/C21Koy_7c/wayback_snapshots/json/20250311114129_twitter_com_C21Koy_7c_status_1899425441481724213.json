@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1898847200312020993"
+      ],
+      "media_source_tweet_id": [
+        "1898847260458508359"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1899425441481724213",
+    "created_at": "2025-03-11T11:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T12:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899425441481724213"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "twitter",
+          "probability": 0.943,
+          "start": 21,
+          "type": "Other"
+        },
+        {
+          "end": 68,
+          "normalized_text": "cof",
+          "probability": 0.614,
+          "start": 66,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 69,
+          "start": 65,
+          "tag": "cof"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1514137594828931074",
+          "start": 3,
+          "username": "ALEXXIN4K"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iofpKE1Q3U",
+          "end": 93,
+          "expanded_url": "https://x.com/ALEXXIN4K/status/1898847260458508359/video/1",
+          "media_key": "7_1898847200312020993",
+          "start": 70,
+          "url": "https://t.co/iofpKE1Q3U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899425441481724213",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898847260458508359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ALEXXIN4K: hello twitter do we like my prop that i made🔥🔥🔥🗣🗣 #cof https://t.co/iofpKE1Q3U"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12032,
+        "height": 1280,
+        "media_key": "7_1898847200312020993",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1898847200312020993/pu/img/olpEIHoTlNXk_pFr.jpg",
+        "public_metrics": {
+          "view_count": 540
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1898847200312020993/pu/vid/avc1/320x568/M7y3qIubdE19aucA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1898847200312020993/pu/vid/avc1/480x852/GoFn1hI6YvtrligD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1898847200312020993/pu/vid/avc1/720x1280/D6rAofU5We6ZwxZ-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1898847200312020993/pu/pl/SbitF26xc9gwXfpq.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1898847200312020993"
+          ],
+          "media_source_tweet_id": [
+            "1898847260458508359"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1899425441481724213",
+        "created_at": "2025-03-11T11:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T12:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899425441481724213"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "twitter",
+              "probability": 0.943,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 68,
+              "normalized_text": "cof",
+              "probability": 0.614,
+              "start": 66,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "cof"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1514137594828931074",
+              "start": 3,
+              "username": "ALEXXIN4K"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iofpKE1Q3U",
+              "end": 93,
+              "expanded_url": "https://x.com/ALEXXIN4K/status/1898847260458508359/video/1",
+              "media_key": "7_1898847200312020993",
+              "start": 70,
+              "url": "https://t.co/iofpKE1Q3U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899425441481724213",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898847260458508359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ALEXXIN4K: hello twitter do we like my prop that i made🔥🔥🔥🗣🗣 #cof https://t.co/iofpKE1Q3U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1898847200312020993"
+          ]
+        },
+        "author_id": "1514137594828931074",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1898847260458508359",
+        "created_at": "2025-03-09T21:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T22:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898847260458508359"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "twitter",
+              "probability": 0.9699,
+              "start": 6,
+              "type": "Other"
+            },
+            {
+              "end": 53,
+              "normalized_text": "cof",
+              "probability": 0.6957,
+              "start": 51,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "cof"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iofpKE1Q3U",
+              "end": 78,
+              "expanded_url": "https://x.com/ALEXXIN4K/status/1898847260458508359/video/1",
+              "media_key": "7_1898847200312020993",
+              "start": 55,
+              "url": "https://t.co/iofpKE1Q3U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898847260458508359",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 979,
+          "like_count": 145,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "hello twitter do we like my prop that i made🔥🔥🔥🗣🗣 #cof https://t.co/iofpKE1Q3U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 但是还算可以 懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890691451258126336/lPqKitsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 2987,
+          "like_count": 22162,
+          "listed_count": 2,
+          "media_count": 1280,
+          "tweet_count": 20900
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-13T07:05:17.000Z",
+        "description": "i just want anything from you. || osdd-1b sys || i block freely",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afraidofcrying.straw.page",
+                "end": 23,
+                "expanded_url": "https://afraidofcrying.straw.page",
+                "start": 0,
+                "url": "https://t.co/P2fW5qoZOj"
+              }
+            ]
+          }
+        },
+        "id": "1514137594828931074",
+        "location": "He / It || priv @aafraidoffear",
+        "name": "ALEX !! ☆",
+        "pinned_tweet_id": "1897383069507850482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897721902082179072/dWQWTpT9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 223,
+          "like_count": 12002,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 1836
+        },
+        "url": "https://t.co/P2fW5qoZOj",
+        "username": "ALEXXIN4K",
+        "verified": false
+      }
+    ]
+  }
+}

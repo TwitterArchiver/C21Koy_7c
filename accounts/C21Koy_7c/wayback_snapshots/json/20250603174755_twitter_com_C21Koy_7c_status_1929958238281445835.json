@@ -1,0 +1,632 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1929620430152708096"
+      ],
+      "media_source_tweet_id": [
+        "1929620496498491509"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1138829560047259648",
+          "name": "Baldur's Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1138829560047259648",
+          "name": "Baldur's Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      }
+    ],
+    "conversation_id": "1929958238281445835",
+    "created_at": "2025-06-03T17:47:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T18:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929958238281445835"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "Minthara",
+          "probability": 0.4667,
+          "start": 25,
+          "type": "Other"
+        },
+        {
+          "end": 45,
+          "normalized_text": "Spidersilk",
+          "probability": 0.7312,
+          "start": 36,
+          "type": "Other"
+        },
+        {
+          "end": 73,
+          "normalized_text": "Baldur’s Gate 3",
+          "probability": 0.9094,
+          "start": 59,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1533135828783882243",
+          "start": 3,
+          "username": "NargaCosplay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7TR2oJZhr5",
+          "end": 98,
+          "expanded_url": "https://x.com/NargaCosplay/status/1929620496498491509/video/1",
+          "media_key": "13_1929620430152708096",
+          "start": 75,
+          "url": "https://t.co/7TR2oJZhr5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929958238281445835",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 341
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929620496498491509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NargaCosplay: I made Minthara’s Spidersilk armour from Baldur’s Gate 3 https://t.co/7TR2oJZhr5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10333,
+        "height": 1280,
+        "media_key": "13_1929620430152708096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1929620430152708096/img/2Nv1sp9yPaDLqIIf.jpg",
+        "public_metrics": {
+          "view_count": 24130
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929620430152708096/vid/avc1/320x568/d7PXGaM4K9Q88Pal.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929620430152708096/vid/avc1/480x852/Qz5_vnqh95d0G-mT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929620430152708096/vid/avc1/720x1280/F1UgGqqQrej90loE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1929620430152708096/pl/hBy4gMaAQ78P5c38.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1929620430152708096"
+          ],
+          "media_source_tweet_id": [
+            "1929620496498491509"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "1929958238281445835",
+        "created_at": "2025-06-03T17:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T18:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929958238281445835"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "Minthara",
+              "probability": 0.4667,
+              "start": 25,
+              "type": "Other"
+            },
+            {
+              "end": 45,
+              "normalized_text": "Spidersilk",
+              "probability": 0.7312,
+              "start": 36,
+              "type": "Other"
+            },
+            {
+              "end": 73,
+              "normalized_text": "Baldur’s Gate 3",
+              "probability": 0.9094,
+              "start": 59,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1533135828783882243",
+              "start": 3,
+              "username": "NargaCosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7TR2oJZhr5",
+              "end": 98,
+              "expanded_url": "https://x.com/NargaCosplay/status/1929620496498491509/video/1",
+              "media_key": "13_1929620430152708096",
+              "start": 75,
+              "url": "https://t.co/7TR2oJZhr5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929958238281445835",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 341
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929620496498491509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NargaCosplay: I made Minthara’s Spidersilk armour from Baldur’s Gate 3 https://t.co/7TR2oJZhr5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1929620430152708096"
+          ]
+        },
+        "author_id": "1533135828783882243",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "1929620496498491509",
+        "created_at": "2025-06-02T19:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T20:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929620496498491509"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "Minthara",
+              "probability": 0.5108,
+              "start": 7,
+              "type": "Other"
+            },
+            {
+              "end": 27,
+              "normalized_text": "Spidersilk",
+              "probability": 0.7081,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 55,
+              "normalized_text": "Baldur’s Gate 3",
+              "probability": 0.8815,
+              "start": 41,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7TR2oJZhr5",
+              "end": 80,
+              "expanded_url": "https://x.com/NargaCosplay/status/1929620496498491509/video/1",
+              "media_key": "13_1929620430152708096",
+              "start": 57,
+              "url": "https://t.co/7TR2oJZhr5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929620496498491509",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 262,
+          "impression_count": 51549,
+          "like_count": 5392,
+          "quote_count": 11,
+          "reply_count": 42,
+          "retweet_count": 341
+        },
+        "reply_settings": "everyone",
+        "text": "I made Minthara’s Spidersilk armour from Baldur’s Gate 3 https://t.co/7TR2oJZhr5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 3030,
+          "like_count": 23348,
+          "listed_count": 3,
+          "media_count": 1434,
+          "tweet_count": 22360
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-04T17:17:47.000Z",
+        "description": "Cosplay creator. Featuring my favourite costume works I've made over the years. ✨ Inst narga_cosplay ✨ Main @nargalifestream",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 108,
+                "username": "nargalifestream"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nargalifestream.crd.co",
+                "end": 23,
+                "expanded_url": "https://nargalifestream.crd.co",
+                "start": 0,
+                "url": "https://t.co/KBM9M3CtSB"
+              }
+            ]
+          }
+        },
+        "id": "1533135828783882243",
+        "name": "Natalie",
+        "pinned_tweet_id": "1807054646772449484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805863160903090176/YPh8bKo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24216,
+          "following_count": 23,
+          "like_count": 340,
+          "listed_count": 101,
+          "media_count": 152,
+          "tweet_count": 270
+        },
+        "url": "https://t.co/KBM9M3CtSB",
+        "username": "NargaCosplay",
+        "verified": false
+      }
+    ]
+  }
+}

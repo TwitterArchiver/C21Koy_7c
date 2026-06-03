@@ -1,0 +1,851 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895670767318077440",
+        "3_1895670765883944960"
+      ],
+      "media_source_tweet_id": [
+        "1895670771143634948",
+        "1895670771143634948"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1437413779755597824",
+          "name": "Squid Game"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1002576732971384832",
+          "name": "Marvel Universe"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1002576732971384832",
+          "name": "Marvel Universe"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281303495421784065",
+          "name": "Dark drama"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1346749071000670209",
+          "name": "Korean series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1439901275856916484",
+          "name": "Squid Game"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1439901275856916484",
+          "name": "Squid Game"
+        }
+      }
+    ],
+    "conversation_id": "1895777555497828403",
+    "created_at": "2025-03-01T10:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T11:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895777555497828403"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 62,
+          "normalized_text": "SquidGame2",
+          "probability": 0.9603,
+          "start": 53,
+          "type": "Other"
+        },
+        {
+          "end": 70,
+          "normalized_text": "namgyu",
+          "probability": 0.4808,
+          "start": 65,
+          "type": "Other"
+        },
+        {
+          "end": 78,
+          "normalized_text": "Thanos",
+          "probability": 0.478,
+          "start": 73,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 63,
+          "start": 52,
+          "tag": "SquidGame2"
+        },
+        {
+          "end": 71,
+          "start": 64,
+          "tag": "namgyu"
+        },
+        {
+          "end": 79,
+          "start": 72,
+          "tag": "Thanos"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1718711855496187904",
+          "start": 3,
+          "username": "Duz_machines84"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qnmvLBge8r",
+          "end": 103,
+          "expanded_url": "https://x.com/Duz_machines84/status/1895670771143634948/photo/1",
+          "media_key": "3_1895670767318077440",
+          "start": 80,
+          "url": "https://t.co/qnmvLBge8r"
+        },
+        {
+          "display_url": "pic.x.com/qnmvLBge8r",
+          "end": 103,
+          "expanded_url": "https://x.com/Duz_machines84/status/1895670771143634948/photo/1",
+          "media_key": "3_1895670765883944960",
+          "start": 80,
+          "url": "https://t.co/qnmvLBge8r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895777555497828403",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895670771143634948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Duz_machines84: Are we okay with torture here \n\n#SquidGame2 #namgyu #Thanos https://t.co/qnmvLBge8r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1259,
+        "media_key": "3_1895670767318077440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk7GhOkWEAAwl0I.jpg",
+        "width": 1447
+      },
+      {
+        "height": 720,
+        "media_key": "3_1895670765883944960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk7GhJOa8AA93EI.jpg",
+        "width": 823
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895670767318077440",
+            "3_1895670765883944960"
+          ],
+          "media_source_tweet_id": [
+            "1895670771143634948",
+            "1895670771143634948"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1437413779755597824",
+              "name": "Squid Game"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281303495421784065",
+              "name": "Dark drama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1346749071000670209",
+              "name": "Korean series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1439901275856916484",
+              "name": "Squid Game"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1439901275856916484",
+              "name": "Squid Game"
+            }
+          }
+        ],
+        "conversation_id": "1895777555497828403",
+        "created_at": "2025-03-01T10:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T11:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895777555497828403"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 62,
+              "normalized_text": "SquidGame2",
+              "probability": 0.9603,
+              "start": 53,
+              "type": "Other"
+            },
+            {
+              "end": 70,
+              "normalized_text": "namgyu",
+              "probability": 0.4808,
+              "start": 65,
+              "type": "Other"
+            },
+            {
+              "end": 78,
+              "normalized_text": "Thanos",
+              "probability": 0.478,
+              "start": 73,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 52,
+              "tag": "SquidGame2"
+            },
+            {
+              "end": 71,
+              "start": 64,
+              "tag": "namgyu"
+            },
+            {
+              "end": 79,
+              "start": 72,
+              "tag": "Thanos"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1718711855496187904",
+              "start": 3,
+              "username": "Duz_machines84"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qnmvLBge8r",
+              "end": 103,
+              "expanded_url": "https://x.com/Duz_machines84/status/1895670771143634948/photo/1",
+              "media_key": "3_1895670767318077440",
+              "start": 80,
+              "url": "https://t.co/qnmvLBge8r"
+            },
+            {
+              "display_url": "pic.x.com/qnmvLBge8r",
+              "end": 103,
+              "expanded_url": "https://x.com/Duz_machines84/status/1895670771143634948/photo/1",
+              "media_key": "3_1895670765883944960",
+              "start": 80,
+              "url": "https://t.co/qnmvLBge8r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895777555497828403",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895670771143634948",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Duz_machines84: Are we okay with torture here \n\n#SquidGame2 #namgyu #Thanos https://t.co/qnmvLBge8r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895670767318077440",
+            "3_1895670765883944960"
+          ]
+        },
+        "author_id": "1718711855496187904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1437413779755597824",
+              "name": "Squid Game"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281303495421784065",
+              "name": "Dark drama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1346749071000670209",
+              "name": "Korean series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1439901275856916484",
+              "name": "Squid Game"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1439901275856916484",
+              "name": "Squid Game"
+            }
+          }
+        ],
+        "conversation_id": "1895670771143634948",
+        "created_at": "2025-03-01T03:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T04:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895670771143634948"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "SquidGame2",
+              "probability": 0.9702,
+              "start": 33,
+              "type": "Other"
+            },
+            {
+              "end": 50,
+              "normalized_text": "namgyu",
+              "probability": 0.5514,
+              "start": 45,
+              "type": "Person"
+            },
+            {
+              "end": 58,
+              "normalized_text": "Thanos",
+              "probability": 0.5064,
+              "start": 53,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 32,
+              "tag": "SquidGame2"
+            },
+            {
+              "end": 51,
+              "start": 44,
+              "tag": "namgyu"
+            },
+            {
+              "end": 59,
+              "start": 52,
+              "tag": "Thanos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qnmvLBge8r",
+              "end": 83,
+              "expanded_url": "https://x.com/Duz_machines84/status/1895670771143634948/photo/1",
+              "media_key": "3_1895670767318077440",
+              "start": 60,
+              "url": "https://t.co/qnmvLBge8r"
+            },
+            {
+              "display_url": "pic.x.com/qnmvLBge8r",
+              "end": 83,
+              "expanded_url": "https://x.com/Duz_machines84/status/1895670771143634948/photo/1",
+              "media_key": "3_1895670765883944960",
+              "start": 60,
+              "url": "https://t.co/qnmvLBge8r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895670771143634948",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 4179,
+          "like_count": 622,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "Are we okay with torture here \n\n#SquidGame2 #namgyu #Thanos https://t.co/qnmvLBge8r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 但是还算可以 懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890691451258126336/lPqKitsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 2984,
+          "like_count": 21951,
+          "listed_count": 2,
+          "media_count": 1274,
+          "tweet_count": 20692
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-29T19:30:25.000Z",
+        "description": "he him | i was forced into this | \nno ecto, proship, or nsfw",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@dr.lobotomyma…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@dr.lobotomymanclone?_t=8kJcIPDdImo&_r=1",
+                "start": 0,
+                "url": "https://t.co/FDBLyjX489"
+              }
+            ]
+          }
+        },
+        "id": "1718711855496187904",
+        "location": "ur moms bootyhole",
+        "name": "Dr.Lobotomy Man",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718712022073012224/gBHpOM4m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7662,
+          "following_count": 155,
+          "like_count": 9793,
+          "listed_count": 7,
+          "media_count": 216,
+          "tweet_count": 1034
+        },
+        "url": "https://t.co/FDBLyjX489",
+        "username": "Duz_machines84",
+        "verified": false
+      }
+    ]
+  }
+}

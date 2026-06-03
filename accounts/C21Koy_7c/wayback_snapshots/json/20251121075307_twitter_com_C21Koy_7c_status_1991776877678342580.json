@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991552114452230144"
+      ],
+      "media_source_tweet_id": [
+        "1991552121423163621"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1991776877678342580",
+    "created_at": "2025-11-21T07:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T08:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991776877678342580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1757296781900345344",
+          "start": 3,
+          "username": "sadgurl7373"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gnCEFnb3tt",
+          "end": 44,
+          "expanded_url": "https://x.com/sadgurl7373/status/1991552121423163621/photo/1",
+          "media_key": "3_1991552114452230144",
+          "start": 21,
+          "url": "https://t.co/gnCEFnb3tt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991776877678342580",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991552121423163621",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sadgurl7373: Dâm https://t.co/gnCEFnb3tt"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1991776877678342580].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1991776877678342580",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1991776877678342580"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2028,
+        "media_key": "3_1991552114452230144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6NqGK2acAAAiCg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991552114452230144"
+          ]
+        },
+        "author_id": "1757296781900345344",
+        "conversation_id": "1991552121423163621",
+        "created_at": "2025-11-20T17:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T18:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991552121423163621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gnCEFnb3tt",
+              "end": 27,
+              "expanded_url": "https://x.com/sadgurl7373/status/1991552121423163621/photo/1",
+              "media_key": "3_1991552114452230144",
+              "start": 4,
+              "url": "https://t.co/gnCEFnb3tt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991552121423163621",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 1131,
+          "like_count": 347,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "Dâm https://t.co/gnCEFnb3tt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987482127756410880/kunx4knz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 3163,
+          "like_count": 25913,
+          "listed_count": 5,
+          "media_count": 1755,
+          "tweet_count": 24730
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-13T06:53:05.000Z",
+        "description": "bún bò huế",
+        "id": "1757296781900345344",
+        "location": "yaoi",
+        "name": "jessica",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991020182496837632/Xz7lyZWc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1899,
+          "following_count": 77,
+          "like_count": 1723,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1722
+        },
+        "username": "sadgurl7373",
+        "verified": false
+      }
+    ]
+  }
+}

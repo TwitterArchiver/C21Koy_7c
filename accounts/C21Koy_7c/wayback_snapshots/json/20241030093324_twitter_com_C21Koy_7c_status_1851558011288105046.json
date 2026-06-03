@@ -1,0 +1,762 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Halloween for all years",
+          "id": "1301463450099482625",
+          "name": "Halloween "
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1851558011288105046",
+    "created_at": "2024-10-30T09:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T10:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851558011288105046"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 72,
+          "normalized_text": "Halloween",
+          "probability": 0.665,
+          "start": 64,
+          "type": "Other"
+        },
+        {
+          "end": 93,
+          "normalized_text": "Baked with love",
+          "probability": 0.8865,
+          "start": 79,
+          "type": "Other"
+        },
+        {
+          "end": 101,
+          "normalized_text": "Araj",
+          "probability": 0.4947,
+          "start": 98,
+          "type": "Other"
+        },
+        {
+          "end": 120,
+          "normalized_text": "Faerun Bakery",
+          "probability": 0.7676,
+          "start": 108,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1758442322696732672",
+          "start": 3,
+          "username": "TheTakemi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851558011288105046",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 139
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851373136056631685",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheTakemi: ** Don't forget to treat your favorite spawn for Halloween! **\n\nBaked with love by Araj from Faerun Bakery, it will give you…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Halloween for all years",
+              "id": "1301463450099482625",
+              "name": "Halloween "
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1851558011288105046",
+        "created_at": "2024-10-30T09:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T10:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851558011288105046"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 72,
+              "normalized_text": "Halloween",
+              "probability": 0.665,
+              "start": 64,
+              "type": "Other"
+            },
+            {
+              "end": 93,
+              "normalized_text": "Baked with love",
+              "probability": 0.8865,
+              "start": 79,
+              "type": "Other"
+            },
+            {
+              "end": 101,
+              "normalized_text": "Araj",
+              "probability": 0.4947,
+              "start": 98,
+              "type": "Other"
+            },
+            {
+              "end": 120,
+              "normalized_text": "Faerun Bakery",
+              "probability": 0.7676,
+              "start": 108,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1758442322696732672",
+              "start": 3,
+              "username": "TheTakemi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851558011288105046",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 139
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851373136056631685",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheTakemi: ** Don't forget to treat your favorite spawn for Halloween! **\n\nBaked with love by Araj from Faerun Bakery, it will give you…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851371538253271040"
+          ]
+        },
+        "author_id": "1758442322696732672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Halloween for all years",
+              "id": "1301463450099482625",
+              "name": "Halloween "
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144599042",
+              "name": "Snacks - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026568582",
+              "name": "Oreo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026568582",
+              "name": "Oreo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1138829560047259648",
+              "name": "Baldur's Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Cookies",
+              "id": "825058563915526145",
+              "name": "Cookies"
+            }
+          }
+        ],
+        "conversation_id": "1851373136056631685",
+        "created_at": "2024-10-29T21:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T22:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851373136056631685"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 57,
+              "normalized_text": "Halloween",
+              "probability": 0.6743,
+              "start": 49,
+              "type": "Other"
+            },
+            {
+              "end": 78,
+              "normalized_text": "Baked with love",
+              "probability": 0.7736,
+              "start": 64,
+              "type": "Other"
+            },
+            {
+              "end": 86,
+              "normalized_text": "Araj",
+              "probability": 0.4765,
+              "start": 83,
+              "type": "Other"
+            },
+            {
+              "end": 105,
+              "normalized_text": "Faerun Bakery",
+              "probability": 0.7937,
+              "start": 93,
+              "type": "Other"
+            },
+            {
+              "end": 190,
+              "normalized_text": "Emperor'",
+              "probability": 0.478,
+              "start": 183,
+              "type": "Other"
+            },
+            {
+              "end": 196,
+              "normalized_text": "Oreo",
+              "probability": 0.4744,
+              "start": 193,
+              "type": "Other"
+            },
+            {
+              "end": 223,
+              "normalized_text": "BG3",
+              "probability": 0.8424,
+              "start": 221,
+              "type": "Other"
+            },
+            {
+              "end": 237,
+              "normalized_text": "BaldursGate3",
+              "probability": 0.5804,
+              "start": 226,
+              "type": "Other"
+            },
+            {
+              "end": 247,
+              "normalized_text": "Astarion",
+              "probability": 0.5492,
+              "start": 240,
+              "type": "Other"
+            },
+            {
+              "end": 256,
+              "normalized_text": "Cazador",
+              "probability": 0.5554,
+              "start": 250,
+              "type": "Other"
+            },
+            {
+              "end": 267,
+              "normalized_text": "Halloween",
+              "probability": 0.6369,
+              "start": 259,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 224,
+              "start": 220,
+              "tag": "BG3"
+            },
+            {
+              "end": 238,
+              "start": 225,
+              "tag": "BaldursGate3"
+            },
+            {
+              "end": 248,
+              "start": 239,
+              "tag": "Astarion"
+            },
+            {
+              "end": 257,
+              "start": 249,
+              "tag": "Cazador"
+            },
+            {
+              "end": 268,
+              "start": 258,
+              "tag": "Halloween"
+            },
+            {
+              "end": 276,
+              "start": 269,
+              "tag": "mockup"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 217,
+              "id": "125938349",
+              "start": 203,
+              "username": "larianstudios"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jLSEz4ahfH",
+              "end": 300,
+              "expanded_url": "https://x.com/TheTakemi/status/1851373136056631685/photo/1",
+              "media_key": "3_1851371538253271040",
+              "start": 277,
+              "url": "https://t.co/jLSEz4ahfH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851373136056631685",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 13124,
+          "like_count": 660,
+          "quote_count": 14,
+          "reply_count": 5,
+          "retweet_count": 139
+        },
+        "reply_settings": "everyone",
+        "text": "** Don't forget to treat your favorite spawn for Halloween! **\n\nBaked with love by Araj from Faerun Bakery, it will give your spawn luscious hair and healthy teef!\n\nTaste better than Emperor's Oreo from @larianstudios.\n\n#BG3 #BaldursGate3 #Astarion #Cazador #Halloween #mockup https://t.co/jLSEz4ahfH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫bi🏳️‍🌈/ they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT大概淡坑：COD/MK/恐影 不善表达 但是还算可以 请和我保持联络谢谢 尽力活着 我没恶意 我鼓起很大勇气才会评论你 lgbt+ GB GL大于BL BG 20+",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1850400060410093573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849238518457143296/KSYxwv47_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 2856,
+          "like_count": 20398,
+          "listed_count": 2,
+          "tweet_count": 17435
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T10:45:29.000Z",
+        "description": "Fanart | Gaming | Procrastination | Alternative account for NSFW : https://t.co/TRsIpK0Smw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/takemislair",
+                "end": 90,
+                "expanded_url": "https://x.com/takemislair",
+                "start": 67,
+                "url": "https://t.co/TRsIpK0Smw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Takemiart",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Takemiart",
+                "start": 0,
+                "url": "https://t.co/J3lISnAOVE"
+              }
+            ]
+          }
+        },
+        "id": "1758442322696732672",
+        "location": "Japon",
+        "name": "Takemi Art",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834258496592003072/94ecnJUp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 11,
+          "like_count": 56,
+          "listed_count": 1,
+          "tweet_count": 36
+        },
+        "url": "https://t.co/J3lISnAOVE",
+        "username": "TheTakemi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1918289339517419525"
+      ],
+      "media_source_tweet_id": [
+        "1918289455653462274"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1918294222819721270",
+    "created_at": "2025-05-02T13:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T14:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918294222819721270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1505873863703470081",
+          "start": 3,
+          "username": "gunalbum"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lIAlVTSAdL",
+          "end": 37,
+          "expanded_url": "https://x.com/JaegerZ999/status/1918289455653462274/video/1",
+          "media_key": "13_1918289339517419525",
+          "start": 14,
+          "url": "https://t.co/lIAlVTSAdL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918294222819721270",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918290097784414375",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gunalbum: https://t.co/lIAlVTSAdL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26333,
+        "height": 1920,
+        "media_key": "13_1918289339517419525",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1918289339517419525/img/ZPkLxaZoZ9I8PwaJ.jpg",
+        "public_metrics": {
+          "view_count": 1038
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1918289339517419525/pl/BO34EO2rJMUpLQE4.m3u8?tag=16&v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1918289339517419525/vid/avc1/1080x1920/qlMwkDT2sh0nOpeH.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1918289339517419525/vid/avc1/480x852/xBc9kQ8wxVoz6UMP.mp4?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1918289339517419525/vid/avc1/320x568/PIHTxgiy-voynBx3.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1918289339517419525/vid/avc1/720x1280/Du2QfRTHyBQMlxB1.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1918289339517419525"
+          ],
+          "media_source_tweet_id": [
+            "1918289455653462274"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1918294222819721270",
+        "created_at": "2025-05-02T13:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T14:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918294222819721270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1505873863703470081",
+              "start": 3,
+              "username": "gunalbum"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lIAlVTSAdL",
+              "end": 37,
+              "expanded_url": "https://x.com/JaegerZ999/status/1918289455653462274/video/1",
+              "media_key": "13_1918289339517419525",
+              "start": 14,
+              "url": "https://t.co/lIAlVTSAdL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918294222819721270",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918290097784414375",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gunalbum: https://t.co/lIAlVTSAdL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1918289339517419525"
+          ],
+          "media_source_tweet_id": [
+            "1918289455653462274"
+          ]
+        },
+        "author_id": "1505873863703470081",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1918290097784414375",
+        "created_at": "2025-05-02T13:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T14:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918290097784414375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lIAlVTSAdL",
+              "end": 23,
+              "expanded_url": "https://x.com/JaegerZ999/status/1918289455653462274/video/1",
+              "media_key": "13_1918289339517419525",
+              "start": 0,
+              "url": "https://t.co/lIAlVTSAdL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918290097784414375",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1986,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lIAlVTSAdL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我yan｜肉鸦都可以",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 3011,
+          "like_count": 22786,
+          "listed_count": 3,
+          "media_count": 1370,
+          "tweet_count": 21828
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T11:48:23.000Z",
+        "description": "Shares good/wired gun content, 🚫No Sales🚫",
+        "id": "1505873863703470081",
+        "location": "Earth",
+        "name": "Blackburn firearms",
+        "pinned_tweet_id": "1917971213940637917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766576731849129984/XfHWxIAF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273353,
+          "following_count": 646,
+          "like_count": 23863,
+          "listed_count": 371,
+          "media_count": 15967,
+          "tweet_count": 30768
+        },
+        "username": "gunalbum",
+        "verified": false
+      }
+    ]
+  }
+}

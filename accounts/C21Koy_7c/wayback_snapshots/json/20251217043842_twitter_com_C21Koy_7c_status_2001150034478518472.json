@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2000954112905764872"
+      ],
+      "media_source_tweet_id": [
+        "2000954144027521037"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2001150034478518472",
+    "created_at": "2025-12-17T04:38:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T05:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001150034478518472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1560540650772131840",
+          "start": 3,
+          "username": "NWgKN1pcjLnL5ym"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r9iEoBlyyW",
+          "end": 58,
+          "expanded_url": "https://x.com/NWgKN1pcjLnL5ym/status/2000954144027521037/video/1",
+          "media_key": "13_2000954112905764872",
+          "start": 35,
+          "url": "https://t.co/r9iEoBlyyW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001150034478518472",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 263
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000954144027521037",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NWgKN1pcjLnL5ym: 너무 귀여운 상호대사.. https://t.co/r9iEoBlyyW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18760,
+        "height": 2000,
+        "media_key": "13_2000954112905764872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000954112905764872/img/5TYpf4okQl0nxFOd.jpg",
+        "public_metrics": {
+          "view_count": 5726
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000954112905764872/vid/avc1/320x320/wkqH_rPutaxA1gg4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000954112905764872/vid/avc1/540x540/ZlZx64L4ZatS-kcX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000954112905764872/vid/avc1/720x720/sszPhkocwyzu2wPE.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000954112905764872/pl/f71l7ypGN4KHSq82.m3u8?tag=14&v=26a"
+          }
+        ],
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000954112905764872"
+          ],
+          "media_source_tweet_id": [
+            "2000954144027521037"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2001150034478518472",
+        "created_at": "2025-12-17T04:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T05:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001150034478518472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1560540650772131840",
+              "start": 3,
+              "username": "NWgKN1pcjLnL5ym"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r9iEoBlyyW",
+              "end": 58,
+              "expanded_url": "https://x.com/NWgKN1pcjLnL5ym/status/2000954144027521037/video/1",
+              "media_key": "13_2000954112905764872",
+              "start": 35,
+              "url": "https://t.co/r9iEoBlyyW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001150034478518472",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 263
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000954144027521037",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NWgKN1pcjLnL5ym: 너무 귀여운 상호대사.. https://t.co/r9iEoBlyyW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000954112905764872"
+          ]
+        },
+        "author_id": "1560540650772131840",
+        "conversation_id": "2000954144027521037",
+        "created_at": "2025-12-16T15:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T16:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000954144027521037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r9iEoBlyyW",
+              "end": 37,
+              "expanded_url": "https://x.com/NWgKN1pcjLnL5ym/status/2000954144027521037/video/1",
+              "media_key": "13_2000954112905764872",
+              "start": 14,
+              "url": "https://t.co/r9iEoBlyyW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000954144027521037",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 14046,
+          "like_count": 681,
+          "quote_count": 20,
+          "reply_count": 1,
+          "retweet_count": 263
+        },
+        "reply_settings": "everyone",
+        "text": "너무 귀여운 상호대사.. https://t.co/r9iEoBlyyW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987482127756410880/kunx4knz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 3187,
+          "like_count": 26953,
+          "listed_count": 5,
+          "media_count": 1817,
+          "tweet_count": 25505
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T08:14:45.000Z",
+        "description": "",
+        "id": "1560540650772131840",
+        "name": "뉘엿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735304488288919552/1b0Ne08n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6587,
+          "following_count": 75,
+          "like_count": 36982,
+          "listed_count": 24,
+          "media_count": 136,
+          "tweet_count": 602
+        },
+        "username": "NWgKN1pcjLnL5ym",
+        "verified": false
+      }
+    ]
+  }
+}

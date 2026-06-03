@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_source_tweet_id": [
+        "1849817944924225975"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1850180158076211280",
+    "created_at": "2024-10-26T14:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-26T15:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850180158076211280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1491100230564995074",
+          "start": 3,
+          "username": "hiphop_life_do"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y2IBXLZtMQ",
+          "end": 49,
+          "expanded_url": "https://x.com/hiphop_life_do/status/1849817944924225975/video/1",
+          "media_key": "7_1849817929086537728",
+          "start": 26,
+          "url": "https://t.co/Y2IBXLZtMQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850180158076211280",
+    "lang": "ko",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5001
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849817944924225975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @hiphop_life_do: 감사합니다 https://t.co/Y2IBXLZtMQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_source_tweet_id": [
+            "1849817944924225975"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1850180158076211280",
+        "created_at": "2024-10-26T14:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T15:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850180158076211280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1491100230564995074",
+              "start": 3,
+              "username": "hiphop_life_do"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y2IBXLZtMQ",
+              "end": 49,
+              "expanded_url": "https://x.com/hiphop_life_do/status/1849817944924225975/video/1",
+              "media_key": "7_1849817929086537728",
+              "start": 26,
+              "url": "https://t.co/Y2IBXLZtMQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850180158076211280",
+        "lang": "ko",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5001
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849817944924225975",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @hiphop_life_do: 감사합니다 https://t.co/Y2IBXLZtMQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1849817929086537728"
+          ]
+        },
+        "author_id": "1491100230564995074",
+        "conversation_id": "1849817944924225975",
+        "created_at": "2024-10-25T14:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-25T15:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1849817944924225975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y2IBXLZtMQ",
+              "end": 29,
+              "expanded_url": "https://x.com/hiphop_life_do/status/1849817944924225975/video/1",
+              "media_key": "7_1849817929086537728",
+              "start": 6,
+              "url": "https://t.co/Y2IBXLZtMQ"
+            },
+            {
+              "display_url": "x.com/gangdo77/statu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/gangdo77/status/1849732243305930796",
+              "start": 30,
+              "url": "https://t.co/DobALtXe8m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1849817944924225975",
+        "lang": "ko",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1695,
+          "impression_count": 291160,
+          "like_count": 4891,
+          "quote_count": 332,
+          "reply_count": 0,
+          "retweet_count": 5001
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849732243305930796",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "감사합니다 https://t.co/Y2IBXLZtMQ https://t.co/DobALtXe8m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫bi🏳️‍🌈/ they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT大概淡坑：COD/MK/恐影 不善表达 但是还算可以 请和我保持联络谢谢 尽力活着 我没恶意 我鼓起很大勇气才会评论你 lgbt+ GB GL大于BL BG",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1787381657340883290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849238518457143296/KSYxwv47_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 2841,
+          "like_count": 20269,
+          "listed_count": 2,
+          "tweet_count": 17073
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T17:22:58.000Z",
+        "description": "또눈은눈으로이는이로갚으라하였다는것을너희가들었으나나는너희에게이르노니악한자를대적지말라누구든지네오른편뺨을치거든왼편도돌려대며또너를송사하여속옷을가지고자하는자에게겉옷까지도가지게하며또누구든지너로억지로오리를가게하거든그사람과십리를동행하고네게구하는자에게주며네게꾸고자하는자에게거절하지말라또네이웃을사랑하고네원",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/1610691128?c=3",
+                "end": 23,
+                "expanded_url": "http://pushoong.com/1610691128?c=3",
+                "start": 0,
+                "url": "https://t.co/AByVDjaP87"
+              }
+            ]
+          }
+        },
+        "id": "1491100230564995074",
+        "location": "장르계 ×",
+        "name": "은우",
+        "pinned_tweet_id": "1757146465603137662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844621869879787522/T0IPLgKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 193,
+          "like_count": 21510,
+          "listed_count": 1,
+          "tweet_count": 38824
+        },
+        "url": "https://t.co/AByVDjaP87",
+        "username": "hiphop_life_do",
+        "verified": false
+      }
+    ]
+  }
+}

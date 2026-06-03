@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1842658227038941184"
+      ],
+      "media_source_tweet_id": [
+        "1842658237134602577"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1842776780534673629",
+    "created_at": "2024-10-06T03:59:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-06T04:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842776780534673629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1822523442878623744",
+          "start": 3,
+          "username": "hamugate3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/43fe2fquDw",
+          "end": 38,
+          "expanded_url": "https://x.com/hamugate3/status/1842658237134602577/photo/1",
+          "media_key": "3_1842658227038941184",
+          "start": 15,
+          "url": "https://t.co/43fe2fquDw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842776780534673629",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842658237134602577",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hamugate3: https://t.co/43fe2fquDw"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1842776780534673629].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1842776780534673629",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1842776780534673629"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1835,
+        "media_key": "3_1842658227038941184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZJv5QkbcAAHev6.png",
+        "width": 1444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1842658227038941184"
+          ]
+        },
+        "author_id": "1822523442878623744",
+        "conversation_id": "1842658237134602577",
+        "created_at": "2024-10-05T20:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T21:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842658237134602577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/43fe2fquDw",
+              "end": 23,
+              "expanded_url": "https://x.com/hamugate3/status/1842658237134602577/photo/1",
+              "media_key": "3_1842658227038941184",
+              "start": 0,
+              "url": "https://t.co/43fe2fquDw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842658237134602577",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1231,
+          "like_count": 54,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/43fe2fquDw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫 Bipolar patient/ they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT大概淡坑：COD/MK/恐影 不善表达 但是还算nice 请和我保持联络谢谢 努力尽力活着 我没恶意 我鼓起很大勇气才会评论你 因为我想友善的和你互动",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1787381657340883290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839204245423403008/lGS1aYqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 2813,
+          "like_count": 20072,
+          "listed_count": 3,
+          "tweet_count": 16092
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T06:40:36.000Z",
+        "description": "BG3,샌드록 드림 혹은 그냥 2차 낙서가 올라옴 가끔 롤이나 새로한 게임을 그릴지도 모르는 잡겜계 (블언블 프리 저도 편하게 합니다)",
+        "id": "1822523442878623744",
+        "location": "♥♥♥♥프사,헤더는 지인발♥♥♥♥",
+        "name": "겜사탕",
+        "pinned_tweet_id": "1834497406467244395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834323525731319809/V4f9_dsJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 65,
+          "like_count": 618,
+          "listed_count": 3,
+          "tweet_count": 4784
+        },
+        "username": "hamugate3",
+        "verified": false
+      }
+    ]
+  }
+}

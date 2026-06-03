@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2007428687030038530"
+      ],
+      "media_source_tweet_id": [
+        "2007428777366958116"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2007734036555542784",
+    "created_at": "2026-01-04T08:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T09:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007734036555542784"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 82,
+          "start": 69,
+          "tag": "Mouthwashing"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1068910049244803072",
+          "start": 3,
+          "username": "Joetastic_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HoqSZ2QVEz",
+          "end": 106,
+          "expanded_url": "https://x.com/Joetastic_/status/2007428777366958116/video/1",
+          "media_key": "13_2007428687030038530",
+          "start": 83,
+          "url": "https://t.co/HoqSZ2QVEz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007734036555542784",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5611
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007428777366958116",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Joetastic_: Showing our Co-pilot things he's never seen before.\n\n#Mouthwashing https://t.co/HoqSZ2QVEz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21077,
+        "height": 1440,
+        "media_key": "13_2007428687030038530",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2007428687030038530/img/MeegUrIKAdQ8Cwj9.jpg",
+        "public_metrics": {
+          "view_count": 608139
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007428687030038530/vid/avc1/720x1280/MdFvLDN3BQQNgsmk.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007428687030038530/vid/avc1/320x568/smlRGBBvNI9RkaQ-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2007428687030038530/pl/2sJGB78_LHQ_F4jg.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007428687030038530/vid/avc1/480x852/rdbx7B2_w1N-Ig5b.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007428687030038530/vid/avc1/810x1440/YMElnqv8UrdCCclO.mp4"
+          }
+        ],
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2007428687030038530"
+          ],
+          "media_source_tweet_id": [
+            "2007428777366958116"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2007734036555542784",
+        "created_at": "2026-01-04T08:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T09:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007734036555542784"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 69,
+              "tag": "Mouthwashing"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1068910049244803072",
+              "start": 3,
+              "username": "Joetastic_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HoqSZ2QVEz",
+              "end": 106,
+              "expanded_url": "https://x.com/Joetastic_/status/2007428777366958116/video/1",
+              "media_key": "13_2007428687030038530",
+              "start": 83,
+              "url": "https://t.co/HoqSZ2QVEz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007734036555542784",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5611
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007428777366958116",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Joetastic_: Showing our Co-pilot things he's never seen before.\n\n#Mouthwashing https://t.co/HoqSZ2QVEz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2007428687030038530"
+          ]
+        },
+        "author_id": "1068910049244803072",
+        "conversation_id": "2007428777366958116",
+        "created_at": "2026-01-03T12:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T13:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007428777366958116"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 53,
+              "tag": "Mouthwashing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HoqSZ2QVEz",
+              "end": 90,
+              "expanded_url": "https://x.com/Joetastic_/status/2007428777366958116/video/1",
+              "media_key": "13_2007428687030038530",
+              "start": 67,
+              "url": "https://t.co/HoqSZ2QVEz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007428777366958116",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8470,
+          "impression_count": 1157243,
+          "like_count": 47800,
+          "quote_count": 217,
+          "reply_count": 110,
+          "retweet_count": 5611
+        },
+        "reply_settings": "everyone",
+        "text": "Showing our Co-pilot things he's never seen before.\n\n#Mouthwashing https://t.co/HoqSZ2QVEz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nay2841",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nay2841",
+                "start": 0,
+                "url": "https://t.co/p7oRHhHxDn"
+              }
+            ]
+          }
+        },
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987482127756410880/kunx4knz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 3221,
+          "like_count": 27583,
+          "listed_count": 5,
+          "media_count": 1875,
+          "tweet_count": 26070
+        },
+        "url": "https://t.co/p7oRHhHxDn",
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-01T16:49:49.000Z",
+        "description": "I make #Mouthwashing & #Signalis Videos | Rank 1 @beatsaber Mapper | GamerSupps: JOETASTIC | DM for commission enquiries | (Pfp by @Kuvshinov_Ilya)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 7,
+                "tag": "Mouthwashing"
+              },
+              {
+                "end": 32,
+                "start": 23,
+                "tag": "Signalis"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "beatsaber"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "Kuvshinov_Ilya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Joetastic",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Joetastic",
+                "start": 0,
+                "url": "https://t.co/mhCdUH5Rq3"
+              }
+            ]
+          }
+        },
+        "id": "1068910049244803072",
+        "name": "Joetastic",
+        "pinned_tweet_id": "1852768742465536039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963424279862886400/sJXApp19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74204,
+          "following_count": 2972,
+          "like_count": 119201,
+          "listed_count": 69,
+          "media_count": 6373,
+          "tweet_count": 20796
+        },
+        "url": "https://t.co/mhCdUH5Rq3",
+        "username": "Joetastic_",
+        "verified": true
+      }
+    ]
+  }
+}

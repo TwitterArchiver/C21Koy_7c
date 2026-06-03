@@ -1,0 +1,844 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888118885867835392",
+        "3_1888118885871939584",
+        "3_1888118885871910912",
+        "3_1888118885867786240"
+      ],
+      "media_source_tweet_id": [
+        "1888118928867807573",
+        "1888118928867807573",
+        "1888118928867807573",
+        "1888118928867807573"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1437413779755597824",
+          "name": "Squid Game"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1002576732971384832",
+          "name": "Marvel Universe"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1002576732971384832",
+          "name": "Marvel Universe"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281303495421784065",
+          "name": "Dark drama"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1346749071000670209",
+          "name": "Korean series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1439901275856916484",
+          "name": "Squid Game"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1439901275856916484",
+          "name": "Squid Game"
+        }
+      }
+    ],
+    "conversation_id": "1888164265615388801",
+    "created_at": "2025-02-08T09:53:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T10:53:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888164265615388801"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 64,
+          "start": 53,
+          "tag": "SquidGame2"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1370529790378209281",
+          "start": 3,
+          "username": "arcorclynn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d4GWwyClgA",
+          "end": 88,
+          "expanded_url": "https://x.com/arcorclynn/status/1888118928867807573/photo/1",
+          "media_key": "3_1888118885867835392",
+          "start": 65,
+          "url": "https://t.co/d4GWwyClgA"
+        },
+        {
+          "display_url": "pic.x.com/d4GWwyClgA",
+          "end": 88,
+          "expanded_url": "https://x.com/arcorclynn/status/1888118928867807573/photo/1",
+          "media_key": "3_1888118885871939584",
+          "start": 65,
+          "url": "https://t.co/d4GWwyClgA"
+        },
+        {
+          "display_url": "pic.x.com/d4GWwyClgA",
+          "end": 88,
+          "expanded_url": "https://x.com/arcorclynn/status/1888118928867807573/photo/1",
+          "media_key": "3_1888118885871910912",
+          "start": 65,
+          "url": "https://t.co/d4GWwyClgA"
+        },
+        {
+          "display_url": "pic.x.com/d4GWwyClgA",
+          "end": 88,
+          "expanded_url": "https://x.com/arcorclynn/status/1888118928867807573/photo/1",
+          "media_key": "3_1888118885867786240",
+          "start": 65,
+          "url": "https://t.co/d4GWwyClgA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888164265615388801",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 203
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888118928867807573",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @arcorclynn: self indulgent, i’ll do thanos later #SquidGame2 https://t.co/d4GWwyClgA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1528,
+        "media_key": "3_1888118885867835392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjPyH33b0AAPdgU.jpg",
+        "width": 1567
+      },
+      {
+        "height": 1521,
+        "media_key": "3_1888118885871939584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjPyH34acAA9Qpn.jpg",
+        "width": 1561
+      },
+      {
+        "height": 1530,
+        "media_key": "3_1888118885871910912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjPyH34aAAADP8x.jpg",
+        "width": 1532
+      },
+      {
+        "height": 1532,
+        "media_key": "3_1888118885867786240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjPyH33bEAAjoOO.jpg",
+        "width": 1669
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888118885867835392",
+            "3_1888118885871939584",
+            "3_1888118885871910912",
+            "3_1888118885867786240"
+          ],
+          "media_source_tweet_id": [
+            "1888118928867807573",
+            "1888118928867807573",
+            "1888118928867807573",
+            "1888118928867807573"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1437413779755597824",
+              "name": "Squid Game"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281303495421784065",
+              "name": "Dark drama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1346749071000670209",
+              "name": "Korean series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1439901275856916484",
+              "name": "Squid Game"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1439901275856916484",
+              "name": "Squid Game"
+            }
+          }
+        ],
+        "conversation_id": "1888164265615388801",
+        "created_at": "2025-02-08T09:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T10:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888164265615388801"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 53,
+              "tag": "SquidGame2"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1370529790378209281",
+              "start": 3,
+              "username": "arcorclynn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d4GWwyClgA",
+              "end": 88,
+              "expanded_url": "https://x.com/arcorclynn/status/1888118928867807573/photo/1",
+              "media_key": "3_1888118885867835392",
+              "start": 65,
+              "url": "https://t.co/d4GWwyClgA"
+            },
+            {
+              "display_url": "pic.x.com/d4GWwyClgA",
+              "end": 88,
+              "expanded_url": "https://x.com/arcorclynn/status/1888118928867807573/photo/1",
+              "media_key": "3_1888118885871939584",
+              "start": 65,
+              "url": "https://t.co/d4GWwyClgA"
+            },
+            {
+              "display_url": "pic.x.com/d4GWwyClgA",
+              "end": 88,
+              "expanded_url": "https://x.com/arcorclynn/status/1888118928867807573/photo/1",
+              "media_key": "3_1888118885871910912",
+              "start": 65,
+              "url": "https://t.co/d4GWwyClgA"
+            },
+            {
+              "display_url": "pic.x.com/d4GWwyClgA",
+              "end": 88,
+              "expanded_url": "https://x.com/arcorclynn/status/1888118928867807573/photo/1",
+              "media_key": "3_1888118885867786240",
+              "start": 65,
+              "url": "https://t.co/d4GWwyClgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888164265615388801",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 203
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888118928867807573",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @arcorclynn: self indulgent, i’ll do thanos later #SquidGame2 https://t.co/d4GWwyClgA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888118885867835392",
+            "3_1888118885871939584",
+            "3_1888118885871910912",
+            "3_1888118885867786240"
+          ]
+        },
+        "author_id": "1370529790378209281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1437413779755597824",
+              "name": "Squid Game"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281303495421784065",
+              "name": "Dark drama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1346749071000670209",
+              "name": "Korean series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1439901275856916484",
+              "name": "Squid Game"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1439901275856916484",
+              "name": "Squid Game"
+            }
+          }
+        ],
+        "conversation_id": "1888118928867807573",
+        "created_at": "2025-02-08T06:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T07:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888118928867807573"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "thanos",
+              "probability": 0.5355,
+              "start": 24,
+              "type": "Other"
+            },
+            {
+              "end": 47,
+              "normalized_text": "SquidGame2",
+              "probability": 0.9524,
+              "start": 38,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 37,
+              "tag": "SquidGame2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d4GWwyClgA",
+              "end": 72,
+              "expanded_url": "https://x.com/arcorclynn/status/1888118928867807573/photo/1",
+              "media_key": "3_1888118885867835392",
+              "start": 49,
+              "url": "https://t.co/d4GWwyClgA"
+            },
+            {
+              "display_url": "pic.x.com/d4GWwyClgA",
+              "end": 72,
+              "expanded_url": "https://x.com/arcorclynn/status/1888118928867807573/photo/1",
+              "media_key": "3_1888118885871939584",
+              "start": 49,
+              "url": "https://t.co/d4GWwyClgA"
+            },
+            {
+              "display_url": "pic.x.com/d4GWwyClgA",
+              "end": 72,
+              "expanded_url": "https://x.com/arcorclynn/status/1888118928867807573/photo/1",
+              "media_key": "3_1888118885871910912",
+              "start": 49,
+              "url": "https://t.co/d4GWwyClgA"
+            },
+            {
+              "display_url": "pic.x.com/d4GWwyClgA",
+              "end": 72,
+              "expanded_url": "https://x.com/arcorclynn/status/1888118928867807573/photo/1",
+              "media_key": "3_1888118885867786240",
+              "start": 49,
+              "url": "https://t.co/d4GWwyClgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888118928867807573",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 178,
+          "impression_count": 5388,
+          "like_count": 853,
+          "quote_count": 22,
+          "reply_count": 5,
+          "retweet_count": 203
+        },
+        "reply_settings": "everyone",
+        "text": "self indulgent, i’ll do thanos later #SquidGame2 https://t.co/d4GWwyClgA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH! 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影/三国 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人爱好者 会突然产出想法 BL吃的比其他少 但是会吃 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦肉臀臀",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885384535879409667/UEQG5lqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 2966,
+          "like_count": 21374,
+          "listed_count": 2,
+          "media_count": 1191,
+          "tweet_count": 19786
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-13T00:19:05.000Z",
+        "description": "if i don’t reply it’s bc im shy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pimpitis.straw.page",
+                "end": 23,
+                "expanded_url": "https://pimpitis.straw.page",
+                "start": 0,
+                "url": "https://t.co/AWKVivids8"
+              }
+            ]
+          }
+        },
+        "id": "1370529790378209281",
+        "location": "rarepairs better",
+        "name": "luse 🖇️",
+        "pinned_tweet_id": "1839887449956192469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884031523298648064/q5oz7lPl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 39,
+          "like_count": 19012,
+          "listed_count": 4,
+          "media_count": 56,
+          "tweet_count": 164
+        },
+        "url": "https://t.co/AWKVivids8",
+        "username": "arcorclynn",
+        "verified": false
+      }
+    ]
+  }
+}

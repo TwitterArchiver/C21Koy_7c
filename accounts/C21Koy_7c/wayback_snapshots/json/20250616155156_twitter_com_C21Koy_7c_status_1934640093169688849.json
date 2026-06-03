@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "conversation_id": "1934630085233119284",
+    "created_at": "2025-06-16T15:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T16:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934640093169688849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1653650525198643200",
+          "start": 0,
+          "username": "dmt_lad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934640093169688849",
+    "in_reply_to_user_id": "1653650525198643200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934630085233119284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dmt_lad 担心"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1934630085233119284].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1934630085233119284",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1934630085233119284"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "conversation_id": "1934630085233119284",
+        "created_at": "2025-06-16T15:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T16:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934640093169688849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1653650525198643200",
+              "start": 0,
+              "username": "dmt_lad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934640093169688849",
+        "in_reply_to_user_id": "1653650525198643200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934630085233119284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dmt_lad 担心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 3025,
+          "like_count": 23485,
+          "listed_count": 3,
+          "media_count": 1448,
+          "tweet_count": 22458
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-03T06:39:51.000Z",
+        "description": "",
+        "id": "1653650525198643200",
+        "name": "mamachapp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932428388482039808/o0dAfQ69_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 179,
+          "like_count": 4925,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1315
+        },
+        "username": "dmt_lad",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016477493595959296"
+      ],
+      "media_source_tweet_id": [
+        "2016477501460201582"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1307117889183346689",
+          "name": "Pens & stationery"
+        }
+      }
+    ],
+    "conversation_id": "2016515892356800851",
+    "created_at": "2026-01-28T14:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T15:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016515892356800851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "306206373",
+          "start": 3,
+          "username": "honya6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jStB6Id5g7",
+          "end": 53,
+          "expanded_url": "https://x.com/honya6/status/2016477501460201582/photo/1",
+          "media_key": "3_2016477493595959296",
+          "start": 30,
+          "url": "https://t.co/jStB6Id5g7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016515892356800851",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016477501460201582",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @honya6: 筆ペン初心者です\nめっちゃ掠れます https://t.co/jStB6Id5g7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016477493595959296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_v3mL9bcAAMmyq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016477493595959296"
+          ],
+          "media_source_tweet_id": [
+            "2016477501460201582"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1307117889183346689",
+              "name": "Pens & stationery"
+            }
+          }
+        ],
+        "conversation_id": "2016515892356800851",
+        "created_at": "2026-01-28T14:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T15:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016515892356800851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "306206373",
+              "start": 3,
+              "username": "honya6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jStB6Id5g7",
+              "end": 53,
+              "expanded_url": "https://x.com/honya6/status/2016477501460201582/photo/1",
+              "media_key": "3_2016477493595959296",
+              "start": 30,
+              "url": "https://t.co/jStB6Id5g7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016515892356800851",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016477501460201582",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @honya6: 筆ペン初心者です\nめっちゃ掠れます https://t.co/jStB6Id5g7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016477493595959296"
+          ]
+        },
+        "author_id": "306206373",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1307117889183346689",
+              "name": "Pens & stationery"
+            }
+          }
+        ],
+        "conversation_id": "2016477501460201582",
+        "created_at": "2026-01-28T11:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T12:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016477501460201582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jStB6Id5g7",
+              "end": 41,
+              "expanded_url": "https://x.com/honya6/status/2016477501460201582/photo/1",
+              "media_key": "3_2016477493595959296",
+              "start": 18,
+              "url": "https://t.co/jStB6Id5g7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016477501460201582",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1521,
+          "like_count": 142,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "筆ペン初心者です\nめっちゃ掠れます https://t.co/jStB6Id5g7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nay2841",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nay2841",
+                "start": 0,
+                "url": "https://t.co/p7oRHhHxDn"
+              }
+            ]
+          }
+        },
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987482127756410880/kunx4knz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 3248,
+          "like_count": 28172,
+          "listed_count": 5,
+          "media_count": 1935,
+          "tweet_count": 26592
+        },
+        "url": "https://t.co/p7oRHhHxDn",
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-27T13:39:01.000Z",
+        "description": "趣味雑多落書き何でも。OW2のイラストとかマンガ描いたりするよNSFWもあるから子供は見ちゃダメ\nファンボックスhttps://t.co/g4QX7BWLUb \nファンティアhttps://t.co/qiHEEkgGM8\nスケブhttps://t.co/DJWkDiQIbv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "honya6.fanbox.cc",
+                "end": 79,
+                "expanded_url": "https://honya6.fanbox.cc",
+                "start": 56,
+                "url": "https://t.co/g4QX7BWLUb"
+              },
+              {
+                "display_url": "fantia.jp/fanclubs/520814",
+                "end": 110,
+                "expanded_url": "https://fantia.jp/fanclubs/520814",
+                "start": 87,
+                "url": "https://t.co/qiHEEkgGM8"
+              },
+              {
+                "display_url": "skeb.jp/@honya6",
+                "end": 137,
+                "expanded_url": "http://skeb.jp/@honya6",
+                "start": 114,
+                "url": "https://t.co/DJWkDiQIbv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/3168759",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/3168759",
+                "start": 0,
+                "url": "https://t.co/QWXc3lujAz"
+              }
+            ]
+          }
+        },
+        "id": "306206373",
+        "location": "https://www.twitch.tv/akebono",
+        "name": "あけぼの🍔",
+        "pinned_tweet_id": "1704723038804258935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1544554449791635458/7IdE_0DH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13610,
+          "following_count": 419,
+          "like_count": 8184,
+          "listed_count": 43,
+          "media_count": 1576,
+          "tweet_count": 21302
+        },
+        "url": "https://t.co/QWXc3lujAz",
+        "username": "honya6",
+        "verified": true
+      }
+    ]
+  }
+}

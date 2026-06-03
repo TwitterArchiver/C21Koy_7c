@@ -1,0 +1,502 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1843714861618082203",
+    "created_at": "2024-10-08T18:07:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-08T19:07:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843714861618082203"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "Knees",
+          "probability": 0.522,
+          "start": 23,
+          "type": "Other"
+        },
+        {
+          "end": 64,
+          "normalized_text": "Astarion",
+          "probability": 0.8158,
+          "start": 57,
+          "type": "Other"
+        },
+        {
+          "end": 118,
+          "normalized_text": "astarion",
+          "probability": 0.5014,
+          "start": 111,
+          "type": "Other"
+        },
+        {
+          "end": 123,
+          "normalized_text": "bg3",
+          "probability": 0.5084,
+          "start": 121,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 119,
+          "start": 110,
+          "tag": "astarion"
+        },
+        {
+          "end": 124,
+          "start": 120,
+          "tag": "bg3"
+        },
+        {
+          "end": 133,
+          "start": 125,
+          "tag": "cosplay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "786344512129945600",
+          "start": 3,
+          "username": "CYXARIC"
+        },
+        {
+          "end": 90,
+          "id": "2187255628",
+          "start": 79,
+          "username": "justmoolti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843714861618082203",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 338
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843322940185776527",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CYXARIC: On. Your. Knees. Darling.\n\nFemale Ascendant Astarion by me\nThanks @justmoolti for stunning pics\n\n#astarion #bg3 #cosplay https…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1843714861618082203",
+        "created_at": "2024-10-08T18:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T19:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843714861618082203"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "Knees",
+              "probability": 0.522,
+              "start": 23,
+              "type": "Other"
+            },
+            {
+              "end": 64,
+              "normalized_text": "Astarion",
+              "probability": 0.8158,
+              "start": 57,
+              "type": "Other"
+            },
+            {
+              "end": 118,
+              "normalized_text": "astarion",
+              "probability": 0.5014,
+              "start": 111,
+              "type": "Other"
+            },
+            {
+              "end": 123,
+              "normalized_text": "bg3",
+              "probability": 0.5084,
+              "start": 121,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 119,
+              "start": 110,
+              "tag": "astarion"
+            },
+            {
+              "end": 124,
+              "start": 120,
+              "tag": "bg3"
+            },
+            {
+              "end": 133,
+              "start": 125,
+              "tag": "cosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "786344512129945600",
+              "start": 3,
+              "username": "CYXARIC"
+            },
+            {
+              "end": 90,
+              "id": "2187255628",
+              "start": 79,
+              "username": "justmoolti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843714861618082203",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 338
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843322940185776527",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CYXARIC: On. Your. Knees. Darling.\n\nFemale Ascendant Astarion by me\nThanks @justmoolti for stunning pics\n\n#astarion #bg3 #cosplay https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843322018608918528",
+            "3_1843322093221322752",
+            "3_1843322158761590784"
+          ]
+        },
+        "author_id": "786344512129945600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1843322940185776527",
+        "created_at": "2024-10-07T16:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T17:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843322940185776527"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "Knees",
+              "probability": 0.4716,
+              "start": 10,
+              "type": "Other"
+            },
+            {
+              "end": 51,
+              "normalized_text": "Astarion",
+              "probability": 0.728,
+              "start": 44,
+              "type": "Other"
+            },
+            {
+              "end": 105,
+              "normalized_text": "astarion",
+              "probability": 0.5223,
+              "start": 98,
+              "type": "Other"
+            },
+            {
+              "end": 110,
+              "normalized_text": "bg3",
+              "probability": 0.5463,
+              "start": 108,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 97,
+              "tag": "astarion"
+            },
+            {
+              "end": 111,
+              "start": 107,
+              "tag": "bg3"
+            },
+            {
+              "end": 120,
+              "start": 112,
+              "tag": "cosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 77,
+              "id": "2187255628",
+              "start": 66,
+              "username": "justmoolti"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x9pNvfdCHn",
+              "end": 144,
+              "expanded_url": "https://x.com/CYXARIC/status/1843322940185776527/photo/1",
+              "media_key": "3_1843322018608918528",
+              "start": 121,
+              "url": "https://t.co/x9pNvfdCHn"
+            },
+            {
+              "display_url": "pic.x.com/x9pNvfdCHn",
+              "end": 144,
+              "expanded_url": "https://x.com/CYXARIC/status/1843322940185776527/photo/1",
+              "media_key": "3_1843322093221322752",
+              "start": 121,
+              "url": "https://t.co/x9pNvfdCHn"
+            },
+            {
+              "display_url": "pic.x.com/x9pNvfdCHn",
+              "end": 144,
+              "expanded_url": "https://x.com/CYXARIC/status/1843322940185776527/photo/1",
+              "media_key": "3_1843322158761590784",
+              "start": 121,
+              "url": "https://t.co/x9pNvfdCHn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843322940185776527",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 248,
+          "impression_count": 64412,
+          "like_count": 3108,
+          "quote_count": 19,
+          "reply_count": 26,
+          "retweet_count": 338
+        },
+        "reply_settings": "everyone",
+        "text": "On. Your. Knees. Darling.\n\nFemale Ascendant Astarion by me\nThanks @justmoolti for stunning pics\n\n#astarion #bg3 #cosplay https://t.co/x9pNvfdCHn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫 Bipolar patient/ they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT大概淡坑：COD/MK/恐影 不善表达 但是还算nice 请和我保持联络谢谢 努力尽力活着 我没恶意 我鼓起很大勇气才会评论你 因为我想友善的和你互动",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1787381657340883290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842795137925255168/Z-0bJ2Zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 2818,
+          "like_count": 20128,
+          "listed_count": 2,
+          "tweet_count": 16184
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-12T23:15:16.000Z",
+        "description": "we didn’t spizdili, we were inspired",
+        "id": "786344512129945600",
+        "location": "Москва, Россия",
+        "name": "avid hoax",
+        "pinned_tweet_id": "1177491608016547840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782143986477453312/AzvDrlYT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 276,
+          "like_count": 41001,
+          "listed_count": 3,
+          "tweet_count": 20113
+        },
+        "username": "CYXARIC",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-19T11:29:46.000Z",
+        "description": "Photograph, CG artist, cosplayer, freak :3\nhttps://t.co/pibkKLKjPG\nhttps://t.co/RCPEw1mGZy\nDaily life account: @Mooooolti",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 111,
+                "username": "Mooooolti"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "facebook.com/justmoolti",
+                "end": 66,
+                "expanded_url": "http://facebook.com/justmoolti",
+                "start": 43,
+                "url": "https://t.co/pibkKLKjPG"
+              },
+              {
+                "display_url": "vk.com/justmooltigroup",
+                "end": 90,
+                "expanded_url": "http://vk.com/justmooltigroup",
+                "start": 67,
+                "url": "https://t.co/RCPEw1mGZy"
+              }
+            ]
+          }
+        },
+        "id": "2187255628",
+        "name": "JustMoolti",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1350619374063857666/p3OQ69oe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13888,
+          "following_count": 16,
+          "like_count": 2040,
+          "listed_count": 85,
+          "tweet_count": 2409
+        },
+        "username": "justmoolti",
+        "verified": false
+      }
+    ]
+  }
+}

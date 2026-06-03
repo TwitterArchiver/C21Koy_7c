@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864308926029983744"
+      ],
+      "media_source_tweet_id": [
+        "1864309010331259173"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1864524209780871428",
+    "created_at": "2024-12-05T04:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T05:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864524209780871428"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 18,
+          "tag": "baileden"
+        },
+        {
+          "end": 32,
+          "start": 28,
+          "tag": "dol"
+        },
+        {
+          "end": 50,
+          "start": 33,
+          "tag": "DegreesofLewdity"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1183941328737992704",
+          "start": 3,
+          "username": "yetiwang2000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9OV0Guea2d",
+          "end": 74,
+          "expanded_url": "https://x.com/yetiwang2000/status/1864309010331259173/photo/1",
+          "media_key": "3_1864308926029983744",
+          "start": 51,
+          "url": "https://t.co/9OV0Guea2d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864524209780871428",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864309010331259173",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yetiwang2000: #baileden #dol\n#DegreesofLewdity https://t.co/9OV0Guea2d"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1864524209780871428].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1864524209780871428",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1864524209780871428"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_1864308926029983744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd9bFzebcAA2Ufa.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864308926029983744"
+          ]
+        },
+        "author_id": "1183941328737992704",
+        "conversation_id": "1864309010331259173",
+        "created_at": "2024-12-04T14:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T15:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864309010331259173"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "baileden"
+            },
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "dol"
+            },
+            {
+              "end": 32,
+              "start": 15,
+              "tag": "DegreesofLewdity"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9OV0Guea2d",
+              "end": 56,
+              "expanded_url": "https://x.com/yetiwang2000/status/1864309010331259173/photo/1",
+              "media_key": "3_1864308926029983744",
+              "start": 33,
+              "url": "https://t.co/9OV0Guea2d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864309010331259173",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 304,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "#baileden #dol\n#DegreesofLewdity https://t.co/9OV0Guea2d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 🚫bi🏳️‍🌈/ they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人女 会突然产出想法 GB GL大于BL BG 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 2922,
+          "like_count": 20708,
+          "listed_count": 2,
+          "media_count": 1109,
+          "tweet_count": 18323
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-15T03:03:12.000Z",
+        "description": "𝙮𝙚𝙩𝙞 · 🏳️‍🌈🔞 \n中文 · 𝙴𝚗𝚐 \nᴅᴏᴏᴅʟᴇs · ɴᴏᴠᴇʟ\n𝑫𝒐𝒍 𝑽𝒊𝒍𝒍𝒂𝒊𝒏𝒔 😈 \n女性主导\n雷 𝙱𝙶 右位梦女解和乙解 \n选择性 𝙱𝚕𝚘𝚌𝚔 逆家\nᴏɴʟʏ ᴀʀᴛ：\n@yetiwang1000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 99,
+                "username": "yetiwang1000"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "archiveofourown.org/users/yetiwang…",
+                "end": 23,
+                "expanded_url": "https://archiveofourown.org/users/yetiwang2000",
+                "start": 0,
+                "url": "https://t.co/GMva2Gb2HN"
+              }
+            ]
+          }
+        },
+        "id": "1183941328737992704",
+        "location": " Eden×Bailey | PC 伊甸不可逆",
+        "name": "yetiwang2000",
+        "pinned_tweet_id": "1858018265215414752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844973319067734016/5HbJk2eZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 119,
+          "like_count": 17136,
+          "listed_count": 2,
+          "media_count": 1719,
+          "tweet_count": 13139
+        },
+        "url": "https://t.co/GMva2Gb2HN",
+        "username": "yetiwang2000",
+        "verified": false
+      }
+    ]
+  }
+}

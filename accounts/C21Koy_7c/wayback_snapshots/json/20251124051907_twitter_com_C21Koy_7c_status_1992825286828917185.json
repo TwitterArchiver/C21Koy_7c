@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "conversation_id": "1991469069174992961",
+    "created_at": "2025-11-24T05:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T06:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992825286828917185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1842611263098028032",
+          "start": 0,
+          "username": "CuteAdorableCat"
+        },
+        {
+          "end": 29,
+          "id": "1733997429937291264",
+          "start": 17,
+          "username": "Galatea8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992825286828917185",
+    "in_reply_to_user_id": "1842611263098028032",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991469069174992961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuteAdorableCat @Galatea8964"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9333,
+        "height": 720,
+        "media_key": "13_1991241437443170304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1991241437443170304/img/NC_IvrqxBabLgEwn.jpg",
+        "public_metrics": {
+          "view_count": 134457
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991241437443170304/vid/avc1/360x270/TqfEUnpfXGzJhsR3.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991241437443170304/vid/avc1/480x360/if6KWP59QeBT1sB7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991241437443170304/vid/avc1/960x720/6trGaSTHRda0jwig.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1991241437443170304/pl/gIeQ9nKTzA0bSe1Q.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "conversation_id": "1991469069174992961",
+        "created_at": "2025-11-24T05:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T06:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992825286828917185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1842611263098028032",
+              "start": 0,
+              "username": "CuteAdorableCat"
+            },
+            {
+              "end": 29,
+              "id": "1733997429937291264",
+              "start": 17,
+              "username": "Galatea8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992825286828917185",
+        "in_reply_to_user_id": "1842611263098028032",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991469069174992961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuteAdorableCat @Galatea8964"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1991241437443170304"
+          ]
+        },
+        "author_id": "1842611263098028032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Pope Francis",
+              "id": "806597775282421760",
+              "name": "Pope Francis"
+            }
+          }
+        ],
+        "conversation_id": "1991469069174992961",
+        "created_at": "2025-11-20T11:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T12:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991469069174992961"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "The Pope",
+              "probability": 0.4909,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g5ABC6YZkm",
+              "end": 32,
+              "expanded_url": "https://x.com/CuteAdorableCat/status/1991469069174992961/video/1",
+              "media_key": "13_1991241437443170304",
+              "start": 9,
+              "url": "https://t.co/g5ABC6YZkm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991469069174992961",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2321,
+          "impression_count": 2956360,
+          "like_count": 20346,
+          "quote_count": 71,
+          "reply_count": 21,
+          "retweet_count": 2020
+        },
+        "reply_settings": "everyone",
+        "text": "The Pope https://t.co/g5ABC6YZkm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987482127756410880/kunx4knz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 3160,
+          "like_count": 26138,
+          "listed_count": 5,
+          "media_count": 1765,
+          "tweet_count": 24891
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T17:02:59.000Z",
+        "description": "Follow for daily Cute and Adorable cats 😍😍",
+        "id": "1842611263098028032",
+        "location": "DM for credit or removal",
+        "name": "Cats That Make You Go Awww",
+        "pinned_tweet_id": "1981005119656493235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843711142985662464/U8MZHcte_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53244,
+          "following_count": 3202,
+          "like_count": 8311,
+          "listed_count": 134,
+          "media_count": 6370,
+          "tweet_count": 12226
+        },
+        "username": "CuteAdorableCat",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-10T23:49:59.000Z",
+        "description": "噪点闪耀如星辰",
+        "id": "1733997429937291264",
+        "location": "錯誤後的錯誤世界",
+        "name": "ChingChongCat",
+        "pinned_tweet_id": "1853430541502300564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966453999588311040/MM8VqI9a_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 39,
+          "like_count": 4077,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2390
+        },
+        "username": "Galatea8964",
+        "verified": false
+      }
+    ]
+  }
+}

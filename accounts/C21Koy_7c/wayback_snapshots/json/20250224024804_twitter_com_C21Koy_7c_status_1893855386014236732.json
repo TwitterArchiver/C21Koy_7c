@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "conversation_id": "1893855386014236732",
+    "created_at": "2025-02-24T02:48:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T03:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893855386014236732"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "cof",
+          "probability": 0.6888,
+          "start": 29,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 28,
+          "tag": "cof"
+        },
+        {
+          "end": 128,
+          "start": 120,
+          "tag": "digital"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1258641154423377920",
+          "start": 3,
+          "username": "Zirymss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893855386014236732",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893483978893467718",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zirymss: happy birthday #cof \n\nhad this on the back burner for a bit and thought it would be fitting to finish now\n\n#digital #digitalar…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1893483972933439488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkcBpCqX0AAVhqx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "conversation_id": "1893855386014236732",
+        "created_at": "2025-02-24T02:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T03:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893855386014236732"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "cof",
+              "probability": 0.6888,
+              "start": 29,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "cof"
+            },
+            {
+              "end": 128,
+              "start": 120,
+              "tag": "digital"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1258641154423377920",
+              "start": 3,
+              "username": "Zirymss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893855386014236732",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893483978893467718",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zirymss: happy birthday #cof \n\nhad this on the back burner for a bit and thought it would be fitting to finish now\n\n#digital #digitalar…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893483972933439488"
+          ]
+        },
+        "author_id": "1258641154423377920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1462809879609950219",
+              "name": "Digital artwork"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1462809879609954313",
+              "name": "Digital goods & currency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "id": "1462809879609950219",
+              "name": "Digital artwork"
+            }
+          }
+        ],
+        "conversation_id": "1893483978893467718",
+        "created_at": "2025-02-23T02:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T03:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893483978893467718"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "cof",
+              "probability": 0.7181,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 137,
+              "normalized_text": "CryOfFear",
+              "probability": 0.5386,
+              "start": 129,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "cof"
+            },
+            {
+              "end": 115,
+              "start": 107,
+              "tag": "digital"
+            },
+            {
+              "end": 127,
+              "start": 116,
+              "tag": "digitalart"
+            },
+            {
+              "end": 138,
+              "start": 128,
+              "tag": "CryOfFear"
+            },
+            {
+              "end": 149,
+              "start": 139,
+              "tag": "booksimon"
+            },
+            {
+              "end": 158,
+              "start": 150,
+              "tag": "goreart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dfLQwtEUOc",
+              "end": 182,
+              "expanded_url": "https://x.com/Zirymss/status/1893483978893467718/photo/1",
+              "media_key": "3_1893483972933439488",
+              "start": 159,
+              "url": "https://t.co/dfLQwtEUOc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893483978893467718",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 1447,
+          "like_count": 222,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "happy birthday #cof \n\nhad this on the back burner for a bit and thought it would be fitting to finish now\n\n#digital #digitalart #CryOfFear #booksimon #goreart https://t.co/dfLQwtEUOc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 但是还算可以 懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890691451258126336/lPqKitsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 2979,
+          "like_count": 21846,
+          "listed_count": 2,
+          "media_count": 1268,
+          "tweet_count": 20548
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-08T06:13:49.000Z",
+        "description": "🍓 (18+) .𖥔 ݁ ˖ \n\nmulti-fandom artist: #cof / #aw2  / ocs   ๋࣭ ⭑ h̲e̲ / h̲i̲m̲   ⋮ \n21   ⋮   disabled  /  bpd ₊ ⊹ selective yume 🫂",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 38,
+                "tag": "cof"
+              },
+              {
+                "end": 49,
+                "start": 45,
+                "tag": "aw2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ziryms.carrd.co",
+                "end": 23,
+                "expanded_url": "https://ziryms.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/eSkpKqed4w"
+              }
+            ]
+          }
+        },
+        "id": "1258641154423377920",
+        "location": "dni: minors, zoo, map, proship",
+        "name": "ᯓ★ N Ξ Z",
+        "pinned_tweet_id": "1814259036138713298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883154064831029248/MIFPqOcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 403,
+          "like_count": 29872,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 1114
+        },
+        "url": "https://t.co/eSkpKqed4w",
+        "username": "Zirymss",
+        "verified": false
+      }
+    ]
+  }
+}

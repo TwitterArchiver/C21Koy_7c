@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1947713499536494592",
+        "13_1947713499490402304"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1947713571661746430",
+    "created_at": "2025-07-22T17:41:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T18:41:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947713571661746430"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4tOJtsHT0P",
+          "end": 32,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1947713571661746430/video/1",
+          "media_key": "13_1947713499536494592",
+          "start": 9,
+          "url": "https://t.co/4tOJtsHT0P"
+        },
+        {
+          "display_url": "pic.x.com/4tOJtsHT0P",
+          "end": 32,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1947713571661746430/video/1",
+          "media_key": "13_1947713499490402304",
+          "start": 9,
+          "url": "https://t.co/4tOJtsHT0P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947713571661746430",
+    "lang": "eu",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "dokidoki https://t.co/4tOJtsHT0P"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1947713571661746430].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1947713571661746430",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1947713571661746430"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18268,
+        "height": 1280,
+        "media_key": "13_1947713499536494592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1947713499536494592/img/peX0rjXC9SZYBfx_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947713499536494592/vid/avc1/320x568/yrrRL6e-V4VlcbiZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947713499536494592/vid/avc1/480x852/-whKPpkanQEtGZDT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947713499536494592/vid/avc1/720x1280/gRpdJKmIw4Hs8N4b.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1947713499536494592/pl/Qi5ISfiT6TZSgoCx.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 8400,
+        "height": 960,
+        "media_key": "13_1947713499490402304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1947713499490402304/img/6CRFsLY0i1vHM4ra.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947713499490402304/vid/avc1/320x568/wLH8yKWBtSEMRgyL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947713499490402304/vid/avc1/480x852/1o6F7DLE6lT_hVn5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947713499490402304/vid/avc1/540x960/84fbYS2j-NrOfXU6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1947713499490402304/pl/ib90XGsPGfTgAKh3.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 3024,
+          "like_count": 23664,
+          "listed_count": 3,
+          "media_count": 1485,
+          "tweet_count": 22786
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      }
+    ]
+  }
+}

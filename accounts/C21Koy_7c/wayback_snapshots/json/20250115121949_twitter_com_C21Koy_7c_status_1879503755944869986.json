@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1879199292122071040"
+      ],
+      "media_source_tweet_id": [
+        "1879199297142731088"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1879503755944869986",
+    "created_at": "2025-01-15T12:19:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-15T13:19:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879503755944869986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1371116874197393408",
+          "start": 3,
+          "username": "co1fee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m8Q12kl24P",
+          "end": 35,
+          "expanded_url": "https://x.com/co1fee/status/1879199297142731088/photo/1",
+          "media_key": "3_1879199292122071040",
+          "start": 12,
+          "url": "https://t.co/m8Q12kl24P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879503755944869986",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5662
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879199297142731088",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @co1fee: https://t.co/m8Q12kl24P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1879199292122071040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhRBzL0aAAABiJS.jpg",
+        "width": 1540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879199292122071040"
+          ],
+          "media_source_tweet_id": [
+            "1879199297142731088"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1879503755944869986",
+        "created_at": "2025-01-15T12:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T13:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879503755944869986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1371116874197393408",
+              "start": 3,
+              "username": "co1fee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m8Q12kl24P",
+              "end": 35,
+              "expanded_url": "https://x.com/co1fee/status/1879199297142731088/photo/1",
+              "media_key": "3_1879199292122071040",
+              "start": 12,
+              "url": "https://t.co/m8Q12kl24P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879503755944869986",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5662
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879199297142731088",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @co1fee: https://t.co/m8Q12kl24P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879199292122071040"
+          ]
+        },
+        "author_id": "1371116874197393408",
+        "conversation_id": "1879199297142731088",
+        "created_at": "2025-01-14T16:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T17:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879199297142731088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m8Q12kl24P",
+              "end": 23,
+              "expanded_url": "https://x.com/co1fee/status/1879199297142731088/photo/1",
+              "media_key": "3_1879199292122071040",
+              "start": 0,
+              "url": "https://t.co/m8Q12kl24P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879199297142731088",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15910,
+          "impression_count": 1305295,
+          "like_count": 100923,
+          "quote_count": 191,
+          "reply_count": 0,
+          "retweet_count": 5662
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/m8Q12kl24P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人女 会突然产出想法 BL吃的较少 但是会吃 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 2960,
+          "like_count": 20673,
+          "listed_count": 2,
+          "media_count": 1126,
+          "tweet_count": 18930
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-14T15:12:03.000Z",
+        "description": "(ᵔᴥᵔ)20↑/❌DON’T REPOST/잡덕이에요 장르팔 비추/bsky : https://t.co/YLdNW7G2KP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/cof1ee…",
+                "end": 66,
+                "expanded_url": "https://bsky.app/profile/cof1ee.bsky.social",
+                "start": 43,
+                "url": "https://t.co/YLdNW7G2KP"
+              }
+            ]
+          }
+        },
+        "id": "1371116874197393408",
+        "name": "Cf",
+        "pinned_tweet_id": "1794549644774773144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1373643852125380611/pZvr9nW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12711,
+          "following_count": 57,
+          "like_count": 2944,
+          "listed_count": 67,
+          "media_count": 142,
+          "tweet_count": 381
+        },
+        "username": "co1fee",
+        "verified": false
+      }
+    ]
+  }
+}

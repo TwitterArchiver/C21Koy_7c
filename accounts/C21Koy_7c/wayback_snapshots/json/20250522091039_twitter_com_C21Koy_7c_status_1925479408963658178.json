@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1925217857455230976"
+      ],
+      "media_source_tweet_id": [
+        "1925217868725293216"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1925479408963658178",
+    "created_at": "2025-05-22T09:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T10:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925479408963658178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2268976260",
+          "start": 3,
+          "username": "damu_san"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EvzAxk62Bf",
+          "end": 37,
+          "expanded_url": "https://x.com/damu_san/status/1925217868725293216/video/1",
+          "media_key": "7_1925217857455230976",
+          "start": 14,
+          "url": "https://t.co/EvzAxk62Bf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925479408963658178",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 662
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925217868725293216",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @damu_san: https://t.co/EvzAxk62Bf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3738,
+        "height": 1280,
+        "media_key": "7_1925217857455230976",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1925217857455230976/pu/img/y3nyQmOKYJaGq_88.jpg",
+        "public_metrics": {
+          "view_count": 46150
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1925217857455230976/pu/vid/avc1/320x568/i1NWyFWRmB6mC3Hk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1925217857455230976/pu/vid/avc1/480x852/a_6MNnvoImoQd3DH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1925217857455230976/pu/vid/avc1/720x1280/oJUzXP_4ATkIS80k.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1925217857455230976/pu/pl/3eC0MFzIkppQsKap.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1925217857455230976"
+          ],
+          "media_source_tweet_id": [
+            "1925217868725293216"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1925479408963658178",
+        "created_at": "2025-05-22T09:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T10:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925479408963658178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2268976260",
+              "start": 3,
+              "username": "damu_san"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EvzAxk62Bf",
+              "end": 37,
+              "expanded_url": "https://x.com/damu_san/status/1925217868725293216/video/1",
+              "media_key": "7_1925217857455230976",
+              "start": 14,
+              "url": "https://t.co/EvzAxk62Bf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925479408963658178",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 662
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925217868725293216",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @damu_san: https://t.co/EvzAxk62Bf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1925217857455230976"
+          ]
+        },
+        "author_id": "2268976260",
+        "conversation_id": "1925217868725293216",
+        "created_at": "2025-05-21T15:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T16:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925217868725293216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EvzAxk62Bf",
+              "end": 23,
+              "expanded_url": "https://x.com/damu_san/status/1925217868725293216/video/1",
+              "media_key": "7_1925217857455230976",
+              "start": 0,
+              "url": "https://t.co/EvzAxk62Bf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925217868725293216",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 642,
+          "impression_count": 103551,
+          "like_count": 4968,
+          "quote_count": 28,
+          "reply_count": 12,
+          "retweet_count": 662
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EvzAxk62Bf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我yan｜肉鸦都可以 不会外语翻译器OK",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 3017,
+          "like_count": 23106,
+          "listed_count": 3,
+          "media_count": 1402,
+          "tweet_count": 22127
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-30T14:50:14.000Z",
+        "description": "@da_mu_sanが凍結された(´；ω；｀)\nアイコンは宗谷いちか様(@Ichika_Souya)\nヘッダーはみそパンダ先生(@miso_panda)\nに描いていただいました",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "da_mu_san"
+              },
+              {
+                "end": 49,
+                "start": 36,
+                "username": "Ichika_Souya"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "miso_panda"
+              }
+            ]
+          }
+        },
+        "id": "2268976260",
+        "location": "広州, 中国",
+        "name": "damu_sub",
+        "pinned_tweet_id": "1869303815553646830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673498762507952129/j8-pBNYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 1087,
+          "like_count": 101778,
+          "listed_count": 10,
+          "media_count": 2894,
+          "tweet_count": 121538
+        },
+        "username": "damu_san",
+        "verified": false
+      }
+    ]
+  }
+}

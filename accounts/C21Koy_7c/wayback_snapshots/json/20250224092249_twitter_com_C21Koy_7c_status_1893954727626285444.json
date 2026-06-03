@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1893353419441680384"
+      ],
+      "media_source_tweet_id": [
+        "1893353423304630610"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1893954727626285444",
+    "created_at": "2025-02-24T09:22:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T10:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893954727626285444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1868275394606252032",
+          "start": 3,
+          "username": "E_kakuz0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CjJsE10lrx",
+          "end": 43,
+          "expanded_url": "https://x.com/E_kakuz0/status/1893353423304630610/photo/1",
+          "media_key": "3_1893353419441680384",
+          "start": 20,
+          "url": "https://t.co/CjJsE10lrx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893954727626285444",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 137
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893353423304630610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @E_kakuz0: みーつけた https://t.co/CjJsE10lrx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 830,
+        "media_key": "3_1893353419441680384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkaK51AXsAAJ-oT.jpg",
+        "width": 543
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893353419441680384"
+          ],
+          "media_source_tweet_id": [
+            "1893353423304630610"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1893954727626285444",
+        "created_at": "2025-02-24T09:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T10:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893954727626285444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1868275394606252032",
+              "start": 3,
+              "username": "E_kakuz0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CjJsE10lrx",
+              "end": 43,
+              "expanded_url": "https://x.com/E_kakuz0/status/1893353423304630610/photo/1",
+              "media_key": "3_1893353419441680384",
+              "start": 20,
+              "url": "https://t.co/CjJsE10lrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893954727626285444",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 137
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893353423304630610",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @E_kakuz0: みーつけた https://t.co/CjJsE10lrx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893353419441680384"
+          ]
+        },
+        "author_id": "1868275394606252032",
+        "conversation_id": "1893353423304630610",
+        "created_at": "2025-02-22T17:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T18:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893353423304630610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CjJsE10lrx",
+              "end": 29,
+              "expanded_url": "https://x.com/E_kakuz0/status/1893353423304630610/photo/1",
+              "media_key": "3_1893353419441680384",
+              "start": 6,
+              "url": "https://t.co/CjJsE10lrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893353423304630610",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 9201,
+          "like_count": 1379,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "みーつけた https://t.co/CjJsE10lrx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 但是还算可以 懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890691451258126336/lPqKitsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 2980,
+          "like_count": 21862,
+          "listed_count": 2,
+          "media_count": 1268,
+          "tweet_count": 20569
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T12:42:28.000Z",
+        "description": "絵の練習中/フォロー非推奨/成人済/🗝@Ziga_dasuz0 何かあれば↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "Ziga_dasuz0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/E_kakuz0",
+                "end": 23,
+                "expanded_url": "https://odaibako.net/u/E_kakuz0",
+                "start": 0,
+                "url": "https://t.co/dm8niKjMML"
+              }
+            ]
+          }
+        },
+        "id": "1868275394606252032",
+        "name": "絵を描くぞう",
+        "pinned_tweet_id": "1879170892162572446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868275663775694848/fbbmt7Ps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1789,
+          "following_count": 0,
+          "like_count": 899,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 69
+        },
+        "url": "https://t.co/dm8niKjMML",
+        "username": "E_kakuz0",
+        "verified": false
+      }
+    ]
+  }
+}

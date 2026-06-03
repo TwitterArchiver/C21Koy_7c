@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "conversation_id": "1886025632343269852",
+    "created_at": "2025-02-04T10:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T11:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886728319481344442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "101555213",
+          "start": 0,
+          "username": "bransalmon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886728319481344442",
+    "in_reply_to_user_id": "101555213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886067667205005654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bransalmon 感觉可以，日本没玩够"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1886067667205005654].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1886067667205005654",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1886067667205005654"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "conversation_id": "1886025632343269852",
+        "created_at": "2025-02-04T10:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T11:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886728319481344442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "101555213",
+              "start": 0,
+              "username": "bransalmon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886728319481344442",
+        "in_reply_to_user_id": "101555213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886067667205005654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bransalmon 感觉可以，日本没玩够"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH! 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影/三国 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人爱好者 会突然产出想法 BL吃的比其他少 但是会吃 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦肉臀臀",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885384535879409667/UEQG5lqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 2968,
+          "like_count": 21252,
+          "listed_count": 2,
+          "media_count": 1185,
+          "tweet_count": 19688
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-03T19:40:46.000Z",
+        "description": "尾大好きですBook_Travel_Language_Manga_Neurodivergent_Inclusiveness-书-旅游-语言-漫画-神经多样性-包容：Eng/中/赤ちゃんレベル日\nBanner shoot by myself btw",
+        "id": "101555213",
+        "location": "catPersonalityCharacterNation",
+        "name": "Lumon布兰赛",
+        "pinned_tweet_id": "1881737818294329660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870706208958767104/8HiXLL9W_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 560,
+          "like_count": 92620,
+          "listed_count": 1,
+          "media_count": 913,
+          "tweet_count": 4829
+        },
+        "username": "bransalmon",
+        "verified": false
+      }
+    ]
+  }
+}

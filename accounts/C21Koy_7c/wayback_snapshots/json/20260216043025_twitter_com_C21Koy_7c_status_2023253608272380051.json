@@ -1,0 +1,670 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2023187918819586049"
+      ],
+      "media_source_tweet_id": [
+        "2023187930676891688"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044801920",
+          "name": "Overwatch"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044801920",
+          "name": "Overwatch"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2023253608272380051",
+    "created_at": "2026-02-16T04:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T05:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023253608272380051"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "moira",
+          "probability": 0.4177,
+          "start": 17,
+          "type": "Person"
+        },
+        {
+          "end": 32,
+          "normalized_text": "Overwatch",
+          "probability": 0.5298,
+          "start": 24,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 16,
+          "tag": "moira"
+        },
+        {
+          "end": 33,
+          "start": 23,
+          "tag": "Overwatch"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1266190584059846656",
+          "start": 3,
+          "username": "teco_etc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vUv79EOgag",
+          "end": 71,
+          "expanded_url": "https://x.com/teco_etc/status/2023187930676891688/video/1",
+          "media_key": "13_2023187918819586049",
+          "start": 48,
+          "url": "https://t.co/vUv79EOgag"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023253608272380051",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 960
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023187930676891688",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @teco_etc: ➥ #moira #Overwatch \npathetic.mp4 https://t.co/vUv79EOgag"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2583,
+        "height": 720,
+        "media_key": "13_2023187918819586049",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023187918819586049/img/T0Eep8zoh22j-Vce.jpg",
+        "public_metrics": {
+          "view_count": 23613
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023187918819586049/vid/avc1/480x270/9aqtKHtFjsE819Yn.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023187918819586049/vid/avc1/640x360/IJcENUk9SN_MlFnC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023187918819586049/vid/avc1/1280x720/XyEzw5nxvT5gtTVb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023187918819586049/pl/NGtleyOgpmcXEPzd.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023187918819586049"
+          ],
+          "media_source_tweet_id": [
+            "2023187930676891688"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2023253608272380051",
+        "created_at": "2026-02-16T04:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T05:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023253608272380051"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "moira",
+              "probability": 0.4177,
+              "start": 17,
+              "type": "Person"
+            },
+            {
+              "end": 32,
+              "normalized_text": "Overwatch",
+              "probability": 0.5298,
+              "start": 24,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "moira"
+            },
+            {
+              "end": 33,
+              "start": 23,
+              "tag": "Overwatch"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1266190584059846656",
+              "start": 3,
+              "username": "teco_etc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vUv79EOgag",
+              "end": 71,
+              "expanded_url": "https://x.com/teco_etc/status/2023187930676891688/video/1",
+              "media_key": "13_2023187918819586049",
+              "start": 48,
+              "url": "https://t.co/vUv79EOgag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023253608272380051",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 960
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023187930676891688",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @teco_etc: ➥ #moira #Overwatch \npathetic.mp4 https://t.co/vUv79EOgag"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023187918819586049"
+          ]
+        },
+        "author_id": "1266190584059846656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2023187930676891688",
+        "created_at": "2026-02-16T00:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T01:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023187930676891688"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "moira",
+              "probability": 0.4973,
+              "start": 3,
+              "type": "Person"
+            },
+            {
+              "end": 18,
+              "normalized_text": "Overwatch",
+              "probability": 0.5902,
+              "start": 10,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 2,
+              "tag": "moira"
+            },
+            {
+              "end": 19,
+              "start": 9,
+              "tag": "Overwatch"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vUv79EOgag",
+              "end": 57,
+              "expanded_url": "https://x.com/teco_etc/status/2023187930676891688/video/1",
+              "media_key": "13_2023187918819586049",
+              "start": 34,
+              "url": "https://t.co/vUv79EOgag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023187930676891688",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1222,
+          "impression_count": 52367,
+          "like_count": 6588,
+          "quote_count": 37,
+          "reply_count": 22,
+          "retweet_count": 960
+        },
+        "reply_settings": "everyone",
+        "text": "➥ #moira #Overwatch \npathetic.mp4 https://t.co/vUv79EOgag"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nay2841",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nay2841",
+                "start": 0,
+                "url": "https://t.co/p7oRHhHxDn"
+              }
+            ]
+          }
+        },
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987482127756410880/kunx4knz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 3254,
+          "like_count": 28278,
+          "listed_count": 5,
+          "media_count": 1950,
+          "tweet_count": 26694
+        },
+        "url": "https://t.co/p7oRHhHxDn",
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-29T02:13:18.000Z",
+        "description": "side (?) account for ooga booga purposes ║ awful at replying, but thank you ! DON'T REPOST MY ART❗  MAIN: @tecochet  KOFI: https://t.co/JAIojAk3X8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 106,
+                "username": "tecochet"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ko-fi.com/tecochet",
+                "end": 146,
+                "expanded_url": "http://ko-fi.com/tecochet",
+                "start": 123,
+                "url": "https://t.co/JAIojAk3X8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/teco-e…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/teco-etc.bsky.social",
+                "start": 0,
+                "url": "https://t.co/90QT5zjJ7x"
+              }
+            ]
+          }
+        },
+        "id": "1266190584059846656",
+        "location": "✉: tecochet@gmail.com | 🇲🇾 ",
+        "name": "teco ❗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783462377629085696/K9m19fRK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89745,
+          "following_count": 256,
+          "like_count": 5432,
+          "listed_count": 336,
+          "media_count": 341,
+          "tweet_count": 2786
+        },
+        "url": "https://t.co/90QT5zjJ7x",
+        "username": "teco_etc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977057976189153280"
+      ],
+      "media_source_tweet_id": [
+        "1977057986913910940"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1977319913665769726",
+    "created_at": "2025-10-12T10:26:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T11:26:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977319913665769726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1563766466188832768",
+          "start": 3,
+          "username": "bird2120rm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cOKTBP9mK5",
+          "end": 41,
+          "expanded_url": "https://x.com/bird2120rm/status/1977057986913910940/photo/1",
+          "media_key": "3_1977057976189153280",
+          "start": 18,
+          "url": "https://t.co/cOKTBP9mK5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977319913665769726",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2590
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977057986913910940",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bird2120rm: 빔 https://t.co/cOKTBP9mK5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4095,
+        "media_key": "3_1977057976189153280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2_rwSMbcAAnyOl.jpg",
+        "width": 2934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977057976189153280"
+          ],
+          "media_source_tweet_id": [
+            "1977057986913910940"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1977319913665769726",
+        "created_at": "2025-10-12T10:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T11:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977319913665769726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1563766466188832768",
+              "start": 3,
+              "username": "bird2120rm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cOKTBP9mK5",
+              "end": 41,
+              "expanded_url": "https://x.com/bird2120rm/status/1977057986913910940/photo/1",
+              "media_key": "3_1977057976189153280",
+              "start": 18,
+              "url": "https://t.co/cOKTBP9mK5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977319913665769726",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2590
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977057986913910940",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bird2120rm: 빔 https://t.co/cOKTBP9mK5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977057976189153280"
+          ]
+        },
+        "author_id": "1563766466188832768",
+        "conversation_id": "1977057986913910940",
+        "created_at": "2025-10-11T17:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T18:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977057986913910940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cOKTBP9mK5",
+              "end": 25,
+              "expanded_url": "https://x.com/bird2120rm/status/1977057986913910940/photo/1",
+              "media_key": "3_1977057976189153280",
+              "start": 2,
+              "url": "https://t.co/cOKTBP9mK5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977057986913910940",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1272,
+          "impression_count": 147750,
+          "like_count": 15932,
+          "quote_count": 108,
+          "reply_count": 1,
+          "retweet_count": 2590
+        },
+        "reply_settings": "everyone",
+        "text": "빔 https://t.co/cOKTBP9mK5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964100290095042560/8WRhPH87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 3100,
+          "like_count": 24697,
+          "listed_count": 5,
+          "media_count": 1615,
+          "tweet_count": 23712
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-28T05:52:46.000Z",
+        "description": "원피스정주행도전중-드레스로자/부계: @layeon858/커미션❌/장르계❌/https://t.co/TFQyofQiaF",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "layeon858"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "postype.com/@layeon-onepei…",
+                "end": 64,
+                "expanded_url": "https://www.postype.com/@layeon-onepeice",
+                "start": 41,
+                "url": "https://t.co/TFQyofQiaF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/5373716896?c=3",
+                "end": 23,
+                "expanded_url": "http://pushoong.com/5373716896?c=3",
+                "start": 0,
+                "url": "https://t.co/6YQ7WLazhD"
+              }
+            ]
+          }
+        },
+        "id": "1563766466188832768",
+        "location": "이스트블루",
+        "name": "라연",
+        "pinned_tweet_id": "1894005015796416583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813941552676491264/7yVBsev8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28045,
+          "following_count": 824,
+          "like_count": 15754,
+          "listed_count": 73,
+          "media_count": 590,
+          "tweet_count": 2592
+        },
+        "url": "https://t.co/6YQ7WLazhD",
+        "username": "bird2120rm",
+        "verified": false
+      }
+    ]
+  }
+}

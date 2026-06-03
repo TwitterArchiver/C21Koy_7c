@@ -1,0 +1,479 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1002576732971384832",
+          "name": "Marvel Universe"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1002576732971384832",
+          "name": "Marvel Universe"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1949127487121756323",
+    "created_at": "2025-07-26T15:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T16:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949127487121756323"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 60,
+          "normalized_text": "thanos",
+          "probability": 0.5216,
+          "start": 55,
+          "type": "Person"
+        },
+        {
+          "end": 121,
+          "normalized_text": "thangyu",
+          "probability": 0.4741,
+          "start": 115,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 122,
+          "start": 114,
+          "tag": "thangyu"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1514990297285017602",
+          "start": 3,
+          "username": "nazusshu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/3bH",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/3bH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949127487121756323",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 174
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948513125160178079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nazusshu: this isnt serious At all but the idea of thanos swearing up and down he isnt gay is So funny to me \n#thangyu https://t.co/3bH…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1948513118075707392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwqCW3MXYAAhbES.jpg",
+        "width": 1407
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1949127487121756323",
+        "created_at": "2025-07-26T15:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T16:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949127487121756323"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 60,
+              "normalized_text": "thanos",
+              "probability": 0.5216,
+              "start": 55,
+              "type": "Person"
+            },
+            {
+              "end": 121,
+              "normalized_text": "thangyu",
+              "probability": 0.4741,
+              "start": 115,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 122,
+              "start": 114,
+              "tag": "thangyu"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1514990297285017602",
+              "start": 3,
+              "username": "nazusshu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/3bH",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/3bH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949127487121756323",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 174
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948513125160178079",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nazusshu: this isnt serious At all but the idea of thanos swearing up and down he isnt gay is So funny to me \n#thangyu https://t.co/3bH…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948513118075707392"
+          ]
+        },
+        "author_id": "1514990297285017602",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1948513125160178079",
+        "created_at": "2025-07-24T22:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T23:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948513125160178079"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "thanos",
+              "probability": 0.4762,
+              "start": 41,
+              "type": "Person"
+            },
+            {
+              "end": 107,
+              "normalized_text": "thangyu",
+              "probability": 0.4854,
+              "start": 101,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 108,
+              "start": 100,
+              "tag": "thangyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3bHxR4CyWW",
+              "end": 132,
+              "expanded_url": "https://x.com/nazusshu/status/1948513125160178079/photo/1",
+              "media_key": "3_1948513118075707392",
+              "start": 109,
+              "url": "https://t.co/3bHxR4CyWW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948513125160178079",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 136,
+          "impression_count": 7032,
+          "like_count": 980,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 174
+        },
+        "reply_settings": "everyone",
+        "text": "this isnt serious At all but the idea of thanos swearing up and down he isnt gay is So funny to me \n#thangyu https://t.co/3bHxR4CyWW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947781415615025152/-8pHQpZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 3031,
+          "like_count": 23715,
+          "listed_count": 3,
+          "media_count": 1490,
+          "tweet_count": 22841
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-15T15:33:44.000Z",
+        "description": "on dat octopus challenges cocaine ❤️ veryhiyori on tiktok , use ok w cred",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nazusshu.straw.page",
+                "end": 23,
+                "expanded_url": "https://nazusshu.straw.page",
+                "start": 0,
+                "url": "https://t.co/X7cbMFEqYR"
+              }
+            ]
+          }
+        },
+        "id": "1514990297285017602",
+        "location": "he   15",
+        "name": "kas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941750809881874432/QfmLp19a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 14,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 72
+        },
+        "url": "https://t.co/X7cbMFEqYR",
+        "username": "nazusshu",
+        "verified": false
+      }
+    ]
+  }
+}

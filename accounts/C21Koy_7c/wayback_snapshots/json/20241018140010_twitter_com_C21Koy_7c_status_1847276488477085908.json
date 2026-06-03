@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1846594401314979840"
+      ],
+      "media_source_tweet_id": [
+        "1846594418532577634"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1847276488477085908",
+    "created_at": "2024-10-18T14:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-18T15:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847276488477085908"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "isobel",
+          "probability": 0.6061,
+          "start": 19,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3381561552",
+          "start": 3,
+          "username": "Ozumii_Wizard"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OxkYIvKxNx",
+          "end": 49,
+          "expanded_url": "https://x.com/Ozumii_Wizard/status/1846594418532577634/photo/1",
+          "media_key": "3_1846594401314979840",
+          "start": 26,
+          "url": "https://t.co/OxkYIvKxNx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847276488477085908",
+    "lang": "pt",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1848
+    },
+    "referenced_tweets": [
+      {
+        "id": "1846594418532577634",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ozumii_Wizard: isobel https://t.co/OxkYIvKxNx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 782,
+        "media_key": "3_1846594401314979840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaBr0waawAAgCac.png",
+        "width": 840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1846594401314979840"
+          ],
+          "media_source_tweet_id": [
+            "1846594418532577634"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1847276488477085908",
+        "created_at": "2024-10-18T14:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-18T15:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847276488477085908"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "isobel",
+              "probability": 0.6061,
+              "start": 19,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3381561552",
+              "start": 3,
+              "username": "Ozumii_Wizard"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OxkYIvKxNx",
+              "end": 49,
+              "expanded_url": "https://x.com/Ozumii_Wizard/status/1846594418532577634/photo/1",
+              "media_key": "3_1846594401314979840",
+              "start": 26,
+              "url": "https://t.co/OxkYIvKxNx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847276488477085908",
+        "lang": "pt",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1848
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846594418532577634",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ozumii_Wizard: isobel https://t.co/OxkYIvKxNx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1846594401314979840"
+          ]
+        },
+        "author_id": "3381561552",
+        "conversation_id": "1846594418532577634",
+        "created_at": "2024-10-16T16:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-16T17:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1846594418532577634"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "isobel",
+              "probability": 0.6084,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OxkYIvKxNx",
+              "end": 30,
+              "expanded_url": "https://x.com/Ozumii_Wizard/status/1846594418532577634/photo/1",
+              "media_key": "3_1846594401314979840",
+              "start": 7,
+              "url": "https://t.co/OxkYIvKxNx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1846594418532577634",
+        "lang": "pt",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 902,
+          "impression_count": 181714,
+          "like_count": 16192,
+          "quote_count": 15,
+          "reply_count": 16,
+          "retweet_count": 1848
+        },
+        "reply_settings": "everyone",
+        "text": "isobel https://t.co/OxkYIvKxNx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫 Bipolar patient/ they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT大概淡坑：COD/MK/恐影 不善表达 但是还算可以 请和我保持联络谢谢 尽力活着 我没恶意 我鼓起很大勇气才会评论你 lgbt+ GB GL大于BL BG",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1787381657340883290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842795137925255168/Z-0bJ2Zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 2832,
+          "like_count": 20020,
+          "listed_count": 3,
+          "tweet_count": 16546
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-29T12:42:33.000Z",
+        "description": "He/Him 🏳️‍⚧️| Jr. Game Artist, Freelancer 🇵🇭🏳️‍🌈\n💗 https://t.co/WcyMdLKIKu\n💗 https://t.co/6LmVe2qqBF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ozumiiwizard.carrd.co",
+                "end": 74,
+                "expanded_url": "https://ozumiiwizard.carrd.co/",
+                "start": 51,
+                "url": "https://t.co/WcyMdLKIKu"
+              },
+              {
+                "display_url": "vgen.co/Ozumii_Wizard",
+                "end": 100,
+                "expanded_url": "http://vgen.co/Ozumii_Wizard",
+                "start": 77,
+                "url": "https://t.co/6LmVe2qqBF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/sa57YsDR9W",
+                "end": 23,
+                "expanded_url": "https://discord.gg/sa57YsDR9W",
+                "start": 0,
+                "url": "https://t.co/5DJdudUej9"
+              }
+            ]
+          }
+        },
+        "id": "3381561552",
+        "location": "proshippers fuck off ty!",
+        "name": "Ozu - CEO of Halsin 🐻",
+        "pinned_tweet_id": "1842876090148372819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755716889823825920/44mdpFKc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43024,
+          "following_count": 712,
+          "like_count": 75961,
+          "listed_count": 442,
+          "tweet_count": 27882
+        },
+        "url": "https://t.co/5DJdudUej9",
+        "username": "Ozumii_Wizard",
+        "verified": false
+      }
+    ]
+  }
+}

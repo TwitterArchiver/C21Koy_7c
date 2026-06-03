@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1721089336924635136"
+      ],
+      "media_source_tweet_id": [
+        "1721089344751178163"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1860984255532478467",
+    "created_at": "2024-11-25T09:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T10:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860984255532478467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "906464601952284673",
+          "start": 3,
+          "username": "YUJIfantasia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W6g1fJPTBt",
+          "end": 41,
+          "expanded_url": "https://x.com/YUJIfantasia/status/1721089344751178163/photo/1",
+          "media_key": "3_1721089336924635136",
+          "start": 18,
+          "url": "https://t.co/W6g1fJPTBt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860984255532478467",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3862
+    },
+    "referenced_tweets": [
+      {
+        "id": "1721089344751178163",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YUJIfantasia: https://t.co/W6g1fJPTBt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1721089336924635136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F-KJohobAAAebS0.jpg",
+        "width": 1267
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1721089336924635136"
+          ],
+          "media_source_tweet_id": [
+            "1721089344751178163"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1860984255532478467",
+        "created_at": "2024-11-25T09:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T10:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860984255532478467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "906464601952284673",
+              "start": 3,
+              "username": "YUJIfantasia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W6g1fJPTBt",
+              "end": 41,
+              "expanded_url": "https://x.com/YUJIfantasia/status/1721089344751178163/photo/1",
+              "media_key": "3_1721089336924635136",
+              "start": 18,
+              "url": "https://t.co/W6g1fJPTBt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860984255532478467",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3862
+        },
+        "referenced_tweets": [
+          {
+            "id": "1721089344751178163",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YUJIfantasia: https://t.co/W6g1fJPTBt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1721089336924635136"
+          ]
+        },
+        "author_id": "906464601952284673",
+        "conversation_id": "1721089344751178163",
+        "created_at": "2023-11-05T08:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2023-11-05T09:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1721089344751178163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W6g1fJPTBt",
+              "end": 23,
+              "expanded_url": "https://x.com/YUJIfantasia/status/1721089344751178163/photo/1",
+              "media_key": "3_1721089336924635136",
+              "start": 0,
+              "url": "https://t.co/W6g1fJPTBt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1721089344751178163",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1128,
+          "impression_count": 455190,
+          "like_count": 19652,
+          "quote_count": 56,
+          "reply_count": 17,
+          "retweet_count": 3862
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/W6g1fJPTBt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫bi🏳️‍🌈/ they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人女 会突然产出想法 GB GL大于BL BG 20+",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 2908,
+          "like_count": 20761,
+          "listed_count": 2,
+          "tweet_count": 18224
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-09T10:29:37.000Z",
+        "description": "illustrator YUJI ｜中文/English｜Can not reprint my pictures without permission⚠图片转载请联系我授权",
+        "id": "906464601952284673",
+        "name": "YUJI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1317849839342776321/OyBxRaEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160423,
+          "following_count": 299,
+          "like_count": 786,
+          "listed_count": 1115,
+          "tweet_count": 581
+        },
+        "username": "YUJIfantasia",
+        "verified": false
+      }
+    ]
+  }
+}

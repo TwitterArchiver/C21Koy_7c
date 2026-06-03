@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890305984754774017"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1890146204354507012",
+    "created_at": "2025-02-14T07:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T08:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890305993449369780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1583422861099692032",
+          "start": 0,
+          "username": "kanade_taka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QSvKOC4fQ4",
+          "end": 104,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1890305993449369780/photo/1",
+          "media_key": "3_1890305984754774017",
+          "start": 81,
+          "url": "https://t.co/QSvKOC4fQ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890305993449369780",
+    "in_reply_to_user_id": "1583422861099692032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890304542782222473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanade_taka 是的…不过我没有发热，但是确实是很痛苦的一段时间，chat说也有可能是锂中毒……不过我应该有一段时间都不敢喝西柚汁了，，还有用白兔止咳 https://t.co/QSvKOC4fQ4"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1890304542782222473].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1890304542782222473",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1890304542782222473"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1890305984754774017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gju3RyIacAEvQ2h.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890305984754774017"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1890146204354507012",
+        "created_at": "2025-02-14T07:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T08:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890305993449369780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1583422861099692032",
+              "start": 0,
+              "username": "kanade_taka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QSvKOC4fQ4",
+              "end": 104,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1890305993449369780/photo/1",
+              "media_key": "3_1890305984754774017",
+              "start": 81,
+              "url": "https://t.co/QSvKOC4fQ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890305993449369780",
+        "in_reply_to_user_id": "1583422861099692032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890304542782222473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanade_taka 是的…不过我没有发热，但是确实是很痛苦的一段时间，chat说也有可能是锂中毒……不过我应该有一段时间都不敢喝西柚汁了，，还有用白兔止咳 https://t.co/QSvKOC4fQ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH! 20+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影/三国 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人爱好者 会突然产出想法 BL吃的比其他少 但是会吃 是成年账户 全是翻译器",
+        "id": "1452123941686976519",
+        "name": "鸦肉臀臀",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885384535879409667/UEQG5lqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 2971,
+          "like_count": 21530,
+          "listed_count": 2,
+          "media_count": 1208,
+          "tweet_count": 19952
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-21T11:40:16.000Z",
+        "description": "amab non-binary sub 想做chubby milf 大概是asd/adhd\n原@kanadegao\nmillionlive5@proton.me\n推：高垣枫 速水奏 鹭泽文香",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "kanadegao"
+              }
+            ]
+          }
+        },
+        "id": "1583422861099692032",
+        "name": "kanademk2@kanade_taka@nya.one",
+        "pinned_tweet_id": "1745852767464554593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635546948102127617/2JAyk-UV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 7500,
+          "like_count": 566561,
+          "listed_count": 32,
+          "media_count": 410,
+          "tweet_count": 19988
+        },
+        "username": "kanade_taka",
+        "verified": false
+      }
+    ]
+  }
+}

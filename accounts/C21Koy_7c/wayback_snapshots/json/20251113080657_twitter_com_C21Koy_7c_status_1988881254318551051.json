@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988289367488843776"
+      ],
+      "media_source_tweet_id": [
+        "1988289751519293851"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596144599042",
+          "name": "Snacks - CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Pocky (ポッキー)",
+          "id": "1121845553527017472",
+          "name": "Pocky (ポッキー)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Twitter generated Trends that occur on a daily, weekly, monthly, or yearly basis such as Monday motivation.",
+          "id": "109",
+          "name": "Reoccurring Trends"
+        },
+        "entity": {
+          "id": "1323341382753214464",
+          "name": "Pocky & Pretz Day"
+        }
+      }
+    ],
+    "conversation_id": "1988881254318551051",
+    "created_at": "2025-11-13T08:06:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T09:06:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988881254318551051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1880280214665850883",
+          "start": 3,
+          "username": "M1895_N"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zWZKe3uZXp",
+          "end": 48,
+          "expanded_url": "https://x.com/M1895_N/status/1988289751519293851/photo/1",
+          "media_key": "3_1988289367488843776",
+          "start": 25,
+          "url": "https://t.co/zWZKe3uZXp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988881254318551051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988289751519293851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @M1895_N: 來個POCKY DAY https://t.co/zWZKe3uZXp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1015,
+        "media_key": "3_1988289367488843776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5fSpTPb0AAQKO2.png",
+        "width": 1208
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988289367488843776"
+          ],
+          "media_source_tweet_id": [
+            "1988289751519293851"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144599042",
+              "name": "Snacks - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Pocky (ポッキー)",
+              "id": "1121845553527017472",
+              "name": "Pocky (ポッキー)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Twitter generated Trends that occur on a daily, weekly, monthly, or yearly basis such as Monday motivation.",
+              "id": "109",
+              "name": "Reoccurring Trends"
+            },
+            "entity": {
+              "id": "1323341382753214464",
+              "name": "Pocky & Pretz Day"
+            }
+          }
+        ],
+        "conversation_id": "1988881254318551051",
+        "created_at": "2025-11-13T08:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T09:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988881254318551051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880280214665850883",
+              "start": 3,
+              "username": "M1895_N"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zWZKe3uZXp",
+              "end": 48,
+              "expanded_url": "https://x.com/M1895_N/status/1988289751519293851/photo/1",
+              "media_key": "3_1988289367488843776",
+              "start": 25,
+              "url": "https://t.co/zWZKe3uZXp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988881254318551051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988289751519293851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @M1895_N: 來個POCKY DAY https://t.co/zWZKe3uZXp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988289367488843776"
+          ]
+        },
+        "author_id": "1880280214665850883",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144599042",
+              "name": "Snacks - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Pocky (ポッキー)",
+              "id": "1121845553527017472",
+              "name": "Pocky (ポッキー)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Twitter generated Trends that occur on a daily, weekly, monthly, or yearly basis such as Monday motivation.",
+              "id": "109",
+              "name": "Reoccurring Trends"
+            },
+            "entity": {
+              "id": "1323341382753214464",
+              "name": "Pocky & Pretz Day"
+            }
+          }
+        ],
+        "conversation_id": "1988289751519293851",
+        "created_at": "2025-11-11T16:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T17:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988289751519293851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zWZKe3uZXp",
+              "end": 35,
+              "expanded_url": "https://x.com/M1895_N/status/1988289751519293851/photo/1",
+              "media_key": "3_1988289367488843776",
+              "start": 12,
+              "url": "https://t.co/zWZKe3uZXp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988289751519293851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 1675,
+          "like_count": 123,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "來個POCKY DAY https://t.co/zWZKe3uZXp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987482127756410880/kunx4knz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 3150,
+          "like_count": 25531,
+          "listed_count": 5,
+          "media_count": 1728,
+          "tweet_count": 24429
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T15:45:18.000Z",
+        "description": "20+｜ Help of Translation tool ►This account uses the list function to follow everyone. And thanks for the comments/RP/likes/following.",
+        "id": "1880280214665850883",
+        "location": "(001x456 , 456x001)",
+        "name": "🍢",
+        "pinned_tweet_id": "1944741612808270225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880577304667258880/wyMQ2aMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 15,
+          "like_count": 2384,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 1368
+        },
+        "username": "M1895_N",
+        "verified": false
+      }
+    ]
+  }
+}

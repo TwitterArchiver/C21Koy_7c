@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "conversation_id": "1929216620968169641",
+    "created_at": "2025-06-01T16:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T17:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929216620968169641"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/c21koy_7c/stat…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/c21koy_7c/status/1889212334935359916",
+          "start": 21,
+          "url": "https://t.co/uD9WAXyyjy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929216620968169641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889212334935359916",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很帅啊 现在疤痕都快看不见，再来一次吧？ https://t.co/uD9WAXyyjy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1889212334935359916].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1889212334935359916",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1889212334935359916"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "conversation_id": "1929216620968169641",
+        "created_at": "2025-06-01T16:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T17:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929216620968169641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/c21koy_7c/stat…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/c21koy_7c/status/1889212334935359916",
+              "start": 21,
+              "url": "https://t.co/uD9WAXyyjy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929216620968169641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889212334935359916",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很帅啊 现在疤痕都快看不见，再来一次吧？ https://t.co/uD9WAXyyjy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我yan、肉鸦都可以 不会外语翻译器OK",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 3019,
+          "like_count": 23251,
+          "listed_count": 3,
+          "media_count": 1418,
+          "tweet_count": 22251
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      }
+    ]
+  }
+}

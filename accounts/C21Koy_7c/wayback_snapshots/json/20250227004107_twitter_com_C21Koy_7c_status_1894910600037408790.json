@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1894796722317963264"
+      ],
+      "media_source_tweet_id": [
+        "1894797086614528391"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1894910600037408790",
+    "created_at": "2025-02-27T00:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T01:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894910600037408790"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "Amy",
+          "probability": 0.6066,
+          "start": 14,
+          "type": "Person"
+        },
+        {
+          "end": 42,
+          "normalized_text": "SonAmy",
+          "probability": 0.4163,
+          "start": 37,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 36,
+          "tag": "SonAmy"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1557828958066032641",
+          "start": 3,
+          "username": "Kiioki11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CBYHN7lrc4",
+          "end": 67,
+          "expanded_url": "https://x.com/Kiioki11/status/1894797086614528391/photo/1",
+          "media_key": "3_1894796722317963264",
+          "start": 44,
+          "url": "https://t.co/CBYHN7lrc4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894910600037408790",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4473
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894797086614528391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kiioki11: Amy’s beautiful idiot #SonAmy https://t.co/CBYHN7lrc4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1894796722317963264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkurlHNWMAA_Gna.jpg",
+        "width": 1423
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894796722317963264"
+          ],
+          "media_source_tweet_id": [
+            "1894797086614528391"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1894910600037408790",
+        "created_at": "2025-02-27T00:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T01:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894910600037408790"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "Amy",
+              "probability": 0.6066,
+              "start": 14,
+              "type": "Person"
+            },
+            {
+              "end": 42,
+              "normalized_text": "SonAmy",
+              "probability": 0.4163,
+              "start": 37,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 36,
+              "tag": "SonAmy"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1557828958066032641",
+              "start": 3,
+              "username": "Kiioki11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CBYHN7lrc4",
+              "end": 67,
+              "expanded_url": "https://x.com/Kiioki11/status/1894797086614528391/photo/1",
+              "media_key": "3_1894796722317963264",
+              "start": 44,
+              "url": "https://t.co/CBYHN7lrc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894910600037408790",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4473
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894797086614528391",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kiioki11: Amy’s beautiful idiot #SonAmy https://t.co/CBYHN7lrc4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894796722317963264"
+          ]
+        },
+        "author_id": "1557828958066032641",
+        "conversation_id": "1894797086614528391",
+        "created_at": "2025-02-26T17:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T18:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894797086614528391"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "Amy",
+              "probability": 0.5491,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 28,
+              "normalized_text": "SonAmy",
+              "probability": 0.614,
+              "start": 23,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 22,
+              "tag": "SonAmy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CBYHN7lrc4",
+              "end": 53,
+              "expanded_url": "https://x.com/Kiioki11/status/1894797086614528391/photo/1",
+              "media_key": "3_1894796722317963264",
+              "start": 30,
+              "url": "https://t.co/CBYHN7lrc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894797086614528391",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5630,
+          "impression_count": 473248,
+          "like_count": 48339,
+          "quote_count": 153,
+          "reply_count": 126,
+          "retweet_count": 4473
+        },
+        "reply_settings": "everyone",
+        "text": "Amy’s beautiful idiot #SonAmy https://t.co/CBYHN7lrc4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 但是还算可以 懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890691451258126336/lPqKitsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 2981,
+          "like_count": 21927,
+          "listed_count": 2,
+          "media_count": 1272,
+          "tweet_count": 20664
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T20:40:28.000Z",
+        "description": "Draw for fun ✿ multi fandom (mainly Sonic) ✿ Don't edit/repost without permission or credit plz ✿ Doodle acc: @kii_doodles\nPfp: @KornArt3 ✿ Banner: @ari_vsart",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "kii_doodles"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "KornArt3"
+              },
+              {
+                "end": 158,
+                "start": 148,
+                "username": "ari_vsart"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/kiioki11",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/kiioki11",
+                "start": 0,
+                "url": "https://t.co/y9Tr5csByQ"
+              }
+            ]
+          }
+        },
+        "id": "1557828958066032641",
+        "name": "Kii 𐔌˙.",
+        "pinned_tweet_id": "1846949254784524342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875595624466329600/4O20Ji_J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49822,
+          "following_count": 250,
+          "like_count": 28892,
+          "listed_count": 156,
+          "media_count": 208,
+          "tweet_count": 5172
+        },
+        "url": "https://t.co/y9Tr5csByQ",
+        "username": "Kiioki11",
+        "verified": false
+      }
+    ]
+  }
+}

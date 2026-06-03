@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1885443510255706117"
+      ],
+      "media_source_tweet_id": [
+        "1885444413301940501"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1207454119679553536",
+          "name": "Jojo's Bizarre Adventure"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1207454119679553536",
+          "name": "Jojo's Bizarre Adventure"
+        }
+      }
+    ],
+    "conversation_id": "1885925929542906279",
+    "created_at": "2025-02-02T05:39:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T06:39:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885925929542906279"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "jjba"
+        },
+        {
+          "end": 32,
+          "start": 27,
+          "tag": "kira"
+        },
+        {
+          "end": 47,
+          "start": 33,
+          "tag": "kirayoshikage"
+        },
+        {
+          "end": 60,
+          "start": 48,
+          "tag": "killerqueen"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "871167449370120192",
+          "start": 3,
+          "username": "Advanced_Random"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KFBj53Wx7Q",
+          "end": 84,
+          "expanded_url": "https://x.com/Advanced_Random/status/1885444413301940501/photo/1",
+          "media_key": "3_1885443510255706117",
+          "start": 61,
+          "url": "https://t.co/KFBj53Wx7Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885925929542906279",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 155
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885444413301940501",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Advanced_Random: #jjba #kira #kirayoshikage #killerqueen https://t.co/KFBj53Wx7Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1447,
+        "media_key": "3_1885443510255706117",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gipw4hDbYAU9pvK.jpg",
+        "width": 924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885443510255706117"
+          ],
+          "media_source_tweet_id": [
+            "1885444413301940501"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          }
+        ],
+        "conversation_id": "1885925929542906279",
+        "created_at": "2025-02-02T05:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T06:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885925929542906279"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "jjba"
+            },
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "kira"
+            },
+            {
+              "end": 47,
+              "start": 33,
+              "tag": "kirayoshikage"
+            },
+            {
+              "end": 60,
+              "start": 48,
+              "tag": "killerqueen"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "871167449370120192",
+              "start": 3,
+              "username": "Advanced_Random"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KFBj53Wx7Q",
+              "end": 84,
+              "expanded_url": "https://x.com/Advanced_Random/status/1885444413301940501/photo/1",
+              "media_key": "3_1885443510255706117",
+              "start": 61,
+              "url": "https://t.co/KFBj53Wx7Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885925929542906279",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 155
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885444413301940501",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Advanced_Random: #jjba #kira #kirayoshikage #killerqueen https://t.co/KFBj53Wx7Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885443510255706117"
+          ]
+        },
+        "author_id": "871167449370120192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          }
+        ],
+        "conversation_id": "1885444413301940501",
+        "created_at": "2025-01-31T21:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T22:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885444413301940501"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "jjba"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "kira"
+            },
+            {
+              "end": 26,
+              "start": 12,
+              "tag": "kirayoshikage"
+            },
+            {
+              "end": 39,
+              "start": 27,
+              "tag": "killerqueen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KFBj53Wx7Q",
+              "end": 63,
+              "expanded_url": "https://x.com/Advanced_Random/status/1885444413301940501/photo/1",
+              "media_key": "3_1885443510255706117",
+              "start": 40,
+              "url": "https://t.co/KFBj53Wx7Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885444413301940501",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 214,
+          "impression_count": 16083,
+          "like_count": 1434,
+          "quote_count": 20,
+          "reply_count": 2,
+          "retweet_count": 155
+        },
+        "reply_settings": "everyone",
+        "text": "#jjba #kira #kirayoshikage #killerqueen https://t.co/KFBj53Wx7Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH! 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影/三国 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人爱好者 会突然产出想法 BL吃的比其他少 但是会吃 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦肉臀臀",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885384535879409667/UEQG5lqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 2965,
+          "like_count": 21146,
+          "listed_count": 2,
+          "media_count": 1175,
+          "tweet_count": 19582
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-04T00:51:20.000Z",
+        "description": "~slow artist | draws whatever | occasional nsfw🔞~",
+        "id": "871167449370120192",
+        "name": "ohai (COMMISSIONS OPEN)",
+        "pinned_tweet_id": "1706461092803936635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750343639547650048/7r4SIj0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5065,
+          "following_count": 1417,
+          "like_count": 5000,
+          "listed_count": 41,
+          "media_count": 208,
+          "tweet_count": 533
+        },
+        "username": "Advanced_Random",
+        "verified": false
+      }
+    ]
+  }
+}

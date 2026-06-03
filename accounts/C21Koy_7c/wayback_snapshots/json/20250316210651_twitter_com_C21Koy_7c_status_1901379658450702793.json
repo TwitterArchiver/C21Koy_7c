@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1754526607744839680"
+      ],
+      "media_source_tweet_id": [
+        "1754526612379545787"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1901379658450702793",
+    "created_at": "2025-03-16T21:06:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T22:06:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901379658450702793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1519698906430730243",
+          "start": 3,
+          "username": "crosma666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sLLxpJfyR2",
+          "end": 72,
+          "expanded_url": "https://x.com/crosma666/status/1754526612379545787/photo/1",
+          "media_key": "3_1754526607744839680",
+          "start": 49,
+          "url": "https://t.co/sLLxpJfyR2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901379658450702793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1754526612379545787",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @crosma666: ❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌\nGuro 0️⃣ 内脏露出，已预警 https://t.co/sLLxpJfyR2"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1901379658450702793].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1901379658450702793",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1901379658450702793"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1911,
+        "media_key": "3_1754526607744839680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GFlUp2OaMAAn6TI.jpg",
+        "width": 1870
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1754526607744839680"
+          ]
+        },
+        "author_id": "1519698906430730243",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1754526612379545787",
+        "created_at": "2024-02-05T15:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-02-05T16:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1754526612379545787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sLLxpJfyR2",
+              "end": 57,
+              "expanded_url": "https://x.com/crosma666/status/1754526612379545787/photo/1",
+              "media_key": "3_1754526607744839680",
+              "start": 34,
+              "url": "https://t.co/sLLxpJfyR2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1754526612379545787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1598,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌\nGuro 0️⃣ 内脏露出，已预警 https://t.co/sLLxpJfyR2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 但是还算可以 懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890691451258126336/lPqKitsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 2993,
+          "like_count": 22302,
+          "listed_count": 2,
+          "media_count": 1295,
+          "tweet_count": 21064
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-28T15:24:01.000Z",
+        "description": "＝化鬼/🇨🇳25↑，低浮上\n‼️不是全年龄账号‼️谨慎关注，mob属性大于一切，Guro\n⚠️⚠️⚠️R-18 Art Sometimes",
+        "id": "1519698906430730243",
+        "name": "淫賤臭",
+        "pinned_tweet_id": "1833466834525569150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789752289550569472/drtMh9rC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 505,
+          "like_count": 4010,
+          "listed_count": 4,
+          "media_count": 412,
+          "tweet_count": 4028
+        },
+        "username": "crosma666",
+        "verified": false
+      }
+    ]
+  }
+}

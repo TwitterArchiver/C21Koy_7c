@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1144334291989434368",
+          "name": "Life is Strange"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1144334291989434368",
+          "name": "Life is Strange"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541881395164786688",
+          "name": "Adventure games"
+        }
+      }
+    ],
+    "conversation_id": "1885609316725735518",
+    "created_at": "2025-02-01T08:41:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T09:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885609316725735518"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 95,
+          "normalized_text": "Life is Strange",
+          "probability": 0.9721,
+          "start": 81,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2587658342",
+          "start": 3,
+          "username": "LifeIsStrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885609316725735518",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2616
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884632436098646336",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LifeIsStrange: Can you believe it's been 10 years since the first episode of Life is Strange was released?! 😲 January 29 2025 marks a d…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1144334291989434368",
+              "name": "Life is Strange"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1144334291989434368",
+              "name": "Life is Strange"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541881395164786688",
+              "name": "Adventure games"
+            }
+          }
+        ],
+        "conversation_id": "1885609316725735518",
+        "created_at": "2025-02-01T08:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T09:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885609316725735518"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 95,
+              "normalized_text": "Life is Strange",
+              "probability": 0.9721,
+              "start": 81,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2587658342",
+              "start": 3,
+              "username": "LifeIsStrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885609316725735518",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2616
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884632436098646336",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LifeIsStrange: Can you believe it's been 10 years since the first episode of Life is Strange was released?! 😲 January 29 2025 marks a d…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1884631474701291521"
+          ]
+        },
+        "author_id": "2587658342",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1144334291989434368",
+              "name": "Life is Strange"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1144334291989434368",
+              "name": "Life is Strange"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541881395164786688",
+              "name": "Adventure games"
+            }
+          }
+        ],
+        "conversation_id": "1884632436098646336",
+        "created_at": "2025-01-29T15:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T16:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884632436098646336"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 76,
+              "normalized_text": "Life is Strange",
+              "probability": 0.9619,
+              "start": 62,
+              "type": "Other"
+            },
+            {
+              "end": 138,
+              "normalized_text": "Max",
+              "probability": 0.5788,
+              "start": 136,
+              "type": "Other"
+            },
+            {
+              "end": 148,
+              "normalized_text": "Chloe",
+              "probability": 0.7168,
+              "start": 144,
+              "type": "Other"
+            },
+            {
+              "end": 176,
+              "normalized_text": "Arcadia Bay",
+              "probability": 0.7445,
+              "start": 166,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/azSRa3dtUD",
+              "end": 257,
+              "expanded_url": "https://x.com/LifeIsStrange/status/1884632436098646336/video/1",
+              "media_key": "13_1884631474701291521",
+              "start": 234,
+              "url": "https://t.co/azSRa3dtUD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884632436098646336",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 637,
+          "impression_count": 485731,
+          "like_count": 10711,
+          "quote_count": 980,
+          "reply_count": 249,
+          "retweet_count": 2616
+        },
+        "reply_settings": "everyone",
+        "text": "Can you believe it's been 10 years since the first episode of Life is Strange was released?! 😲 January 29 2025 marks a decade from when Max and Chloe's adventures in Arcadia Bay first began.\n\nWhat was your favorite part of Episode 1? https://t.co/azSRa3dtUD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH! 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影/三国 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人爱好者 会突然产出想法 BL吃的比其他少 但是会吃 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦肉臀臀",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885384535879409667/UEQG5lqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 2964,
+          "like_count": 21133,
+          "listed_count": 2,
+          "media_count": 1174,
+          "tweet_count": 19559
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-25T14:52:15.000Z",
+        "description": "#LifeIsStrange Double Exposure is Out Now! Available on Xbox Series X|S, PS5, PC and Nintendo Switch. BUY: https://t.co/HB8xdlP7RF - SUPPORT: https://t.co/CHv5YpYdud",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 0,
+                "tag": "LifeIsStrange"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sqex.link/BuyLiSDE",
+                "end": 130,
+                "expanded_url": "http://sqex.link/BuyLiSDE",
+                "start": 107,
+                "url": "https://t.co/HB8xdlP7RF"
+              },
+              {
+                "display_url": "sqex.link/16c1b4",
+                "end": 165,
+                "expanded_url": "http://sqex.link/16c1b4",
+                "start": 142,
+                "url": "https://t.co/CHv5YpYdud"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sqex.link/BuyLiSDE",
+                "end": 23,
+                "expanded_url": "https://sqex.link/BuyLiSDE",
+                "start": 0,
+                "url": "https://t.co/j4oFHT0VqT"
+              }
+            ]
+          }
+        },
+        "id": "2587658342",
+        "location": "Caledon University",
+        "name": "Life is Strange",
+        "pinned_tweet_id": "1851292919443128704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799865122644430848/M5AXqKzo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1804537,
+          "following_count": 177,
+          "like_count": 4613,
+          "listed_count": 774,
+          "media_count": 2505,
+          "tweet_count": 8590
+        },
+        "url": "https://t.co/j4oFHT0VqT",
+        "username": "LifeIsStrange",
+        "verified": true
+      }
+    ]
+  }
+}

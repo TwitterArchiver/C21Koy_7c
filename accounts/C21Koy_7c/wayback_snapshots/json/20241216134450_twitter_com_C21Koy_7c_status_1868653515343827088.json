@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868638630702706688"
+      ],
+      "media_source_tweet_id": [
+        "1868638862538674654"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1868653515343827088",
+    "created_at": "2024-12-16T13:44:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T14:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868653515343827088"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 46,
+          "normalized_text": "Shadowheart",
+          "probability": 0.8414,
+          "start": 36,
+          "type": "Other"
+        },
+        {
+          "end": 56,
+          "normalized_text": "Ladyshar",
+          "probability": 0.8848,
+          "start": 49,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 35,
+          "tag": "Shadowheart"
+        },
+        {
+          "end": 57,
+          "start": 48,
+          "tag": "Ladyshar"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "100187103",
+          "start": 3,
+          "username": "Barbozari"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y6x1O0lTjS",
+          "end": 81,
+          "expanded_url": "https://x.com/Barbozari/status/1868638862538674654/photo/1",
+          "media_key": "3_1868638630702706688",
+          "start": 58,
+          "url": "https://t.co/y6x1O0lTjS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868653515343827088",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868638862538674654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Barbozari: Good girl gone bad🤪 #Shadowheart #Ladyshar https://t.co/y6x1O0lTjS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2166,
+        "media_key": "3_1868638630702706688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge687ySbcAACmLX.jpg",
+        "width": 2693
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868638630702706688"
+          ],
+          "media_source_tweet_id": [
+            "1868638862538674654"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1868653515343827088",
+        "created_at": "2024-12-16T13:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T14:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868653515343827088"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "Shadowheart",
+              "probability": 0.8414,
+              "start": 36,
+              "type": "Other"
+            },
+            {
+              "end": 56,
+              "normalized_text": "Ladyshar",
+              "probability": 0.8848,
+              "start": 49,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 35,
+              "tag": "Shadowheart"
+            },
+            {
+              "end": 57,
+              "start": 48,
+              "tag": "Ladyshar"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "100187103",
+              "start": 3,
+              "username": "Barbozari"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y6x1O0lTjS",
+              "end": 81,
+              "expanded_url": "https://x.com/Barbozari/status/1868638862538674654/photo/1",
+              "media_key": "3_1868638630702706688",
+              "start": 58,
+              "url": "https://t.co/y6x1O0lTjS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868653515343827088",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868638862538674654",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Barbozari: Good girl gone bad🤪 #Shadowheart #Ladyshar https://t.co/y6x1O0lTjS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868638630702706688"
+          ]
+        },
+        "author_id": "100187103",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1868638862538674654",
+        "created_at": "2024-12-16T12:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T13:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868638862538674654"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "Shadowheart",
+              "probability": 0.7974,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 41,
+              "normalized_text": "Ladyshar",
+              "probability": 0.9112,
+              "start": 34,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 20,
+              "tag": "Shadowheart"
+            },
+            {
+              "end": 42,
+              "start": 33,
+              "tag": "Ladyshar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y6x1O0lTjS",
+              "end": 66,
+              "expanded_url": "https://x.com/Barbozari/status/1868638862538674654/photo/1",
+              "media_key": "3_1868638630702706688",
+              "start": 43,
+              "url": "https://t.co/y6x1O0lTjS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868638862538674654",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 577,
+          "like_count": 70,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "Good girl gone bad🤪 #Shadowheart #Ladyshar https://t.co/y6x1O0lTjS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人女 会突然产出想法 GB GL大于BL BG 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 2938,
+          "like_count": 20821,
+          "listed_count": 2,
+          "media_count": 1120,
+          "tweet_count": 18556
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-29T09:48:21.000Z",
+        "description": "✨FUB FREE⚠️มีรีโป๊/เลือด⚠️Hobbyist Artist,,GL,,Multi fandom(Now BG3)| 🔞: @barbozari2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "barbozari2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Barbozari",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Barbozari",
+                "start": 0,
+                "url": "https://t.co/247UNoBSno"
+              }
+            ]
+          }
+        },
+        "id": "100187103",
+        "location": "Thailand",
+        "name": "Barbozari 🏳️‍🌈",
+        "pinned_tweet_id": "1868230254088913152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863577994574647296/4-_tpDuq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2424,
+          "following_count": 595,
+          "like_count": 5113,
+          "listed_count": 6,
+          "media_count": 2093,
+          "tweet_count": 63672
+        },
+        "url": "https://t.co/247UNoBSno",
+        "username": "Barbozari",
+        "verified": false
+      }
+    ]
+  }
+}

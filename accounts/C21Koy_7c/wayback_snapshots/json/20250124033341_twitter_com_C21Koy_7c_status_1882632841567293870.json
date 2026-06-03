@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1847212641980452864",
+        "3_1847212641959510016"
+      ],
+      "media_source_tweet_id": [
+        "1847212654303355238",
+        "1847212654303355238"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1882632841567293870",
+    "created_at": "2025-01-24T03:33:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T04:33:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882632841567293870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1452123941686976519",
+          "start": 3,
+          "username": "C21Koy_7c"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q1bLIe2gyV",
+          "end": 41,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1847212654303355238/photo/1",
+          "media_key": "3_1847212641980452864",
+          "start": 18,
+          "url": "https://t.co/Q1bLIe2gyV"
+        },
+        {
+          "display_url": "pic.x.com/Q1bLIe2gyV",
+          "end": 41,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1847212654303355238/photo/1",
+          "media_key": "3_1847212641959510016",
+          "start": 18,
+          "url": "https://t.co/Q1bLIe2gyV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882632841567293870",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847212654303355238",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @C21Koy_7c: 图腾 https://t.co/Q1bLIe2gyV"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1882632841567293870].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1882632841567293870",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1882632841567293870"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_1847212641980452864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaKeHGXbEAAwR6C.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2556,
+        "media_key": "3_1847212641959510016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaKeHGSbgAADhfU.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1847212641980452864",
+            "3_1847212641959510016"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1847212654303355238",
+        "created_at": "2024-10-18T09:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-18T10:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847212654303355238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q1bLIe2gyV",
+              "end": 26,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1847212654303355238/photo/1",
+              "media_key": "3_1847212641980452864",
+              "start": 3,
+              "url": "https://t.co/Q1bLIe2gyV"
+            },
+            {
+              "display_url": "pic.x.com/Q1bLIe2gyV",
+              "end": 26,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1847212654303355238/photo/1",
+              "media_key": "3_1847212641959510016",
+              "start": 3,
+              "url": "https://t.co/Q1bLIe2gyV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847212654303355238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "图腾 https://t.co/Q1bLIe2gyV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH言论 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影/三国 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人爱好者 会突然产出想法 BL吃的比其他少 但是会吃 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦肉臀臀",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 2963,
+          "like_count": 20945,
+          "listed_count": 2,
+          "media_count": 1153,
+          "tweet_count": 19284
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1964065693294542848"
+      ],
+      "media_source_tweet_id": [
+        "1964065804938350892"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1964077660792893647",
+    "created_at": "2025-09-05T21:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T22:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964077660792893647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1731670068189114368",
+          "start": 3,
+          "username": "Oori_Tvv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ww6PY4rs0P",
+          "end": 46,
+          "expanded_url": "https://x.com/Oori_Tvv/status/1964065804938350892/video/1",
+          "media_key": "13_1964065693294542848",
+          "start": 23,
+          "url": "https://t.co/ww6PY4rs0P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964077660792893647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964065804938350892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Oori_Tvv: 為啥鼻貼這麼明顯 https://t.co/ww6PY4rs0P"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1964077660792893647].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1964077660792893647",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1964077660792893647"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9000,
+        "height": 1280,
+        "media_key": "13_1964065693294542848",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1964065693294542848/img/fl1fFAss_kw2NFyI.jpg",
+        "public_metrics": {
+          "view_count": 13
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964065693294542848/vid/avc1/320x568/D7qnDNIChftioTvA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964065693294542848/vid/avc1/480x852/4NgrI8P1sp92B1wf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964065693294542848/vid/avc1/720x1280/Zp9zUJ6mTh2J43b-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1964065693294542848/pl/OQ7Xc3iyjCE_hBS4.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1964065693294542848"
+          ]
+        },
+        "author_id": "1731670068189114368",
+        "conversation_id": "1964065804938350892",
+        "created_at": "2025-09-05T20:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T21:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964065804938350892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ww6PY4rs0P",
+              "end": 32,
+              "expanded_url": "https://x.com/Oori_Tvv/status/1964065804938350892/video/1",
+              "media_key": "13_1964065693294542848",
+              "start": 9,
+              "url": "https://t.co/ww6PY4rs0P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964065804938350892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "為啥鼻貼這麼明顯 https://t.co/ww6PY4rs0P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953486936422912000/qZREob8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 3057,
+          "like_count": 24124,
+          "listed_count": 7,
+          "media_count": 1524,
+          "tweet_count": 23252
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-04T13:42:14.000Z",
+        "description": "喜歡聰明的人。EN/JP/CN |サブ@Orikisaki_0099｜互fo大歡迎！｜尖酸刻薄｜不鍵政｜リトルライター｜ペンギンやで｜DM無視｜ENTP-T｜ボカロ｜精神疾患｜蠢比再見｜負能量爆表｜阿斯伯格｜低素質｜重度憂鬱｜重度焦慮｜輕躁狂｜雙相｜討口子｜玻璃心｜低齡兒｜自殘｜賣慘｜ADHD｜愛國愛黨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 19,
+                "username": "Orikisaki_0099"
+              }
+            ]
+          }
+        },
+        "id": "1731670068189114368",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "長髮男重度依賴",
+        "pinned_tweet_id": "1959643377731084550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963228127343366144/emmugfJP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 554,
+          "like_count": 56377,
+          "listed_count": 2,
+          "media_count": 530,
+          "tweet_count": 5727
+        },
+        "username": "Oori_Tvv",
+        "verified": false
+      }
+    ]
+  }
+}

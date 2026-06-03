@@ -1,0 +1,493 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913503644710002688",
+        "3_1913503646534488064"
+      ],
+      "media_source_tweet_id": [
+        "1913503660060840381",
+        "1913503660060840381"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10027933222",
+          "name": "Call of Duty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1828473756735414272",
+          "name": "Call of Duty: Black Ops 6"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10027933222",
+          "name": "Call of Duty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197906382529294337",
+          "name": "Competitive games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1219785936931672064",
+          "name": "Call of Duty League"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1913607325073740285",
+    "created_at": "2025-04-19T14:55:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T15:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913607325073740285"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 47,
+          "tag": "CallofDuty"
+        },
+        {
+          "end": 66,
+          "start": 59,
+          "tag": "Graves"
+        },
+        {
+          "end": 81,
+          "start": 67,
+          "tag": "phillipgraves"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1808104887139684355",
+          "start": 3,
+          "username": "nanami525264"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U3DlZaeAjM",
+          "end": 105,
+          "expanded_url": "https://x.com/nanami525264/status/1913503660060840381/photo/1",
+          "media_key": "3_1913503644710002688",
+          "start": 82,
+          "url": "https://t.co/U3DlZaeAjM"
+        },
+        {
+          "display_url": "pic.x.com/U3DlZaeAjM",
+          "end": 105,
+          "expanded_url": "https://x.com/nanami525264/status/1913503660060840381/photo/1",
+          "media_key": "3_1913503646534488064",
+          "start": 82,
+          "url": "https://t.co/U3DlZaeAjM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913607325073740285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913503660060840381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nanami525264: 🩸☠️🕶️♠️♟️🪦🐈‍⬛🖤（发现了奇怪的所以重新发…）\n#CallofDuty #Graves #phillipgraves https://t.co/U3DlZaeAjM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1913607325073740285].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1913607325073740285",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1913607325073740285"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_1913503644710002688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go4hbTta4AAdQsk.jpg",
+        "width": 1172
+      },
+      {
+        "height": 1560,
+        "media_key": "3_1913503646534488064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go4hbagaUAAiEV9.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913503644710002688",
+            "3_1913503646534488064"
+          ]
+        },
+        "author_id": "1808104887139684355",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027933222",
+              "name": "Call of Duty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1828473756735414272",
+              "name": "Call of Duty: Black Ops 6"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027933222",
+              "name": "Call of Duty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1219785936931672064",
+              "name": "Call of Duty League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1913503660060840381",
+        "created_at": "2025-04-19T08:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T09:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913503660060840381"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 29,
+              "tag": "CallofDuty"
+            },
+            {
+              "end": 48,
+              "start": 41,
+              "tag": "Graves"
+            },
+            {
+              "end": 63,
+              "start": 49,
+              "tag": "phillipgraves"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U3DlZaeAjM",
+              "end": 87,
+              "expanded_url": "https://x.com/nanami525264/status/1913503660060840381/photo/1",
+              "media_key": "3_1913503644710002688",
+              "start": 64,
+              "url": "https://t.co/U3DlZaeAjM"
+            },
+            {
+              "display_url": "pic.x.com/U3DlZaeAjM",
+              "end": 87,
+              "expanded_url": "https://x.com/nanami525264/status/1913503660060840381/photo/1",
+              "media_key": "3_1913503646534488064",
+              "start": 64,
+              "url": "https://t.co/U3DlZaeAjM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913503660060840381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 665,
+          "like_count": 68,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "🩸☠️🕶️♠️♟️🪦🐈‍⬛🖤（发现了奇怪的所以重新发…）\n#CallofDuty #Graves #phillipgraves https://t.co/U3DlZaeAjM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我yan｜肉鸦都可以",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912422021767524352/6G_fWcrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 3005,
+          "like_count": 22799,
+          "listed_count": 3,
+          "media_count": 1356,
+          "tweet_count": 21719
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T11:47:40.000Z",
+        "description": "🇨🇳请多指教！\n＝小雏/hina\n喜欢画一些同人和oc之类的🥺成分复杂\n欢迎大家和我交朋友口牙！\n跳坑很快）画自己想画的！",
+        "id": "1808104887139684355",
+        "name": "HINA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893740684303335424/cl23as8O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 18,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 153
+        },
+        "username": "nanami525264",
+        "verified": false
+      }
+    ]
+  }
+}

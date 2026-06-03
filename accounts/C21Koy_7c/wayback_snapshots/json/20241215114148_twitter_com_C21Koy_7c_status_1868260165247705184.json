@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862115910489956352"
+      ],
+      "media_source_tweet_id": [
+        "1862115916378763502"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1868260165247705184",
+    "created_at": "2024-12-15T11:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T12:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868260165247705184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1232270546592681985",
+          "start": 3,
+          "username": "zensenourami"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GyL1YRqV3r",
+          "end": 44,
+          "expanded_url": "https://x.com/zensenourami/status/1862115916378763502/photo/1",
+          "media_key": "3_1862115910489956352",
+          "start": 21,
+          "url": "https://t.co/GyL1YRqV3r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868260165247705184",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 348
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862115916378763502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zensenourami: 😈🫦 https://t.co/GyL1YRqV3r"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1868260165247705184].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1868260165247705184",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1868260165247705184"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 699,
+        "media_key": "3_1862115910489956352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdeQjf9bYAAg-1Y.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862115910489956352"
+          ]
+        },
+        "author_id": "1232270546592681985",
+        "conversation_id": "1862115916378763502",
+        "created_at": "2024-11-28T12:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T13:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862115916378763502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GyL1YRqV3r",
+              "end": 26,
+              "expanded_url": "https://x.com/zensenourami/status/1862115916378763502/photo/1",
+              "media_key": "3_1862115910489956352",
+              "start": 3,
+              "url": "https://t.co/GyL1YRqV3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862115916378763502",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 551,
+          "impression_count": 20737,
+          "like_count": 1986,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 348
+        },
+        "reply_settings": "everyone",
+        "text": "😈🫦 https://t.co/GyL1YRqV3r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人女 会突然产出想法 GB GL大于BL BG 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 2936,
+          "like_count": 20817,
+          "listed_count": 2,
+          "media_count": 1119,
+          "tweet_count": 18531
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-25T11:46:15.000Z",
+        "description": "20↑/R18G/R18 https://t.co/xn7AC5JcKo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/zensenourami",
+                "end": 36,
+                "expanded_url": "https://odaibako.net/u/zensenourami",
+                "start": 13,
+                "url": "https://t.co/xn7AC5JcKo"
+              }
+            ]
+          }
+        },
+        "id": "1232270546592681985",
+        "location": "Queen never cry",
+        "name": "山",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865933365825937408/sLV75zv7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3049,
+          "following_count": 123,
+          "like_count": 59041,
+          "listed_count": 18,
+          "media_count": 117,
+          "tweet_count": 29059
+        },
+        "username": "zensenourami",
+        "verified": false
+      }
+    ]
+  }
+}

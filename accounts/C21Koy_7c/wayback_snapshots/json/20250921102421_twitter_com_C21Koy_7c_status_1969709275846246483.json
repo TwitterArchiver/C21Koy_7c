@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969603739217428480"
+      ],
+      "media_source_tweet_id": [
+        "1969603745290825898"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1969709275846246483",
+    "created_at": "2025-09-21T10:24:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T11:24:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969709275846246483"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "brainrot",
+          "probability": 0.4839,
+          "start": 17,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1796870501744197634",
+          "start": 3,
+          "username": "satorankiss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/seGaSMrJc7",
+          "end": 49,
+          "expanded_url": "https://x.com/satorankiss/status/1969603745290825898/photo/1",
+          "media_key": "3_1969603739217428480",
+          "start": 26,
+          "url": "https://t.co/seGaSMrJc7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969709275846246483",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969603745290825898",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @satorankiss: brainrot https://t.co/seGaSMrJc7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1969709275846246483].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1969709275846246483",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1969709275846246483"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969603739217428480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1VwKlhWAAAsY1K.jpg",
+        "width": 1427
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969603739217428480"
+          ]
+        },
+        "author_id": "1796870501744197634",
+        "conversation_id": "1969603745290825898",
+        "created_at": "2025-09-21T03:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T04:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969603745290825898"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "brainrot",
+              "probability": 0.6322,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/seGaSMrJc7",
+              "end": 32,
+              "expanded_url": "https://x.com/satorankiss/status/1969603745290825898/photo/1",
+              "media_key": "3_1969603739217428480",
+              "start": 9,
+              "url": "https://t.co/seGaSMrJc7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969603745290825898",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "brainrot https://t.co/seGaSMrJc7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964100290095042560/8WRhPH87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 3070,
+          "like_count": 24309,
+          "listed_count": 6,
+          "media_count": 1551,
+          "tweet_count": 23367
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T11:45:23.000Z",
+        "description": "header by my lov @swediishpsycho ! ♡  (⁠*⁠´⁠ω⁠｀⁠*⁠)                           ill alcoholic addicted & halle uchida's irl character",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "swediishpsycho"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "satorankiss.straw.page",
+                "end": 23,
+                "expanded_url": "https://satorankiss.straw.page",
+                "start": 0,
+                "url": "https://t.co/2D7Ep0ZJMj"
+              }
+            ]
+          }
+        },
+        "id": "1796870501744197634",
+        "location": " i'm 20 | SHTWT ⚠️",
+        "name": "(´• ω •`) moe-san",
+        "pinned_tweet_id": "1844557228939907208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968148973144641536/3k8IO2rC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 372,
+          "like_count": 13519,
+          "listed_count": 2,
+          "media_count": 501,
+          "tweet_count": 12489
+        },
+        "url": "https://t.co/2D7Ep0ZJMj",
+        "username": "satorankiss",
+        "verified": false
+      }
+    ]
+  }
+}

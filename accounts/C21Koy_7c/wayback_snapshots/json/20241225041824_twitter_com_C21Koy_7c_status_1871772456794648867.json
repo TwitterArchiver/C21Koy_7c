@@ -1,0 +1,693 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1871593505082220545",
+        "3_1871593505086455809",
+        "3_1871593505078038528",
+        "3_1871593505078030337"
+      ],
+      "media_source_tweet_id": [
+        "1871593556500250734",
+        "1871593556500250734",
+        "1871593556500250734",
+        "1871593556500250734"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      }
+    ],
+    "conversation_id": "1871772456794648867",
+    "created_at": "2024-12-25T04:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-25T05:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871772456794648867"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 42,
+          "tag": "Degreesoflewdity"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1851991982396313603",
+          "start": 3,
+          "username": "sydcj1027"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EA9kzGH5yF",
+          "end": 83,
+          "expanded_url": "https://x.com/sydcj1027/status/1871593556500250734/photo/1",
+          "media_key": "3_1871593505082220545",
+          "start": 60,
+          "url": "https://t.co/EA9kzGH5yF"
+        },
+        {
+          "display_url": "pic.x.com/EA9kzGH5yF",
+          "end": 83,
+          "expanded_url": "https://x.com/sydcj1027/status/1871593556500250734/photo/1",
+          "media_key": "3_1871593505086455809",
+          "start": 60,
+          "url": "https://t.co/EA9kzGH5yF"
+        },
+        {
+          "display_url": "pic.x.com/EA9kzGH5yF",
+          "end": 83,
+          "expanded_url": "https://x.com/sydcj1027/status/1871593556500250734/photo/1",
+          "media_key": "3_1871593505078038528",
+          "start": 60,
+          "url": "https://t.co/EA9kzGH5yF"
+        },
+        {
+          "display_url": "pic.x.com/EA9kzGH5yF",
+          "end": 83,
+          "expanded_url": "https://x.com/sydcj1027/status/1871593556500250734/photo/1",
+          "media_key": "3_1871593505078030337",
+          "start": 60,
+          "url": "https://t.co/EA9kzGH5yF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871772456794648867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871593556500250734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sydcj1027: 還是經典回顧 \nMerry Christmas ～\n #Degreesoflewdity https://t.co/EA9kzGH5yF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1871593505082220545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gfk8YHJaoAE-_aQ.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1871593505086455809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gfk8YHKbQAEjdYR.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1871593505078038528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gfk8YHIa0AAjvRU.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1871593505078030337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gfk8YHIasAEdiZd.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871593505082220545",
+            "3_1871593505086455809",
+            "3_1871593505078038528",
+            "3_1871593505078030337"
+          ],
+          "media_source_tweet_id": [
+            "1871593556500250734",
+            "1871593556500250734",
+            "1871593556500250734",
+            "1871593556500250734"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "1871772456794648867",
+        "created_at": "2024-12-25T04:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T05:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871772456794648867"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 42,
+              "tag": "Degreesoflewdity"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1851991982396313603",
+              "start": 3,
+              "username": "sydcj1027"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EA9kzGH5yF",
+              "end": 83,
+              "expanded_url": "https://x.com/sydcj1027/status/1871593556500250734/photo/1",
+              "media_key": "3_1871593505082220545",
+              "start": 60,
+              "url": "https://t.co/EA9kzGH5yF"
+            },
+            {
+              "display_url": "pic.x.com/EA9kzGH5yF",
+              "end": 83,
+              "expanded_url": "https://x.com/sydcj1027/status/1871593556500250734/photo/1",
+              "media_key": "3_1871593505086455809",
+              "start": 60,
+              "url": "https://t.co/EA9kzGH5yF"
+            },
+            {
+              "display_url": "pic.x.com/EA9kzGH5yF",
+              "end": 83,
+              "expanded_url": "https://x.com/sydcj1027/status/1871593556500250734/photo/1",
+              "media_key": "3_1871593505078038528",
+              "start": 60,
+              "url": "https://t.co/EA9kzGH5yF"
+            },
+            {
+              "display_url": "pic.x.com/EA9kzGH5yF",
+              "end": 83,
+              "expanded_url": "https://x.com/sydcj1027/status/1871593556500250734/photo/1",
+              "media_key": "3_1871593505078030337",
+              "start": 60,
+              "url": "https://t.co/EA9kzGH5yF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871772456794648867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871593556500250734",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sydcj1027: 還是經典回顧 \nMerry Christmas ～\n #Degreesoflewdity https://t.co/EA9kzGH5yF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871593505082220545",
+            "3_1871593505086455809",
+            "3_1871593505078038528",
+            "3_1871593505078030337"
+          ]
+        },
+        "author_id": "1851991982396313603",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "1871593556500250734",
+        "created_at": "2024-12-24T16:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T17:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871593556500250734"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 27,
+              "tag": "Degreesoflewdity"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EA9kzGH5yF",
+              "end": 68,
+              "expanded_url": "https://x.com/sydcj1027/status/1871593556500250734/photo/1",
+              "media_key": "3_1871593505082220545",
+              "start": 45,
+              "url": "https://t.co/EA9kzGH5yF"
+            },
+            {
+              "display_url": "pic.x.com/EA9kzGH5yF",
+              "end": 68,
+              "expanded_url": "https://x.com/sydcj1027/status/1871593556500250734/photo/1",
+              "media_key": "3_1871593505086455809",
+              "start": 45,
+              "url": "https://t.co/EA9kzGH5yF"
+            },
+            {
+              "display_url": "pic.x.com/EA9kzGH5yF",
+              "end": 68,
+              "expanded_url": "https://x.com/sydcj1027/status/1871593556500250734/photo/1",
+              "media_key": "3_1871593505078038528",
+              "start": 45,
+              "url": "https://t.co/EA9kzGH5yF"
+            },
+            {
+              "display_url": "pic.x.com/EA9kzGH5yF",
+              "end": 68,
+              "expanded_url": "https://x.com/sydcj1027/status/1871593556500250734/photo/1",
+              "media_key": "3_1871593505078030337",
+              "start": 45,
+              "url": "https://t.co/EA9kzGH5yF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871593556500250734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 961,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "還是經典回顧 \nMerry Christmas ～\n #Degreesoflewdity https://t.co/EA9kzGH5yF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人女 会突然产出想法 GB GL大于BL BG 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 2950,
+          "like_count": 20859,
+          "listed_count": 2,
+          "media_count": 1123,
+          "tweet_count": 18737
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T14:19:32.000Z",
+        "description": "TW / 本垢 ： @mcj131825526  中/EN\n慾都小鎮裡的拳王天使",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "mcj131825526"
+              }
+            ]
+          }
+        },
+        "id": "1851991982396313603",
+        "location": "鎮上都是神經病",
+        "name": "CJ ✝️",
+        "pinned_tweet_id": "1853683080932036818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851995423868858368/vGIIsDK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 12,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 35
+        },
+        "username": "sydcj1027",
+        "verified": false
+      }
+    ]
+  }
+}

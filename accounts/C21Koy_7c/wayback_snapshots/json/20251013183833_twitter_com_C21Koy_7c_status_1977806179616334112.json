@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977806170510524416",
+        "3_1977806170489565185"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1977806179616334112",
+    "created_at": "2025-10-13T18:38:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T19:38:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977806179616334112"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Oz4uk8wtMp",
+          "end": 73,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1977806179616334112/photo/1",
+          "media_key": "3_1977806170510524416",
+          "start": 50,
+          "url": "https://t.co/Oz4uk8wtMp"
+        },
+        {
+          "display_url": "pic.x.com/Oz4uk8wtMp",
+          "end": 73,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1977806179616334112/photo/1",
+          "media_key": "3_1977806170489565185",
+          "start": 50,
+          "url": "https://t.co/Oz4uk8wtMp"
+        },
+        {
+          "display_url": "x.com/c21koy_7c/stat…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/c21koy_7c/status/1977696386675032370",
+          "start": 74,
+          "url": "https://t.co/Tb4MC4tnzb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977806179616334112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977696386675032370",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一直掉眼泪，看着他活着的照片，我不想有人死，但是我躁狂又在诅咒所有人，我好抱歉，我对不起我对不起 https://t.co/Oz4uk8wtMp https://t.co/Tb4MC4tnzb"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1977696386675032370].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1977696386675032370",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1977696386675032370"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 806,
+        "media_key": "3_1977806170510524416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3KUO7PbAAAYvWE.jpg",
+        "width": 882
+      },
+      {
+        "height": 734,
+        "media_key": "3_1977806170489565185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3KUO7KbMAEvLsH.jpg",
+        "width": 1015
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977806170510524416",
+            "3_1977806170489565185"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1977806179616334112",
+        "created_at": "2025-10-13T18:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T19:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977806179616334112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oz4uk8wtMp",
+              "end": 73,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1977806179616334112/photo/1",
+              "media_key": "3_1977806170510524416",
+              "start": 50,
+              "url": "https://t.co/Oz4uk8wtMp"
+            },
+            {
+              "display_url": "pic.x.com/Oz4uk8wtMp",
+              "end": 73,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1977806179616334112/photo/1",
+              "media_key": "3_1977806170489565185",
+              "start": 50,
+              "url": "https://t.co/Oz4uk8wtMp"
+            },
+            {
+              "display_url": "x.com/c21koy_7c/stat…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/c21koy_7c/status/1977696386675032370",
+              "start": 74,
+              "url": "https://t.co/Tb4MC4tnzb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977806179616334112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977696386675032370",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直掉眼泪，看着他活着的照片，我不想有人死，但是我躁狂又在诅咒所有人，我好抱歉，我对不起我对不起 https://t.co/Oz4uk8wtMp https://t.co/Tb4MC4tnzb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964100290095042560/8WRhPH87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 3108,
+          "like_count": 24751,
+          "listed_count": 5,
+          "media_count": 1621,
+          "tweet_count": 23757
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      }
+    ]
+  }
+}

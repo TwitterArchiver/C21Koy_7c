@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "conversation_id": "1936164664834244843",
+    "created_at": "2025-06-20T20:50:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T21:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936164664834244843"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 82,
+          "normalized_text": "Lucy",
+          "probability": 0.6659,
+          "start": 79,
+          "type": "Other"
+        },
+        {
+          "end": 103,
+          "normalized_text": "BUZZmod",
+          "probability": 0.4963,
+          "start": 97,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1447821080077512707",
+          "start": 3,
+          "username": "edgerunners"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936164664834244843",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 153
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936001078560248261",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @edgerunners: How about hiring a netrunner for your desk?🤯\n\nThe articulated Lucy figurined by BUZZmod is now available for pre-order! Ge…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "A figurine of Lucy from Cyberpunk: Edgerunners kneels with a pistol in her hand. She has articulated joints in her elbows, wrists, waist, and knees. Lucy wears a purple netrunner suit with a cropped hoodie.",
+        "height": 3286,
+        "media_key": "3_1935653685226360832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtzSxWwX0AAsMwC.jpg",
+        "width": 2188
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "conversation_id": "1936164664834244843",
+        "created_at": "2025-06-20T20:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T21:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936164664834244843"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 82,
+              "normalized_text": "Lucy",
+              "probability": 0.6659,
+              "start": 79,
+              "type": "Other"
+            },
+            {
+              "end": 103,
+              "normalized_text": "BUZZmod",
+              "probability": 0.4963,
+              "start": 97,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1447821080077512707",
+              "start": 3,
+              "username": "edgerunners"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936164664834244843",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 153
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936001078560248261",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @edgerunners: How about hiring a netrunner for your desk?🤯\n\nThe articulated Lucy figurined by BUZZmod is now available for pre-order! Ge…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935653685226360832"
+          ]
+        },
+        "author_id": "1447821080077512707",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          }
+        ],
+        "conversation_id": "1936001078560248261",
+        "created_at": "2025-06-20T10:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936001078560248261"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 65,
+              "normalized_text": "Lucy",
+              "probability": 0.6926,
+              "start": 62,
+              "type": "Other"
+            },
+            {
+              "end": 86,
+              "normalized_text": "BUZZmod",
+              "probability": 0.5946,
+              "start": 80,
+              "type": "Other"
+            },
+            {
+              "end": 164,
+              "normalized_text": "Breach Protocol",
+              "probability": 0.5742,
+              "start": 150,
+              "type": "Other"
+            },
+            {
+              "end": 258,
+              "normalized_text": "AmiAmi",
+              "probability": 0.7203,
+              "start": 253,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gJuolkeCZa",
+              "end": 290,
+              "expanded_url": "https://x.com/edgerunners/status/1936001078560248261/photo/1",
+              "media_key": "3_1935653685226360832",
+              "start": 267,
+              "url": "https://t.co/gJuolkeCZa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936001078560248261",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "amiami.com/eng/detail/?sc…",
+                "end": 290,
+                "expanded_url": "https://www.amiami.com/eng/detail/?scode=FIGURE-187438",
+                "start": 267,
+                "url": "https://t.co/mc4WEnd6ZM"
+              },
+              {
+                "display_url": "goodsmile.com/en/product/113…",
+                "end": 333,
+                "expanded_url": "https://www.goodsmile.com/en/product/1139464",
+                "start": 310,
+                "url": "https://t.co/G5VesEKJqS"
+              }
+            ]
+          },
+          "text": "How about hiring a netrunner for your desk?🤯\n\nThe articulated Lucy figurined by BUZZmod is now available for pre-order! Get her to crack the ICE with Breach Protocol or slash enemies with her Monowire thanks to interchangeable parts.\n\nSecure yours now:\nAmiAmi store: https://t.co/mc4WEnd6ZM\n\nGood Smile store: https://t.co/G5VesEKJqS\n\nand at your local retailers!"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 155,
+          "impression_count": 29994,
+          "like_count": 1686,
+          "quote_count": 9,
+          "reply_count": 8,
+          "retweet_count": 153
+        },
+        "reply_settings": "everyone",
+        "text": "How about hiring a netrunner for your desk?🤯\n\nThe articulated Lucy figurined by BUZZmod is now available for pre-order! Get her to crack the ICE with Breach Protocol or slash enemies with her Monowire thanks to interchangeable parts.\n\nSecure yours now:\nAmiAmi store: https://t.co/gJuolkeCZa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 3022,
+          "like_count": 23551,
+          "listed_count": 3,
+          "media_count": 1452,
+          "tweet_count": 22500
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-12T07:07:27.000Z",
+        "description": "Cyberpunk: Edgerunners, an original anime series from the universe of Cyberpunk 2077, produced by @CDPROJEKTRED & @trigger_inc, now streaming on @Netflix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 98,
+                "username": "CDPROJEKTRED"
+              },
+              {
+                "end": 126,
+                "start": 114,
+                "username": "trigger_inc"
+              },
+              {
+                "end": 153,
+                "start": 145,
+                "username": "Netflix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cyberpunk.net/edgerunners",
+                "end": 23,
+                "expanded_url": "https://www.cyberpunk.net/edgerunners",
+                "start": 0,
+                "url": "https://t.co/xd2QbQHrI9"
+              }
+            ]
+          }
+        },
+        "id": "1447821080077512707",
+        "name": "Cyberpunk: Edgerunners",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1526195974925864960/fVIw2avJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249369,
+          "following_count": 20,
+          "like_count": 474,
+          "listed_count": 359,
+          "media_count": 383,
+          "tweet_count": 575
+        },
+        "url": "https://t.co/xd2QbQHrI9",
+        "username": "edgerunners",
+        "verified": true
+      }
+    ]
+  }
+}

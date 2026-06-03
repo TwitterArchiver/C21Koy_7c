@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895090264353439744",
+        "3_1895090264211103752"
+      ],
+      "media_source_tweet_id": [
+        "1895090272297689488",
+        "1895090272297689488"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Body Art",
+          "id": "854712713510965248",
+          "name": "Body art"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Tattoo",
+          "id": "854694311216136192",
+          "name": "Tattoos"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tattoo",
+          "id": "854694311216136192",
+          "name": "Tattoos"
+        }
+      }
+    ],
+    "conversation_id": "1895316537432777184",
+    "created_at": "2025-02-28T03:34:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T04:34:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895316537432777184"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 57,
+          "tag": "124x230"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1616039589281685505",
+          "start": 3,
+          "username": "ninon_pur"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JsmWHVI3Ev",
+          "end": 89,
+          "expanded_url": "https://x.com/ninon_pur/status/1895090272297689488/photo/1",
+          "media_key": "3_1895090264353439744",
+          "start": 66,
+          "url": "https://t.co/JsmWHVI3Ev"
+        },
+        {
+          "display_url": "pic.x.com/JsmWHVI3Ev",
+          "end": 89,
+          "expanded_url": "https://x.com/ninon_pur/status/1895090272297689488/photo/1",
+          "media_key": "3_1895090264211103752",
+          "start": 66,
+          "url": "https://t.co/JsmWHVI3Ev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895316537432777184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895090272297689488",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ninon_pur: 現在軸で生きてたら絶対こうなる幸せじゃないナムサノ\n\n⚠️ﾅのタトゥー無いです\n\n #124x230 https://t.co/JsmWHVI3Ev"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1895090264353439744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gky2jggWgAABwKB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1895090264211103752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gky2jf-aoAg5xpD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895090264353439744",
+            "3_1895090264211103752"
+          ],
+          "media_source_tweet_id": [
+            "1895090272297689488",
+            "1895090272297689488"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Body Art",
+              "id": "854712713510965248",
+              "name": "Body art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          }
+        ],
+        "conversation_id": "1895316537432777184",
+        "created_at": "2025-02-28T03:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T04:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895316537432777184"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 57,
+              "tag": "124x230"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1616039589281685505",
+              "start": 3,
+              "username": "ninon_pur"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JsmWHVI3Ev",
+              "end": 89,
+              "expanded_url": "https://x.com/ninon_pur/status/1895090272297689488/photo/1",
+              "media_key": "3_1895090264353439744",
+              "start": 66,
+              "url": "https://t.co/JsmWHVI3Ev"
+            },
+            {
+              "display_url": "pic.x.com/JsmWHVI3Ev",
+              "end": 89,
+              "expanded_url": "https://x.com/ninon_pur/status/1895090272297689488/photo/1",
+              "media_key": "3_1895090264211103752",
+              "start": 66,
+              "url": "https://t.co/JsmWHVI3Ev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895316537432777184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895090272297689488",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ninon_pur: 現在軸で生きてたら絶対こうなる幸せじゃないナムサノ\n\n⚠️ﾅのタトゥー無いです\n\n #124x230 https://t.co/JsmWHVI3Ev"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895090264353439744",
+            "3_1895090264211103752"
+          ]
+        },
+        "author_id": "1616039589281685505",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Body Art",
+              "id": "854712713510965248",
+              "name": "Body art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          }
+        ],
+        "conversation_id": "1895090272297689488",
+        "created_at": "2025-02-27T12:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T13:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895090272297689488"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 42,
+              "tag": "124x230"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JsmWHVI3Ev",
+              "end": 74,
+              "expanded_url": "https://x.com/ninon_pur/status/1895090272297689488/photo/1",
+              "media_key": "3_1895090264353439744",
+              "start": 51,
+              "url": "https://t.co/JsmWHVI3Ev"
+            },
+            {
+              "display_url": "pic.x.com/JsmWHVI3Ev",
+              "end": 74,
+              "expanded_url": "https://x.com/ninon_pur/status/1895090272297689488/photo/1",
+              "media_key": "3_1895090264211103752",
+              "start": 51,
+              "url": "https://t.co/JsmWHVI3Ev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895090272297689488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 4913,
+          "like_count": 808,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "現在軸で生きてたら絶対こうなる幸せじゃないナムサノ\n\n⚠️ﾅのタトゥー無いです\n\n #124x230 https://t.co/JsmWHVI3Ev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 但是还算可以 懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890691451258126336/lPqKitsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 2984,
+          "like_count": 21941,
+          "listed_count": 2,
+          "media_count": 1272,
+          "tweet_count": 20686
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-19T11:47:24.000Z",
+        "description": "⚠️腐/小説も書きます。イラストも描きます。/18⬆️",
+        "id": "1616039589281685505",
+        "name": "ぱんちぇろって",
+        "pinned_tweet_id": "1893325245827744086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891905982869164032/s9MvENkF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 12,
+          "like_count": 225,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 58
+        },
+        "username": "ninon_pur",
+        "verified": false
+      }
+    ]
+  }
+}

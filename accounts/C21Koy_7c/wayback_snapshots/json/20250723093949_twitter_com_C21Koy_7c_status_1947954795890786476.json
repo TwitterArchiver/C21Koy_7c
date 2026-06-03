@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1947685745663348738"
+      ],
+      "media_source_tweet_id": [
+        "1947685933769494589"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1947954795890786476",
+    "created_at": "2025-07-23T09:39:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T10:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947954795890786476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2224011325",
+          "start": 3,
+          "username": "jitotheyong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wvV1qnubKK",
+          "end": 42,
+          "expanded_url": "https://x.com/jitotheyong/status/1947685933769494589/video/1",
+          "media_key": "13_1947685745663348738",
+          "start": 19,
+          "url": "https://t.co/wvV1qnubKK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947954795890786476",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947685933769494589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jitotheyong: 🤍 https://t.co/wvV1qnubKK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5466,
+        "height": 3840,
+        "media_key": "13_1947685745663348738",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1947685745663348738/img/cZe8-HS0E5wPIwc6.jpg",
+        "public_metrics": {
+          "view_count": 864
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947685745663348738/vid/avc1/1080x1920/996LSI0nF5BcGUFz.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947685745663348738/vid/avc1/320x568/G3jjtwe42OHMxj5Y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947685745663348738/vid/avc1/480x852/mvaXuCnASFcQnhrq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1947685745663348738/pl/MXgomA9PmfVnOK2p.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947685745663348738/vid/avc1/720x1280/Bp9ngauiXm84trGe.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947685745663348738/vid/avc1/2160x3840/b3-caRUREQ9KNuL-.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1947685745663348738"
+          ],
+          "media_source_tweet_id": [
+            "1947685933769494589"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1947954795890786476",
+        "created_at": "2025-07-23T09:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T10:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947954795890786476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2224011325",
+              "start": 3,
+              "username": "jitotheyong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wvV1qnubKK",
+              "end": 42,
+              "expanded_url": "https://x.com/jitotheyong/status/1947685933769494589/video/1",
+              "media_key": "13_1947685745663348738",
+              "start": 19,
+              "url": "https://t.co/wvV1qnubKK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947954795890786476",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947685933769494589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jitotheyong: 🤍 https://t.co/wvV1qnubKK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1947685745663348738"
+          ]
+        },
+        "author_id": "2224011325",
+        "conversation_id": "1947685933769494589",
+        "created_at": "2025-07-22T15:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T16:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947685933769494589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wvV1qnubKK",
+              "end": 25,
+              "expanded_url": "https://x.com/jitotheyong/status/1947685933769494589/video/1",
+              "media_key": "13_1947685745663348738",
+              "start": 2,
+              "url": "https://t.co/wvV1qnubKK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947685933769494589",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 2624,
+          "like_count": 156,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "🤍 https://t.co/wvV1qnubKK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947781415615025152/-8pHQpZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 3031,
+          "like_count": 23684,
+          "listed_count": 3,
+          "media_count": 1488,
+          "tweet_count": 22823
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-01T01:38:58.000Z",
+        "description": "For 권지용🌟 For VIP FAM🌼 GD & BIGBANG '07💛 Concerts team🙌 Next stop: 🔜",
+        "id": "2224011325",
+        "name": "Omu",
+        "pinned_tweet_id": "1923746005494939818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927152743296233472/rn3nHKOT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636,
+          "following_count": 88,
+          "like_count": 6006,
+          "listed_count": 3,
+          "media_count": 671,
+          "tweet_count": 1730
+        },
+        "username": "jitotheyong",
+        "verified": true
+      }
+    ]
+  }
+}

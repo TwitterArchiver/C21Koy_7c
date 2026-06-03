@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1898984779451969536"
+      ],
+      "media_source_tweet_id": [
+        "1898984864046895235"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1898995537724227937",
+    "created_at": "2025-03-10T07:13:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T08:13:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898995537724227937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1707805312739381248",
+          "start": 3,
+          "username": "MYinmao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ttlXKpL3UX",
+          "end": 40,
+          "expanded_url": "https://x.com/MYinmao/status/1898984864046895235/photo/1",
+          "media_key": "3_1898984779451969536",
+          "start": 17,
+          "url": "https://t.co/ttlXKpL3UX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898995537724227937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898984864046895235",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MYinmao: 有参考 https://t.co/ttlXKpL3UX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3170,
+        "media_key": "3_1898984779451969536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlqMmH0bsAAa_9d.jpg",
+        "width": 2875
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898984779451969536"
+          ],
+          "media_source_tweet_id": [
+            "1898984864046895235"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1898995537724227937",
+        "created_at": "2025-03-10T07:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T08:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898995537724227937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1707805312739381248",
+              "start": 3,
+              "username": "MYinmao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ttlXKpL3UX",
+              "end": 40,
+              "expanded_url": "https://x.com/MYinmao/status/1898984864046895235/photo/1",
+              "media_key": "3_1898984779451969536",
+              "start": 17,
+              "url": "https://t.co/ttlXKpL3UX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898995537724227937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898984864046895235",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MYinmao: 有参考 https://t.co/ttlXKpL3UX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898984779451969536"
+          ]
+        },
+        "author_id": "1707805312739381248",
+        "conversation_id": "1898984864046895235",
+        "created_at": "2025-03-10T06:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T07:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898984864046895235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ttlXKpL3UX",
+              "end": 27,
+              "expanded_url": "https://x.com/MYinmao/status/1898984864046895235/photo/1",
+              "media_key": "3_1898984779451969536",
+              "start": 4,
+              "url": "https://t.co/ttlXKpL3UX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898984864046895235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "有参考 https://t.co/ttlXKpL3UX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 但是还算可以 懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890691451258126336/lPqKitsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 2988,
+          "like_count": 22102,
+          "listed_count": 2,
+          "media_count": 1280,
+          "tweet_count": 20867
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-29T17:11:44.000Z",
+        "description": "这里是银猫（銀貓）\n喜欢furry（女性），最近沉迷于bg3影心\n会画一点画",
+        "id": "1707805312739381248",
+        "name": "yin_银猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789399729954230272/5_ASotWY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 113,
+          "like_count": 724,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 409
+        },
+        "username": "MYinmao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,766 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10027933222",
+          "name": "Call of Duty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1828473756735414272",
+          "name": "Call of Duty: Black Ops 6"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10027933222",
+          "name": "Call of Duty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197906382529294337",
+          "name": "Competitive games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1219785936931672064",
+          "name": "Call of Duty League"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "2006030205370929313",
+    "created_at": "2025-12-30T15:50:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T16:50:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006030205370929313"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 71,
+          "start": 63,
+          "tag": "horangi"
+        },
+        {
+          "end": 78,
+          "start": 72,
+          "tag": "König"
+        },
+        {
+          "end": 85,
+          "start": 79,
+          "tag": "Nikto"
+        },
+        {
+          "end": 94,
+          "start": 86,
+          "tag": "krueger"
+        },
+        {
+          "end": 100,
+          "start": 95,
+          "tag": "soap"
+        },
+        {
+          "end": 107,
+          "start": 101,
+          "tag": "ghost"
+        },
+        {
+          "end": 119,
+          "start": 108,
+          "tag": "CallofDuty"
+        },
+        {
+          "end": 125,
+          "start": 120,
+          "tag": "MWII"
+        },
+        {
+          "end": 130,
+          "start": 126,
+          "tag": "MW2"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1599380049118887936",
+          "start": 3,
+          "username": "simshoong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006030205370929313",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 681
+    },
+    "referenced_tweets": [
+      {
+        "id": "1701652316401852816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @simshoong: 호랑이 밀크(?)_horangi milk(?)_av\n제목은 이래도 병맛,캐붕있습니다.\n#horangi #König #Nikto #krueger #soap #ghost\n#CallofDuty #MWII #MW2 #ModernW…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 63000,
+        "height": 1080,
+        "media_key": "7_1701650879303278592",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1701650879303278592/pu/img/Prd-taBKVDe2QX0J.jpg",
+        "public_metrics": {
+          "view_count": 24706
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1701650879303278592/pu/vid/avc1/480x270/1GwskQ5Gq0TdlRfR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1701650879303278592/pu/vid/avc1/640x360/rwb0caZjYOB0NT9v.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1701650879303278592/pu/vid/avc1/1280x720/i627M5HoUqO6_4ue.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1701650879303278592/pu/pl/7fRzthq5IFEt_tlt.m3u8?tag=12&v=ced"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027933222",
+              "name": "Call of Duty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1828473756735414272",
+              "name": "Call of Duty: Black Ops 6"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027933222",
+              "name": "Call of Duty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1219785936931672064",
+              "name": "Call of Duty League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2006030205370929313",
+        "created_at": "2025-12-30T15:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T16:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006030205370929313"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 63,
+              "tag": "horangi"
+            },
+            {
+              "end": 78,
+              "start": 72,
+              "tag": "König"
+            },
+            {
+              "end": 85,
+              "start": 79,
+              "tag": "Nikto"
+            },
+            {
+              "end": 94,
+              "start": 86,
+              "tag": "krueger"
+            },
+            {
+              "end": 100,
+              "start": 95,
+              "tag": "soap"
+            },
+            {
+              "end": 107,
+              "start": 101,
+              "tag": "ghost"
+            },
+            {
+              "end": 119,
+              "start": 108,
+              "tag": "CallofDuty"
+            },
+            {
+              "end": 125,
+              "start": 120,
+              "tag": "MWII"
+            },
+            {
+              "end": 130,
+              "start": 126,
+              "tag": "MW2"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1599380049118887936",
+              "start": 3,
+              "username": "simshoong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006030205370929313",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 681
+        },
+        "referenced_tweets": [
+          {
+            "id": "1701652316401852816",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @simshoong: 호랑이 밀크(?)_horangi milk(?)_av\n제목은 이래도 병맛,캐붕있습니다.\n#horangi #König #Nikto #krueger #soap #ghost\n#CallofDuty #MWII #MW2 #ModernW…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1701650879303278592"
+          ]
+        },
+        "author_id": "1599380049118887936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027933222",
+              "name": "Call of Duty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027933222",
+              "name": "Call of Duty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1701652316401852816",
+        "created_at": "2023-09-12T17:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2023-09-12T18:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1701652316401852816"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 48,
+              "tag": "horangi"
+            },
+            {
+              "end": 63,
+              "start": 57,
+              "tag": "König"
+            },
+            {
+              "end": 70,
+              "start": 64,
+              "tag": "Nikto"
+            },
+            {
+              "end": 79,
+              "start": 71,
+              "tag": "krueger"
+            },
+            {
+              "end": 85,
+              "start": 80,
+              "tag": "soap"
+            },
+            {
+              "end": 92,
+              "start": 86,
+              "tag": "ghost"
+            },
+            {
+              "end": 104,
+              "start": 93,
+              "tag": "CallofDuty"
+            },
+            {
+              "end": 110,
+              "start": 105,
+              "tag": "MWII"
+            },
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "MW2"
+            },
+            {
+              "end": 132,
+              "start": 116,
+              "tag": "ModernWarfareII"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xmkkAubMP3",
+              "end": 156,
+              "expanded_url": "https://x.com/simshoong/status/1701652316401852816/video/1",
+              "media_key": "7_1701650879303278592",
+              "start": 133,
+              "url": "https://t.co/xmkkAubMP3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1701652316401852816",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 524,
+          "impression_count": 106174,
+          "like_count": 2074,
+          "quote_count": 65,
+          "reply_count": 5,
+          "retweet_count": 681
+        },
+        "reply_settings": "everyone",
+        "text": "호랑이 밀크(?)_horangi milk(?)_av\n제목은 이래도 병맛,캐붕있습니다.\n#horangi #König #Nikto #krueger #soap #ghost\n#CallofDuty #MWII #MW2 #ModernWarfareII https://t.co/xmkkAubMP3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nay2841",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nay2841",
+                "start": 0,
+                "url": "https://t.co/p7oRHhHxDn"
+              }
+            ]
+          }
+        },
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987482127756410880/kunx4knz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 3221,
+          "like_count": 27452,
+          "listed_count": 5,
+          "media_count": 1867,
+          "tweet_count": 25952
+        },
+        "url": "https://t.co/p7oRHhHxDn",
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T12:28:39.000Z",
+        "description": "슝(KR)/20↑/👾 🤖 🔪🩸🎮/game/destiny2,call of duty etc\nDo not use my work without my permis\nMARVEL @simloveyou\n마카롱김치찌개\n※ 이별은 블언블",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 93,
+                "username": "simloveyou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/simloveyou",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/simloveyou",
+                "start": 0,
+                "url": "https://t.co/Vipx6HFwsG"
+              }
+            ]
+          }
+        },
+        "id": "1599380049118887936",
+        "name": "⚠️𝕾𝖍𝖔𝖔𝖓𝖌",
+        "pinned_tweet_id": "1891058310180139294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1692782234401673216/2pjgWbz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13597,
+          "following_count": 204,
+          "like_count": 12521,
+          "listed_count": 20,
+          "media_count": 694,
+          "tweet_count": 5084
+        },
+        "url": "https://t.co/Vipx6HFwsG",
+        "username": "simshoong",
+        "verified": false
+      }
+    ]
+  }
+}

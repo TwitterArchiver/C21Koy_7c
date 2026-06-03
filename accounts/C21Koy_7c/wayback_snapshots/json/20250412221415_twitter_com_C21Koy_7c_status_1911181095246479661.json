@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "conversation_id": "1911181095246479661",
+    "created_at": "2025-04-12T22:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T23:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911181095246479661"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 62,
+          "normalized_text": "AI",
+          "probability": 0.6173,
+          "start": 61,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "996010086878273536",
+          "start": 3,
+          "username": "mgong520"
+        },
+        {
+          "end": 52,
+          "id": "1899845262446891008",
+          "start": 42,
+          "username": "Chikupoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911181095246479661",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1150
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911082067196362850",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mgong520: I was told that this person @Chikupoko used my AI model to create paintings, but it was not said that it was the AI creation…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1385,
+        "media_key": "3_1911082049433182208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoWG_6UXIAAbCBH.jpg",
+        "width": 1206
+      },
+      {
+        "height": 931,
+        "media_key": "3_1911082049449975808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoWG_6YXYAAwUsl.jpg",
+        "width": 1206
+      },
+      {
+        "height": 798,
+        "media_key": "3_1911082049416421376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoWG_6QXYAAVSA0.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "conversation_id": "1911181095246479661",
+        "created_at": "2025-04-12T22:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T23:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911181095246479661"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 62,
+              "normalized_text": "AI",
+              "probability": 0.6173,
+              "start": 61,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "996010086878273536",
+              "start": 3,
+              "username": "mgong520"
+            },
+            {
+              "end": 52,
+              "id": "1899845262446891008",
+              "start": 42,
+              "username": "Chikupoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911181095246479661",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1150
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911082067196362850",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mgong520: I was told that this person @Chikupoko used my AI model to create paintings, but it was not said that it was the AI creation…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911082049433182208",
+            "3_1911082049449975808",
+            "3_1911082049416421376"
+          ]
+        },
+        "author_id": "996010086878273536",
+        "conversation_id": "1911082067196362850",
+        "created_at": "2025-04-12T15:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T16:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911082067196362850"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "AI",
+              "probability": 0.5839,
+              "start": 47,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1899845262446891008",
+              "start": 28,
+              "username": "Chikupoko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GpMJlywOAI",
+              "end": 236,
+              "expanded_url": "https://x.com/mgong520/status/1911082067196362850/photo/1",
+              "media_key": "3_1911082049433182208",
+              "start": 213,
+              "url": "https://t.co/GpMJlywOAI"
+            },
+            {
+              "display_url": "pic.x.com/GpMJlywOAI",
+              "end": 236,
+              "expanded_url": "https://x.com/mgong520/status/1911082067196362850/photo/1",
+              "media_key": "3_1911082049449975808",
+              "start": 213,
+              "url": "https://t.co/GpMJlywOAI"
+            },
+            {
+              "display_url": "pic.x.com/GpMJlywOAI",
+              "end": 236,
+              "expanded_url": "https://x.com/mgong520/status/1911082067196362850/photo/1",
+              "media_key": "3_1911082049416421376",
+              "start": 213,
+              "url": "https://t.co/GpMJlywOAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911082067196362850",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 624,
+          "impression_count": 285580,
+          "like_count": 3490,
+          "quote_count": 156,
+          "reply_count": 33,
+          "retweet_count": 1150
+        },
+        "reply_settings": "everyone",
+        "text": "I was told that this person @Chikupoko used my AI model to create paintings, but it was not said that it was the AI creation that pretended to be painted by himself and cheated money. I hope you don't get cheated https://t.co/GpMJlywOAI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 但是还算可以 懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890691451258126336/lPqKitsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 2997,
+          "like_count": 22629,
+          "listed_count": 3,
+          "media_count": 1324,
+          "tweet_count": 21513
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-14T12:51:24.000Z",
+        "description": "商业联络:mgong52000@gmail.com （25年上半年没有档期）OC @onlysalvat44712 shitpost @nnnndgggg5238 🚫ai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "onlysalvat44712"
+              },
+              {
+                "end": 81,
+                "start": 67,
+                "username": "nnnndgggg5238"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/6147075338",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/6147075338",
+                "start": 0,
+                "url": "https://t.co/O2XgiqHnTg"
+              }
+            ]
+          }
+        },
+        "id": "996010086878273536",
+        "location": "🐼",
+        "name": "𝑵𝑫𝑮",
+        "pinned_tweet_id": "1713550442389783035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875986121643188224/D3hNTz1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312889,
+          "following_count": 940,
+          "like_count": 5658,
+          "listed_count": 1621,
+          "media_count": 366,
+          "tweet_count": 1741
+        },
+        "url": "https://t.co/O2XgiqHnTg",
+        "username": "mgong520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T15:29:52.000Z",
+        "description": "漫画を描いています｜TL /BL\n今は、無口だけど頼れる相棒が隣にいます。\n18+💘→@Tikupoko\n📖作品まとめ・漫画→プロフリンクから",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "Tikupoko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/chikupoko",
+                "end": 23,
+                "expanded_url": "https://lit.link/chikupoko",
+                "start": 0,
+                "url": "https://t.co/GJC6306eEj"
+              }
+            ]
+          }
+        },
+        "id": "1899845262446891008",
+        "location": "Hybrid workflow",
+        "name": "ちくぽこ",
+        "pinned_tweet_id": "1910322260277330291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899851717761527809/k-A7pG-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6917,
+          "following_count": 1,
+          "like_count": 82,
+          "listed_count": 42,
+          "media_count": 37,
+          "tweet_count": 44
+        },
+        "url": "https://t.co/GJC6306eEj",
+        "username": "Chikupoko",
+        "verified": true
+      }
+    ]
+  }
+}

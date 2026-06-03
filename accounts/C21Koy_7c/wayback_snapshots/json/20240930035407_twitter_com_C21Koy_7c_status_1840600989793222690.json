@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "conversation_id": "1840595870083109106",
+    "created_at": "2024-09-30T03:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T04:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840600989793222690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1061122916991983621",
+          "start": 0,
+          "username": "cassecade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840600989793222690",
+    "in_reply_to_user_id": "1061122916991983621",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840597659117306138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cassecade 当时我没有太多自我意识…我打算很长一段时间都不做药物过量了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "conversation_id": "1840595870083109106",
+        "created_at": "2024-09-30T03:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T04:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840600989793222690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1061122916991983621",
+              "start": 0,
+              "username": "cassecade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840600989793222690",
+        "in_reply_to_user_id": "1061122916991983621",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840597659117306138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cassecade 当时我没有太多自我意识…我打算很长一段时间都不做药物过量了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1061122916991983621",
+        "conversation_id": "1840595870083109106",
+        "created_at": "2024-09-30T03:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T04:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840597659117306138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1452123941686976519",
+              "start": 0,
+              "username": "C21Koy_7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840597659117306138",
+        "in_reply_to_user_id": "1452123941686976519",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840595870083109106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C21Koy_7c ，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫 they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT大概淡坑：COD/MK/恐影 不善表达 但是还算nice",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1787381657340883290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839204245423403008/lGS1aYqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 2807,
+          "like_count": 19908,
+          "listed_count": 2,
+          "tweet_count": 15799
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-10T05:06:32.000Z",
+        "description": "MMT理论追随者   mute",
+        "id": "1061122916991983621",
+        "location": "unknown",
+        "name": "Cassecade",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1260435951526051842/1akXvIB0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 695,
+          "like_count": 74950,
+          "listed_count": 1,
+          "tweet_count": 3017
+        },
+        "username": "cassecade",
+        "verified": false
+      }
+    ]
+  }
+}

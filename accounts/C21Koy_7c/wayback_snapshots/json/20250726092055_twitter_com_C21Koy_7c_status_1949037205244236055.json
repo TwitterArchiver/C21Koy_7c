@@ -1,0 +1,481 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1893692888287977474"
+      ],
+      "media_source_tweet_id": [
+        "1893693457467637895"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1002576732971384832",
+          "name": "Marvel Universe"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1002576732971384832",
+          "name": "Marvel Universe"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1949037205244236055",
+    "created_at": "2025-07-26T09:20:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T10:20:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949037205244236055"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 31,
+          "tag": "Player230"
+        },
+        {
+          "end": 49,
+          "start": 42,
+          "tag": "thanos"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1881947229612916736",
+          "start": 3,
+          "username": "namu214_lv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RsQdsHw2Yl",
+          "end": 73,
+          "expanded_url": "https://x.com/namu214_lv/status/1893693457467637895/photo/1",
+          "media_key": "3_1893692888287977474",
+          "start": 50,
+          "url": "https://t.co/RsQdsHw2Yl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949037205244236055",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 413
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893693457467637895",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @namu214_lv: 2PcolorThanos💚\n#Player230 #thanos https://t.co/RsQdsHw2Yl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1893692888287977474",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gke_phAWoAIhK_O.jpg",
+        "width": 2895
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893692888287977474"
+          ],
+          "media_source_tweet_id": [
+            "1893693457467637895"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1949037205244236055",
+        "created_at": "2025-07-26T09:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T10:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949037205244236055"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 31,
+              "tag": "Player230"
+            },
+            {
+              "end": 49,
+              "start": 42,
+              "tag": "thanos"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1881947229612916736",
+              "start": 3,
+              "username": "namu214_lv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RsQdsHw2Yl",
+              "end": 73,
+              "expanded_url": "https://x.com/namu214_lv/status/1893693457467637895/photo/1",
+              "media_key": "3_1893692888287977474",
+              "start": 50,
+              "url": "https://t.co/RsQdsHw2Yl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949037205244236055",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 413
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893693457467637895",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @namu214_lv: 2PcolorThanos💚\n#Player230 #thanos https://t.co/RsQdsHw2Yl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893692888287977474"
+          ]
+        },
+        "author_id": "1881947229612916736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1893693457467637895",
+        "created_at": "2025-02-23T16:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T17:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893693457467637895"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 15,
+              "tag": "Player230"
+            },
+            {
+              "end": 33,
+              "start": 26,
+              "tag": "thanos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RsQdsHw2Yl",
+              "end": 57,
+              "expanded_url": "https://x.com/namu214_lv/status/1893693457467637895/photo/1",
+              "media_key": "3_1893692888287977474",
+              "start": 34,
+              "url": "https://t.co/RsQdsHw2Yl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893693457467637895",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 475,
+          "impression_count": 42537,
+          "like_count": 3952,
+          "quote_count": 38,
+          "reply_count": 5,
+          "retweet_count": 413
+        },
+        "reply_settings": "everyone",
+        "text": "2PcolorThanos💚\n#Player230 #thanos https://t.co/RsQdsHw2Yl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947781415615025152/-8pHQpZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 3029,
+          "like_count": 23694,
+          "listed_count": 3,
+          "media_count": 1488,
+          "tweet_count": 22827
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T06:09:36.000Z",
+        "description": "레몬 폭탄🍋💣   🍳\nrohjaewon BIGLOVE\n\nprofile➡︎https://t.co/QAaVXJF0HJ\nRequest➡︎https://t.co/K4oRhkfUxw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/lemonade214bomb",
+                "end": 63,
+                "expanded_url": "https://lit.link/lemonade214bomb",
+                "start": 40,
+                "url": "https://t.co/QAaVXJF0HJ"
+              },
+              {
+                "display_url": "marshmallow-qa.com/edi83hetmdmaxo…",
+                "end": 96,
+                "expanded_url": "https://marshmallow-qa.com/edi83hetmdmaxor?t=iUxFLM&utm_medium=url_text&utm",
+                "start": 73,
+                "url": "https://t.co/K4oRhkfUxw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@lemon.bomb14?…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@lemon.bomb14?_t=ZS-8tsxrFQmmsp&_r=1",
+                "start": 0,
+                "url": "https://t.co/w9pCp3nO6B"
+              }
+            ]
+          }
+        },
+        "id": "1881947229612916736",
+        "name": "檸檬爆弾🍋💣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917077966787588096/Vfgu_wrc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 64,
+          "like_count": 16272,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1101
+        },
+        "url": "https://t.co/w9pCp3nO6B",
+        "username": "namu214_lv",
+        "verified": false
+      }
+    ]
+  }
+}

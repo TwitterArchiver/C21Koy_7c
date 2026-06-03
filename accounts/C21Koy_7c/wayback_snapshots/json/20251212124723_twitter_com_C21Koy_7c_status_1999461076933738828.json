@@ -1,0 +1,715 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044801920",
+          "name": "Overwatch"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044801920",
+          "name": "Overwatch"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "1999461076933738828",
+    "created_at": "2025-12-12T12:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T13:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999461076933738828"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "OverDuck",
+          "probability": 0.9345,
+          "start": 31,
+          "type": "Other"
+        },
+        {
+          "end": 81,
+          "normalized_text": "Overwatch2",
+          "probability": 0.82,
+          "start": 72,
+          "type": "Other"
+        },
+        {
+          "end": 92,
+          "normalized_text": "Overwatch",
+          "probability": 0.7845,
+          "start": 84,
+          "type": "Other"
+        },
+        {
+          "end": 106,
+          "normalized_text": "OverwatchArt",
+          "probability": 0.8697,
+          "start": 95,
+          "type": "Other"
+        },
+        {
+          "end": 123,
+          "normalized_text": "OverwatchFanart",
+          "probability": 0.8362,
+          "start": 109,
+          "type": "Other"
+        },
+        {
+          "end": 138,
+          "normalized_text": "Overwatch2fan",
+          "probability": 0.8692,
+          "start": 126,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 82,
+          "start": 71,
+          "tag": "Overwatch2"
+        },
+        {
+          "end": 93,
+          "start": 83,
+          "tag": "Overwatch"
+        },
+        {
+          "end": 107,
+          "start": 94,
+          "tag": "OverwatchArt"
+        },
+        {
+          "end": 124,
+          "start": 108,
+          "tag": "OverwatchFanart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "944731796180291584",
+          "start": 3,
+          "username": "Wolfbounty1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999461076933738828",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999204545621078170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Wolfbounty1: Quack!\n\nWhich OverDuck will you get? Click to see! 🦆\n\n#Overwatch2 #Overwatch #OverwatchArt #OverwatchFanart #Overwatch2fan…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "16_1999201262139518979",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G76W9KhWsAMBgP8.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G76W9KhWsAMBgP8.mp4"
+          }
+        ],
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1999461076933738828",
+        "created_at": "2025-12-12T12:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T13:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999461076933738828"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "OverDuck",
+              "probability": 0.9345,
+              "start": 31,
+              "type": "Other"
+            },
+            {
+              "end": 81,
+              "normalized_text": "Overwatch2",
+              "probability": 0.82,
+              "start": 72,
+              "type": "Other"
+            },
+            {
+              "end": 92,
+              "normalized_text": "Overwatch",
+              "probability": 0.7845,
+              "start": 84,
+              "type": "Other"
+            },
+            {
+              "end": 106,
+              "normalized_text": "OverwatchArt",
+              "probability": 0.8697,
+              "start": 95,
+              "type": "Other"
+            },
+            {
+              "end": 123,
+              "normalized_text": "OverwatchFanart",
+              "probability": 0.8362,
+              "start": 109,
+              "type": "Other"
+            },
+            {
+              "end": 138,
+              "normalized_text": "Overwatch2fan",
+              "probability": 0.8692,
+              "start": 126,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 71,
+              "tag": "Overwatch2"
+            },
+            {
+              "end": 93,
+              "start": 83,
+              "tag": "Overwatch"
+            },
+            {
+              "end": 107,
+              "start": 94,
+              "tag": "OverwatchArt"
+            },
+            {
+              "end": 124,
+              "start": 108,
+              "tag": "OverwatchFanart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "944731796180291584",
+              "start": 3,
+              "username": "Wolfbounty1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999461076933738828",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999204545621078170",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Wolfbounty1: Quack!\n\nWhich OverDuck will you get? Click to see! 🦆\n\n#Overwatch2 #Overwatch #OverwatchArt #OverwatchFanart #Overwatch2fan…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1999201262139518979"
+          ]
+        },
+        "author_id": "944731796180291584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1999204545621078170",
+        "created_at": "2025-12-11T19:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T20:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999204545621078170"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "OverDuck",
+              "probability": 0.9587,
+              "start": 14,
+              "type": "Other"
+            },
+            {
+              "end": 64,
+              "normalized_text": "Overwatch2",
+              "probability": 0.8554,
+              "start": 55,
+              "type": "Other"
+            },
+            {
+              "end": 75,
+              "normalized_text": "Overwatch",
+              "probability": 0.8266,
+              "start": 67,
+              "type": "Other"
+            },
+            {
+              "end": 89,
+              "normalized_text": "OverwatchArt",
+              "probability": 0.8534,
+              "start": 78,
+              "type": "Other"
+            },
+            {
+              "end": 106,
+              "normalized_text": "OverwatchFanart",
+              "probability": 0.8471,
+              "start": 92,
+              "type": "Other"
+            },
+            {
+              "end": 124,
+              "normalized_text": "Overwatch2fanart",
+              "probability": 0.8206,
+              "start": 109,
+              "type": "Other"
+            },
+            {
+              "end": 129,
+              "normalized_text": "ow2",
+              "probability": 0.7434,
+              "start": 127,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 54,
+              "tag": "Overwatch2"
+            },
+            {
+              "end": 76,
+              "start": 66,
+              "tag": "Overwatch"
+            },
+            {
+              "end": 90,
+              "start": 77,
+              "tag": "OverwatchArt"
+            },
+            {
+              "end": 107,
+              "start": 91,
+              "tag": "OverwatchFanart"
+            },
+            {
+              "end": 125,
+              "start": 108,
+              "tag": "Overwatch2fanart"
+            },
+            {
+              "end": 130,
+              "start": 126,
+              "tag": "ow2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XKlGsOnsPI",
+              "end": 154,
+              "expanded_url": "https://x.com/Wolfbounty1/status/1999204545621078170/photo/1",
+              "media_key": "16_1999201262139518979",
+              "start": 131,
+              "url": "https://t.co/XKlGsOnsPI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999204545621078170",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 9218,
+          "like_count": 383,
+          "quote_count": 19,
+          "reply_count": 22,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "Quack!\n\nWhich OverDuck will you get? Click to see! 🦆\n\n#Overwatch2 #Overwatch #OverwatchArt #OverwatchFanart #Overwatch2fanart #ow2 https://t.co/XKlGsOnsPI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987482127756410880/kunx4knz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 3184,
+          "like_count": 26864,
+          "listed_count": 5,
+          "media_count": 1809,
+          "tweet_count": 25430
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-24T00:49:47.000Z",
+        "description": "Pfp by @slasharu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "slasharu"
+              }
+            ]
+          }
+        },
+        "id": "944731796180291584",
+        "name": "Wolf",
+        "pinned_tweet_id": "1998475722067685384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998215115796037632/Upb4gXv__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1625,
+          "following_count": 672,
+          "like_count": 117238,
+          "listed_count": 7,
+          "media_count": 2550,
+          "tweet_count": 20483
+        },
+        "username": "Wolfbounty1",
+        "verified": false
+      }
+    ]
+  }
+}

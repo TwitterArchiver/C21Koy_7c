@@ -1,0 +1,516 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "conversation_id": "1895777401696895391",
+    "created_at": "2025-03-01T10:05:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T11:05:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895777401696895391"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 130,
+          "normalized_text": "thangyu",
+          "probability": 0.4176,
+          "start": 124,
+          "type": "Other"
+        },
+        {
+          "end": 138,
+          "normalized_text": "SquidG",
+          "probability": 0.5269,
+          "start": 133,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 131,
+          "start": 123,
+          "tag": "thangyu"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "787832653034782720",
+          "start": 3,
+          "username": "TheRedKing666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895777401696895391",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895612383684673616",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheRedKing666: Matching thangyu icons! Feel free to use them (but please credit me and don't remove my signature) 😎😎\n.\n#thangyu #SquidG…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1895612379410415616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk6RamqXQAAPBr8.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1895612379729207296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk6Ran2XoAAXpng.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1895612379670429696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk6RanoWwAAKf9l.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "conversation_id": "1895777401696895391",
+        "created_at": "2025-03-01T10:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T11:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895777401696895391"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 130,
+              "normalized_text": "thangyu",
+              "probability": 0.4176,
+              "start": 124,
+              "type": "Other"
+            },
+            {
+              "end": 138,
+              "normalized_text": "SquidG",
+              "probability": 0.5269,
+              "start": 133,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 123,
+              "tag": "thangyu"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "787832653034782720",
+              "start": 3,
+              "username": "TheRedKing666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895777401696895391",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895612383684673616",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheRedKing666: Matching thangyu icons! Feel free to use them (but please credit me and don't remove my signature) 😎😎\n.\n#thangyu #SquidG…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895612379410415616",
+            "3_1895612379729207296",
+            "3_1895612379670429696"
+          ]
+        },
+        "author_id": "787832653034782720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1437413779755597824",
+              "name": "Squid Game"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281303495421784065",
+              "name": "Dark drama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1346749071000670209",
+              "name": "Korean series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1439901275856916484",
+              "name": "Squid Game"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1439901275856916484",
+              "name": "Squid Game"
+            }
+          }
+        ],
+        "conversation_id": "1895612383684673616",
+        "created_at": "2025-02-28T23:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T00:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895612383684673616"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "thangyu",
+              "probability": 0.3864,
+              "start": 9,
+              "type": "Person"
+            },
+            {
+              "end": 111,
+              "normalized_text": "thangyu",
+              "probability": 0.3906,
+              "start": 105,
+              "type": "Person"
+            },
+            {
+              "end": 122,
+              "normalized_text": "SquidGame",
+              "probability": 0.7248,
+              "start": 114,
+              "type": "Other"
+            },
+            {
+              "end": 134,
+              "normalized_text": "SquidGame2",
+              "probability": 0.7805,
+              "start": 125,
+              "type": "Other"
+            },
+            {
+              "end": 164,
+              "normalized_text": "namgyu",
+              "probability": 0.5758,
+              "start": 159,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 112,
+              "start": 104,
+              "tag": "thangyu"
+            },
+            {
+              "end": 123,
+              "start": 113,
+              "tag": "SquidGame"
+            },
+            {
+              "end": 135,
+              "start": 124,
+              "tag": "SquidGame2"
+            },
+            {
+              "end": 146,
+              "start": 136,
+              "tag": "player230"
+            },
+            {
+              "end": 157,
+              "start": 147,
+              "tag": "player124"
+            },
+            {
+              "end": 165,
+              "start": 158,
+              "tag": "namgyu"
+            },
+            {
+              "end": 173,
+              "start": 166,
+              "tag": "thanos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xVOyQ7gQOS",
+              "end": 197,
+              "expanded_url": "https://x.com/TheRedKing666/status/1895612383684673616/photo/1",
+              "media_key": "3_1895612379410415616",
+              "start": 174,
+              "url": "https://t.co/xVOyQ7gQOS"
+            },
+            {
+              "display_url": "pic.x.com/xVOyQ7gQOS",
+              "end": 197,
+              "expanded_url": "https://x.com/TheRedKing666/status/1895612383684673616/photo/1",
+              "media_key": "3_1895612379729207296",
+              "start": 174,
+              "url": "https://t.co/xVOyQ7gQOS"
+            },
+            {
+              "display_url": "pic.x.com/xVOyQ7gQOS",
+              "end": 197,
+              "expanded_url": "https://x.com/TheRedKing666/status/1895612383684673616/photo/1",
+              "media_key": "3_1895612379670429696",
+              "start": 174,
+              "url": "https://t.co/xVOyQ7gQOS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895612383684673616",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 3517,
+          "like_count": 599,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "Matching thangyu icons! Feel free to use them (but please credit me and don't remove my signature) 😎😎\n.\n#thangyu #SquidGame #SquidGame2 #player230 #player124 #namgyu #thanos https://t.co/xVOyQ7gQOS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 但是还算可以 懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890691451258126336/lPqKitsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 2984,
+          "like_count": 21951,
+          "listed_count": 2,
+          "media_count": 1274,
+          "tweet_count": 20691
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-17T01:48:36.000Z",
+        "description": "COMMISSIONS: OPEN ☆ don't follow if you're under 18 ☆\n24yo\n✩\nTW: blood/gore",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/_the.red.king/",
+                "end": 23,
+                "expanded_url": "http://instagram.com/_the.red.king/",
+                "start": 0,
+                "url": "https://t.co/O3ScGpWlHi"
+              }
+            ]
+          }
+        },
+        "id": "787832653034782720",
+        "name": "🔞◇Leo◇|| COMMIS OPEN",
+        "pinned_tweet_id": "1895129857287225779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787389208165838848/YZFvrav0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 1074,
+          "like_count": 7310,
+          "listed_count": 2,
+          "media_count": 344,
+          "tweet_count": 2589
+        },
+        "url": "https://t.co/O3ScGpWlHi",
+        "username": "TheRedKing666",
+        "verified": false
+      }
+    ]
+  }
+}

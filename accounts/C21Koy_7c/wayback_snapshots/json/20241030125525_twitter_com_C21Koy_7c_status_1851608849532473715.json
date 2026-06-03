@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1849739275828600832"
+      ],
+      "media_source_tweet_id": [
+        "1851549612189876666"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1851608849532473715",
+    "created_at": "2024-10-30T12:55:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T13:55:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851608849532473715"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 24,
+          "tag": "karlach"
+        },
+        {
+          "end": 37,
+          "start": 33,
+          "tag": "bg3"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1807337179942920193",
+          "start": 3,
+          "username": "gmowlbbami"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eIXqpVkC7z",
+          "end": 61,
+          "expanded_url": "https://x.com/gmowlbbami/status/1851549612189876666/video/1",
+          "media_key": "7_1849739275828600832",
+          "start": 38,
+          "url": "https://t.co/eIXqpVkC7z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851608849532473715",
+    "lang": "ko",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851549612189876666",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gmowlbbami: 띵동띵동👀\n \n#karlach #bg3 https://t.co/eIXqpVkC7z"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1851608849532473715].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1851608849532473715",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1851608849532473715"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16733,
+        "height": 1620,
+        "media_key": "7_1849739275828600832",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1849739275828600832/pu/img/-uo200RizZcZAaA2.jpg",
+        "public_metrics": {
+          "view_count": 93
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1849739275828600832/pu/vid/avc1/320x480/uwDybFFD840gShMS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1849739275828600832/pu/vid/avc1/480x720/gtQpmNj0YJ1xb4Q4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1849739275828600832/pu/vid/avc1/720x1080/rZvONnB1OL34M-Qz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1849739275828600832/pu/pl/I8HjWO6boT4NTy29.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1849739275828600832"
+          ]
+        },
+        "author_id": "1807337179942920193",
+        "conversation_id": "1851549612189876666",
+        "created_at": "2024-10-30T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851549612189876666"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 8,
+              "tag": "karlach"
+            },
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "bg3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eIXqpVkC7z",
+              "end": 45,
+              "expanded_url": "https://x.com/gmowlbbami/status/1851549612189876666/video/1",
+              "media_key": "7_1849739275828600832",
+              "start": 22,
+              "url": "https://t.co/eIXqpVkC7z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851549612189876666",
+        "lang": "ko",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 473,
+          "like_count": 26,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "띵동띵동👀\n \n#karlach #bg3 https://t.co/eIXqpVkC7z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫bi🏳️‍🌈/ they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT大概淡坑：COD/MK/恐影 不善表达 但是还算可以 请和我保持联络谢谢 尽力活着 我没恶意 我鼓起很大勇气才会评论你 lgbt+ GB GL大于BL BG 20+",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1850400060410093573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849238518457143296/KSYxwv47_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 2857,
+          "like_count": 20410,
+          "listed_count": 2,
+          "tweet_count": 17452
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T08:55:55.000Z",
+        "description": "게임하자여 🔕",
+        "id": "1807337179942920193",
+        "location": "발더스게이트 하수구 노숙자",
+        "name": "올빼미",
+        "pinned_tweet_id": "1832399635627028550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807338809551622144/csQyF8e9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 64,
+          "like_count": 2554,
+          "listed_count": 0,
+          "tweet_count": 5486
+        },
+        "username": "gmowlbbami",
+        "verified": false
+      }
+    ]
+  }
+}

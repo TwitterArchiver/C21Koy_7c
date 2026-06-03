@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1945200742375059456"
+      ],
+      "media_source_tweet_id": [
+        "1945200795890106701"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1945835443511279852",
+    "created_at": "2025-07-17T13:18:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T14:18:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945835443511279852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1806606645960867840",
+          "start": 3,
+          "username": "sh4rkles"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BzLC9DzIy0",
+          "end": 46,
+          "expanded_url": "https://x.com/sh4rkles/status/1945200795890106701/video/1",
+          "media_key": "13_1945200742375059456",
+          "start": 23,
+          "url": "https://t.co/BzLC9DzIy0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945835443511279852",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1413
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945200795890106701",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sh4rkles: Coquette https://t.co/BzLC9DzIy0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10333,
+        "height": 720,
+        "media_key": "13_1945200742375059456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1945200742375059456/img/iU7nhYx-dlJ3FFgN.jpg",
+        "public_metrics": {
+          "view_count": 69581
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945200742375059456/vid/avc1/320x270/z9h3uCUw5DIujXjv.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945200742375059456/vid/avc1/426x360/G0Jpe1m-2M_loHMK.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945200742375059456/vid/avc1/854x720/injRzKDNgW4caZh0.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1945200742375059456/pl/W8G2h6UDTJOgC63p.m3u8?tag=14&v=02b"
+          }
+        ],
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1945200742375059456"
+          ],
+          "media_source_tweet_id": [
+            "1945200795890106701"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1945835443511279852",
+        "created_at": "2025-07-17T13:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T14:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945835443511279852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806606645960867840",
+              "start": 3,
+              "username": "sh4rkles"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BzLC9DzIy0",
+              "end": 46,
+              "expanded_url": "https://x.com/sh4rkles/status/1945200795890106701/video/1",
+              "media_key": "13_1945200742375059456",
+              "start": 23,
+              "url": "https://t.co/BzLC9DzIy0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945835443511279852",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1413
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945200795890106701",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sh4rkles: Coquette https://t.co/BzLC9DzIy0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1945200742375059456"
+          ]
+        },
+        "author_id": "1806606645960867840",
+        "conversation_id": "1945200795890106701",
+        "created_at": "2025-07-15T19:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T20:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945200795890106701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BzLC9DzIy0",
+              "end": 32,
+              "expanded_url": "https://x.com/sh4rkles/status/1945200795890106701/video/1",
+              "media_key": "13_1945200742375059456",
+              "start": 9,
+              "url": "https://t.co/BzLC9DzIy0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945200795890106701",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4779,
+          "impression_count": 71130,
+          "like_count": 14893,
+          "quote_count": 19,
+          "reply_count": 57,
+          "retweet_count": 1413
+        },
+        "reply_settings": "everyone",
+        "text": "Coquette https://t.co/BzLC9DzIy0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 3025,
+          "like_count": 23584,
+          "listed_count": 3,
+          "media_count": 1479,
+          "tweet_count": 22723
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-28T08:34:03.000Z",
+        "description": "I'm a dog",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sh4rkle.straw.page",
+                "end": 23,
+                "expanded_url": "https://sh4rkle.straw.page",
+                "start": 0,
+                "url": "https://t.co/877DtTeu2b"
+              }
+            ]
+          }
+        },
+        "id": "1806606645960867840",
+        "location": "repost / art usage is fine ",
+        "name": "🕸꧁༒Val༒꧂🕸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936816317782278145/8cATjs15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28602,
+          "following_count": 28,
+          "like_count": 809,
+          "listed_count": 61,
+          "media_count": 124,
+          "tweet_count": 232
+        },
+        "url": "https://t.co/877DtTeu2b",
+        "username": "sh4rkles",
+        "verified": false
+      }
+    ]
+  }
+}

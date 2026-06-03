@@ -1,0 +1,689 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044801920",
+          "name": "Overwatch"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044801920",
+          "name": "Overwatch"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "1954637473038086268",
+    "created_at": "2025-08-10T20:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T21:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954637473038086268"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 119,
+          "normalized_text": "Ghost",
+          "probability": 0.8324,
+          "start": 115,
+          "type": "Other"
+        },
+        {
+          "end": 127,
+          "normalized_text": "Sombra",
+          "probability": 0.6662,
+          "start": 122,
+          "type": "Other"
+        },
+        {
+          "end": 138,
+          "normalized_text": "Overwatch",
+          "probability": 0.8546,
+          "start": 130,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 120,
+          "start": 114,
+          "tag": "Ghost"
+        },
+        {
+          "end": 128,
+          "start": 121,
+          "tag": "Sombra"
+        },
+        {
+          "end": 139,
+          "start": 129,
+          "tag": "Overwatch"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1595922709434728448",
+          "start": 3,
+          "username": "jacaxen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954637473038086268",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1649860230208012288",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jacaxen: Okay, If am putting them in the same room together... Who do you think will run away in tears first?\n#Ghost #Sombra #Overwatch…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 490,
+        "media_key": "3_1649860153645187072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FuV7EYMXwAAqq6H.jpg",
+        "width": 871
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1954637473038086268",
+        "created_at": "2025-08-10T20:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T21:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954637473038086268"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 119,
+              "normalized_text": "Ghost",
+              "probability": 0.8324,
+              "start": 115,
+              "type": "Other"
+            },
+            {
+              "end": 127,
+              "normalized_text": "Sombra",
+              "probability": 0.6662,
+              "start": 122,
+              "type": "Other"
+            },
+            {
+              "end": 138,
+              "normalized_text": "Overwatch",
+              "probability": 0.8546,
+              "start": 130,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 120,
+              "start": 114,
+              "tag": "Ghost"
+            },
+            {
+              "end": 128,
+              "start": 121,
+              "tag": "Sombra"
+            },
+            {
+              "end": 139,
+              "start": 129,
+              "tag": "Overwatch"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1595922709434728448",
+              "start": 3,
+              "username": "jacaxen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954637473038086268",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1649860230208012288",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jacaxen: Okay, If am putting them in the same room together... Who do you think will run away in tears first?\n#Ghost #Sombra #Overwatch…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1649860153645187072"
+          ]
+        },
+        "author_id": "1595922709434728448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027933222",
+              "name": "Call of Duty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027933222",
+              "name": "Call of Duty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1649860230208012288",
+        "created_at": "2023-04-22T19:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-22T20:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1649860230208012288"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 106,
+              "normalized_text": "Ghost",
+              "probability": 0.7676,
+              "start": 102,
+              "type": "Other"
+            },
+            {
+              "end": 114,
+              "normalized_text": "Sombra",
+              "probability": 0.6647,
+              "start": 109,
+              "type": "Other"
+            },
+            {
+              "end": 125,
+              "normalized_text": "Overwatch",
+              "probability": 0.8494,
+              "start": 117,
+              "type": "Other"
+            },
+            {
+              "end": 131,
+              "normalized_text": "MWII",
+              "probability": 0.8317,
+              "start": 128,
+              "type": "Other"
+            },
+            {
+              "end": 136,
+              "normalized_text": "MW2",
+              "probability": 0.9152,
+              "start": 134,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 107,
+              "start": 101,
+              "tag": "Ghost"
+            },
+            {
+              "end": 115,
+              "start": 108,
+              "tag": "Sombra"
+            },
+            {
+              "end": 126,
+              "start": 116,
+              "tag": "Overwatch"
+            },
+            {
+              "end": 132,
+              "start": 127,
+              "tag": "MWII"
+            },
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "MW2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ST3RUk0Dd",
+              "end": 161,
+              "expanded_url": "https://x.com/jacaxen/status/1649860230208012288/photo/1",
+              "media_key": "3_1649860153645187072",
+              "start": 138,
+              "url": "https://t.co/1ST3RUk0Dd"
+            },
+            {
+              "display_url": "x.com/jacaxen/status…",
+              "end": 185,
+              "expanded_url": "https://twitter.com/jacaxen/status/1649528616999346179",
+              "start": 162,
+              "url": "https://t.co/5oxG50No2C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1649860230208012288",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 6524,
+          "like_count": 284,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1649528616999346179",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Okay, If am putting them in the same room together... Who do you think will run away in tears first?\n#Ghost #Sombra #Overwatch #MWII #MW2 https://t.co/1ST3RUk0Dd https://t.co/5oxG50No2C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953486936422912000/qZREob8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 3045,
+          "like_count": 24006,
+          "listed_count": 3,
+          "media_count": 1506,
+          "tweet_count": 23081
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T23:30:10.000Z",
+        "description": "Jaca/Jaco,\nMULTIFANDOM - (COD: Ghosts, R6S, ME),\nfull SFW, \nMinor,\ncredit me,\nDM's open,  \n❗⚠️ (DONT sexualise my art, no suggestive cmmnts) | 🍉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jacaxen.straw.page",
+                "end": 23,
+                "expanded_url": "https://jacaxen.straw.page",
+                "start": 0,
+                "url": "https://t.co/mnaToYS7DL"
+              }
+            ]
+          }
+        },
+        "id": "1595922709434728448",
+        "location": "he/it/they, minor, GMT +2",
+        "name": "Jaca (team crystals) 🎉🎉🏳️‍🌈 comms closed",
+        "pinned_tweet_id": "1939499760408297752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929140340440625152/bG_3l6ui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13974,
+          "following_count": 555,
+          "like_count": 79787,
+          "listed_count": 39,
+          "media_count": 8844,
+          "tweet_count": 27711
+        },
+        "url": "https://t.co/mnaToYS7DL",
+        "username": "jacaxen",
+        "verified": false
+      }
+    ]
+  }
+}

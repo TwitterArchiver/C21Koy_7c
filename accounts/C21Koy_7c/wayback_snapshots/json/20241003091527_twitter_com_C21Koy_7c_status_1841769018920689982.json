@@ -1,0 +1,128 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1841768995688742913",
+        "3_1841768995680354307"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1841769018920689982",
+    "created_at": "2024-10-03T09:15:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T10:15:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1841769018920689982"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 14,
+          "start": 11,
+          "tag": "sh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/llBsR3HnXc",
+          "end": 38,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1841769018920689982/photo/1",
+          "media_key": "3_1841768995688742913",
+          "start": 15,
+          "url": "https://t.co/llBsR3HnXc"
+        },
+        {
+          "display_url": "pic.x.com/llBsR3HnXc",
+          "end": 38,
+          "expanded_url": "https://x.com/C21Koy_7c/status/1841769018920689982/photo/1",
+          "media_key": "3_1841768995680354307",
+          "start": 15,
+          "url": "https://t.co/llBsR3HnXc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841769018920689982",
+    "lang": "und",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🪽❤️🪽( ^ω^ )#sh https://t.co/llBsR3HnXc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1841769018920689982].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1841769018920689982",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1841769018920689982"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2475,
+        "media_key": "3_1841768995688742913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GY9HJLpbAAESVm4.jpg",
+        "width": 1179
+      },
+      {
+        "height": 4032,
+        "media_key": "3_1841768995680354307",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GY9HJLnbAAM2L3A.jpg",
+        "width": 3024
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW shtwt🚫 they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT大概淡坑：COD/MK/恐影 不善表达 但是还算nice 请和我保持联络谢谢",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1787381657340883290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839204245423403008/lGS1aYqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 2813,
+          "like_count": 19990,
+          "listed_count": 3,
+          "tweet_count": 15955
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      }
+    ]
+  }
+}

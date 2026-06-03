@@ -1,0 +1,153 @@
+{
+  "data": {
+    "author_id": "1452123941686976519",
+    "conversation_id": "1847671198655926701",
+    "created_at": "2024-10-19T16:08:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-19T17:08:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847671198655926701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1216171965544910850",
+          "start": 3,
+          "username": "GhostfaceTalks_"
+        }
+      ]
+    },
+    "id": "1847671198655926701",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3200
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847354504716394816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GhostfaceTalks_: i see you"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1452123941686976519",
+        "conversation_id": "1847671198655926701",
+        "created_at": "2024-10-19T16:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T17:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847671198655926701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1216171965544910850",
+              "start": 3,
+              "username": "GhostfaceTalks_"
+            }
+          ]
+        },
+        "id": "1847671198655926701",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3200
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847354504716394816",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GhostfaceTalks_: i see you"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人女 会突然产出想法 GB GL大于BL BG 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦鸦臀肉",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853390447168921600/rc6MWWGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 2924,
+          "like_count": 20697,
+          "listed_count": 2,
+          "media_count": 1110,
+          "tweet_count": 18370
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-12T01:36:14.000Z",
+        "description": "Killing since 1996. Stabbing enthusiast. The Icon of Halloween. #ScreamVI - Now on Disc, Digital & Paramount+",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 64,
+                "tag": "ScreamVI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "screammovie.com",
+                "end": 23,
+                "expanded_url": "https://www.screammovie.com/",
+                "start": 0,
+                "url": "https://t.co/FphZQzF6sp"
+              }
+            ]
+          }
+        },
+        "id": "1216171965544910850",
+        "location": "New York",
+        "name": "Ghostface",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486800409033326600/eD2GAjjt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259858,
+          "following_count": 75,
+          "like_count": 10674,
+          "listed_count": 212,
+          "media_count": 684,
+          "tweet_count": 1307
+        },
+        "url": "https://t.co/FphZQzF6sp",
+        "username": "GhostfaceTalks_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1905188765313966080"
+      ],
+      "media_source_tweet_id": [
+        "1905188834175836324"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "conversation_id": "1905355633605611987",
+    "created_at": "2025-03-27T20:25:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T21:25:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905355633605611987"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "DEATHROW",
+          "probability": 0.6837,
+          "start": 15,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1477174351728607236",
+          "start": 3,
+          "username": "JIR0_JIRO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yY8YJ8Tpvs",
+          "end": 53,
+          "expanded_url": "https://x.com/JIR0_JIRO/status/1905188834175836324/video/1",
+          "media_key": "13_1905188765313966080",
+          "start": 30,
+          "url": "https://t.co/yY8YJ8Tpvs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905355633605611987",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 485
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905188834175836324",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JIR0_JIRO: DEATHROW meme😎 https://t.co/yY8YJ8Tpvs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12800,
+        "height": 720,
+        "media_key": "13_1905188765313966080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1905188765313966080/img/erZfc-UJIxFh6r6M.jpg",
+        "public_metrics": {
+          "view_count": 27319
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1905188765313966080/vid/avc1/480x270/YQcGKFiQHw30uQX8.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1905188765313966080/vid/avc1/640x360/ETMFE-G6Y8JKX4F5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1905188765313966080/vid/avc1/1280x720/QQsVBmnw2OQVK_O4.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1905188765313966080/pl/GahIpSa77F6mnGeL.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1905188765313966080"
+          ],
+          "media_source_tweet_id": [
+            "1905188834175836324"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1905355633605611987",
+        "created_at": "2025-03-27T20:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T21:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905355633605611987"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "DEATHROW",
+              "probability": 0.6837,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1477174351728607236",
+              "start": 3,
+              "username": "JIR0_JIRO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yY8YJ8Tpvs",
+              "end": 53,
+              "expanded_url": "https://x.com/JIR0_JIRO/status/1905188834175836324/video/1",
+              "media_key": "13_1905188765313966080",
+              "start": 30,
+              "url": "https://t.co/yY8YJ8Tpvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905355633605611987",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 485
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905188834175836324",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JIR0_JIRO: DEATHROW meme😎 https://t.co/yY8YJ8Tpvs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1905188765313966080"
+          ]
+        },
+        "author_id": "1477174351728607236",
+        "conversation_id": "1905188834175836324",
+        "created_at": "2025-03-27T09:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T10:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905188834175836324"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "DEATHROW",
+              "probability": 0.7768,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yY8YJ8Tpvs",
+              "end": 38,
+              "expanded_url": "https://x.com/JIR0_JIRO/status/1905188834175836324/video/1",
+              "media_key": "13_1905188765313966080",
+              "start": 15,
+              "url": "https://t.co/yY8YJ8Tpvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905188834175836324",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1375,
+          "impression_count": 67558,
+          "like_count": 5692,
+          "quote_count": 24,
+          "reply_count": 3,
+          "retweet_count": 485
+        },
+        "reply_settings": "everyone",
+        "text": "DEATHROW meme😎 https://t.co/yY8YJ8Tpvs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH 20+警告⚠️ / they/不善表达 但是还算可以 懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890691451258126336/lPqKitsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 2994,
+          "like_count": 22333,
+          "listed_count": 3,
+          "media_count": 1312,
+          "tweet_count": 21261
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T07:06:40.000Z",
+        "description": "創作と動画 FA #ジロジロ見やがれ contact/jiro46ghost@gmail.com/ skeb https://t.co/WJMPHtvhyv",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 9,
+                "tag": "ジロジロ見やがれ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@JIR0_JIRO",
+                "end": 78,
+                "expanded_url": "https://skeb.jp/@JIR0_JIRO",
+                "start": 55,
+                "url": "https://t.co/WJMPHtvhyv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/1DHH7J6OVYcw…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/1DHH7J6OVYcwcoGB3D9O6aS3K8E2",
+                "start": 0,
+                "url": "https://t.co/SEnT6kW2BR"
+              }
+            ]
+          }
+        },
+        "id": "1477174351728607236",
+        "location": "ゲーム制作中",
+        "name": "JIRO",
+        "pinned_tweet_id": "1900088510163673340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774926860172050433/QE8edsoE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2726,
+          "following_count": 32,
+          "like_count": 27848,
+          "listed_count": 18,
+          "media_count": 629,
+          "tweet_count": 11876
+        },
+        "url": "https://t.co/SEnT6kW2BR",
+        "username": "JIR0_JIRO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924835029018161152"
+      ],
+      "media_source_tweet_id": [
+        "1924835032377770489"
+      ]
+    },
+    "author_id": "1452123941686976519",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1925194356329431263",
+    "created_at": "2025-05-21T14:17:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T15:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925194356329431263"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "Infantry",
+          "probability": 0.4842,
+          "start": 13,
+          "type": "Other"
+        },
+        {
+          "end": 45,
+          "normalized_text": "Transformers Blind Box",
+          "probability": 0.8142,
+          "start": 24,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "29113838",
+          "start": 3,
+          "username": "tfw2005"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Watch brand Infantry have teamed up with Transformers for a new collaboration: Infantry x Transformers Blind Box Watches. These are Transformers-themed chronograph wrist watches which are packaged in blind boxes. There are 6 models available. You can order them via Infantry website for $60.00...",
+          "display_url": "news.tfw2005.com/2025/05/20/inf…",
+          "end": 78,
+          "expanded_url": "https://news.tfw2005.com/2025/05/20/infantry-x-transformers-blind-box-watches-538258",
+          "images": [
+            {
+              "height": 2000,
+              "url": "https://pbs.twimg.com/news_img/1924835076950654976/8-72bJ4c?format=jpg&name=orig",
+              "width": 2000
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1924835076950654976/8-72bJ4c?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 55,
+          "status": 200,
+          "title": "Infantry x Transformers Blind Box Watches",
+          "unwound_url": "https://news.tfw2005.com/2025/05/20/infantry-x-transformers-blind-box-watches-538258",
+          "url": "https://t.co/diwIOoercY"
+        },
+        {
+          "display_url": "pic.x.com/mayhIJPuGk",
+          "end": 102,
+          "expanded_url": "https://x.com/tfw2005/status/1924835032377770489/photo/1",
+          "media_key": "3_1924835029018161152",
+          "start": 79,
+          "url": "https://t.co/mayhIJPuGk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925194356329431263",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 117
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924835032377770489",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tfw2005: Infantry x Transformers Blind Box Watches https://t.co/diwIOoercY https://t.co/mayhIJPuGk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1924835029018161152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrZjQrvbMAAuudp.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924835029018161152"
+          ],
+          "media_source_tweet_id": [
+            "1924835032377770489"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1925194356329431263",
+        "created_at": "2025-05-21T14:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T15:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925194356329431263"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Infantry",
+              "probability": 0.4842,
+              "start": 13,
+              "type": "Other"
+            },
+            {
+              "end": 45,
+              "normalized_text": "Transformers Blind Box",
+              "probability": 0.8142,
+              "start": 24,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "29113838",
+              "start": 3,
+              "username": "tfw2005"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Watch brand Infantry have teamed up with Transformers for a new collaboration: Infantry x Transformers Blind Box Watches. These are Transformers-themed chronograph wrist watches which are packaged in blind boxes. There are 6 models available. You can order them via Infantry website for $60.00...",
+              "display_url": "news.tfw2005.com/2025/05/20/inf…",
+              "end": 78,
+              "expanded_url": "https://news.tfw2005.com/2025/05/20/infantry-x-transformers-blind-box-watches-538258",
+              "images": [
+                {
+                  "height": 2000,
+                  "url": "https://pbs.twimg.com/news_img/1924835076950654976/8-72bJ4c?format=jpg&name=orig",
+                  "width": 2000
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1924835076950654976/8-72bJ4c?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 55,
+              "status": 200,
+              "title": "Infantry x Transformers Blind Box Watches",
+              "unwound_url": "https://news.tfw2005.com/2025/05/20/infantry-x-transformers-blind-box-watches-538258",
+              "url": "https://t.co/diwIOoercY"
+            },
+            {
+              "display_url": "pic.x.com/mayhIJPuGk",
+              "end": 102,
+              "expanded_url": "https://x.com/tfw2005/status/1924835032377770489/photo/1",
+              "media_key": "3_1924835029018161152",
+              "start": 79,
+              "url": "https://t.co/mayhIJPuGk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925194356329431263",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 117
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924835032377770489",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tfw2005: Infantry x Transformers Blind Box Watches https://t.co/diwIOoercY https://t.co/mayhIJPuGk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924835029018161152"
+          ]
+        },
+        "author_id": "29113838",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1924835032377770489",
+        "created_at": "2025-05-20T14:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T15:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924835032377770489"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "Infantry",
+              "probability": 0.4874,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 32,
+              "normalized_text": "Transformers Blind Box",
+              "probability": 0.8162,
+              "start": 11,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Watch brand Infantry have teamed up with Transformers for a new collaboration: Infantry x Transformers Blind Box Watches. These are Transformers-themed chronograph wrist watches which are packaged in blind boxes. There are 6 models available. You can order them via Infantry website for $60.00...",
+              "display_url": "news.tfw2005.com/2025/05/20/inf…",
+              "end": 65,
+              "expanded_url": "https://news.tfw2005.com/2025/05/20/infantry-x-transformers-blind-box-watches-538258",
+              "images": [
+                {
+                  "height": 2000,
+                  "url": "https://pbs.twimg.com/news_img/1924835076950654976/8-72bJ4c?format=jpg&name=orig",
+                  "width": 2000
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1924835076950654976/8-72bJ4c?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 42,
+              "status": 200,
+              "title": "Infantry x Transformers Blind Box Watches",
+              "unwound_url": "https://news.tfw2005.com/2025/05/20/infantry-x-transformers-blind-box-watches-538258",
+              "url": "https://t.co/diwIOoercY"
+            },
+            {
+              "display_url": "pic.x.com/mayhIJPuGk",
+              "end": 89,
+              "expanded_url": "https://x.com/tfw2005/status/1924835032377770489/photo/1",
+              "media_key": "3_1924835029018161152",
+              "start": 66,
+              "url": "https://t.co/mayhIJPuGk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924835032377770489",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 16151,
+          "like_count": 448,
+          "quote_count": 35,
+          "reply_count": 5,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "Infantry x Transformers Blind Box Watches https://t.co/diwIOoercY https://t.co/mayhIJPuGk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我yan｜肉鸦都可以 不会外语翻译器OK",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 3016,
+          "like_count": 23073,
+          "listed_count": 3,
+          "media_count": 1398,
+          "tweet_count": 22084
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-06T01:25:07.000Z",
+        "description": "https://t.co/FWmBFej8DW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "TFW2005.COM",
+                "end": 23,
+                "expanded_url": "http://TFW2005.COM",
+                "start": 0,
+                "url": "https://t.co/FWmBFej8DW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfw2005.com",
+                "end": 23,
+                "expanded_url": "http://www.tfw2005.com",
+                "start": 0,
+                "url": "https://t.co/RhDzbPT7Hq"
+              }
+            ]
+          }
+        },
+        "id": "29113838",
+        "location": "The Internet",
+        "name": "TFW2005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/123892452/tfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48247,
+          "following_count": 34,
+          "like_count": 44,
+          "listed_count": 336,
+          "media_count": 19042,
+          "tweet_count": 35402
+        },
+        "url": "https://t.co/RhDzbPT7Hq",
+        "username": "tfw2005",
+        "verified": false
+      }
+    ]
+  }
+}
