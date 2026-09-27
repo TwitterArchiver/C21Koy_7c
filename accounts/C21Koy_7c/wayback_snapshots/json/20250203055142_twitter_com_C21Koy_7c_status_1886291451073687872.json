@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1452123941686976519",
+    "conversation_id": "1886283255285977537",
+    "created_at": "2025-02-03T05:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T06:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886291451073687872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1622511426215755777",
+          "start": 0,
+          "username": "dntuxngjihuxng1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886291451073687872",
+    "in_reply_to_user_id": "1622511426215755777",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886283255285977537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dntuxngjihuxng1 哇！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "conversation_id": "1886283255285977537",
+        "created_at": "2025-02-03T05:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T06:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886291451073687872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1622511426215755777",
+              "start": 0,
+              "username": "dntuxngjihuxng1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886291451073687872",
+        "in_reply_to_user_id": "1622511426215755777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886283255285977537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dntuxngjihuxng1 哇！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886283251066474496"
+          ]
+        },
+        "author_id": "1622511426215755777",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1886283255285977537",
+        "created_at": "2025-02-03T05:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T06:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886283255285977537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1885796828546822144/Dt7tm4Pe?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1885796828546822144/Dt7tm4Pe?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/hNGjGy4ky4"
+            },
+            {
+              "display_url": "pic.x.com/IEQoxLJkfC",
+              "end": 64,
+              "expanded_url": "https://x.com/dntuxngjihuxng1/status/1886283255285977537/photo/1",
+              "media_key": "3_1886283251066474496",
+              "start": 41,
+              "url": "https://t.co/IEQoxLJkfC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886283255285977537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/hNGjGy4ky4 https://t.co/IEQoxLJkfC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH! 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影/三国 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人爱好者 会突然产出想法 BL吃的比其他少 但是会吃 是成年账户",
+        "id": "1452123941686976519",
+        "name": "鸦肉臀臀",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885384535879409667/UEQG5lqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 2964,
+          "like_count": 21208,
+          "listed_count": 2,
+          "media_count": 1179,
+          "tweet_count": 19639
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T08:24:40.000Z",
+        "description": "我是蛆男，建议不要找我聊天😸😸",
+        "id": "1622511426215755777",
+        "name": "想成为人类",
+        "pinned_tweet_id": "1886065611383755021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886278029586153472/s2RFaLIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 430,
+          "like_count": 4972,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 4478
+        },
+        "username": "dntuxngjihuxng1",
+        "verified": false
+      }
+    ]
+  }
+}
